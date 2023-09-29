@@ -13,19 +13,22 @@ The Space library of tales wants to avoid that as per the following points:
 5. It is all written in markdown, as easy as it can get.
 
 ### The library's structure
-Authors and contests will have a dedicated page from which to reach the fiction itself.
-A stands for Author
-C stands for Contest
+Authors and contests have a dedicated page, visible on the left, where you can find all the related fiction. A stands for Author, C stands for Contest.
 
+- Author present: 1
+- Contest present: 0
 
 ### The project going forward
 To do:
+
  - [ ] Tweak and finalize the library itself
- - [ ] Night mode/light mode
+    - [ ] Theme
+    - [ ] Night mode/light mode
+    - [ ] Last updated plugin
  - [ ] Keep on adding more fiction
  - [ ] Add contests like the Pod & Planet
 
-Last updated: *{{ git_revision_date_localized }}*
+Last updated: September 2023
 
 
 ### Acknoledgements
