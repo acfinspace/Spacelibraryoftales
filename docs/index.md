@@ -25,7 +25,8 @@ To do:
  - [ ] Keep on adding more fiction
  - [ ] Add contests like the Pod & Planet
 
-Last update: 
+Last updated: *{{ git_revision_date_localized }}*
+
 
 ### Acknoledgements
 Thank you [Voshun archive](https://voshun.pages.dev/) for the idea and the technology.
