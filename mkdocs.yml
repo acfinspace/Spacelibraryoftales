@@ -1,0 +1,30 @@
+site_name: Space library of tales
+nav:
+  - Home: index.md
+  - A Miyoshi Akachi: miyoshiakachi.md
+  - C 1: contest1.md
+  - Tags: tags.md
+
+markdown_extensions:
+  - def_list
+  - pymdownx.tasklist:
+      custom_checkbox: true
+
+theme:
+  name: material
+  palette:
+      primary: cyan
+      accent: blue
+
+features:
+  - search.suggest
+  - search.highlight
+  - navigation.path
+  - navigation.top
+
+plugins:
+  - search
+  - tags:
+      tags_file: tags.md
+
+
