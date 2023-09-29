@@ -26,5 +26,11 @@ plugins:
   - search
   - tags:
       tags_file: tags.md
+  - git-revision-date-localized
 
+
+extra:
+  analytics:
+    provider: google
+    property: G-77VR86ZY08
 

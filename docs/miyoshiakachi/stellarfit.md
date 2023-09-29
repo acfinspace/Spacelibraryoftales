@@ -8,6 +8,7 @@ tags:
 
 > I imagined a Gallente commercial about a fitness tool; any reference to the 80s is purely casual (or maybe not).
 
+![StellarFit](./StellarFit-logo.jpg)
 
 The video screen flickers to life, going from a matte black to frame a woman under bright lights.
 
