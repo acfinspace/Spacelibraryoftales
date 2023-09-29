@@ -15,19 +15,17 @@ theme:
   palette:
       primary: cyan
       accent: blue
-
-features:
-  - search.suggest
-  - search.highlight
-  - navigation.path
-  - navigation.top
+  features:
+    - search.suggest
+    - search.highlight
+    - navigation.path
+    - navigation.top
 
 plugins:
   - search
+  - git-revision-date-localized
   - tags:
       tags_file: tags.md
-  - git-revision-date-localized
-
 
 extra:
   analytics:
