@@ -2,7 +2,7 @@
 
 *The Space library of tales, a repository of EvE Online fan fiction.*
 
-The idea: to build a lasting repository of fan fiction written inside the world of EvE Online. Forums come and go and what it had been written there disappears as their hosts are gone, being relegated to the Time Machine (if it gets there).
+The idea: to build a lasting repository of fan fiction, both prose and poetry, written inside the world of EvE Online. Forums come and go and what it had been written there disappears as their hosts are gone, ending up relegated to the Time Machine.
 
 The Space library of tales wants to avoid that as per the following points:
 
@@ -10,13 +10,18 @@ The Space library of tales wants to avoid that as per the following points:
 2. It is hosted through a public repository, thus people can contribute and help the project grow.
 3. It runs on open source technologies (Mkdocs, Material for Mkdocs) used in other fields as well.
 4. In the case I don't want to maintain the repository anymore, the repo can be transfered/copied.
-5. It is all written in markdown, as easy as it can get.
+5. It is all written in markdown, as easy and lightweight as it can get.
+
+If you want to contribute, you can:
+
+- Add a page yourself through a pull request
+- Shoot me a message on Discord, at miyoshiakachi
 
 ### The library's structure
-Authors and contests have a dedicated page, visible on the left, where you can find all the related fiction. A stands for Author, C stands for Contest.
+Authors and contests have a dedicated page, visible on the left, where you can find all the related content. A stands for Author, C stands for Contest. At the moment we have:
 
-- Author present: 1
-- Contest present: 0
+- Authors: 1
+- Contests: 0
 
 ### The project going forward
 To do:
@@ -26,7 +31,12 @@ To do:
     - [ ] Night mode/light mode
     - [ ] Last updated plugin
  - [ ] Keep on adding more fiction
- - [ ] Add contests like the Pod & Planet
+    - [ ] Miyoshi Akachi
+    - [ ] Others
+ - [ ] Add contests
+    - [ ] Pod & Planet
+    - [ ] New Eden Capsuleer Contest
+    - [ ] Love contest
 
 Last updated: September 2023
 

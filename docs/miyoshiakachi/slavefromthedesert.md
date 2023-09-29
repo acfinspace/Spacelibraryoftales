@@ -2,6 +2,7 @@
 tags:
   - Amarr
   - Slavery
+  - Prose
 ---
 
 # Slave from the desert

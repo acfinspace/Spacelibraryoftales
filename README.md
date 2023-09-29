@@ -1,2 +1,3 @@
 # Spacelibraryoftales
-Space library of tales: a repository of fan fiction set in EvE Online
+*The Space library of tales, a repository of EvE Online fan fiction.*
+
