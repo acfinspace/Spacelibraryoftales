@@ -1,3 +1,11 @@
+---
+tags:
+  - Prose
+  - Pirate
+  - Minmatar
+---
+
+
 # A free agent life
 
 > Present and past (in italic) alternates in the tale of a Capsuleer.
