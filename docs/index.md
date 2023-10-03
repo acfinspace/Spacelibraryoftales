@@ -12,13 +12,17 @@ The Space library of tales wants to avoid that as per the following points:
 4. In the case I don't want to maintain the repository anymore, the repo can be transfered/copied.
 5. It is all written in markdown, as easy and lightweight as it can get.
 
+### How to contribute
+
 If you want to contribute, you can:
 
-- Add a page yourself through a pull request
+- Add a page yourself through a pull request.
+    - One page per piece, named with the piece title all together and in small characters (es.: The Interview becomes theinterview.md)
+    - The pieces are to be put into a folder with the author's name all together and in small characters (es.: Miyoshi Akachi becomes miyoshiakachi)
 - Shoot me a message on Discord, at miyoshiakachi
 
 ### The library's structure
-Authors and contests have a dedicated page, visible on the left, where you can find all the related content. A stands for Author, C stands for Contest. At the moment we have:
+Authors and contests have a dedicated page, visible on the left, where you can find all the related content. At the moment we have:
 
 - Authors: 1
 - Contests: 0
