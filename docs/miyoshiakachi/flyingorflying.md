@@ -1,6 +1,8 @@
 ---
 tags:
   - Prose
+  - MiyoshiAkachi
+  - NewEdenCapsuleersWritingContestYC119
 ---
 
 # Flying or Flying

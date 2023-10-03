@@ -2,6 +2,8 @@
 tags:
   - Prose
   - Minmatar
+  - MiyoshiAkachi
+  - PodandPlanetYC119
 ---
 
 # Abduction

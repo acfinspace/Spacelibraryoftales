@@ -2,6 +2,8 @@
 tags:
   - Prose
   - Gallente
+  - MiyoshiAkachi
+  - PodandPlanetYC119
 ---
 
 # Women's best companion

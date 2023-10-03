@@ -1,7 +1,7 @@
 site_name: Space library of tales
 nav:
   - Home: index.md
-  - A Miyoshi Akachi: miyoshiakachi.md
+  - Miyoshi Akachi: miyoshiakachi.md
   - C 1: contest1.md
   - Tags: tags.md
 

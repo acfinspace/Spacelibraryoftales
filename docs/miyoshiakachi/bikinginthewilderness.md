@@ -1,6 +1,8 @@
 ---
 tags:
   - Prose
+  - MiyoshiAkachi
+  - NewEdenCapsuleersWritingContestYC119
 ---
 
 # Biking in the wilderness

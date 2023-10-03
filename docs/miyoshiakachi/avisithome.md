@@ -1,11 +1,13 @@
 ---
 tags:
   - Prose
+  - MiyoshiAkachi
+  - PodandPlanetYC119
 ---
 
 # A visit home
 
-> Entry for the Pod and Planet Contest in the A Day in the Life category.
+> Entry for the YC 119 Pod and Planet Contest in the A Day in the Life category.
 
 "Why don't we go visit your planet? How is called? Saisio?" Syn asked one evening while they were enjoying each other’s company in their apartment on top of the spires. Miyo had smiled "Well we could..." she wasn't feeling much. It had been a while since she had visited her parents.
 

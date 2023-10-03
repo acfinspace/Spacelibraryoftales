@@ -1,6 +1,8 @@
 ---
 tags:
   - Poetry
+  - MiyoshiAkachi
+  - AmoreTankYourHearts
 ---
 
 # Love, before and now

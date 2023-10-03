@@ -2,6 +2,8 @@
 tags:
   - Wormhole 
   - Prose
+  - MiyoshiAkachi
+  - NewEdenCapsuleersWritingContestYC118
 ---
 
 # The Interview

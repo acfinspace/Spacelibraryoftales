@@ -3,6 +3,8 @@ tags:
   - Amarr
   - Slavery
   - Prose
+  - MiyoshiAkachi
+  - JustAbout
 ---
 
 # Slave from the desert

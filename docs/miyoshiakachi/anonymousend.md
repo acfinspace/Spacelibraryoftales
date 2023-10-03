@@ -1,6 +1,8 @@
 ---
 tags:
   - Prose
+  - MiyoshiAkachi
+  - NewEdenCapsuleersWritingContestYC121
 ---
 
 # Anonymous End

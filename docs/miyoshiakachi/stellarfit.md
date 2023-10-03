@@ -2,12 +2,14 @@
 tags:
   - Gallente
   - Prose
+  - MiyoshiAkachi
+  - NewEdenCapsuleersWritingContestYC125
 ---
 
 
-# StellarFit
+# Stellar Fit OG 3000 
 
-> I imagined a Gallente commercial about a fitness tool; any reference to the 80s is purely casual (or maybe not).
+> I imagined a Gallente commercial about a fitness tool; any reference to the 80s is purely casual (or maybe not). Entry for New Eden Capsuleer's Writing Contest YC125.
 
 ![StellarFit](./StellarFit-logo.jpg)
 

@@ -2,6 +2,8 @@
 tags:
   - Prose
   - Gallente
+  - MiyoshiAkachi
+  - PodandPlanetYC119
 ---
 
 # Let me show you the world in my eyes
