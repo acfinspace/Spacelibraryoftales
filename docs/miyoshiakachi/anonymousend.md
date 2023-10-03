@@ -7,7 +7,7 @@ tags:
 
 # Anonymous End
 
-> Entry for YC 121 New Eden Capsuleer’s Writing Contest Entry.
+> Entry for YC121 New Eden Capsuleer’s Writing Contest Entry.
 
 
 An anonymous file made its appearance in the virtual space of the Intergalactic Summit. No hint of its origin and creator; whoever created it made sure there was hardly anything to follow up.

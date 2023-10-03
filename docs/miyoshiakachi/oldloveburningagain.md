@@ -7,7 +7,7 @@ tags:
 
 # Old love, burning again
 
-> Entry for the YC 118 Pod and Planet Contest in the Eight Thousand Suns in New Eden category.
+> Entry for the YC118 Pod and Planet Contest in the Eight Thousand Suns in New Eden category.
 
 Jita 4-4, the biggest trading hub of all New Eden. You want to buy something? Jita is the place. You want to sell something? Jita is the place. An endless flow of freighters and ship keeps coming and going from Jita 4-4, at every hour of the day, there is a never ending activity on the docs, with goods coming and going.
 

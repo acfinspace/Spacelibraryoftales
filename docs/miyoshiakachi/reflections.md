@@ -7,7 +7,7 @@ tags:
 
 # Reflections
 
-> Entry for the YC 119 New Eden Capsuleer Writing Contest for the Poetry category.
+> Entry for the YC119 New Eden Capsuleer Writing Contest for the Poetry category.
 
 I see myself, the man of flesh
 I see the capsuleer

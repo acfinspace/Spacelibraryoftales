@@ -4,6 +4,7 @@ tags:
 ---
 
 # Miyoshi Akachi
+Writer and poster artist. Ex wormholer, now Jita 4-4 resident.
 
 Works:
 
@@ -25,9 +26,11 @@ Works:
 - [Transcript Id: 17342](./miyoshiakachi/transcriptid17342.md) (2018)
 - [Origin Story 1-5](./miyoshiakachi/originstory.md) (2018)
 - [Anonymous end](./miyoshiakachi/anonymousend.md) (2019)
+- [Medal ceremony](./miyoshiakachi/medalceremony.md) (2021)
+- [Call of the State](./miyoshiakachi/callofthestate.md) (2021)
 - [A free agent life](./miyoshiakachi/afreeagentlife.md) (2022)
 - [A Haiku collection](./miyoshiakachi/ahaikucollection.md) (2022)
 - [Establishing an industrial colony: a journal](./miyoshiakachi/establishinganindustrialcolonyajournal.md) (2022)
 - [Impossible Love, the new bestseller by Chialette Ahubbert is out!](./miyoshiakachi/impossiblelove.md) (2022)
-- [StellarFit](./miyoshiakachi/stellarfit.md) (2023)
+- [Stellar Fit OG 3000 ](./miyoshiakachi/stellarfitog3000.md) (2023)
 - [Slave from the desert](./miyoshiakachi/slavefromthedesert.md) (2023)

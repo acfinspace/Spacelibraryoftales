@@ -7,7 +7,7 @@ tags:
 
 # Origin Story 1-5
 
-> Entry for YC 120 New Eden Capsuleer’s Writing Contest for the Academic/News category.
+> Entry for YC120 New Eden Capsuleer’s Writing Contest in the Academic/News category.
 
 
 ## Origin Story 1

@@ -8,7 +8,7 @@ tags:
 
 # Let me show you the world in my eyes
 
-> Entry for the YC 119 Pod and Planet Fiction Contest in the A Thousand Suns in the Very Short Fiction category.
+> Entry for the YC119 Pod and Planet Fiction Contest in the A Thousand Suns in the Very Short Fiction category.
 
 
 Let me show you the world in my eyes.

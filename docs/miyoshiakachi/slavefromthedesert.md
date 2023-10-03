@@ -9,7 +9,7 @@ tags:
 
 # Slave from the desert
 
-> A flash fiction for Just About.
+> A short fiction piece for Just About.
 
 “The anomaly should be dead ahead.” it was hard to be heard over the noise of the engines and behind the layers of the cloths shielding the faces of the desert runners. Such cloths protected from the sand, or at least tried because sand was nonetheless everywhere, seeping in and seeping through.
 

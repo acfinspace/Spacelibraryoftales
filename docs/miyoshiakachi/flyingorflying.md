@@ -7,7 +7,7 @@ tags:
 
 # Flying or Flying
 
-> Entry for YC 119 New Eden Capsuleer Writing Contest.
+> Entry for YC119 New Eden Capsuleer Writing Contest.
 
 I live to fly.
 

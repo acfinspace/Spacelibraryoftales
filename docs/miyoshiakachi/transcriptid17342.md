@@ -2,7 +2,7 @@
 tags:
   - Prose
   - MiyoshiAkachi
-  - NewEdenCapsuleersWritingContestYC124
+  - NewEdenCapsuleersWritingContestYC120
 ---
 
 # Transcript Id: 17342

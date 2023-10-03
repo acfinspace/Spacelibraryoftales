@@ -9,7 +9,9 @@ tags:
 
 # Stellar Fit OG 3000 
 
-> I imagined a Gallente commercial about a fitness tool; any reference to the 80s is purely casual (or maybe not). Entry for New Eden Capsuleer's Writing Contest YC125.
+> Entry for New Eden Capsuleer's Writing Contest YC125 in the Academic/News category.
+
+> I imagined a Gallente commercial about a fitness tool; any reference to the 80s is purely casual (or maybe not).
 
 ![StellarFit](./StellarFit-logo.jpg)
 

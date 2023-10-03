@@ -8,7 +8,7 @@ tags:
 
 # The Interview
 
-> Entry for the YC 118 New Eden Capsuleer Writing Contest.
+> Entry for the YC118 New Eden Capsuleer Writing Contest.
 
 Fizzies of statics.
 
