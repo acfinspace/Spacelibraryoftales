@@ -2,7 +2,9 @@ site_name: Space library of tales
 nav:
   - Home: index.md
   - Miyoshi Akachi: miyoshiakachi.md
-  - C 1: contest1.md
+  - Xepharious Wryn: xephariouswryn.md
+  - Pod and Planet 2016: podandplanet2016.md
+  - Pod and Planet 2017: podandplanet2017.md
   - Tags: tags.md
 
 markdown_extensions:

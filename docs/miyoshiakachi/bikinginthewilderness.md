@@ -7,7 +7,7 @@ tags:
 
 # Biking in the wilderness
 
-> Entry for YC 119 New Eden Capsuleer Writing Contest.
+> Entry for YC119 New Eden Capsuleer's Writing Contest in the A Day in the Life category.
 
 "The sight is beautiful, don't you think?"
 

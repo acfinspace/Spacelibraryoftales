@@ -1,7 +1,14 @@
+---
+tags:
+  - Author
+---
+
 # Miyoshi Akachi
 
 Works:
 
+- [In the heat, the end of a dream](./miyoshiakachi/intheheattheendofadream.md) (2016)
+- [Past and Present](./miyoshiakachi/pastandpresent.md) (2016)
 - [The interview](./miyoshiakachi/theinterview.md) (2016)
 - [Old love, burning again](./miyoshiakachi/oldloveburningagain.md) (2016)
 - [Good morning](./miyoshiakachi/goodmorning.md) (2017)

@@ -16,9 +16,9 @@ The Space library of tales wants to avoid that as per the following points:
 
 If you want to contribute, you can:
 
-- Add a page yourself through a pull request.
+- Add a page yourself through a pull request. Let's try to have the same format all around.
     - One page per piece, named with the piece title all together and in small characters (es.: The Interview becomes theinterview.md)
-    - The pieces are to be put into a folder with the author's name all together and in small characters (es.: Miyoshi Akachi becomes miyoshiakachi)
+    - The pieces are to be put into a folder with the author's name all together and in small characters (es.: Miyoshi Akachi becomes miyoshiakachi). Otherwise, each piece can be named as author_title and be put in the various author folder (es.: miyoshiakachi_theinterview).
 - Shoot me a message on Discord, at miyoshiakachi
 
 ### The library's structure

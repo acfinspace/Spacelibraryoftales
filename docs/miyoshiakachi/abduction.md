@@ -8,7 +8,7 @@ tags:
 
 # Abduction
 
-> Entry for the YC 119 Pod and Planet Fiction Contest in the Eighty Thousand Suns in New Eden - Very Short Fiction category.
+> Entry for the YC119 Pod and Planet Fiction Contest in the Eighty Thousand Suns in New Eden - Very Short Fiction category.
 
 Darkness.
 

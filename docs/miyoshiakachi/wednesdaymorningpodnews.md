@@ -8,7 +8,7 @@ tags:
 
 # Wednesday Morning Pod News!
 
-> Entry for the YC 119 Pod and Planet Fiction Contest in the A Thousand Suns - Very Short Fiction category.
+> Entry for the YC119 Pod and Planet Fiction Contest in the A Thousand Suns - Very Short Fiction category.
 
 
 The city sped below the speeder. Soft classical music surrounded the man leaning in the cushions as he let the autopilot make its work. He wasn’t that idle tough, his implants were feeding him informations, news and broadcast from around the planet and further away. He didn’t let much time go to waste, even with immortality time was essence.

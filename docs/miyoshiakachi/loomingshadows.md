@@ -8,7 +8,7 @@ tags:
 
 # Looming shadows
 
-> Entry for the YC 119 Pod and Planet Fiction Contest in the A Day in the Life category.
+> Entry for the YC119 Pod and Planet Fiction Contest in the A Day in the Life category.
 
 "I'm sending you out." the words came out cold, as a statement and without appeal. She had thought about it but in the end, it was the only course of action she thought safe enough.
 
