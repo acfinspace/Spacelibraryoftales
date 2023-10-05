@@ -7,4 +7,4 @@ tags:
 
 Works:
 
-- [Phantom Pains](./xepharious/phantompains.md) (2016)
+- [Phantom Pains](./authors/xephariouswryn/phantompains.md) (2016)

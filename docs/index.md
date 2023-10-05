@@ -28,6 +28,12 @@ If you want to contribute, you can:
     - Otherwise, each piece can be named as author_title and be put in the "miscauthors" folder (es.: miyoshiakachi_theinterview).
 - Shoot me a message on Discord, at miyoshiakachi.
 
+If you want your art to be removed, you can:
+
+- Shoot me a message on Discord, at miyoshiakachi with some proof that it's your art.
+- Make a pull request removing the pages with your art with some proof that it's your art.
+
+
 ### The project going forward
 To do:
 
@@ -36,11 +42,12 @@ To do:
     - [ ] Night mode/light mode
     - [ ] Last updated plugin
  - [ ] Add more fan fiction
-    - [ ] Miyoshi Akachi
+    - [x] Miyoshi Akachi
     - [ ] Others
  - [ ] Add contests
     - [ ] Pod & Planet 2016
     - [ ] Pod & Planet 2017
+    - [ ] Pod & Planet 2018
     - [ ] Other Pod & Planet
     - [ ] New Eden Capsuleer's Writing Contest
     - [ ] Amore Tank Your Hearts Contest
@@ -54,7 +61,7 @@ Thank you [Voshun archive](https://voshun.pages.dev/) for the idea and the techn
 
 ### Legal
 
-I do not claim ownership of the single pieces of art which belongs to their writers/owners.
+I do not claim ownership of any pieces of art which belongs to their original writers/creators/owners.
 
 [EVE Online Content Creation Terms of Use](https://community.eveonline.com/support/policies/eve-online-content-creation-terms-of-use-en/)
 Some content related to EVE Online on this site are the intellectual properties of CCP Games. These material are used with limited permission of CCP Games. No official affiliation or endorsement by CCP Games is stated or implied.
