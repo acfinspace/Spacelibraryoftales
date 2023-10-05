@@ -15,8 +15,14 @@ The Space library of tales wants to avoid that as per the following points:
 ### The library's structure
 Authors and contests have a dedicated page, visible on the left, where you can find all the related content. At the moment we have:
 
-- Authors: 2
-- Contests: 0
+- Authors: see [Authors index](authorsindex.md)
+- Contests: see [Contest index](contestindex.md)
+
+#### Issues
+
+- [Angelic State](./authors/miscauthors/angelicstate.md) (file not accessible)
+- [Reachblades of Chandeille - Broken People and Shattered Dreams](./authors/miscauthors/reachbladesofchandeille_brokenpeopleandshattereddreams.md) (content cannot be copied)
+
 
 ### How to contribute
 
@@ -24,14 +30,14 @@ If you want to contribute, you can:
 
 - Add a page yourself through a pull request. Let's try to have the same format all around.
     - One page per written piece, named with the piece title all together and in small characters (es.: The Interview becomes theinterview.md)
-    - The pieces are to be put into a folder with the author's name all together and in small characters (es.: Miyoshi Akachi becomes miyoshiakachi).
+    - If the author has 2 or more pieces, the pieces are to be put into a folder with the author's name all together and in small characters (es.: Miyoshi Akachi becomes miyoshiakachi).
     - Otherwise, each piece can be named as author_title and be put in the "miscauthors" folder (es.: miyoshiakachi_theinterview).
-- Shoot me a message on Discord, at miyoshiakachi.
+- Shoot me a message on Discord, at miyoshiakachi and let's talk.
 
 If you want your art to be removed, you can:
 
-- Shoot me a message on Discord, at miyoshiakachi with some proof that it's your art.
-- Make a pull request removing the pages with your art with some proof that it's your art.
+- Shoot me a message on Discord, at miyoshiakachi, with some proof that it's your art.
+- Open an issue on GitHub asking for the removal of the pages with the art and with some proof that it's your art.
 
 
 ### The project going forward
@@ -44,6 +50,7 @@ To do:
  - [ ] Add more fan fiction
     - [x] Miyoshi Akachi
     - [ ] Others
+ - [ ] Properly tag all the written pieces (on many I put only a few standard tags such as author, contest and prose/poetry)
  - [ ] Add contests
     - [ ] Pod & Planet 2016
     - [ ] Pod & Planet 2017
@@ -56,12 +63,14 @@ Last updated: October 2023
 
 
 ### Acknoledgements
+Thank you readers for readying the Space library of tales.
+
 Thank you [Voshun archive](https://voshun.pages.dev/) for the idea and the technology.
 
 
 ### Legal
 
-I do not claim ownership of any pieces of art which belongs to their original writers/creators/owners.
+I do not claim ownership of any pieces of art; each and every piece of art belongs to their original writers/creators/owners.
 
 [EVE Online Content Creation Terms of Use](https://community.eveonline.com/support/policies/eve-online-content-creation-terms-of-use-en/)
 Some content related to EVE Online on this site are the intellectual properties of CCP Games. These material are used with limited permission of CCP Games. No official affiliation or endorsement by CCP Games is stated or implied.

@@ -19,35 +19,35 @@ Original website: [Pod and Planet 2017 reading bank](https://podandplanet.wixsit
     - A Beautiful Exit (Honorable Mention)
     - Cold-blooded Creatures (Honorable Mention)
 - Miyoshi Akachi:
-   - [Abduction](./authors/miyoshiakachi/abduction.md)
-   - [Wendsday Morning Pod News!](./authors/iyoshiakachi/wednesdaymorningpodnews.md)
-   - [Let me show you the world in my eyes](./authors/miyoshiakachi/letmeshowyoutheworldinmyeyes.md)
+    - [Abduction](./authors/miyoshiakachi/abduction.md)
+    - [Wendsday Morning Pod News!](./authors/iyoshiakachi/wednesdaymorningpodnews.md)
+    - [Let me show you the world in my eyes](./authors/miyoshiakachi/letmeshowyoutheworldinmyeyes.md)
 - Elassus Herron:
-    - Watcher of the Relics
-    - The Last Tower (2nd Prize, Very Short Fiction 2nd Prize)
-- Mundi Kundoni: Biomass (3rd Prize)
-- Avio Yaken: Traitors
-- Ninavask: Reachblades of Chandeille - Broken People and Shattered Dreams (3rd Prize)
-- Da'iel Zehn: "Dark Ripple" (Honorable Mention)
-- Erutor: "Crimson Harvest"
-- Teinyhr: "Stains of the Soul"
-- Djavak Andrard: "Flametender" (Grand Prize, Best Entry by a New Writer)
-- Lasairiona Raske, "Angelic State"
+    - [Watcher of the Relics](./authors/robkaichin/writteninscarsandskin.md)
+    - [The Last Tower](./authors/elassusherron/thelasttower.md) (2nd Prize, Very Short Fiction 2nd Prize)
+- Mundi Kundoni: [Biomass](./authors/miscauthors/biomass.md) (3rd Prize)
+- Avio Yaken: [Traitors](./authors/miscauthors/traitors.md)
+- Ninavask: [Reachblades of Chandeille - Broken People and Shattered Dreams](./authors/miscauthors/reachbladesofchandeille_brokenpeopleandshattereddreams.md) (3rd Prize)
+- Da'iel Zehn: [Dark Ripple](./authors/miscauthors/darkripple.md) (Honorable Mention)
+- Erutor: [Crimson Harvest](./authors/miscauthors/crimsonharvest.md)
+- Teinyhr: [Stains of the Soul](./authors/miscauthors/stainsofthesoul.md)
+- Djavak Andrard: [Flametender](./authors/miscauthors/flametender.md) (Grand Prize, Best Entry by a New Writer)
+- Lasairiona Raske: [Angelic State](./authors/miscauthors/angelicstate.md)
 - Rob Kaichin
-    - The Visit
-    - Written in scars and skin
-    - The Old Wind's Rising (Honorable Mention)
-    - The Angel of Mercy (Honorable Mention)
-    - The Thunder That Announces His Passage
-    - “Lead all children to the light of God, for Heaven is theirs to inherit.”
-    - A Man of Peace and War (2nd Prize, Very Short Fiction 1st Prize)
-    - Perfect Clarity
-    - Myth and Memory
-    - Divinely Devoted
-- Lucas Ballard, "Confession (Honorable Mention)
+    - [The Visit](./authors/robkaichin/thevisit.md)
+    - [Written in scars and skin](./authors/robkaichin/writteninscarsandskin.md)
+    - [The Old Wind's Rising](./authors/robkaichin/theoldwindsrising.md) (Honorable Mention)
+    - [The Angel of Mercy](./authors/robkaichin/theangelofmercy.md) (Honorable Mention)
+    - [The Thunder That Announces His Passage](./authors/robkaichin/thethunderthatannounceshispassage.md)
+    - [“Lead all children to the light of God, for Heaven is theirs to inherit.”](./authors/robkaichin/leadallchildren.md)
+    - [A Man of Peace and War](./authors/robkaichin/amanofpeaceandwar.md) (2nd Prize, Very Short Fiction 1st Prize)
+    - [Perfect Clarity](./authors/robkaichin/perfectclarity.md)
+    - [Myth and Memory](./authors/robkaichin/mythandmemory.md)
+    - [Divinely Devoted](./authors/robkaichin/divinedevotion.md)
+- Lucas Ballard: [Confession](./authors/miscauthors/confession.md) (Honorable Mention)
 - Nomistrav:
-    - Fractured (1st Prize)
-    - Heat
+    - [Fractured](./authors/nomistrav.md/fractured.md) (1st Prize)
+    - [Heat](./authors/nomistrav.md/heat.md)
 
 ## A Day in the Life (Gameplay-based/freeform)
 
