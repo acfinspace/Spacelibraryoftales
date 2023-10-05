@@ -13,15 +13,13 @@ The Space library of tales wants to avoid that as per the following points:
 5. It is all written in markdown, as easy and lightweight as it can get. Storing a lot of fiction shouldn't be too much of a problem.
 
 ### The library's structure
-Authors and contests have a dedicated page, visible on the left, where you can find all the related content. At the moment we have:
+
+To navigate the library either start from the Authors' index gathering all the authors in the library or from the Contest index gathering all contest which submissions are in the library.
 
 - Authors: see [Authors index](authorsindex.md)
 - Contests: see [Contest index](contestindex.md)
 
-#### Issues
-
-- [Angelic State](./authors/miscauthors/angelicstate.md) (file not accessible)
-- [Reachblades of Chandeille - Broken People and Shattered Dreams](./authors/miscauthors/reachbladesofchandeille_brokenpeopleandshattereddreams.md) (content cannot be copied)
+Some authors might have dedicated pages. Dedicated author's pages can be created at request, write me a message on Discord, at miyoshiakachi or make a pull request adding it, kind of like new fiction.
 
 
 ### How to contribute
@@ -41,6 +39,7 @@ If you want your art to be removed, you can:
 
 
 ### The project going forward
+
 To do:
 
  - [ ] Tweak and finalize the library itself
@@ -61,8 +60,15 @@ To do:
 
 Last updated: October 2023
 
+#### Issues
+
+- [Angelic State](./authors/miscauthors/angelicstate.md) (file not accessible)
+- [Reachblades of Chandeille - Broken People and Shattered Dreams](./authors/miscauthors/reachbladesofchandeille_brokenpeopleandshattereddreams.md) (content cannot be copied)
 
 ### Acknoledgements
+
+Thank you writers for letting the Space library of tales have your writings.
+
 Thank you readers for readying the Space library of tales.
 
 Thank you [Voshun archive](https://voshun.pages.dev/) for the idea and the technology.

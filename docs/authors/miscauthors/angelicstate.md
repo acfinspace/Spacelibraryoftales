@@ -7,7 +7,7 @@ tags:
 
 # Angelic State
 
-> Author: LasairionaRaske
+> Author: Lasairiona Raske
 
 > Original post: [https://forums.eveonline.com/t/pod-and-planet-submission-angelic-state/36502](https://forums.eveonline.com/t/pod-and-planet-submission-angelic-state/36502)
 
