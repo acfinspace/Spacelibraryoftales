@@ -11,6 +11,7 @@ Works:
     - [Phantom Pains](./phantompains.md) (2016)
     - [Moments](./moments.md) (2017)
     - Stories of Love
+    - [Sunswept](./sunswept.md)
 
 - EvE Echoes fiction:
     - [History's Shadow](./historysshadow.md) (2021)

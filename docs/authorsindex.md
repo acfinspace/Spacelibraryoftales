@@ -2,13 +2,21 @@
 
 > WIP
 
+- Aillel
+- Arnold Kalashnikov
+- Arrowspeed Bounty
 - Avio Yaken
 - Da'iel Zehn
+- DireNecessity
 - Djavak Andrard
 - Elassus Herron
 - Erutor
+- General Stargazer
+- Greasyforehead
 - Hardradda
+- igRaVeN
 - Jorus Q Merril
+- Lasairiona Raske
 - Leehams DaWildabeast
 - Lucas Ballard
 - Mischa Gau'ss Tesla
@@ -16,13 +24,13 @@
 - Mundi Kundoni
 - Ninavask
 - Nomistrav
+- [P.A.B.Arianis AKA Xepharious Wryn](./authors/xephariouswryn/_xephariouswryn.md)
 - Rob Kaichin
 - Teinyhr
-- [P.A.B.Arianis AKA Xepharious Wryn](./authors/xephariouswryn/_xephariouswryn.md)
+- The Record Keeper
+
 
 Not included due to technical problems (See [Issues](./index.md#issues)):
-
-- Lasairiona Raske
 
 Not included due to explicit request:
 
