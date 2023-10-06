@@ -18,7 +18,7 @@
 - Nomistrav
 - Rob Kaichin
 - Teinyhr
-- [Xepharious Wryn](./authors/xephariouswryn/_xephariouswryn.md)
+- [P.A.B.Arianis AKA Xepharious Wryn](./authors/xephariouswryn/_xephariouswryn.md)
 
 Not included due to technical problems (See [Issues](./index.md#issues)):
 
