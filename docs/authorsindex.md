@@ -12,13 +12,13 @@
 - Leehams DaWildabeast
 - Lucas Ballard
 - Mischa Gau'ss Tesla
-- [Miyoshi Akachi](./miyoshiakachi.md)
+- [Miyoshi Akachi](./authors/miyoshiakachi/_miyoshiakachi.md)
 - Mundi Kundoni
 - Ninavask
 - Nomistrav
 - Rob Kaichin
 - Teinyhr
-- [Xepharious Wryn](./xephariouswryn.md)
+- [Xepharious Wryn](./authors/xephariouswryn/_xephariouswryn.md)
 
 Not included due to technical problems (See [Issues](./index.md#issues)):
 
