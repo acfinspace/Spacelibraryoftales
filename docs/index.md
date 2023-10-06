@@ -62,8 +62,7 @@ Last updated: October 2023
 
 #### Issues
 
-- [Angelic State](./authors/miscauthors/angelicstate.md) (file not accessible)
-- [Reachblades of Chandeille - Broken People and Shattered Dreams](./authors/miscauthors/reachbladesofchandeille_brokenpeopleandshattereddreams.md) (content cannot be copied)
+See the [Issue page](issues.md).
 
 ### Acknoledgements
 

@@ -12,10 +12,10 @@
 
 ## New Eden Capsuleers Writing Contest
 
-- [YC 125 New Eden Capsuleers Writing Contest](./index.md)
-- [YC 124 New Eden Capsuleers Writing Contest](./index.md)
-- [YC 123 New Eden Capsuleers Writing Contest](./index.md)
-- [YC 122 New Eden Capsuleers Writing Contest](./index.md)
+- [YC 125 New Eden Capsuleers Writing Contest](./contest/newedencapsuleerswritingcontest2023.md) (2023)
+- [YC 124 New Eden Capsuleers Writing Contest](./index.md) (2022)
+- [YC 123 New Eden Capsuleers Writing Contest](./index.md) (2021)
+- [YC 122 New Eden Capsuleers Writing Contest](./index.md) (2020)
 
 ## Other contest
 
