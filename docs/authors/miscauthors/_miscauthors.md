@@ -8,66 +8,69 @@ tags:
 A page colelcting all authors with just one piece in the library.
 
 
-
-- [A Broken Shell](./abrokenshell.md)
-
-
-
 ## Aillel
 
-- [The Job Posting](./thejobposting.md)
+- [The Job Posting](./thejobposting.md) (2017)
 
 ## AlacrityFitz
 
-- [Love Costs](./lovecosts.md)
+- [Love Costs](./lovecosts.md) (2017)
 
 ## Alawa Patrouette
 
-- [Valor](./valor.md)
+- [Valor](./valor.md) (2017)
 
 ## Aleksi Aksan
 
-- [Worth Waking Up For](./worthwakingupfor.md)
+- [Worth Waking Up For](./worthwakingupfor.md) (2017)
 
 ## Alen Asques
 
-- [L'Hécate de Nos Mémoires - An Interstellar Love Story](./lhecatedenosmemoires.md)
+- [L'Hécate de Nos Mémoires - An Interstellar Love Story](./lhecatedenosmemoires.md) (2017)
 
 ## Arnold Kalashnikov
 
-- [Beginning of the Endgame](./beginningoftheendgame.md)
+- [Beginning of the Endgame](./beginningoftheendgame.md) (2017)
 
 ## Arrowspeed Bounty
 
-- [The Problem of the Wormholes](./theproblemofthewormholes.md)
+- [The Problem of the Wormholes](./theproblemofthewormholes.md) (2017)
 
 ## Avio Yaken
 
-- [Traitors](./traitors.md)
+- [Traitors](./traitors.md) (2017)
+
+## Che Biko
+
+- [Emissions & Omission](./emissionsandomissions.md) (2016)
 
 ## Da'iel Zehn
 
-- [Dark Ripple](./darkripple.md)
+- [Dark Ripple](./darkripple.md) (2017)
 
 ## DireNecessity
 
-- [DireNecessity Goes Camping](./direnecessitygoescamping.md)
+- [DireNecessity Goes Camping](./direnecessitygoescamping.md) (2017)
 
 ## Djavak Andrard
 
-- [Flametender](./flametender.md)
+- [Flametender](./flametender.md) (2017)
+
+## Dreygun
+
+- [Echoes of Origin](./echoesoforigin.md) (2014)
 
 ## Elinari Rhodan
 
-- [Phantom Sound](./phantomsound.md)
+- [Phantom Sound](./phantomsound.md) (2017)
 
 ## Garion Avarr
 
-- [Three Dances](./threedances.md)
+- [Three Dances](./threedances.md) (2017)
 
 ## General Stargazer
 
-- [The League](./theleague.md)
+- [The League](./theleague.md) (2017)
 
 ## Greasyforehead
 
@@ -75,49 +78,53 @@ A page colelcting all authors with just one piece in the library.
 
 ## Hardradda
 
-- [EvE: Awakening](./hardradda_eveawakening.md)
+- [EvE: Awakening](./hardradda_eveawakening.md) (2017)
 
 ## igRaVeN
 
-- [A Broken Shell](./abrokenshell.md)
+- [A Broken Shell](./abrokenshell.md) (2017)
 
 ## Jack Carrigan
 
-- [It Was In That Moment...](./itwasinthatmoment.md)
+- [It Was In That Moment...](./itwasinthatmoment.md) (2017)
 
 ## Katsumoto Moliko
 
-- [Tomb of the Immortals](./tomboftheimmortals.md)
+- [Tomb of the Immortals](./tomboftheimmortals.md) (2017)
 
 ## Leehams DaWildabeast
 
-- [Captain's Log](../authors/miscauthors/captainslog.md)
+- [Captain's Log](../authors/miscauthors/captainslog.md) (2017)
+
+## Literia
+
+- [Normal Life](./normallife.md) (2016)
 
 ## Loai Qerl
 
-- [The Heart Treads A Rocky Path](./thehearttreadsarockypath.md)
+- [The Heart Treads A Rocky Path](./thehearttreadsarockypath.md) (2017)
 
 ## Lucas Ballard
 
-- [Confession](./confession.md)
+- [Confession](./confession.md) (2017)
 
 ## Lunarisse Aspenstar
 
-- [A Love Story In Five Drabbles](./alovestoryinfivedrabbles.md)
+- [A Love Story In Five Drabbles](./alovestoryinfivedrabbles.md) (2017)
 
 ## Sylvia Carpenter
 
-- [Day 26: I Will Always Be There For You](./daay26iwillalwaysbethereforyou.md)
+- [Day 26: I Will Always Be There For You](./daay26iwillalwaysbethereforyou.md) (2017)
 
 ## Teinyhr
 
-- [Stains of the Soul](./stainsofthesoul.md)
+- [Stains of the Soul](./stainsofthesoul.md) (2017)
 
 ## The Record Keeper
 
-- [Scotty](./scotty.md)
+- [Scotty](./scotty.md) (2017)
 
 ## Tsao Aubbes
 
-- [A Good Kind of Awkward](./agoodkingofawkard.md)
+- [A Good Kind of Awkward](./agoodkingofawkard.md) (2017)
 

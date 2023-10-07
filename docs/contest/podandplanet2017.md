@@ -14,10 +14,11 @@ Original website: [Pod and Planet 2017 reading bank](https://podandplanet.wixsit
 - Mischa Gau'ss Tesla: [Story of my lifes](../authors/mischagausstesla/storyofmylifes.md)
 - Hardradda: [EvE: Awakening](../authors/miscauthors/hardradda_eveawakening.md)
 - Korsavius:
-    - Sunday Morning
-    - Mikramurka Nights (Honorable Mention)
-    - A Beautiful Exit (Honorable Mention)
-    - Cold-blooded Creatures (Honorable Mention)
+    - [The Colour Lavender](../authors/korsavius/thecolourlavender.md) (Honorable Mention)
+    - [Sunday Morning](../authors/korsavius/sundaymorning.md)
+    - [Mikramurka Nights](../authors/korsavius/mikramurkanights.md) (Honorable Mention)
+    - [A Beautiful Exit](../authors/korsavius/abeautifulexit.md) (Honorable Mention)
+    - [Cold-blooded Creatures](../authors/korsavius/coldbloodedmention.md) (Honorable Mention)
 - Miyoshi Akachi:
     - [Abduction](../authors/miyoshiakachi/abduction.md)
     - [Wendsday Morning Pod News!](../authors/iyoshiakachi/wednesdaymorningpodnews.md)
@@ -60,9 +61,9 @@ Original website: [Pod and Planet 2017 reading bank](https://podandplanet.wixsit
     - [Biking in the wilderness](../authors/miyoshiakachi/bikinginthewilderness.md)
     - [A visit home](../authors/miyoshiakachi/avisithome.md) (2nd Prize)
 - Korsavius:
-    - Mariposa (1st Prize)
-    - The Little Things
-    - Abagawa Days (3rd Prize)
+    - [Mariposa](../authors/korsavius/mariposa.md) (1st Prize)
+    - [The Little Things](../authors/korsavius/thelittlethings.md)
+    - [Abagawa Days](../authors/korsavius/abagawadays.md) (3rd Prize)
 - Ninavask: [An Empire of Mad Science](../authors/ninavask/anempireofmadscience.md)
 - Greasyforehead: [Arise O' Sleeper](../authors/miscauthors/ariseosleeper.md)
 - Lasairiona Raske: [Coda](../authors/lasairionaraske/coda.md) (3rd Prize)
@@ -77,9 +78,7 @@ Original website: [Pod and Planet 2017 reading bank](https://podandplanet.wixsit
 - Jorus Q Merrill:
     - [A Royal Gift of Beans](../authors/jorusqmerrill/aroyalgiftofbeans.md) (1st Prize)
     - [Fourteen Points of CODE](../authors/jorusqmerrill/fourteenpointsofcode.md) (2nd Prize)
-- Korsavius, "Slaver Hound Training for Dummies" (3rd Prize)
+- Korsavius: [Slaver Hound Training for Dummies](../authors/korsavius/slaverhoundtrainingfordummies.md) (3rd Prize)
 - DireNecessity: [DireNecessity Goes Camping](../authors/miscauthors/direnecessitygoescamping.md)
 - Rob Kaichin: [Pointless](../authors/robkaichin/pointless.md)
 - General Stargazer: [The League](../authors/miscauthors/theleague.md)
-
-​
