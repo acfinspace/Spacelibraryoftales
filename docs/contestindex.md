@@ -19,5 +19,5 @@
 
 ## Other contest
 
-- [Amore Tank Your Hearts](./index.md)
+- [Amore Tank Your Hearts](./contest/amoretankyourhearts.md)
 - [YC123 Union Day Celebrations](./index.md)

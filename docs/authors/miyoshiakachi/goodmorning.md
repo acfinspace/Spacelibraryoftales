@@ -2,7 +2,7 @@
 tags:
   - Prose
   - MiyoshiAkachi
-  - AmoreThankYourHearts
+  - AmoreTankYourHearts
 ---
 
 # Good morning

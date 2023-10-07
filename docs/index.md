@@ -56,7 +56,7 @@ To do:
     - [ ] Pod & Planet 2018
     - [ ] Other Pod & Planet
     - [ ] New Eden Capsuleer's Writing Contest
-    - [ ] Amore Tank Your Hearts Contest
+    - [x] Amore Tank Your Hearts Contest
 
 Last updated: October 2023
 

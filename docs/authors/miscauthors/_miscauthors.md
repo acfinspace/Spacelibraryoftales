@@ -85,3 +85,35 @@ A page colelcting all authors with just one piece in the library.
 ## Aleksi Aksan
 
 - [Worth Waking Up For](./worthwakingupfor.md)
+
+## Alen Asques
+
+- [L'Hécate de Nos Mémoires - An Interstellar Love Story](./lhecatedenosmemoires.md)
+
+## Loai Qerl
+
+- [The Heart Treads A Rocky Path](./thehearttreadsarockypath.md)
+
+## AlacrityFitz
+
+- [Love Costs](./lovecosts.md)
+
+## Sylvia Carpenter
+
+- [Day 26: I Will Always Be There For You](./daay26iwillalwaysbethereforyou.md)
+
+## Garion Avarr
+
+- [Three Dances](./threedances.md)
+
+## Tsao Aubbes
+
+- [A Good Kind of Awkward](./agoodkingofawkard.md)
+
+## Elinari Rhodan
+
+- [Phantom Sound](./phantomsound.md)
+
+## Lunarisse Aspenstar
+
+- [A Love Story In Five Drabbles](./alovestoryinfivedrabbles.md)
