@@ -20,4 +20,4 @@
 ## Other contest
 
 - [Amore Tank Your Hearts](./contest/amoretankyourhearts.md)
-- [YC123 Union Day Celebrations](./index.md)
+- [YC123 Union Day Celebrations - Short Written Works Contest](./contest/YC123uniondaycelebrationshortwrittenworkscontest.md)

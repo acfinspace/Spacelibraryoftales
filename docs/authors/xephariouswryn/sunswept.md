@@ -26,13 +26,15 @@ Within the relative safety of their new frontier home, the colonists of Origin, 
 
 Such miracles of science also created an almost constant need for raw biomass with which to generate new clones. A practice of donating one's body back to be biomassed for the community upon death became mandatory and even the capsuleers would spend the extra diligence to retrieve any corpses from the occasional invader into Origin. Morbidity turned to routine and routine to purpose as overtime the cycle of biomass became as accepted as the cycle of precipitation. It was believed that this practice or at least word of it lead to some of the belief held among those in high-sec that all people who lived in wormholes were cannibals and monsters of myth.
 
+__________________________________
+
 ## Prelude
 
 A recently given dissertation on the unique characteristics of the Dajellan primate E-364 Outbreak lay atop a pile of datapads where she had finished it. Various other articles and datapads are strewn about the apartment while yesterday's dishes lay unwashed, the bed unmade, and an empty pint of KipWa's Veg Delight with hashi still splayed within germinating on the table. Only the small partitioned corner of the studio shows signs of life. On an immaculately cleaned table, over a well lit MicroSlide a microscopic pipet drips once with an audible 'click-it'. Two eyes swiftly move to the display screen and wait. A brownish greenish blob makes contact with, then begins to surround is single human epithelial cell.
 
 There is a moment and then slowly, gently the blob is absorbed. Time seems to suspend as only the soft breathing of a recently graduated Med. Student defies the stillness. With a sudden breath of air she leaps to her feet and lets loose a deafening cheer. Within the narrow confines of the cleanzone she dances about as the view begins to pull back to a standard 10x magnification and very faintly, small green organelles begin to show in one half of a mitotic cell.
 
-*******
+__________________________________
 
 Jallif could feel the alien vibrations of the event horizon and the 'wub-wub-wub' reminded him that he was now a very, very long way from home. Perspiration came to his skin as each step down the corridor accompanied yet another thought of how his first (and decidedly last) adventure as a starship crewman was doomed to end in horrible pain. The local fleet might mistake the delivery crew as hostile and blow every one of them out of space; quick way to die at least. Clerical errors were made. Or would the delivery go fine, and the new owner might just decide to space the superfluous crew. What would a capsuleer care for extra bodies? Floating in space... Jallif shuddered reflexively, having to pause before regaining composure and checking both ways to ensure that no one was around.
 
@@ -59,6 +61,8 @@ Nina re-ran any checks he could but there was no record other than what seemed t
 "Sure.." Ninavask took his mind from the strange detail and set course for Icarus.
 
 In the stark vastness of nowhere two light missiles streaked out and consumed the faulty container as nearby a massive battleship and its Kestrel escort who had fired the missiles turned home. With a quick burst of the frigate's web, both vessels leapt home in succession just as Subordinator Xepharious's cloaked Stratios slipped out of warp meters from the floating dust that was once a cargo container. There was sure to be a good party back at Icarus for Nina but Xeph was just going to have to miss this one. Something wasn't right about this malfunctioning container. He 'settled' into his pod, silent to all, and waited.
+
+__________________________________
 
 ## Chapter 1: Lookin' Up
 
@@ -96,11 +100,11 @@ Didn't catch her name? What a joke, he had likely already looked up her entire f
 
 "Come back in any time." He gave a slight wave as she moved to the door. She managed one last look back at the strange man as she passed the threshold and saw a look of deep thought, and was it recollection? She decided to put him out of her mind and moved her thoughts to remembering which floor she had been about to go to when she had decided to get a drink. Meyan stepped into the lift and selected one of the lower levels.
 
-*******
+__________________________________
 
 Taking a seat at the edge of his bar, Xeph thought back to his own role in the disaster which seemingly continued to plague his hermitic friend Dr. Cartwith and now, it seemed, his students as well. A problem for later he decided and looked around his empty establishment. "Hey Jep, Can you watch the S'up? I think I'm going for a bit of a walkabout."
 
-*******
+__________________________________
 
 KipTop never thought of himself as an 'orphan' so much as just a kid in his city. And to him, it was his city. Each alley or corridor, each lift, tunnel, every park and courtyard was his house. He moved swiftly from the shadowed exhaust grate smelling of fish and herbs, ignoring the sudden pang it gave his unfortunate stomach. Crouching low as he came scooting under the hovering cab he placed his movement exactly between the repulsive generators which would otherwise have pulverized him. His city was dangerous, especially in his line of work; but none of the other kids could do it, and that's why it was his city. Reaching up from just under the vehicle he slipped an almost invisible flexible disk into the passenger door's chip reader. It slipped from his finger tips and he quickly recoiled his arm back under the cab even as the passenger door began to slide open to emit a portly gentleman in a too-fine jacket. KipTop enjoyed the extra blessing of time as the gentleman stumbled to find his footing in the sudden wind this high off the ground. Again KipTop scooted along his back and rolled out from under the far side of the vehicle. He had only a few moments before the automated controls of the cab kicked in and started scanning the surroundings to pull back out into the evening air. Staying close to the ground as he went about the back of the cab he stepped quickly back into the shadows of the vent and considered the take as he scanned to be sure no one saw him. The cab was a sleek black and dark green, clearly from one of the smaller corporations that catered to the more affluent. That disk would skim every isk chip used on the passenger door until the end of the day when the garage security sweep would find it and it would be destroyed. It was a good take. More and more of the nicer cabs were moving to internal chip readers rather than the less trusting external readers. He laughed at the irony of it. The CabCorps wouldn't even let you in the vehicle unless you had money.
 
@@ -108,8 +112,7 @@ The light of Origin's primary had reached full peak and would soon be removing w
 
 His journey through the innards of the building would take him right past several restaurant disposal shoots and his thoughts turned to deciding where to eat. He would have just enough time to reach the building's dorsal vent before returning to the Kinderhaus.
 
-
-*******
+__________________________________
 
 That evening, while a young boy ate his purloined dinner scraps silhouetted in the setting glow of Origin atop his city, Xeph stepped wearily back into his study and dropped into his reclined chair. The past few weeks were starting to crystalize in his mind and if he could just find some energy he was sure he could identify what it was that was bothering him so.
 
@@ -131,6 +134,7 @@ He set down the manifest he had absently been reviewing and leaned back. He thou
 
 He could feel his memory slowly drifting towards dreaming as he was suddenly running through fields and no longer anywhere near the house. "...too young to know better or understand anyway." Those words seems to roll in his mind as the last lucid thought mused that he might head to bed right off afterall.
 
+__________________________________
 
 ## Chapter 2: Mates
 
@@ -143,7 +147,6 @@ It was silly; ridiculous. What was happening to her? Was it some sort of side-ef
 "Oy! 'et tha 'ole?" As large as the collision was, it was Meyan who retained all of the momentum of the impact... in almost exactly the opposite direction she was moving. Sprawling to catch her balance, her data pads flew into the air. She hit the floor with a grunt, still unsure as to what she had actually hit; a bulkhead perhaps?
 
 A large hand appeared to her side and she took it, letting him hoist her back up and around to her feet.
-
 
 "'m sorry 'am, but I 'e needin' to go. Ship 'ight go wit'out me!" Without even a glance for her scattered data pads, he was off and running down the hall before she could even respond.
 
@@ -187,9 +190,7 @@ She looked once more at her files and saw written there on the screen; 'VaskTech
 
 She turned to leave, then paused as she remembered that she had brought her CV on a separate pad. It was a long shot but she stepped back over to the counter and deposited the pad with her credentials upon it. Turning again she took the few steps to the door and stepped back into the hall, paused to confirm the address, then shook her head and moved on. That's what she got for jumping at anything these days. As she quickly found the route back to her rooms, she promised herself two things: She was going to get a nice long refresher after this, and she was never scouting out a job based on new address listings again.
 
-
-*******
-
+__________________________________
 
 He arrived early to The Spot, as usual. The Kinderhaus keepers had long ago given up attempts to prevent his coming and going. Where he had once been kept from leaving and given only 'Mein kleinehase, but we fear for you out there, you are safer here' as reasoning, now they didn't even seem to notice. Mistress Sdint, who had told him such, was always his favorite. But he needed to survive and that meant Isk. They had once tried locking all the entry ways, even the waste chute. Almost unconsciously he pulled out a small nanostraw; his only possession from before... well before the Kinderhaus. He fought back any inkling of memory from before. That was a black hole he couldn't shake though he'd convinced himself he would. Just as quickly he slipped the nanostraw back into the scar on his leg. Once the home of an infant tracker, the scar was his most precious secret, and a constant reminder of what once was. His mind started once more into the memories; this time he wasn't fast enough to quash them. Flashes of another life came to him; his mom touching the implant, telling him that she would always find him as she kissed his freshly washed hair; later, older, he stands behind her, helping her zip her suit seal for her. She turns to show off. 'You like it!?' Her new crew suit. He'd never known, he wasn't old enough to understand what the new crew suit had meant, or what she meant by backed up but it had made her so happy, and thus it had made him happy with her. Another flash; she returned to their flat exhausted, but beaming. He was suddenly in her arms as she hugged him, spinning him...
 
@@ -213,8 +214,7 @@ A shadow appeared in the doorframe as instantly some 15 various children aging f
 
 "Y- yes Boss" It was all he could do not the beam at the silhouette. Two whole 'discs. Nobody got to see what the others were given or not given, but he'd never heard of anyone getting two 'discs. Though, he sure wasn't telling even Coal that he'd gotten the second. A massive gloved hand deposited two small plasteck wrapped SkimDiscs along with a pittance of isk into his hands. He nodded and slipped back into the shadow just catching movement as the last boy, a solid two years his senior, slipped out from a place Kip couldn't see but knew it had been an old false wall. He meant to find where that secret wall was one day... But for today; he had two takes to plan. Coal was long gone when he returned and he paid her absence no mind as he slipped into the power access and started off into the inner highways of the city. Two disks meant twice the potential profit but it also meant twice the risk and half the time. He wasn't about to hope for the sort of luck Coal always had, but maybe, just maybe luck would run his way this time. He took the next turn in the duct and made up his mind to start his first take on the upper levels where traffic was heavy, and then slip back down to the more private, quiet type landing pads where he'd made his take yesterday. If quality was better than quantity, he could afford to take the time on his second take like before. Moving through the conduit, he finally let a grin come to his face. It was going to be a good day.
 
-
-*******
+__________________________________
 
 Another merchant bustled past at a near run-walk laden with more bolts of industrial fibers than Jallif would have thought manageable by any human. He had to duck and weave to avoid collision as his distraction nearly sent him directly into the nose of a makeshift lorry coming quickly from the opposing direction. He could hardly believe his eyes as every man, woman, child, drone, and holes; nanite of this forsaken system tried to singlehandedly take the brand new paint off Icarus's Loading deck. It was pure chaos! His fears of sticking out had been rudely shattered by the shear throng of humanity that was trying to inhabit a station which had only gone operational less than a week ago. Turning from the main passage he came to an impromptu market that had popped up in the absence of any formal market space. A cacophony of sounds, voices, and movement filled every cubed public meter. Songs and smells wove together as he pushed his way through the flow of humanity. To another such an embrace of culture and rich life might have been near spiritual, to Jallif who had no time for such ephemeral fedoshit it was yet another example of poor planning and how this backwater excuse for civilization was doomed to implode. There should be an order to things, a plan. Not that he was ever one to follow someone else's plans; or orders for that matter. But at least back in normal civilization you knew what the order was... and how to get around it. Here? Well... madness.
 
@@ -225,6 +225,8 @@ He finally reached the departures terminal just in time to see the final notice 
 "I... I'm looking for a man.." Jallif's fear was really starting to kick in but he didn't dare turn to see who addressed him.
 
 "You've found no one, now leave... the way you came" Bidden to turn, Jallif did so but could see neither who was talking, nor which corridor he had come into this junction from. Leave it to 'holers never to mark an exit. "Or, perhaps you are needing some incentive?" Even with rushing adrenaline Jallif hadn't the reflexes to dodge the staggering blow that glanced off of his shoulder. Unprepared, Jallif flew sideways, striking his temple on the bulkhead. As he fell to the floor his last fuzzy image was that of the split-faced man towering over him with an odd look of... confusion? Blackness...
+
+__________________________________
 
 ## Chapter 3: Memories
 
@@ -248,7 +250,7 @@ Kip, however, had no time to look or even notice his assailants' victory smirk. 
 
 Too many minutes later Kip sat panting as he tugged once more at the strips of what had been his sleeves. The emergency bandage along with his lack of movement had stopped the bleeding for now. It wasn't a deep wound, but enough to seriously hamper any chance of a second take for the day. He needed medpaste and soon. But it had to be almost mid-day and his need to make good on the Boss's trust prevailed. After all, disappointing the Boss was more dangerous than almost any wound. After the take, that's when he could visit one of his many caches to retrieve the paste. He'd have to manage.
 
-*******
+__________________________________
 
 Meyan ran her hand through the mist and once more turned the temperature even further down. The cooler water just felt... well... more comfortable these days. Her time in the refreshing unit was quickly becoming a highlight of each day. Passing her hand once more through the mist she smiled, discarded the last of her clothes into the chute, and stepped in through the forcefield. She tilted her head back, letting her neck-length white hair tickle at her shoulder blades, her hands palm up and arms spread she took in the cool bliss. She clearly had been running a bit warmer since her success. And while the green skin was becoming more and more of something she tried to cover up, she was finding other benefits. The dry skin rashes that had plagued her since childhood were all but gone now and any current dryness that seems to occur as well as the now persistent itching was easily abated with direct exposure to water such as the wonderful refresher she was enjoying now. Could the itching be a reaction inherent in the transformation? Or was it related to her childhood condition? Whatever; questions for another time, either way, here and now, the refresher felt good.
 
@@ -266,7 +268,7 @@ She set down the pad and grabbed up another. She started scouring the network an
 
 Almost an hour later, and well into the night, she was forced to admit that further searching was moot. She'd found no record of Solu in any of her filtered searches. She'd tried restricting to researchers, medical professionals; she even went through the faculties of several of Origin's most prominent universities and nothing. She wasn't thinking straight. She rubbed her eyes and found that she wasn't even seeing straight. Well, an interview was an interview and she'd just have to try again tomorrow. With her heart still pounding, and unsure how much sleep she was even going to get she absently itched at her side as she numbly crawled into bed. A job...
 
-*******
+__________________________________
 
 Only slightly less than a kilometer beneath, and a world away from the Kinzer Cultural Promenade KipTop knew he was taking big risks. His journey through the towers had been faster than he had liked and had reopened his wound twice; requiring yet more precious time to bandage. His abysmal luck had only worsened over the past hour as private car after private car came to land at the luxurious casino pad that he had chosen. It had been the closest, highest value target he could think of for his second take but he had apparently overestimated the amount of cabs that might frequent Kara's Palace so early in the day. He'd scouted the target months ago and there had been plenty of opportunity then. He didn't know who Kara was, but he had overheard enough to know that the casino was part of a whole chain of Bet-Your-Lucks that stretched all the way to Jita, owned by some scary capsuleer that everyone hated or loved, depending on which everyone you talked to.
 
@@ -298,7 +300,7 @@ As he reached the open hatch he paused, grabbing hold of the latch as though sud
 
 The woman stood back up from the crouching position she'd begun to take and just stared for a solid minute. What on Renaissance could possess such a young thing with such fear of cabs? Gathering her wits she shook her head, and in response to her very grumpy fiancé, who she'd decided had had too much to drink yet again, she slipped into the cab and closed the hatch. Perhaps she could convince Arnst to let her do some shopping on the Promenade before they went home, what was the use in winnings if not to be spent? Her thoughts turned to dresses as the cab lifted from Kara's and flew off into the early afternoon.
 
-*******
+__________________________________
 
 Stepping up to the entry to the bar Meyan shifted the data pads lying against her chest, and awkwardly leaning back to do so, strained to see the timepiece on the neocom at her wrist. 10 minutes late. Cursing to herself and stepping through the doorway she looked up to find only two others in the room. The figure who was seated in the booth was mildly obscured by a decorative partition while the figure at the bar wore a dark jacket and looked so completely out of place in a capsuleer's venue. Meyan was just about to look back to the seated figure when the man at the bar nodded in her direction. Unaware that the other figure had also been in the same direction of that nod, she made up her mind, mustered her courage, and stepped up to the man.
 
@@ -364,7 +366,7 @@ Solu took the opportunity to smile once more at Meyan and she finished her marti
 
 "And you!" Meyan turned and paused to be sure she had everything before starting for the door. She walked a full six steps down the corridor before uncharacteristically tossing her head back and cheering at the empty passageway.
 
-*******
+__________________________________
 
 A person didn't survive long in the shafts and dark corners of the city if they didn't understand priorities; and a kid less so. The pain was becoming unbearable but it was the numbing exhaustion that worried Kip now as he was nearing his closest cache. Possible options jumped through his mind, almost in a sort of strobed sequence but only one option was really doable. His cache was only a few duct segments ahead but he took the next left and came to an exhaust vent for some local restaurant, Matari by the smell of it. This same vent was linked to one that opened to the waste chute for the kitchen and with practiced but weak fingers Kip pulled out his nanostraw and opened the freshlock that kept vermin from reaching the scraps as they were sent on their journey to the composter far below. He removed his shirt and rigged it across the channel then waited.
 
@@ -395,6 +397,8 @@ Whether it was the oddly shaped wall to one side which precluded a clean match w
 An hour later Kip lay back against one of the pipes. The medpaste was well into it's work on his side but he'd had to use most of what was left. The last crumbs of his dinner had been brushed from his shirt which now hung, well soiled, over the other waste pipe. He'd find somewhere to wash it if it was worth saving, but most likely he'd just have to get a new one.
 
 The prospect of spending the night in this particular cache didn't appeal too much to him but his larger hidey-holes were just too far away and his wound too freshly mended. Not for the first or last time he wished that he could just go back to the Kinderhaus as usual but that just wasn't an option either. Shortly after he'd been taken into the small religious-minded orphanage, one of the other kids had taken ill from a nasty cut on his leg. Already in the employ of The Boss, Kip had sacrificed some of his hard-earned isk, and following a quick visit to his friend the fence, produced just enough medpaste to save the young boy. Rather than the hero's thanks he expected, however, Kip had received a very stern look from Mistress Sdint. She'd assumed that it had been stolen or otherwise ill-gotten and the disappointment in that face had been enough for him to rethink ever coming back to the haus with so much as the smell of medpaste on him. There were times, however, when it was really needed, that medpaste would quietly appear in the weekly donation packages which came from local charities. He was finally starting to drift off as one last conscious thought lingered in his head; if this was how days with two discs were always going to go, he was almost unsure as to whether he'd want the second one tomorrow. Almost.
+
+__________________________________
 
 ## Chapter 4: Secrets
 
@@ -452,8 +456,7 @@ Jallif could sense more to it than that but again, he wasn't in a position to pu
 
 "I'll do it."
 
-
-*******
+__________________________________
 
 Phedrick walked calmly down one of nicer corridors of Icarus Station, broader than most station passageways, as befitted those residents who could afford the added amenities; capsuleers. That this breadth came in handy in the event of twenty plus capsuleers scrambling for their pods was less important to him at the moment than that he and his partner Jemmie could walk side by side with plenty of room for opposing traffic. Not that there was any of that; opposing traffic. A glance to his left gave him a bit of a fraternal smile. She had only yesterday attained official Field Agent status despite a more-than-average amount of field time for a Tech. He could see her pride in the pace of her step but the mentor in him saw more as well. There was a purpose, a control in those steps and in how she held her body that hadn't been there before. Not exactly the freckle-faced Security Cadet he'd decided to take under his wing only 18 months ago.
 
@@ -563,9 +566,7 @@ Phedrick had a momentary image of some child playing traffic cop with battleship
 
 Phedrick began opening and digesting each of the files with a sort of awe. This team and the structure behind it was unlike anything he'd ever been part of and he suddenly understood why the capsuleer was asking for full commitment on a personal level. The details alone would take weeks. But it was the immense role to which he and Jemmie were being slated that left him only able to nod for Xeph to continue.
 
-
-
-*******
+__________________________________
 
 Her comm chimed an incoming call as Meyan lay lazily in the weightless suspension chamber that she'd chosen as her bed. Some of her friends at Uni used to joke about spacers using the strange form of sleeping chambers, rather than a simple bed, but she was starting to find the sensation oddly restful. And resting was exactly what she was doing. The job was lined up but without a functioning lab, even the temporary one being finished at Icarus, she had a bit of time to finally settle into her new home. An advance on her first month had resolved her rent and loan issues and even left enough for her to purchase some decoration for the flat. A simple holoprojection system now added a few plants and a reproduction oil painting of her favorite of Renaissances many waterfalls. The comm chimed again outside her notice. Two white chairs and an additional projected 'glass' table gave the room at least a semi-sophisticated place for guests; not that she ever expected to have them. There were just some things you had whether you used em or not. The holo system and table had been a splurge for her. The idea of something that was solid as glass and in the next moment not even there wasn't foreign to someone planet bound as she had been in her youth, but outside the confines of stations and starships the luxury of space just wasn't as big of a deal. Sure, some wealthy execs had used the stuff in their offices back planetside, but it wasn't nearly as plentiful as she was finding it up here. And the extra space was luxurious and practical for daily exercise. The comm chimed once more, finally rousing her from her musings. She rolled out of the field and came to land on her feet. Walking through where the table would/could have been, she collected her comm unit from a shelf near the door. "Yes?"
 
@@ -662,7 +663,9 @@ She had just enough awareness to look around at only a few people standing in st
 
 In what would have normally been a very startling gesture Delyyn leaned in and kissed her on the forehead before leaping to his right and sprinting for the door. Meyan just sat at the bar, a bystander to it all. Some part of her thanked whatever sanity at the network had refused to cut back to the chaos but the anchor was already reporting that emergency pressure bulkheads had been activated and the filtration system crashed mere seconds following the gas bomb's detonation. Experts were also reporting the most likely culprit as a bio-nantite agent whose use had been banned the moment it had been discovered last cycle. Somewhere behind the shock Meyan the biologist made the connection and realized in vivid detail how each and every sentient in that bazaar was having their cells or circuits violated. For those unlucky enough to be human, the bio-nanites were invading each and every nucleus, in each and every cell of their body. The neurons and parts of the brain which handled empathy and other impulses we being hardcoded; rewritten to know only rage in its rawest sense. Every part of the brain except the pain centers. These were being changed as well; enhanced into a sort of delayed fuse. Just long enough to permit undaunted aggression, but just short enough that right before that person died... Just before they could slip from consciousness the pain would come; magnified tenfold and so powerful that the victim would literally die of overwhelming pain. She was vaguely aware that something just as horrible was befalling the sentient AI in that room as well but it was the realization that what she knew was happening inside them had just happened before her very eyes, and to a child who had no hope for the miracle of scanned-cloning, that left her so completely adrift. Meyan cried.
 
-## Chapter 4b:
+__________________________________
+
+## Chapter 4b
 
 The stars reverted from slashes of time streaked light back to mere pinpricks around her on the observation deck of the nondescript Caldari-made shuttle. Distinct against the tapestry of Origin's nebula backdrop she could clearly see what was left of the old Indigo Station. Large portions of what were once the sub-capital docking stations had already been disassembled; their materials repurposed in preparation for fabricating the new station. A sort of cocoon was being constructed around the two remaining carriers with what was left of the extra-large ship maintenance bay that had once dominated the station's profile. It was a bit surreal to see the station in such state. For a short time, prior to her recruitment into the Service, Indigo had been the headquarters of Origin Security Service. That was before necessity had moved OSS's more overt units panetside and their more covert operations, her division, into various pockets hidden among other, less populated stations in the system. She wondered what Phedrick would think of the view had he joined her on the trip.
 
@@ -702,8 +705,7 @@ She shook her head and turned her thoughts back to the mission. She stepped into
 
 As she chose her route inward, Jemmie began to wonder as to the kid's choices. Xe clearly would have downloaded internal schematics of the facility before moving in. Xe'd need those schematics, if for nothing else, to establish an exit plan. Surely if Bee3 had gotten access to the schematics then xe'd have also had access to basic information channels. Xe would have known about the impending demolition, it was the biggest story in Origin for weeks following the creation of Icarus. Why not try to interface over to the new station? And why transfer to a physical body, especially one you knew was in a deserted, sealed, and otherwise forgotten lab in the very same station that was being demolished. None of it added up. This was a sentient digital life, with near infinite access to data. It was like fleeing from your burning ship into the cabin which had first caught flame. Trying to understand her quarry was hurting her head so she decided to stick with the basic facts. The child would need to survive and that meant the central axis corridor. Jemmie continued to pick her way inward as quietly as possible. First she had to find the child, then she could try to understand xer.
 
-
-*******
+_________________________________
 
 Sometime later, after Meyan had lost all track of time, she sat at the bar, a fresh drink in her hand, materialized from Bob-knows-where, and tried to find some rationalization for what had happened. The bar had emptied long ago and most capsuleers had preferred to go out on patrol or to assist with what they could. At one point Meyan had considered offering her not-inconsiderable knowledge as a doctor but reports had claimed a lack of need. Not one person made it out. The sections which had been enclosed within the bulkheads had been gas-vac'ed for evidence. New biomass was already being transported from storage at Indigo Station to replenish the cloning chambers which in turn had begun calling up bioscans for each of the victims over the age of 13, which blessedly had been most of them. She had once posited a term paper on ways to reduce the age limit on bio-scanning youth only to have her theories blow up in her face. Something about the human brain prior to and during puberty just nullified any scan result; the product of all such attempts being a mind that could never continue to mature past the age at which it was scanned. The technology just couldn't replicate the change properly it seemed and modern science hadn't figured it out yet.
 
@@ -735,8 +737,7 @@ Meyan uncoiled her arms and head and discovered just how exhausted she was as sh
 
 "That guy was right you know, you looked very happy in that dress when you came in." With just that comment in parting the capsuleer slipped back into the back room leaving Meyan to suddenly remember the mood she'd been in when she's first stepped in. Looking around yet again she realized that she really was the last one in the bar. Her eyes shifted up to view the bioluminescing ceiling as it's colors danced to the sun's glow. Her life seemed to be speeding up, things were just happening and she felt swept up in it all. Once more she started for the door. At that moment she would have paid some serious isk to know where the operator was and if she could please get off this amusement ride for just a bit. That would be nice.
 
-
-*******
+__________________________________
 
 Xer thoughts snapped back to the present and reactivated the subroutine xe'd set to imitate the expansion of xer diaphragm. Air rushed back into xer new lungs once more and xe flung xer arms out to catch the nearest object; this time a clinic examination table. The oxygen deprived hallucination once more transitioned back into thoughts of escape and the Them once more into mere paranoid fears. What a sick and twisted form of life, to have one's greatest fears made real as consequence of simply forgetting to breath. Images of massive shadows still haunted xer memory files no matter how many routines xe tried to create to delete them. Another breath. Good, that subroutine was holding this time. Confirm additional 'autonomic' subroutines a... b... c... Xer new mind whisked through each check with a lagtime that almost drove xer to find the nearest data terminal and vacate. Xe couldn't, that much xe could recall. A digital form was no longer safe from Them. Breathing. Each routine was becoming easier to balance but so many of them were taking so much of xer processing that any routine set to the task of anything beyond moment to moment survival was proving very dangerous indeed. The stasis chamber had kicked in and maintained xer new body's base functions long enough for xer to set a priority and task mapping but once xe had left the capsule xe'd released her new bowels and bladder, nearly broken a structural chassis joint, barely crawled to the nearest data port, and finally remembered to initiate the breathing subroutines just as xe blacked out. That was the first time xe'd seen Them.
 
@@ -750,7 +751,6 @@ Xe once more exercised her digits, a little faster this time xe noted. The secur
 
 Precisely 1.43 minutes later Bee3 released the door latch and carefully stepped out of the room.
 
-
 Alarms began blaring all around Jemmie. The sudden explosion of noise was enough to lift her a few inches into the air in surprise. Her comm unit pinged with an emergency frequency. "Hey, OSS chick, that you, you hear me?" Crude...
 
 "What's happening?"
@@ -763,13 +763,11 @@ Several rooms and corridors later she could hear her quarry ahead. The sound of 
 
 Jemmie waited while she tried to evaluate whether Bee3 had mastered xer senses enough to have heard her movement. The pause in the young child's steps seemed to indicate so and Jemmie listened for the telltale sound of those footsteps to start coming closer. They didn't, but instead started heading away again, moving directly toward the center of the complex. That seemed to indicate that Bee3 had xer own map or awareness of the facility layout. Jemmie considered her options. She could try to catch up to the child and save xer the trip deeper into the facility. It would certainly be the warmer option for the child. She'd been the one to come on this mission specifically because she was better at reading people and had the innate medical knowledge in case something went wrong. The counterargument was a pretty good one though. How much danger was she in if her offer of help was misunderstood and escalated into a confrontation? A nine-year-old's body was not likely to pose a physical threat, but the damage that could be done to Bee3's trust if an escalation occurred could be devastating. She decided that more information could be pivotal in avoiding the confrontation, which meant observation. She'd follow for now.
 
-
 Bee3's shifted most of her active routines into the sensory functions. Xe was certain xe had 'heard' something in the corridor behind xer. The pain data was coming more frequently and in several forms now. The core temperature of xer body was dropping and xe was now realizing the function of the folded up mylar fabric xe had encountered earlier. How did humans handle such consistent dependence? Xe was beginning to process just how difficult xer existence in this new junction was going to be, adding Priorities 5 and 6; water and warmth to the list. Establishing permanent residence in the facility, what was now a distant Priority 7, was looking even more distant. Xe had underestimated the rate at which this body was consuming energy. Perhaps xe had not compensated properly for the difference in the age of this body from that of an adult. Xe had originally intended to hack into a distribution node, have needed supplies 'accidentally' sent by automated drone to the forgotten facility. That sort of thing had been easy enough while in digital form. But something was preventing xer from accessing any system beyond those of the facility. Xer first process had been to check for a firewall put in place by Them. When that query had turned up negative xe had probed the hardlines to the central processing core of the station and discovered an even more frightening truth; the hardlines where not even there. Xe'd used those very same information highways almost four standard days ago to enter the facility, how could they not be there anymore? The networks might still be available to xer however xe had yet to find a terminal which could interface with them in the old facility. It had been the disconnected nature of the facility that had given xer such promise of safety but now xe was starting to extrapolate possible scenarios which included starvation and death by exposure. These had not been part of the original process map.
 
 Xer steps were taking xer further into the facility. Xe turned a corner, then another. Again xe heard something and again turned to find nothing behind xer. Was this like the oxygen deprivation hallucinations? Could a species be so flawed as to have auditory hallucinations at lack of sustenance as well? Xe was forced to concede that point as xe realized that even xer vision was starting to blur. Xe recalled the memory file containing the facility layout. Xer target lay at the end of the next room. A central corridor ran the width of the facility, a transportation backbone in which was stored emergency rations enough to supply xer for at least a cycle. Xe accessed the adrenal glands of xer new body and sent the command for them to release. It was time to use them now. This was a contingency xe had researched in particular and knew that the use of the chemical had a significant downside that would come later. Xe had also assessed xer current situation and determined that as long as 'later' occurred after Priorities 4, 5, and 6 were satisfied, it was worth the risk.
 
 Xe could feel the effects of the adrenaline chemical as xe reached the end of the room and opened the bulkhead door. Xe let the door swing backwards into the room and moved to poke xer head into the corridor; xe should make sure it was safe. Xer head bumped into an invisible barrier that luminesced at the contact. Xer processes stopped as xe tried to process the new information. There had been no information about any forcefield, no security lockout on this corridor? Xer mind started racing through memory file after memory file, process after process and xe could find only one option. Xe would have to try to find some terminal from which to access a forcefield that xe suspected was not controlled form and internal system. Xe was just turning around, trying to conceptualize how an external field had been raised inside the facility when xe noticed the figure standing at the other end of the room.
-
 
 Jemmie's heart sank as she watched Bee3's head come solidly against the forcefield. It took only moments for her to assemble the puzzle. The facility had been at the core of its surrounding neighbors and with all other external structural support removed, apparently the initial surveyors had had the foresight to put in an emergency structural reinforcing field down the central corridor before demolition had ever begun. What, exactly, had triggered the otherwise foreign generator to activate she didn't know. And it wasn't all that pertinent now. Any remote to deactivate it would be in the hands of the construction crews and nowhere near her now. Bee3 was clearly trying to decide what to do next and based on the slight sway in xer stance Jemmie didn't think much of xer current stamina. It was time to make the call. She stepped out from just behind the door frame and waited in as unthreatening pose as she could think of; a sort of calm parade rest with her hands at her sides as the head of a cold young girl who had run out of options turned and saw her for the first time.
 
@@ -819,7 +817,9 @@ Repair Drone 39283c-VAN couldn't feel frustration. It had not the sentience to u
 
 Repair Drone 39283c-VAN evaluated its directive and concluded that it must now try to deactivate or at least absorb as much of the charge as it could. Again, it didn't understand, that wasn't its function but it also wouldn't contemplate what possible use the target hoped to gain from deploying such a charge or why the target was using the unknown device on Bee3. It just started moving toward them and the charge. 39283c recorded as the charge went off still over five meters out of its range. Two forcefields solidified around both the target and Bee3 a millisecond after the explosion. As the expanding edge of the charge's explosion took hold of the two bio-stasis enveloped humans and knocked them against the facility's primary access doors a heavy duty construction structural field luminesced to contain them. Still meters away from 39283c, a tableau imprinted itself onto the drone's recording circuits as the explosion overtook the drone and instantly overheated its processors.
 
-## Chapter 5:
+__________________________________
+
+## Chapter 5
 
 Network Relay, 1059 hours:
 
@@ -853,8 +853,7 @@ Network Relay, 1059 hours:
 
 ::User SAEDE RIORDAN is away::
 
-*******
-
+__________________________________
 
 Jallif slumped against the bulkhead and as he had been doing for the past hour gently banged his head against the hard metal of the corridor wall. His new masters had been rather surprised to see him return from his piddly assignment; clearly they had expected him to have died within the sudden melee. So, with no real place among the so-called brains of the operation he had been once more relegated to scout duty in the hall. So easy, a drone could do it. Great, I'm a drone.
 
@@ -890,8 +889,7 @@ Jallif had no idea what phase three was, but he was pretty sure it had nothing t
 
 The voice of Ghera had regained some sense of nefarious purpose; "Well then, what's next, Coordinator?" The title was spoken with a sort of cruel humor that sent extra chills though Jallif. He knew with striking awareness that he couldn't afford to still be around by the end of phase three; whatever that was going to be. It was time to start looking for the exit on his own, he'd just have to do it very, very quietly.
 
-*******
-
+__________________________________
 
 Meyan stepped slowly through the parting glass doors into a small reception area that bore an unmistakable medical feel to it. She was still exhausted from the past few nights following the launch party and barely noticed the telltale signs of an office suite that had been built yesterday, literally. There was no one behind the desk to direct her so she instinctively moved for a set of push-doors in front of her. She hadn't been given any sort of security card and there didn't seem to be any sort of optical scanner that she could see so she reached out to the door handle and her touch was greeted with a slight tingle as her DNA was scanned and accepted. Stepping through the door she found a much larger room, well lit with various fabricators and instruments central to the room. Slight alcoves sat inset around the outside of the room; clearly meant as workstations. A few other lab personnel were milling about discovering their desks or workbenches with only a façade of the normal first-day-of-work excitement.
 
@@ -994,7 +992,7 @@ Meyan took another pull on her own drink and felt herself amazingly more relaxed
 
 Nobody did, and later as she settled in to sleep she wasn't too bothered by it. Sometimes a good drink and time to sort out a long day was better than company. She'd have to try a different bar tomorrow. Sleep came as she pondered the best way to add a control and other variables to her new bar-experiment.
 
-*******
+__________________________________
 
 ## Chapter 5b
 
@@ -1004,15 +1002,13 @@ Something was different this morning though. The Boss was late. The Boss was nev
 
 As the time for his first take came and went Kip decided that waiting around The Spot may not be a good idea. At best the Boss was testing them all, and he'd have to give Kip marks for waiting this long. At worst, the Boss was in trouble, and if The Boss was in trouble, Kip wanted none of that. For a moment he thought about alerting Coal on his way out but then thought better of it. She was smart enough to find her own way. He slipped back into the ductwork highways heading inward. With nothing better to do for the day he decided that perhaps it was time to make up some good-will with the sisters and spend a day at the Home. He had nothing better to do anyway.
 
-
 KipTop slipped his nanostraw back into the scar and gently released the latch on the basement entry window. At midday everyone would be at meal so this was the easiest way in. As he turned to reset the latch, something across the alley caught his eye. It had been just some spec of light reflecting off one of the disposal chute access hatches and he dismissed it as he finished sealing the window. He started making his way towards the stairs leading up and a strange sort of chill came over him. Something wasn't right. He knew that if he looked about he'd find everything in order and there was nothing physically wrong with the basement, but he just suddenly had that feeling. It was a feeling he'd very recently begun to trust much more than he had before. He remembered the reflected light and then remembered something else; those chutes rusted over long, long ago.
 
 As his mind started to shift from a homecoming to an escape, KipTop didn't even stop to wonder about his paranoia. This was instinct, something definitely wasn't right. He bypassed the stairs and moved directly towards an access hatch for the Kinderhaus's own waste chute. It wasn't going to be a pleasant trip but with his senses on alert he wasn't about to go back out the way he came in; better if whoever might be watching him thought he was still here.
 
 Kip opened the access hatch and after a moment to steel himself against the smell, he climbed in and re-fastened the panel behind him using magnetic clips he'd long ago installed for just such an escape. He'd have to watch himself more carefully for a bit, but at least he should be able to sleep under the stars tonight, and who knew, maybe that star everyone called Indigo might pass over tonight as well.
 
-*******
-
+__________________________________
 
 A new day; a new bar. The first of two evenings had found her in a rather posh socialite lounge situated at the very top of the twin spires of Icarus Station; a location that took far too long to get to but would act as a sort of outlier for her little experiment. It wasn't exactly 'scientific' but then unless Meyan was planning to attend a new Bar for the next 60 days she just wasn't going to obtain a significant sample size anyway. In the end she conceded that this little experiment was going to have to be more of a hobby than true science and in that light, she would need at least some range of locations. It would hardly do for her to only try bars situated right next to the docks. What kind of sample would that be?
 
@@ -1075,8 +1071,7 @@ Solu once again found herself looking on from the other side of the booths. She'
 
 She stretched and decided that her 'paperwork' was about as done as it was likely to be. She'd have plenty of chance to talk with Meyan tomorrow and it was already getting a bit late. As she passed the bar on her way towards the door she looked up one more time hoping to catch Meyan's eye and at least wave. At that moment, however, Meyan was caught up in a particularly endearing giggle borne of high spirits, Anna's devastating impressions, and booze; leaving no chance of even glancing in Solu's direction. The cybernetics director left quietly with only a sigh as the door closed behind her.
 
-*******
-
+__________________________________
 
 The Agent stepped quietly from the sleek black car leaving it at the curb to idle. The district was hardly without risk but he trusted in the city-smarts of the hardened locals to know better than to interact with a car so clearly owned, and defended, by authority. He'd chosen just this car because it practically screamed OSS and he wanted that clout to ensure the visit played out very much in his side of the game court.
 
@@ -1085,7 +1080,6 @@ Slight movements in the corner of his eyes and identified by his implants alerte
 It took several moments, which had the Agent looking to press the suspect alert pad again, before a rather elder woman opened the door. She looked quizzically at him and spoke something so softly that it was lost to the sounds of many children at play within. He just assumed her intent and got on with it.
 
 "Yes, I am here on behalf of the OSS, may we talk inside?"
-
 
 His perfect tailoring and forward nature were enough to convince her that he wasn't some sort of local prank and the OSS were well known to associate directly with her Home's sponsor, the Araai Foundation. She tried again to invite him in, this time a bit louder; "Please do come in from out there... foul smelling place today."
 
@@ -1125,12 +1119,13 @@ She rose as well to show him out without looking twice at the chip. "Thank you, 
 
 He stepped through the door and out into the alley just wide enough for his vehicle. "And you as well Mistress Sdint." He turned and started walking to the car and she closed the door behind him. It was time to go find out why two of the children had coerced their peers into keeping watch at the end of the hallway.
 
-
 Half a planet away in Foundation city one of 'Agent Smith's' associates waited patiently hunched over a makeshift table composed of mismatching parts and topped with various knockoffs ranging from communicators that would fail in a day to smutty holo-chips. She waited patiently as people passed giving no notice or care to her wares. The alley she had set up next to would have fit quite well beside the one her comrade had just left save that it led into a rather nefarious den of liars, thieves, rapists, and murders. She had no use for them just as they had no care for her withered and decrepit exterior. They'd soon get theirs but today she was here not for them but for what they'd found.
 
 A car whisked suddenly around the corner and into the alley before settling onto idling repulsors. She checked her implant to confirm the target and promptly abandoned the pitiful table and wares. Staying to the shadows as much as possible she used the various detritus of the alley to get within jumping distance just as the doors opened to admit two massive thugs and the bound child they held between them. The girl's skin was darker than any she had recently seen and for a moment she wondered if they'd mistaken the Gallentean half of the child's heritage, until she saw the girl's eyes. The fire of her Brutor father burned behind the clearly Jin-Mei set eyes of her mother. The thugs began directing the child around the back of the car and if she didn't move fast the 'old woman' might not get to her before that telltale Brutor fire erupted into the futile violence that would certainly only end with the child beaten to a multi-colored pulp.
 
 The 'old woman' moved with a sudden lethal grace as she shot out from behind some discarded equipment. Her augmented jump had her crashing through the first brutes face and bringing her knee into the windpipe of the second before the child had barely registered something was above her. Both thugs went down hard but rather than run the still bound girl growled behind her taped mouth and redirected her rage to the new challenge before her. Caught in the direct line of that glare the 'old woman' suddenly wondered if perhaps this girl had in fact been escorting the thugs. She was suddenly very glad of her many enhancements too. The young girl's legs took her suddenly toward the 'old woman' as their footwork lined up for a roundhouse. The 'old woman' barely had time to consider neither the uncanny instinct nor the woefully obvious technique before she delved deep into her implants and slipped like liquid under the kick. She came up on the other side of the child but could already hear reinforcements coming from within the rat's nest. The two thugs were recovering as well and she was out of time. The girl set herself for another furious attack and the 'old woman' carefully twisted one of the rings covertly placed within her fingerless gloves. The child's next pass, a just slightly overextended hook, brushed harmlessly past the 'old woman' who slipped in and open-palm touched the girl's neck. Knowing the speed of her ring's sedative she quickly withdrew a hidden pulse pistol and put two immaculately placed shots into each of the soldiers emerging from the nest. She hadn't meant to kill anyone but she couldn't risk her life or that of the child's any more than she had already. She put two more kicks into each of the brutes' chins and they once more collapsed to the stiff-crete alley before the 'old woman' dashed forward to scoop the now swooning child onto her shoulder. The 'old woman' didn't look back to see who was left to remark on her presence but instead took off out of the alley in a dead run and didn't slow as she found the car lanes beyond suspiciously deserted but for the sudden appearance of a sleek black car. Pulse rifle fire reached out for her from back in the alley and she practically dove, child and all, into the back of the moving car. She thanked the armored doors as they automatically closed behind her interrupting all but a few shots. She'd been hit in her own leg and it hurt like a bitch but a quick review of the now unconscious child showed her no worse for the escape. The 'old woman' mused for just a moment over the girl's scrap of dirty white hair which had once been so carefully molded into a pitiful little mohawk. She was forced to admit some level of grudging respect for this upstart freedom fighter wannabe as the car sped off and up; deeper into the city.
+
+__________________________________
 
 ## Chapter 6
 
@@ -1178,15 +1173,13 @@ Solu simply smiled a small sort of amused smile. "I do have a rather priority co
 
 Meyan stood and walked back out into the lab proper, leaving her friend to her priority call.
 
-*******
-
+__________________________________
 
 Now he was starting to worry. KipTop had found The Boss's doorway empty for more than a few days now and his prospects were starting to get a bit thin. Sure, he could survive on the streets near indefinitely but with his isk flow dried up and no idea where to find a new one he would soon be unable to afford to replenish the nanites in his nanostraw... and then he'd really be trapped. Regular planetary credits and therefore regular planetary work weren't going to cut it. He'd considered trying to sneak back into the Kinderhaus for some of the stores he had hidden inside one of the basement's boards but thought better of it. Whoever was hunting him would surely still be watching and there was no route into the building without being seen outside, the waste chute had been a one-way option.
 
 The only new development had been to realize that Celery was no longer showing up at The Spot either. Her usual hiding spot in the well of the broken-down car had been vacant since the second day of their awkward daily vigil for the missing Boss. Since then a few other kids had failed to show as well and now only Kip, Coal, and two others were present. Perhaps they were looking for work elsewhere. Maybe he should too. The trouble was; he wasn't exactly sure where to look. He'd found the Boss purely by chance... being in the right ally at the right time to see another kid make their take. He had been a bit too curious and followed them back to the alley only to find the Boss waiting. Rather than be angry with Kip, The Boss must have seen something in him and offered him his very first skimdisc. The kid he'd followed had been a little too obvious in his job and was soon after caught by the officials. It had been a strong motivator for all of them; do your job well and get paid, or screw up and get taken. They'd never seen that kid again either.
 
 Another possibility crossed his mind; what if the other kids weren't looking for work but had been caught along with the Boss? The thought alone caused him to squirm just a little and once more reevaluate his current hiding spot. The light's off timer had long past causing the lamplight of his crevice to retreat and he was risking being seen more than usual. Suddenly mindful of just how incredibly vulnerable he was Kip decided it was indeed time to find other options. As he moved back into the electrical duct he once again passed over the junction that led down to the street and to where Coal was still hiding. She hadn't disappeared like the others but there was no telling how much longer she had, despite her above average hiding spot. He quickly pulled out a scrap of some advertisement and a bit of soot he used for marking his way in new tunnels. 'Boss must be caught, not safe anymore... get safe. Stay safe.' He reread the scribbling and nodded before dropping the paper down the duct to land most likely right behind Coal. He owed her that much at least. By the time the paper finally did drift down and land just to the side of the shivering and hungry child Kip was already making his way deep into the tunnels, never to return, not even to look back.
-
 
 Hovance looked up from the till as the door to his shop clicked shut. He hadn't seen who had entered but then, in his line of work that wasn't too surprising. A quick check back through the security feed in his implant gave him just enough image of a diminutive figure and the way that figured moved, to know that one of his most lucrative, and if he had even been forced to admit it his favorite customers, had slipped in. Today, however, he was decidedly not happy to see this particular street-smart 'urchin'. "You best slip back out kid... my backer is lookin for ya. And ain't nobody in your line of work want words with a capsuleer you get me?" He continued to count the till and talk as if to no one at all, not even lifting his head to look around.
 
@@ -1201,7 +1194,7 @@ He closed the till and once more extracted the teal refill module from its secur
 
 No sooner had the door closed behind Kip than he knew it had been a mistake to visit the fence. Anyone who was looking for him and knew of the Boss and the Kinderhaus would certainly have known about the Fence. Had he been so desperate to find work that he'd stopped thinking straight? A capsuleer, an honest to Bob freeking capsuleer was hunting him. He heard the rustle behind him but didn't even have time to turn around. He felt a small sting in his arm and as everything around him began to get fuzzy he had only enough consciousness left to know, to really comprehend how entirely fedoed he was.
 
-*******
+__________________________________
 
 ## Chapter 6b
 
@@ -1221,8 +1214,7 @@ The capsuleer made eye contact with each of them before making his next point. "
 
 "Now, if you'll excuse me I have one last member to retrieve from Renaissance before we can initiate training. Thank you ladies and gentlemen." As Phedrick, Jemmie, and the two techs each made their way for the door to the hallway Xeph sat forward in his chair and pondered what he was about to put in motion.
 
-*******
-
+__________________________________
 
 Consciousness returned slowly and not without some discomfort as Kip rolled to his side and discovered that he was un-bound on some sort of cot. The grogginess persisted despite his sudden adrenaline rush and he tried to expand his awareness of the current surroundings to take in the rather Spartan naval cabin in which he was sitting. Another figure, a woman dressed in the uniform of some sort of private security, sat in the sort of relaxed position he had seen military types use that looked anything but relaxed. Her bench was at the far end of the cabin and she was watching him out of the corner of her eye. So, they hadn't bound him, and there didn't seem to be any sort of bars or energy field keeping him in... clearly he was missing something. Without turning to face him the woman spoke; "We are in route to Icarus. Just sit tight, there is some water in the tap beside your bunk if ya need it."
 
@@ -1282,6 +1274,8 @@ Kip beamed, now he was negotiating. "You bet your boots sir. And, ah... just wha
 
 His beaming grin widened and some of that bravado and false confidence which had served him so well on the streets seemed to once more find its way past all the flashy show of this would-be king of space. "You think I can't?"
 
+__________________________________
+
 ## Chapter 7
 
 Bee3 managed the spoon to xer lips and slurped at the strange milk soup that xer new body required to sustain itself. Xe'd only spilled a small bit of it this time and xer eating companion gave xer an enthusiastic thumbs up from across the galley table. Something so routine for xer companion had been all but impossible for xer to master; on more than one occasion xe'd almost broken down to ask for a gyro-balanced version of the utensil like xe'd seen some recovering soldiers use. Xe was determined to fit in as a digital sapient and so only the real implement would do. Xe prepared for xer next bite and began reviewing xer memory files concerning the past few days.
@@ -1320,8 +1314,7 @@ Bee leveled just about the most human glare yet across at xer companion.
 
 It was at this moment that the door opened and in walked Agent Kamella and a freshly rested KipTop.
 
-*******
-
+__________________________________
 
 Meyan stepped back from the mirror and gave herself a slow swirl which ended with a gentle swish of her dress. She'd been pleased to discover a new pre-programmed setting to her nano-furniture which allowed her to confirm it into a full length three-ply mirror. When would little 'ole her ever have thought to need one? Well, she needed it now. Her little splurge and the mirror it had resulted in now reflected yet another splurge of hers; this gorgeous summer dress.
 
@@ -1369,6 +1362,8 @@ Her first response was to wonder if he was offering dinner, or asking for dinner
 "Excellent, we better get back over to the gift opening though, don't want to be rude."
 
 She shook her head and walked with him back to the crowd. She was quite sure he had a new and distinct buoyancy to his step as they returned.
+
+__________________________________
 
 ## Chapter 7b
 
@@ -1590,6 +1585,8 @@ In the sudden violence Bee lost track of xer most recent internal inquiries and 
 
 Back in the front of the room, Leth summed up xer current processing; "We clearly have a lot of work ahead of us."
 
+__________________________________
+
 ## Chapter 8
 
 The door sealed behind her and she relaxed back into it. Her hands went immediately to the Blooder built torture devices she'd once thought were earrings and removed them straight away. Bob that was better! As gorgeous as they were and as much as they had cost, she really didn't care as she deposited them on the table just beyond the entryway. After an overdue massage of her poor earlobes her hands fell next to the gentle pleats of her dress. At least that hadn't betrayed her. Meyan's mind drifted back over the night as she removed first one heel and then the other. Dinner had been fantastic and her appreciation for Delyyn had only increased after just one taste of his culinary skill. She'd offered to help but he was insistent; she was given instead a front row seat at the galley's island counter while he danced about the meal preparation. His quarters were spacious by comparison to hers. Where she'd only the two rooms with some storage here or there, he'd managed to secure a full suite with both the open concept living, dining, and galley as well as the master bedroom overlooking the central pleasure district commons. The view had been magical through floor to ceiling force fields which could even be extended laterally for an instant deck; if you didn't mind standing on what apeared to be essentially nothing at all. The science of it escaped her but as she eyed up her own furniture she wondered if the designers of that particular feature hadn't cheated and used some nano-tech as well. The water and rock features in the commons had been lit with pulsing colors and seeded with bioluminescent flora and along with Icarus's flourishing new nightlife; the whole view had been breathtaking.
@@ -1626,13 +1623,11 @@ The origin of the third child hadn't been the only information that the Sub-Coor
 
 Assigning Petrian and Meyan to the project had required almost no thought at all. She was easily the best mind to be picking apart proteins and her relatively short tenure wouldn't have crystallized her thinking to the point of inflexibility. Petrian was a strong candidate in his own right but the way he'd taking to the 'pure science' aspect of the task confirmed her earlier prediction that he wouldn't let a lack of information distract him from success. Solu wasn't as worried about the miniaturization aspects of the project anyway. The only remaining trouble was that while she fully intended to bring both of them in on what she knew, she was pretty convinced that Xeph hadn't told her everything. A Sub-coordinator wasn't exactly beyond reproach or suspicion, everything he'd said seemed honest, but she couldn't shake the feeling that he'd omitted things, things even she didn't have the clearance to discover for herself (despite two of her other selves presently attempting to do so). Her digging hadn't turned up anything yet and based on that look from Meyan she'd run out of time.
 
-
 A few hours later Meyan was still going in circles. She'd tried increasing the capacity of some of the nanites in an effort to reduce how many different types needed to be active, but nanite specificity was just something needed and any reductions in that had harsh diminishing returns. She was just about to try another idea when her implant signaled the addition of a new meeting request; set for late in the afternoon with the director and Petrian in Solu's office. She must have seen me looking.
 
 The director's official office was located off a hallway and to the far back of the lab. Save for the occasional stop in for a hardcopy file or a needed office supply she'd never seen her boss use it. As she mentally sent the acceptance to the meeting she remembered that she'd agreed to meet Delyyn about the same time as the meeting. With a long sigh of frustration she quickly recorded and sent a message to Delyyn letting him know she'd be late; whatever this new project was, it was certainly more important than a date.
 
-*******
-
+__________________________________
 
 The group made their way down the corridor in pairs save for Kip. Ahead, Bee and H'Aki walked side-by-side in conversation. He'd like to have walked with Bee but after the embarrassment of H'Aki's aggression during the previous day, Kip wasn't too keen on joining her just yet. He took a glance backward to see Drake and Sophia struggling to keep up. The pace wasn't exactly brisk and looking forward again he wasn't sure why Bee and H'Aki were moving so slow anyway. He thought about talking with Drake and Sophia maybe but another glance back showed that pair to be too engrossed in moving to talk. He really hadn't figured out their deal yet but he was certain Bee had. They were improving at an incredible rate but they were still going to be a hindrance to any group they were a part of and he'd spent several hard years cultivating a strong habit of avoiding alliances with anyone weak. Well, he avoided alliances all together; but for good reason. Trust on the streets made for poor protection. As soon as he could get xer alone, he fully intended to get what info he could from Bee, xe seemed nice enough to him anyway.
 
@@ -1686,8 +1681,7 @@ Bee was almost more interested in Anki and Leth. Supposedly they were there to s
 
 Xe continued to ponder the two of them even as the team's first combat training session ended and Kip took over tutelage of 'how to not be seen.' The concept of stealth was so pivotal to Priority 1 that Bee was quickly absorbed into the activity, one which xe could finally participate in. Xe filed xer observations away for later and was soon trying to assimilate every morsel of information Kip had to offer.
 
-*******
-
+__________________________________
 
 Like a spider in his web he sifted through the terabytes of data as it flowed through his implants like a plasma stream. He plucked out one particular bit of information; a cost analysis for incoming materials from outside of Origin. Alone the figures meant little but a quick check on the files history betrayed the telltale fingerprints of those who had reviewed it before him. Not seeing any tags he recognized he let the file drift back down into the flow. This material was not destined for Indigo and therefore of no consequence to him.
 
@@ -1712,6 +1706,8 @@ He smiled. "Relax, it's a diplomatic vessel, they have no cause to search it, an
 "We'll see. Remember, I am still your only hope out of here alive, don't make me regret bringing you into this little venture." He cut the channel before Jallif could retort and imagined the many curses being hurled randomly at him across the emptiness of space. Such a weak and pathetic little creature.
 
 The other portion of his attention located another file, checked the history, and he smiled yet again. Once more he glanced at the image of his target and knew he'd just gotten a whole lot closer to it.
+
+__________________________________
 
 ## Chapter 8b
 
@@ -1857,8 +1853,7 @@ Delyyn was still there; laughing loudly with Tez and Aaron at the usual table. T
 
 She fled. He couldn't possibly have seen her crashing in on herself in an emotional personal horror and he wouldn't have had the capacity to do anything had he seen it, so she fled. The fast paced shuffle back to her rooms was spent desperately trying to fight back the torrent of tears threatening to overcome her and even if it was only in her mind she imagined the door slamming shut as it whisked back across the doorframe from left to right. For the second night in a row her back landed heavily against the door but this time it heralded an outburst of pain. Finally her anger turned from her to him and she quietly sobbed that her incompetence, while it may have lead to his drunken state, certainly didn't make her responsible for it. Her pity party train quickly took a new rail as she vocally cursed that he hadn't even bothered to message her either. And to think, last night she had been that close to inviting him into this very same room. Her mind raced between pity and anger even as she finally managed the effort to strip down and find her way into the suspension bed. One final though passede through her mind as she eventually found sleep; Guys Suck.
 
-*******
-
+__________________________________
 
 Xe eyed the glowing activation panel on the column before xer. A single dot followed by many little dots, two dots followed by a water drop amidst many little dots, and finally three dots followed by two water drops. Xe pressed the panel once and a warm mist sprang forth from the small apertures all along the column from decking to ceiling as xe was enveloped by the soothing mist. Xe closed xer eyes and exhaled slowly as Kip limped into the refresher room. He also took a moment to inspect the illuminated instructions and tried a single press. "What the!?" Bee opened xer eyes just in time to see Kip jump back out of the mist with a strange look on his face.
 
@@ -1950,6 +1945,8 @@ Bee tried commiseration. "I wish I knew my dad, or paternal program donor, or wh
 Bee had no response to that revelation and so said nothing more as H'Aki climbed up into the bunk. Drake hobbled back in from the common room and chuckled as he saw Sophia already fast asleep without having bothered to even get under the covers. The others looked over at the chuckle and he responded by recommending they all follow suit. Tomorrow was going to come early.
 
 Bee saw no fault in his logic and so decided not to continue xer inquiry into xer companion's history. Instead xe used the remaining moments as the lights dimmed to wonder as to just how Drake seemed so much more informed than xer and Sophia. The inquiry never finished running as xe drifted quickly into sleep.
+
+__________________________________
 
 ## Chapter 9
 
@@ -2079,8 +2076,7 @@ The same officer who called the activation spoke again and Jallif tried to follo
 
 "Good for them... now, Get. Us. Out. Of. Here!" The Captain rounded back on Carpor just as the warp tunnel opened and they leapt from the battlefield to safety. Well, safety for them maybe. Jallif could have cried.
 
-*****
-
+__________________________________
 
 Kip found himself walking with the others down another corridor that, as before, was also lined with the watchful eyes of security cameras. This time though, he wasn't walking alone. Sophia was striding along just beside him while Drake, Bee, and H'Aki were just a few steps ahead and already in their own heated debate about who bested who in the last sparring match. Most of combat training was multi-attacker scenarios now and even in the short few weeks since Kip had made his embarrassing debut into the world of combat training he was surprised by how quickly he'd gotten better. He was still having trouble with more than one opponent at a time and he still wasn't a match for H'Aki, or even Drake and Sophia who had both excelled as such a rate that he was even more perplexed as to how, or indeed who they really were. Bee had been dropping hints about it but she wouldn't come out and tell him what she suspected and it gnawed at him. But they were both nice enough, especialy Sophia, who, as it turned out, had a practical joker streak in her a kilometer wide. She'd got him good a few nights in with some sort of fluid pouch designed to fail when it reached body temperature. He'd awoken to a very wet bed and spent half a day trying to hide his mortified embarrassment from the others until the incessantly gigging culprit finally 'fessed up just after lunch. She'd even gone so far as to explain, very privately to him, that she'd gone after him first so that now they could prank the others together. A few days later they'd gotten Drake by reprogramming the controls on his favorite refresher station to only allow shower mode, then heckled him about all the water he was wasting. He was so sour about it that Sophia insisted on doubling down on him as their primary target for the next two as well. Leth and Anki weren't exempt either as each of them fell for some very minor but well-crafted reprogramming of their equipment. Leth had gone almost apoplectic when he'd done a health scan on Sophia which reported her as 100% inert 'meat popsicle'. Kip had no idea what a popsicle was but somehow the unrestrained giggling from inside the scanner; giggling which apparently a waiting Bee could hear even outside the room, had quickly calmed the frantic tech. Kip was discovering that he had a pretty good hand for hacking as well and all of the pranks were actually giving him challenging practice. Sophia had been the one to reprogram the scanner, but all of the others had been Kip; with Sophia's encouragement of course. He hadn't even had to use his nanotube once.
 
@@ -2160,6 +2156,8 @@ Sophia was returning with yet another cup leading Bee to look down at xer's whic
 
 "Isn't this the best part of being a kid?!" Sophia's excitement really was irrepressible sometimes and Kip just smiled in agreement. Her long red hair bounced as she walked and Kip tried to see her not as the kid she clearly was but as some sort of machine. He gave up quickly and shrugged. What was all the fuss about with digital sapients anyway? They seemed like normal people to him. He worked on finishing the rest of his own cup as conversation quickly turned to what the next day might bring and in the end even Drake managed to wander back over and lend his predictions.
 
+__________________________________
+
 ## Chapter 9b
 
 Meyan sampled the first bite and an explosion of flavor filled her mouth. It was zesty with just enough tang to cut it and smothered in a cheese that was just divinely creamy. She chewed the bite just a few more times as yet another note joined the symphony. This one was low and earthy and as she swallowed it left such a smoky depth of flavor on her pallet that she couldn't help but roll her eyes and smile. She set down the traditional Achuran eating utensils, two sticks that she was finally starting to use like an adult, and beamed over at her dining partner and the artist of the amazing meal spread between them. He simply grinned back at her as though pleasantly aware of the effect that his culinary effort was having. She almost didn't want to take another bite or drink for fear that she'd lose the lingering umami aftertaste. He saw her hesitance and guessed correctly. "I know, right?"
@@ -2195,7 +2193,6 @@ He nodded. "You know, Iralis might be up for shopping. And she could likely use 
 "Maybe I could, yeah." She also took a bite.
 
 The meal continued with light conversation peppered in here and there and by the time the simulated sun dipped below the reflecting pools at the far end of the pleasure deck they were looking out over they'd both finished their meal, cleared the table and chairs, reset the window's force field, and were getting ready to leave for the S'up.
-
 
 Iralis arrived promptly at 14:30 and in her typical fashion, born from many years serving as first a Munitions Tech, then Mate, and so on through various navy's up to the Fleet Tactical Commander rank she now proudly held. A traditional view of the look of 'motherhood' was never so inappropriately attributed and yet from where she sat in the café's patio, Meyan could see beneath the cold tactical gait, impeccably cleaned blouse and pants, and even the rigid way in which she looked about her. There was a softness there of someone who could be, and truly was one of the most caring and attentive mothers she'd ever met. Tez spent just about every night singing Iralis's praises with her and Delyyn when they drank so even if she hadn't her own eyes and word of mouth alone she could not but admire this woman as she waved to her.
 
@@ -2484,8 +2481,7 @@ She thought about it but she was already too tired to try to explain everything.
 
 She put the cookie in her mouth and headed off towards Ellie's room; the first stop on a very special tour of the station that she was actually looking forward to.
 
-*****
-
+___________________________
 
 Private Relay, 1430 hours [the following day]:
 
@@ -2524,6 +2520,8 @@ Private Relay, 1430 hours [the following day]:
 ::Ugh, Jemmie; please, and yeah, we know:: Jemmalyn Droitacopius
 
 ::User JEMMALYN DROITACOPIUS disconnected::
+
+_________________________________
 
 ## Chapter 10
 
@@ -2658,8 +2656,7 @@ Meyan smiled as she considered her young patient. "Thank you Bee, and for the im
 
 Bee smiled back. "And your skin looks amazing." Xe didn't wait to see the effect of xer very targeted complement but instead turned and walked happily back out into the same small room in which xe, H'Aki, Kip, Sophia, and Drake had begun their little journey together. Xe sat at the table and wondered. Everything changed today and while xe didn't know exactly how or why, xe did know that somehow everything had just gotten that much more real; and that much more dangerous.
 
-*****
-
+_________________________________
 
 Kip's mind wandered. It shouldn't have, but it did. The others had left quite early in the morning for their health scans today leaving only H'Aki and Kip to make their own plans. He was determined to be part of the team and if they weren't going to be doing any more official combat training it meant that he better catch up or he'd fall behind. To that end he'd recruited H'Aki to give him some one on one time on the mats while the others were out. His biggest hurdle was now managing multiple opponents at once, in specific being able to deal with one attacker while preparing to catch another with a kick.
 
@@ -2703,8 +2700,7 @@ H'Aki relented. "Look, maybe things are moving too fast for you and I, but I wan
 
 "If it's getting around to your second opponent fast enough, then let's change it up. How about instead of kicking me, you go for a flip. You know that one well enough from before." She smiled again, and he figured that she was remembering how she'd laid him out the first time and how hard he'd worked to be able to the same back to her. He nodded and smiled back. As she lined up and activated the dummies to reengage he had the stray thought that maybe, just maybe she didn't hate him anymore.
 
-*****
-
+_________________________________
 
 They don't even realize I'm here do they? The fedoshit idiots. He sat in his little corner as Ghera and the Captain argued.
 
@@ -2758,6 +2754,8 @@ He tried to bring himself under control, tried to meet her twisted stare as she 
 
 He took a deep breath and did what he always did; he survived.
 
+_________________________________
+
 ## Chapter 10b
 
 Anki stepped into the team commons in a manner that caused each of them to notice, set down whatever they were doing, and make their way over. They each took a seat around the table facing towards her. These sorts of informal information sessions were the norm for them however this particular session was anything but normal. Anki cleared her throat and began.
@@ -2776,8 +2774,7 @@ The title gave Kip some pause but his courage prevailed. "How will I... we be pa
 
 "The first scenario will involve you, H'Aki, and Bee in defense against Drake and Sophia. I cannot tell you any more than that as the purpose of these scenarios will also be to test your ability to quickly respond to new information, including the specifics of the scenario." Kip was clearly not satisfied with the response but the time for enabling his dreams of glorious combat would soon come to an end. "If there is nothing else?" No one so much as moved. "Goodnight" She left the room as she had come in and only relaxed when she finally arrived at the monitoring suite around the corner from what would now be called 'The Base'. The afternoon was coming to a close and much still had to be done before the morning. Anki found her desk and began calling up each planned scenario starting with the first one tomorrow. Just kids... She pulled up the timeline and Drake and Sophia's fitness reports and sighed. At least those two 'kids' had only days to be ready for... well ready for hell, if ever there was such a place.
 
-*****
-
+_________________________________
 
 The small nondescript conference room smelled of sterilization and sweat as Meyan watched the holo-image of a man who had so impacted her life. She couldn't decide whether it was for the better or worse yet. Everyone who had had a hand in the monumental surgery from that morning had almost immediately relocated to this hidden room following her final activation and examination of Sophia's implant suite. They hadn't even had time to change other than Dr. Aszet who had only donned a clean set of medical scrubs. Despite being mid-afternoon, everyone in the room was ready for an early end to the day; that apparently included Sub-Coordinator Xepharious who had insisted on the usual post-theatre debrief. They'd already covered the standard review of each patient's condition; which was excellent despite the outpatient nature of the procedure and in line with any standard implant installation. Now they were moving on to the last item: Abnormalities.
 
@@ -2841,8 +2838,7 @@ That he even noticed suddenly meant the world to her and with his eyes on hers d
 
 Somehow, the night was made even more magical.
 
-*****
-
+_________________________________
 
 The inhabitants of 'The Base' were a bit more subdued as proverbial 'dusk' settled in. Sophia continued to study just about every tactical scenario she could invent out in the commons while Kip listened in and tried to keep up with some of the more arcane ones. Drake was off doing whatever he did in the evening, but then he was always subdued. In the bunk room, Bee reclined in xer bed as xer mind flew through every scrap of evidence xe had to solve the riddle that was Sophia and Drake. Xe was already feeling a little guilty at keeping xer implant secret from Kip and H'Aki; they were xer friends and teammates and it just sort of felt wrong. At the thought xe looked up at the bottom of H'Aki's bunk. Xe knew that H'Aki had a data pad up there with her and because xe was already patched into the security feed xe could see that she was grinning in a perplexed sort of way. Xe couldn't really inquire, given only the camera feed which xe 'didn't have', or xe might give away xer new implants; so xe waited. A moment later H'Aki spoke. "Huh..."
 
@@ -2984,6 +2980,8 @@ Kip and H'Aki awoke to bright flashing lights and a blaring siren as their entir
 
 "I said stand to! We're under attack!"
 
+_________________________________
+
 ## Chapter 11: Battles
 
 "I said stand to! We're under attack!"
@@ -3037,8 +3035,7 @@ H'Aki lept at the chance for something to do and together she and Kip had a chai
 
 Kip's fingers flew, faster than he'd ever hacked or reprogramed anything in his life. But it wasn't fast enough. He heard the clatter of the ventilation covers behind him but didn't turn to look yet. He'd activated the drone's cleaning routines and in a moment of brilliance he'd reprogrammed them to target animate beings rather than inanimate objects. Maintenance drone programing inherently kept them from doing anything directly harmful to humans and he knew that. Even if he'd wanted to turn them to fight Sophia and Drake, they'd likely end up trying to heal them to death before doing them any harm. But he could tell them to clean. He could hear the drones picking up speed behind him and he was running out of time. A scream from behind whipped his head around just in time to see one of the three drones flying straight for Bee.
 
-*******
-
+_________________________________
 
 Waking up with an implant was, perhaps, the very best advantage of having one. There was no mucking about with irritating alarms or even music. Instead, the gentle shift in her brain chemistry roused Meyan as her implants synthetically adjusted her sleep cycle and brought her out of REM sleep. She smiled as her arm reached out to land reassuringly on Delyyn's hip. He shifted gently to the contact but remained sleeping. Her own mind drifted back to the night before evoking a general warm feeling. He'd been an excellent lover, though she had only the one time back at Uni to compare too, and that had been about the most awkward thing she's ever experienced with another person. Perhaps trying to compare last night to a drunken journey of discovery wasn't the best way to start the morning, nor was remembering something she'd tried hard to forget. She smiled even more for the odd humor and snuggled in closer to the warm body and was rewarded as he unconsciously shifter back towards her.
 
@@ -3069,8 +3066,7 @@ Solu didn't miss a beat. "I trust you, you have a good eye for the details, and 
 
 Solu smiled before turning to leave. It wasn't until Meyan was back into the break room and gathering her things that she realized the last word Solu had used.
 
-*******
-
+_________________________________
 
 "Ok, so what happened here?" Anki paused the 3d projection just as one of the maintenance drones sprayed Bee in the face with cleaning solution. All five of them were sitting in the common room of The Base and Kip looked briefly about at his friends as they all stood at attention amidst the 3d image that Anki had projected throughout the room. To the left of center holo-H'Aki was mid-kick to holo-Sophia's chest as holo-Sophia was tripping over the placed chair that she was trying awkwardly to land on. Holo-Drake was also just landing, a bit more carefully, next to a pile of random crates, having flipped himself to the side of it. Two maintenance drones were moving swiftly at him wielding their own cleaning solutions. Frozen in the corner of the room, holo-Kip was clearly busy trying to finish the programming from one of the consoles. His face was utter horror as he was looking back at Bee.
 
@@ -3114,8 +3110,7 @@ Kip had no answer. "I... I don't know... Ma'am" He'd just reacted at seeing H'Ak
 
 They all responded with a crisp "Yes Ma'am."
 
-*******
-
+_________________________________
 
 Meyan's first call was to Tez while she made her way straight to her apartment. Tez had been more than happy to give her a lift but set a rather tight departure schedule claiming that she had to be on patrol for a rather important phase of the Indigo project. Meyan collected slacks and a blouse that gave her that extra authoritative edge, including a pair of smart but comfortable shoes. She first thought to leave her labcoat home but then thought better and left it on; every little bit of professionalism might help right? She folded the garments into a satchel and was back out and on her way in minutes. She could just change quickly on the ship anyway. Her next call was to Delyyn. He answered and quickly assessed that she was moving.
 
@@ -3130,6 +3125,8 @@ He couldn't see the good omens hidden in what she had just said like she had, or
 He still wouldn't relent. "She's just taking advantage of you, I mean, it's not really in your job description as a biologist right?"
 
 She was about to clarify how this was a potential advancement opportunity and tell him about how she'd already been given several roles far more sophisticated than some lowly biologist but now she was starting to get frustrated and her patience seemed just a bit shorter of late. "I'm sorry Delyyn, but this is important. We'll just have to reschedule for tomorrow I guess." She didn't really feel like waiting for his reply, and she was almost to the docks anyway. "I'm boarding now so we can talk later." She ended the call. By the time she got aboard the frigate and found a suitable place to change her frustration has moved just a bit closer to a full on 'mad'. Regardless, she began reviewing the specifications that Solu had given her. She figured that there would be enough time on the trip over, but with only about an hour or so of time once they arrived and before her meeting, she'd have to study as much as she could now just to catch up. She determined to impress the shit out of everyone... maybe even herself too.
+
+_________________________________
 
 ## Chapter 11b
 
@@ -3237,8 +3234,7 @@ Later, as the after-action briefing began, Bee lost all appreciation xe ever may
 
 Kip and Sophia could no longer contain their laughter.
 
-*******
-
+_________________________________
 
 "Not to sound cliché, but... we there yet?"
 
@@ -3456,6 +3452,8 @@ Even as their fragile little ship tried to disappear into space, Meyan watched a
 
 "Sorry hun, those drones get within 2.5 klicks of us and we ain't cloaked no more. Hold on, gonna try something." Even before she said it Meyan watched the starscape flash by as the Buzzard did a full 180 almost on the spot. "Help is coming..." Tez's voice implied the other half of that statement. Meyan could almost feel the enemy drones swarming in on them like evil ghosts sent to strip them bare of all protection and her mind finished Tez's statement; 'Help was coming, but not in time.'
 
+_________________________________
+
 ## Chapter 12: At Risk
 
 "Hang on!"
@@ -3512,7 +3510,7 @@ There was a dead finality in Tez's voice, one that sent a chill through Meyan. I
 
 She tried to recall where her thoughts about Delyyn had headed but couldn't. Meyan knew that something had changed, and she wasn't really sure what it was or how it would play out, but now was no longer the time to think on it. Tez warped them back into the expanding debris field and they approached the wreck of the Sabre. Meyan had never seen the looting of a wreck or the collection of post-combat biomass before but as she watched Tez gingerly scoop several floating bodies into the Buzzard's cargo hold, including one that had all manner of tubes and sockets splayed out of her, Meyan decided that she never again needed to witness exactly where her next 'life' came from. She retreated back to the small passenger compartment and spent the rest of the trip desperately trying to keep the image of the pale naked half-woman from haunting her dreams forever.
 
-*******
+_________________________________
 
 Kip's eyes opened and for a solid two minutes he just lay there. Had the alarm sounded? No. It felt like he'd had a full night's rest but he heard no one else rustling about. The others had been waking up at almost the precise time needed for them all to get dressed and ready for each morning scenario. A few years of living on the streets had made Kip enough of a light sleeper that their usual rustling was enough to wake him as well. He closed his eyes, rolled over, and listened for the gentle sounds of breathing which normally accompanied the sleeping state of his teammates. They were there, but they seemed less somehow. The lights hadn't come on yet, so there was no need to fully rouse and Kip knew the real value of sleep. He smiled just a little to himself and his mind started to find that tendril of a dream he'd been having. He'd almost gotten it too when he heard the unmistakable sound of The Base's front entry closing.
 
@@ -3840,6 +3838,8 @@ He almost turned around and went back the other way rather than face the absolut
 
 "Well congratulations to you then."
 
+_________________________________
+
 ## Chapter 12b
 
 Private Relay, 11:45 hours [that day]:
@@ -3872,8 +3872,7 @@ Private Relay, 11:45 hours [that day]:
 
 ::User PHEDRIC GEIN disconnects::
 
-*******
-
+_________________________________
 
 Spirits were mixed from the morning's challenge as the team made their way out of the refreshers and into their respective bunk areas to dress. The time between the morning's debrief and when they were expected to gather again for the afternoon briefing left just enough time for a quick refresher and lunch, any time spent dawdling would only mean less time to eat. The rhythm was almost second nature by now but as they emerged from the bunk room to line up at the typical impromptu buffet which arranged itself each day, they also found Anki waiting for them. Her arrival generally announced the end of lunch and the beginning of the afternoon briefing. Kip glanced longingly over at the buffet but even as his stomach voiced its own opinion his muscles responded by coming quickly to attention right along with the other members of the team.
 
@@ -3896,7 +3895,6 @@ A chorus of yeses responded.
 "You'll each be taking different transportation and you'll meet up back here tomorrow after having spent the night aboard your respective transport ships. For reasons of guardianship I will accompany Drake and Sophia while Leth-" And she nodded to her cohort who stepped forward and nodded, "-will be traveling with you other three only so far as the arrivals gate on planet." Anki ended abruptly and looked about the group. Kip's own emotions were such a whirl of excitement and anticipation that he was entirely oblivious to the way in which H'Aki and Bee were glancing about. It was finally happening, he was finally going out in the field and he was actually going home. Even if he couldn't stay, that meant a lot.
 
 There were no questions this time and while Kip tried to reign in his tempest of feelings on the matter Bee and H'Aki began their own brand of mental planning. Drake and Sophia just seemed as calm and collected as always.
-
 
 Kip stepped off of the shuttle loading ramp alongside H'Aki and Bee. They were instantly surrounded by the throng of other people arriving from the orbiting spaceport. For many of these people it was their first planet-side view of a new home, for Kip it was a homecoming. This was his city, even if he'd only really lived here for less than a handful of standard years. It was the smells that hit him first and made it all so real.
 
@@ -3983,8 +3981,7 @@ The rather neat Matron who greeted them at the door to the three story stone fa�
 
 Her mortification was compounded when they seemed too tired even for the soup which went uneaten.
 
-*******
-
+_________________________________
 
 Private Relay, 19:26 hours,
 
@@ -4016,8 +4013,7 @@ For all of us :: Xepharious Wryn
 
 ::User XEPHARIOUS WRYN disconnects::
 
-*******
-
+_________________________________
 
 The front door approach came back to bite them in the ass. Kip, Bee, and H'Aki had no issues slipping out of the House later that night but apparently they hadn't counted on Matron Celeste's sixth sense. No sooner were they out of bed when they heard rummaging from down the hall. Kip's nanostraw, fully restocked with nanites thanks to Anki, got them through the front door again but they had to book it across the street as more than one light came on in the House's windows. The trouble didn't stop once they reached the spaceport either. Bee intercepted an all-points-bulletin with their faces as it sped ahead of them to reach every security officer throughout the spaceport. To add insult to injured pride, they were the exact same photos which Bee had so carefully implanted into their counterfeit files and given to the overprotective Matron.
 
@@ -4089,12 +4085,13 @@ The datapad's holo filled the stillness of the next few minutes with a song all 
 
 "Timothy Lethrov"
 
-
 Sub-Coordinator Xepharious floated, suspended in his own pod and living through every conduit, sensor, and vocal pickup of the Angel's Song. He'd stayed docked though he knew that Drake and Sophia, or as he knew them; Agents Gein and Droitacopius, wouldn't be coming back that night and nor were they likely to return the following morning. He knew he was risking much by keeping his charges here but traveling back to Icarus with them right now was almost as dangerous. In the end he felt that having them tucked safely under his figurative wing was best. Besides, he couldn't bring himself to warp off when two of his agents were still directly in harm's way on the planet below. He'd set them up for the gamble and he'd see it through.
 
 But his thoughts weren't on them in that moment, and they weren't even on their mission. Instead his multi-tasking mind was racing back to the files he and Solu had stored on the central secured network at Icarus. They were running a cross-check on two samples of blood which he'd never before thought to compare. It took only moments but the result filled him with such hope and triumph he dared not even breathe. But the tests were conclusive. Lethrov wasn't exactly an uncommon name and coincidences were plentiful when so many millions of people lived in one system. But the timeline and the woman Kip had described had been just too many coincidences. Xeph thought back to the bright and eager Munitions Mate he'd promoted to crew his very first stealth bomber, and that same bright and eager recruit he'd hired so long ago to crew the Relentless. He thought of how she would always find some remote spot in his ship from which to stare out at the stars. He also thought of how excited she'd been when he sponsored her for Capsuleer trials. Even then she'd been so very secretive about her past even going so far as to secure the identity of her only dependent. He'd never thought to look; thought to ask.
 
 His thoughts now were on just how she would feel when tomorrow morning he'd bring Tezra Lethrov her long lost son.
+
+_________________________________
 
 ## Chapter 13: In the Shadows
 
@@ -4161,8 +4158,7 @@ Drake thought about it for a moment and his own sad smirk joined hers. "She real
 
 Sophia gave him a sort of wicked smile, "Are you?"
 
-*******
-
+_________________________________
 
 Waking up in a grav-bed was nothing like waking up on his dorm bed. For one, Kip's first peek at the world around him was entirely vertical. He could see out from between the parallel slightly padded panels which made up both sides of the 'bed' to look over the small cabin. There was a washstand tucked neatly into a recess in the wall along with several drawers beside it. It was a strange room but one he'd had enough time to at least inspect last night. Almost all of the drawers had been locked but those he could access had only basic hygiene items. Given who's cabin this was Kip wasn't about to go wasting his nantites on pure curiosity. The cabin was small, but at least the grav bed hadn't been too small as well. He tried to 'roll over' and succeeded only in wiggling just a little in zero-G. it took a moment to remember but once he had his hand moved slowly out and took hold of one of the padded holds which were carefully set into the bottom and top of the 'bed'. His space sickness somehow hadn't held true for all zero-G, apparently only for EVA but he did feel a little lightheaded from the gentle spin as he remembered to exert only a tiny bit of energy on the movement. The gentle rotation brought him nearly face to face with Bee. Xe was clearly awake as well and whispered to him. "Good morning."
 
@@ -4193,7 +4189,6 @@ Bee was quiet for a moment before speaking again. "I guess so." This time xer si
 By the time he returned Bee was still hard at work though xe had moved to take over the portion of the bed which Kip had so recently occupied. Further inspection showed that perhaps xer impetus for moving may have been the new sprawl which H'Aki had adopted; filling even more of the space between grav plates, if that was possible. He didn't want to disturb either of them so he found a recessed stool and extracted it to sit down and wait. Comparing his two friends in their resting state was amusing to say the least. Bee, like him, wore a loose fitting fabric which they'd gotten from the ship's stores. It was a bit too large but xe'd managed. Also like him, Bee took up so very little space within the grav field. He wondered if it had anything to do with personality; small, wrapped, and protective for Bee and himself while H'Aki's position and preferred lack of sleepwear matched her quick emotions, free spirit, and zest. Thoughts of something as simple as flimsy clothing making one feel protected was an interesting concept. He'd never really put a lot of thought into the 'why' of such things; he'd never really had the time to before. It was Bee who'd gotten him to actually start thinking about the 'whys between moments' as he'd started calling it. Perhaps that sort of thinking was why he'd finally felt ok letting xer in like he did last night. Certainly it was how he now understood that it was H'Aki's willingness to take risk which he found so fascinating and maybe even a little mysterious. His were rather deep thoughts on this morning and as Bee's eyes opened to indicate xe had found something he silently wondered if maybe that meant he was finally reaching the puberty process, or at least the part of it where Leth had said his brain could start to process the growth necessary for re-lifing.
 
 Bee slipped gracefully out of the grav-bed with none of the lightheadedness which he had. But instead of walking over to join him xe smirked his way, rolled xer eyes at the inconvenience of it, then made xer way around to the waste reclamator. It left Kip with a few more moments to think on what might be just ahead for him. He'd once asked Leth when he would be eligible for re-lifing but rather than an answer he'd gotten a science lesson instead. Eventually the short answer would have been 'after puberty' but somewhere in the long answer Kip had learned a lot more about adolescent anatomy and brain physiology than he'd asked for. 'Pre-adolescent brains were still quite elastic', Leth had intoned, 'and while we do know that modern advancements in genetics and even natural human evolution have brought the mental maturation process more in line, chronologically, with the physical timing; the physical timing has moved up as well. There aren't any records that go back far enough but some have speculated that puberty once lasted clear into the mid-teens while the mental maturation didn't complete until almost the mid-twenties.' Kip had managed to hang on this long without becoming too bored. 'Personally I tend to respect these theories even though not everyone does. But in the end that's all they are, theories. Sure there are certainly signs in the genetic history that point to it but without any actual historical medical records a large percentage of the scientific field just can't get behind it. For our purposes, or that of the re-lifing process, brain elasticity doesn't solidify enough until around the early teens.' Kip eyes must have gave him away because Leth had simplified it for him; 'When you've got a lot of hair down there you get a spare.' Kip wasn't exactly praying to Bob for puberty to start but at least a hint of it would be nice. Maybe that was why the whole deeper thinking thing mattered so much.
-
 
 Bee returned and found a spot leaning against the bulkhead next to Kip. Xe glanced over at H'Aki and smiled at how she had now completely taken over most of the grav-bed without so much as stirring. "I just can't sleep like that."
 
@@ -4259,8 +4254,7 @@ Kip raised an eyebrow at xer mention of the lab but xe didn't acknowledge it. Th
 
 H'Aki feigned an exasperated moan. "All of it, can't you let a girl get some sleep?"
 
-*******
-
+_________________________________
 
 The pattern was becoming a bit dull at this point but that didn't bother Ghera as much so long as it kept working. The hack she'd used, or more precisely that her associate had used, to slip into a local journalist's notes had worked fantastically. This was now the sixth home she'd be able to liberate within the week. Horrible; all of them filthy and detestable. It almost wasn't worth walking into the stench. But that look on each Matron's face; now that was worth doing this in person. Well, the look as well as the overwhelming feeling of finally doing something. The praise from the kids didn't hurt either.
 
@@ -4310,7 +4304,6 @@ Riggers never was very expressive but he manages to raise his eyebrow questionin
 
 "Sure, but you are the electronics wiz. I need to you reprogram a drone..."
 
-
 "Mr. Nan-Nan?"
 
 Sophia and Drake were lagging behind the other kids as they walked away from the transport which had just been pulled into a large warehouse.
@@ -4347,6 +4340,8 @@ Behind them they saw the young Head Matron being not so gently escorted across a
 
 Drake nodded as he set about mapping out the social hierarchy and any possible escape plan they might have should everything go south. Meanwhile, Sophia slipped deeper into the network searching for some backdoor that might exist between Ghera's systems and their real target. This was her kind of stealth and she found herself thanking Bee on more than one occasion as she narrowly slipped past one firewall or went around another. She couldn't afford to actually defeat or even degrade any of the current mechanisms in her way; that might alert someone to her presence. Instead she was just beginning her work as she mapped out the digital space around them to match Drake's physical and social space. Her task was likely to take some time so she found a nice corner and pretended to hunker down with her pet drone Mr. Nan-Nan like her life depended on him, which it still could in the end.
 
+_________________________________
+
 ## Chapter 13b
 
 Bee glanced over at Kip who had gone from watching his videos back to pacing about the cabin, soon he'd ask H'Aki to spar or do katas again and the cycle would start anew. Even Bee's considerable patience was starting to wear a bit thin. The ship hadn't moved all morning and the Sub-Coordinator wasn't being very clear about why. There was nothing much else to do so Bee occupied xerself with reviewing previous scenarios. That review hadn't lasted as long as xe'd hoped and now xe was trying to better understand the nature and purpose of practical joking in comparison to other inner-societal survival methodologies and techniques. Perhaps that venture might prove to consume more time than re-hashing tactical analysis. At this particular moment xe was reviewing the causal effect which Sophia's tricks had had upon xer own data security. The journey to the mission yesterday had been spent trying to find some way to counter any attempt Sophia might make to embarrass Bee again. Xe'd been unable to actually see what data was stored in the package which xe'd uploaded to the nanny drone but Bee had done the next best thing. Xe had booby-trapped it. Xe had no conceivable reason to believe that Sophia might get access to that package but xe wasn't taking chances. For all Bee knew, even Leth might try to get back at xer in some method other than really nasty challenges. And so, in that manner, the very moment anyone tried to access the data package stored within the nanny drone, her alarm would send out a burst transmission along with an image of whoever was physically tampering with the drone at that moment. Bee was particularly proud of that last bit and how xe'd gotten the program to link into the nanny-drone's visual feed so seamlessly. It was an ingenious bit of work... and it was all for nothing apparently. No one would ever find or trigger it for years most likely, because it seemed the scenarios were over. And this brought xer own cycle of boredom back to what had ended xer review of scenario performance.
@@ -4359,8 +4354,7 @@ Bee glanced over at the pair now. They'd completed their katas again and were on
 
 Xer priorities would need to change. And maybe now, while xe was waiting and worrying for two friends that xer gut told xer xe may never see again, was a good time to start realigning those priorities.
 
-*******
-
+_________________________________
 
 Meyan's daily schedule had changed abruptly over the past two days. Solu was very understanding of her position with Planning Director Flint and backed her all the way. She'd also asked if there was anything that was wrong as well but Meyan hadn't wanted to blur the lines between her personal and professional life any more than necessary. Besides, if Solu's warm reception was any indication, the crafty capsuleer had likely figured out that things between Meyan and Delyyn weren't going well already. Capsuleers just seemed to be everywhere and know everything and while she knew it wasn't magic it was damn creepy sometimes. Though, she had to admit it was somewhat less creepy with Solu.
 
@@ -4390,8 +4384,7 @@ He glanced out at the force field overlooking the docking approaches. "Actually 
 
 "No, you really can't." Rather than following his eyes upward Meyan looked at her own verdant arms as she reached quickly for her glass. She lifted it and took a long and rather refreshing sip but behind that glass she hid a massive victory smile."
 
-*******
-
+_________________________________
 
 Network Relay, 1858 hours:
 
@@ -4522,8 +4515,7 @@ Private Relay, 1912 hours:
 
 ::It seems that we now must wonder as to exactly where Ezrak Kain has gone after all, and when he's coming back.:: Xepharious Wryn
 
-*******
-
+_________________________________
 
 13/7/118
 
@@ -4566,6 +4558,8 @@ Paid? Hah! Khonla opened a new very private and very secure network channel rela
 ::User KHONLA KEYEVA disconnects::
 
 She closed the Pandemonious Horde's secure intel channel and shuddered. There were days when she wore the mantle of capsuleer like a cloak. It protected her, gave her hope for rebirth and that there would always be a tomorrow. But days like this, times like now? She willed her ship into a tight orbit around the solitary wormhole and cloaked up. Her role in this wasn't over yet and given the severity of what she'd just done and what she was about to do it was very likely that she'd have to once more change her name and even her face. This Khonla may never again be seen in New Eden. But she'd still have a mother who she knew loved her, through it all. Today; right now, she didn't wear capsuleerhood, today, like her tears, she was the goo that surrounded her, she was her pod, and her ship. She was a thing, in a universe of other things and she let her soul be bounced and banged about by those almighty beings who, for at least today, had conquered her.
+
+_________________________________
 
 ## Chapter 14: Action and Reaction
 
@@ -4644,8 +4638,7 @@ Khonla wished she could die, really die this time.
 
 Streya's Huginn finished looting and space-dusting the wreck of the Imicus before she moved back over to the innocuous container. It didn't take much to open but once she did all Streya found was a single data storage device which contained only the coordinates of Origin's current Class 4 wormhole. This was a proverbial breadcrumb and it meant more ships would soon be on their way. It was time to prepare for what might be coming to retrieve the wayward breadcrumb.
 
-*******
-
+_________________________________
 
 Coordinator Relay 1932 hours:
 
@@ -4687,8 +4680,7 @@ Xeph didn't leave the channel but simply turned his attention elsewhere. A quick
 
 Xeph quickly reviewed his options and selected one of the few ships he still had docked within what was left of the old Indigo City. Putting aside a moment of nostalgia he sent the command ahead to begin preparing his Manticore class stealth bomber for flight. He did indeed know exactly where Curren was going now and he'd need the ships stealthy profile and cloaking to ensure that he got there first.
 
-*******
-
+_________________________________
 
 It was time. 'The Businessman' smiled slowly to himself despite the relatively cramped salvage drone in which he currently hid. It wasn't the best idea he'd ever come up with, but it had worked. His ideas were taking on a rather disturbing pattern of involving tiny spaces he noted and he reminded himself to consider something a bit more planet-bound and open-spaces for his much earned respite. But that would come after he got back what was his.
 
@@ -4698,13 +4690,11 @@ He shifted his cramped muscles and pulled out the datapad he'd stashed to the si
 
 Roger Dean Curren, as he was known to some, twisted his smile into a sneer as he hacked into the gantry's override systems and released his own drone into space. His infiltration of The Cradle would be noticed but due in part to its remote position, sequestered within a 12000 meter no-fly zone in the most remote part of Indigo City's force field, it would take too long for anyone to reach him once the no-fly proximity alarms were sounded. But he wasn't one for leaving that up to chance. He knew that he had about a two hour head start and he needed to establish his drone as standard traffic if he hoped to get anywhere near that no-fly zone by the time his little 'distraction' arrived. So he manually piloted the clumsy drone over to join a few others which were already methodically tearing apart the last vestiges of Indigo City's detached outer hull. He'd make a few trips moving some of the larger sections to and from the materials holding zone on the other side of the spherical territory within the force field but more importantly his trips would take him right past the edge of the no-fly zone several times. So when those incompetent Nullseccers finally did make their entrance he'd have all the cover possible to just veer off his route and right toward his final objective.
 
-*******
-
+_________________________________
 
 It obviously wasn't the first time or manner in which Ghera had found this system's culture appalling but that it was such a flagrant thing never ceased to infuriate her. The fact that it was also such a stupidly pointless thing only made it more annoying. When she and her crew had moved into their current repurposed warehouse the facility had come complete with four separate restrooms two of which also functioned as washrooms with fully installed refresher chambers. It hadn't been hard to impose a strict division between genders amongst her crew. Most of them had spent enough time outside of Origin and among more civilized societies that they were only too happy to comply with the separate facilities. But every attempt she'd made to impose the same norms upon the children had failed utterly. The first time she'd tried, half of them didn't even know what the 'men's' or 'women's' symbol meant and those that did flat out didn't care. Sure, there were a few, likely more recent refugees to Origin, who gave the signs pause. But they were quickly chided by the others. Especially when faced with ridicule, all of the children were far more interested in showering or visiting the waste facilities with their friends and the idea of 'his' and 'hers' never entered their mind. Future attempts were still met with indifference and in both attempts she'd had to give up rather than provoke a situation where she might have to bring anything close to physical violence against the children; and that was something that she would never do. Sure she wanted to rescue these children, and yes it was almost absurdly silly for her to even care that much about this, but something in her just couldn't fathom such a barbaric custom, even though part of her knew it existed in other parts of Gallente culture. Also, she had the time to kill.
 
 It was on this particular waste of her time that Ghera was pondering when the silent alarm she had set up went off. The scout had arrived and the clock had started. Ghera jumped up from her chair, startling the other two gentlemen in the room. "It's time. Go round 'em up!" She smiled with mock warmth as her chief-most associates quickly found their feet as well and made for the room's exit. Rather than follow them, Ghera moved to the walkway which wrapped about the main office which had become her base of operations. The walkway afforded her a good view of the many playing kids below and she simply folder her arms to watch as her associates gathered their teammates and started moving swiftly out onto the main floor.
-
 
 Sophia's communications implant chimed at her causing her to jump suddenly. She thanked Bob that she'd been at the washstand and not out in the warehouse among the other kids where such a sudden jump might have drawn attention. Sophia placed her hands through the moleculizer to sanitize them and used the motion to look around for anyone else who might also be in the restroom. A few of the older kids were using the refresher room but they were too far away to hear or see her and she could still hear Drake taking his time in one of the stalls. "Hey, would ya hurry up in there?"
 
@@ -4743,7 +4733,6 @@ Many things happened very suddenly such that anyone who had happened to be watch
 There was, however, an entirely separate bit of code which suddenly asserted itself as well. This code found no conflict with either of the other two pieces of code and so if code could have been said to have sat and watched anything, that was what this code did. It acknowledged the takeover of the combat subroutines and the suppression of a few of them. It recorded the error in the weapons compartment as well as everything else that was happening within the drone. And then, just before the rewrite found and erased its code, that little program of Bee's took full control of the drones sensory package and audio capabilities and for the first time in a long while Nan-Nan spoke, "Do you want some milk?"
 
 The face which Nan-Nan's video sensors recorded from Sophia was one of utter shock, confusion, disbelief, and odd muscle contortion. The audio and sensory shanghai didn't last long, only enough time for a snapshot which also happen to show the CSPs in the background. Then the entire program shifted everything it had to capturing the drones transmission hardware. Bee's code shot off a high-priority burst transmission aimed at just about everything at once and containing absolutely no subtlety at all. Bee hadn't known exactly where xe'd be when the trap was triggered so xe'd compensated but making sure the signal went everywhere. It was the last act of a doomed code and just as soon as the signal was sent Sophia's programming took full control of Nan-Nan the Battle Bot.
-
 
 "Ghera, something is transmitting in here!"
 
@@ -4789,6 +4778,8 @@ Bee shook xer head slowly at H'Aki. "No, but they could dock directly with it."
 "I better get this to the Sub-Coordinator, now." Bee started searching desperately through the public directories for any mention of Sub-Coordinator Wryn's com address. Xe was just about to start trying to hack into the private directories for a try when H'Aki's hand touched xer shoulder.
 
 "Um, Bee? Where's Kip?"
+
+_________________________________
 
 ## Chapter 14b
 
@@ -4849,8 +4840,7 @@ He made it safely through that wormhole but it wasn't until about five systems l
 
 There was only one way to escape the capsuleer registry and Khonla had just done it. She'd biomassed her own clone rather than face the wrath of those she'd betrayed.
 
-********
-
+_________________________________
 
 All of the drones around Curren's suddenly altered direction. Those that had been hauling pieces of hull hurried to deposit them and those with no current load headed suddenly back towards the drone garages. Curren's drone, however, did no such thing. Instead he grinned and altered his course to veer onto a starkly different trajectory that would take him directly to the nearest part of The Cradle's outer corridor structure. There was little hope of sneaking into the no-fly zone so he didn't bother. By the time he threw open his reverse thrusters to bring him stationary relative to The Cradle he'd also extended the drone's cutters which quickly sliced into the thin hull of the outer corridor. There was no release of pressure which indicated that someone wasn't taking chances and that they had vented the atmosphere from within the lab structure. It didn't bother him too much, he had already spent the last several days in a pressure suit, but the modified air scrubbers within the redesigned drone wouldn't help him inside, especially because the drone was too large to fit through The Cradle's passages.
 
@@ -4884,7 +4874,6 @@ Something was wrong, very wrong. All parts of his mind suddenly crashed together
 
 Unfortunately for 'The Businessman', while hacking into the coordinator networks all those days ago, he had created a direct uplink between the Coordinator Relay and his own communications implant. It wasn't the only uplink he had made, but he had figured that he might at some point need access when he had no terminal or datapad around. In just the time of a nanosecond the Sentient Equilibrium struck at him thought that uplink and directly into the overrides of Curren's military grade implants. It wasn't the sort of thing that anyone could normally do, but without sufficient safeguards, and protected by only the limited firewalls of military grade implants, Curren's implant software experienced the full force of the Sentient Equilibrium's trillions of hacks within the span of only a nanosecond. The highest quality capsuleer implants could possibly have saved him, but such was not the life he'd chosen. Immortal godhood evaporated from his mind along with everything else.
 
-
 ::Process complete.:: Sentient Equilibrium
 
 Xeph sighed and gently pushed off from the observation blister which sat as part of the pattern of slowly twisting cylindrical blue-green lights. Learning of the existence of this place and particularly of this cylindrical chamber had been one of the most soul catalyzing moments of his life. He'd gained access to all of the accounts of the early cloning and re-lifing experiments upon becoming a Sub-coordinator, and the logic behind why the scientists did what they did, and why the Coordinators backed those decisions made sense from a macro view. But floating here, looking out among all the lives that were never to be, cauterized his very soul. Maybe that was why the idea of children like Bee3 gave him so much hope. Perhaps, when the time was right again and those old prejudices had been quelled further, Origin could once again offer digital sapients a chance at truly reproduced life once again. And when that day came, maybe, just maybe the lives that were not to be, held in eerie stasis around him, could finally be.
@@ -4913,8 +4902,7 @@ Somehow that made him feel even more uneasy. But that facet of Curren was beyond
 
 But the hysterics outside were only the pawn in this game he reminded himself. And while he was carefully tethering the inanimate corpse of his opponent's king to his utility belt and reversing course for the exit that would bring him back to where his capsule waited, Xeph knew that the enemy queen was still in play and as with the venerated game which occupied his mind and predated all of New Eden history, she might turn out to be far, far more dangerous in the end.
 
-*******
-
+_________________________________
 
 Kip let out a sigh of relief as he came to the shuttle's docking hatch and found the pressurized doors still open. The hatch inside the pressurization vestibule was closed and more than likely locked but he could deal with that. He could also deal with the risk of being seen by the station's surveillance system. That was controlled by the station and any security response would be too late to stop him. If they actually did see him and send a response team to investigate it might even help when it came time to get back off the shuttle. His nanites weren't sophisticated enough for anything beyond disengaging locks and hacking in to re-pressurize the compartment would not go unnoticed by the shuttle's crew. Kip swiftly extracted his nanostraw and in moments he had the hatch's security sensors fooled and the hatch opened. He was already racing against time but he couldn't focus on that now, his friends were either trapped inside this ship or soon to be and he was going to save them.
 
@@ -4947,6 +4935,8 @@ The conversation was brief as xe had hoped but Meyan hadn't the acquired skill t
 Tactical Lieutenant Iplin thought it one of those silly routines to check the docking collar before detaching, who would be there anyway? Ghera was already loading all of their cargo directly from the transport into the small cargo bays. Bypassing customs like that wasn't legal, strictly speaking, but then he shared his Captain's low opinion of this system's government and with some of what they called legal out here, who were they to complain. It was all way above his paygrade anyway.
 
 However, now that he'd found this strange runaway loitering, and given the instructions he'd received to be about his work quickly and quietly, he wasn't taking any chances. He brought her onboard. Better for Ghera or the captain to decide what to do with her than to have a security sweep find her knocked out at the doorstep of the shuttle which used to be docked here. Because that would certainly have aroused suspicion. Lieutenant Iplin gently laid the child down on the deck to the side of the access way before turning and fully securing the hatch. He picked the young girl up once more after performing the last of the checklist and headed for the bridge. Ghera must have finished her loading below as well because he could already hear the up-spin of the thrusters that should be maneuvering them apart from the docking umbilical even now. Lieutenant Iplin always liked the feeling of undocking; it always gave him the sense of going on yet another new adventure. As the shuttle drifted quickly away from the station he wondered what this adventure would bring.
+
+_________________________________
 
 ## Chapter 15: A Light in the Dark
 
@@ -5204,6 +5194,8 @@ It took the four of them nearly two additional warp jumps just to get the drones
 
 As the ship realigned to make its next jump into warp the first of a long line of pods 'thunked' out of the port and into space.
 
+_________________________________
+
 ## Chapter 15b
 
 The anticipation of the hunt which had earlier filled Meyan with both intensity and adrenaline has long since waned. The realities of trying to get a scanning lock on something as small as a shuttle as it defiantly slipped from one safe spot in space to another were proving to have mind numbing effect on her moral. Still, Solu and the rest of the fleet persisted.
@@ -5236,8 +5228,7 @@ There were no more spoken words for almost a full minute as one after another ea
 
 In response to her question the next sphere in the pattern reduced in size and got brighter.
 
-*******
-
+_________________________________
 
 If there was a new, comprehensive definition of insanity Ghera was certain she had just discovered it. Her hands clawed at the safety bar which encircled the tiny tactical station just to the left of where the captain still stood stiff as tritanium and displaying the emotions of a black hole. In her white-knuckled rage she glared at him with a hate that churned her stomach. Each moment on this endless bounce between inevitable doom and certain death had ticked away at her resolve until there was nearly nothing left. He thought her pacified, he thought her properly put down while he went right on ignoring her every word. He was very, very wrong.
 
@@ -5338,7 +5329,6 @@ The Ghoul wasn't even hurrying to get back onto the bridge, instead his smile pi
 
 Suddenly everything in his vision went to a dull gray and it took Kip a few moments to recognize the mottled gray paint of the emergency bulkhead for what it was. It was time he didn't have. In his accepted tunnel vision he had managed to overcome his opponents seemingly paralytic effect but he'd also failed to realize that both the Captain and the Lieutenant were no longer at their consoles; they were running full out to engage him.
 
-
 Bee had the advantage Kip lacked. Xe had felt the Lieutenant's attacks on xer hack stop, and from xer position on the decking xe could see the Captain fighting the pain in his arm to rush over to join his Lieutenant. Xe had only enough time to shout Kip's name before they were on him. Xe tried to stand up but instantly winced and fell again as a sudden blazing pain shot through xer leg. Bee looked down to see a shard of bone just poking out from what should have been xer shin. The sight caused xer to lose all awareness of Kip, his assailants, or even the hack xe had been maintaining. It was as if xer own internal sensors had completely malfunctioned. Xe tried an internal diagnostic but something in the chemistry of xer very human body seemed to be blocking all sensation from the entire leg right then. Bee had never before experienced something so utterly disembodied, and xe had once existed simply as a line of code in a traffic system too. It was so... foreign.
 
 Xer attention was ripped back into the moment as Kip whirled around in front of xer to face the oncoming Lieutenant. Instinctively he leaned back to his left to accept the charge, using his forearm to divert the Lieutenants fist even as Kips right foot slid forward to catch the Lieutenant's trailing foot. The resulting shift in momentum catapulted the Lieutenant's weight out over his still firm foot but caused him to careen way off his original attack and heavily into the sobbing mess that had once been the woman in charge of the whole operation. But while Bee's attention followed the Lieutenant into his unwitting tangle with Ghera and what used to be Jallif's stool, the bane of Kip's many nights at practice finally kicked into place, literally. Even as he pivoted his weight forward from his left to his right foot his eyes found the oncoming Captain just in time. Kip's left foot wound up as his neck and head pitched down and just as the Captain found his way into range the devastating heel of Kip's left boot landed firmly across the Captain's left bicep.
@@ -5346,7 +5336,6 @@ Xer attention was ripped back into the moment as Kip whirled around in front of 
 Had the situation been different, a roundhouse from some kid half the captain's size would have been only enough to momentarily stagger him. But Kip had placed and timed his kick perfectly. The slight tread covering the soles of his boots was deep enough to catch on the open gash along the Captain's arm and Kip's momentum rendered flesh from tendon and tendon from bone. The wound erupted into a mist of blood and the pain that shot through the Captain was enough to stagger his charge. But Kip hadn't stopped either. With his kicking foot once more finding solid decking he shifted his weight to it and kicked up and out with his right foot to halt any final momentum the Captain might have retained.
 
 Captain Adders crashed to the decking as his body reflexively curled about what was left of his genitals and his dignity.
-
 
 Alarms started off, shocking Kip from his stance over the crumpled man. He glanced quickly to the Lieutenant who looked as though he might actually have been about to free himself from the hysterical bound woman. Now the Lieutenant could only stare transfixed at what little he could see of his tactical screen. Kip tried to follow his gaze but he couldn't understand the codes he saw there. Nor did the tenor or insistency of the alarms inform him. It wasn't until he finally looked back to Bee and saw xer leg that his awareness fully returned.
 
@@ -5364,7 +5353,6 @@ He turned back to look at xer but the panic in xer eyes stopped his mouth from w
 
 He gave his friend one final nod and willed every last bit of his emotions and care for xer into his eyes before he turned and sprinted for the tube.
 
-
 Bee could only watch as Kip lept the final meter into the open pod in one stride. There was nothing xe could do to help him now, no way to enhance the pods ejection speed or even will it's trajectory to send him clear of any possible wreckage or explosion cascade. Nor was there anything left to hack within the doomed ship. The Captain's victory over xer had been complete. He no longer strived to gain control of the auto cannon, nor did he try to even stand. He'd accepted his fate the moment he'd uttered the command to self-destruct. Bee watched as though in slow motion as the Lieutenant tried to leap for his tactical console as though some how it might grant him access to the fully secured self-destruct system which even xe couldn't crack. As the seal to Kips pod swiveled into place and pressurized Bee watched his eyes through the small clear view port and xe remembered the strange holo-vids xe'd shared with him, the way he'd finally opened up to xer, of all people, about his past. Xe thought of how he might finally get the chance to find his mother again. Xe thought of all these things but xe also thought about xer own future. Xe thought about what it might be like to be born again. Xe could do it right this time too. When they re-lifed xer, if they did, it might not be the same body, but at least this time xe'd finally be born to people who actually loved xer. Xe'd finally be born into a home.
 
 Time was moving very slowly now for xer. The individual chemical reactions which ignited beneath Kip's pod to give it that extra boost were just starting to flicker as Bee wondered just how much time might be left on the count down. Xe hoped it would be enough.
@@ -5379,7 +5367,6 @@ As the massive wave of unleashed reactor energy scoured and mauled its way out o
 
 The reactor's wrath found xer then.
 
-
 Solu had changed the holo-image spread throughout the bridge from the highly technical looking system map and scanning metrics to a slightly translucent exterior view. Had she even suspected the utter insanity of the shuttle's commander Solu never would have done so. An Astero, Flycatcher, and Confessor, their capsuleers, and their crew could only look on in horror as their quarry and the precious treasure she held bubbled, rippled, then vaporized into a brilliant flash of light.
 
 ::We have confirmation, 34 clone pods and two emergency stasis pods have been recovered. No information yet on occupants.:: Aaron Posh
@@ -5387,6 +5374,8 @@ Solu had changed the holo-image spread throughout the bridge from the highly tec
 ::Understood.:: Streya Jormagdnir
 
 Meyan's heart felt as heavy as Straya's mental voice sounded. She couldn't even begin to understand what might have just been lost.
+
+_________________________________
 
 ## Chapter 16: Only Human
 
@@ -5421,7 +5410,6 @@ Solu began rising to her feet and Meyan shifted her weight to help, still gently
 Solu once more looked her in the eyes and Meyan could see that the sadness was working its way back towards the surface. "I can't leave the Akatsuki yet," Solu glanced for just a moment back at the cables which still connected her into what was left of her pod. When her eyes returned the sadness was still there but muted slightly. "Can you go to Nina's ship, for both of us? I want someone I trust over there when those... two kids come out of stasis." Meyan saw the pain flicker brighter at the acknowledgement that the escape pod count had been at least one short. But then Solu's eyes resolved once more to that cold anger and determination. "Please?"
 
 Meyan just nodded, unable to find any further words in response.
-
 
 As Aaron's Astero undocked from the Demigol's small maintenance bay Solu's incapacitated Akatsuki was carefully folded into it. In the end, Solu and her pod had to be entirely extracted from the otherwise robust ship before it's rigging had been stripped off and the whole ship repackaged just to barely squeeze into the 5000m3 bay. The Akatsuki's small crew, loyal as ever to their capsuleer, were still with her as Nina's med techs carefully worked to asses whether they could separate the person from the pod without initiating the violent mindflash which would precipitate an unneeded re-cloning event for Solu. There wasn't exactly a danger in having Solu, this Solu, just die off and re-clone into her new body. But that would have involved a lot of extra work and most importantly time. Solu was adamant that she be at least conscious as Meyan carried her heart to know the fate of those intrepid kids.
 
@@ -5473,7 +5461,6 @@ One of the empty pods floated on an anti-grav lift out of the group to the left 
 
 H'Aki, a bit dazed and with her own eyes filling with tears stepped out of the group. A kind medic was at her shoulder instantly and guided her out of the medbay.
 
-
 Solu had been taken to her own cargo bay where Meyan had found her still angry with grief. The Echo 1 wormhole back through to Origin had closed and so now they were forced to take the long way home, jumping from system to system through highsec. It was arguably safer than traveling through wormhole space but neither Solu nor the other capsuleers of Alexylva Paradox seemed to act like it was. If anything they were even more on edge outside of the anonymity of wormhole space.
 
 Solu, it turned out, was still connected to her pod because Nina's Nestor didn't have the clone facilities necessary to safely remove her from the pod without killing off the clone. It wasn't exactly a common procedure. But then, neither was what Solu had done. Meyan had heard Solu try to banter it off with the other capsuleers who'd jokingly accused her of something called a 'rage-quit', whatever that was. Meyan had been ready to come to Solu's defense, even against the likes of Solu's fellow capsuleers, but Solu had privately sent her a message not to.
@@ -5481,7 +5468,6 @@ Solu, it turned out, was still connected to her pod because Nina's Nestor didn't
 It had taken a few more moments for Meyan to realized that the hard time they were giving Solu was actually a sort of tough love meant to get her mind off of what had just happened, who they had just lost. This, of course, left Meyan wondering as to just how much subtlety and complexity a group of beings could weave into such mental communication. But that thought quickly gave way to another; she had been moments away from arguing with an entire fleet of capsuleers... just to defend Solu?
 
 While the tough love may have been helping Solu, it wasn't doing anything good for Meyan so she disconnected from the fleet channel and opened a private channel just for the two of them. Even though they sat less than a meter apart, Meyan just felt like the com channel seemed almost more comfortable than words.
-
 
 ::You can go, if you want.:: Solu looked up at Meyan. She could see that Meyan was hurting as well and she tried to think of something to comfort her friend. Somehow Solu felt that a hug wasn't right, and might be just a little awkward.
 
@@ -5500,7 +5486,6 @@ Solu remembered the time she'd asked Meyan about Ellie's Heron gift and the stor
 Solu gestured to the pod she was still attached to. ::I can't, but maybe you can use your implants to pass the feed of what you see through to me, so we can both see the stars as we go.::
 
 Meyan nodded.
-
 
 The Demagol was making good time from jump to jump, for a battleship anyway, and by the time Meyan reached to forward observation corredor and reconfigured her implants Solu's map informed them that they had only a few jumps left. Looking out through the force fields Meyan watched as the fleet repeated it's pattern at each gate. There was a sort of peace in the repetition as first Aaron's Astero would transition through the jump gate, scout the next system for any potential hostile targets, and then call for the fleet to follow. Solu had called it '+1ing' but it was actually to Ellie's description which Meyan clung. Aaron really was like a guiding angel, seeing them safely home. Thinking of Ellie brought a rare smile to her face. But that smile faded suddenly as thinking of Ellie reminded her of Kip and Bee.
 
@@ -5521,13 +5506,11 @@ Solu lifted her head and looked back to the trail of snaking coils which connect
 
 ::...please? I know we're almost home but...::
 
-
 The ship passed out of the wormhole's phase distortions into Origin and immediately swung about on its access to align for warp one final time. Meyan watched the still unfamiliar and empty space around her as she paused before returning to Solu's cargo bay.
 
 Home was a surreal concept just now and Meyan wasn't sure just what 'home' was anymore. That was until the Demagol rushed suddenly out of the warp tunnel to land beneath the golden system primary. Over her shoulder she could see the speck of Icarus Station growing rapidly larger beneath its blazing guardian. But it was seeing that station that sparked her emotions. For some inexplicable reason, for at least a fleeting moment, she felt hope. It was small and strangled by all of the anger, sadness, and confusion. But it was there. Meyan finished her turn and walked out of the observation corredor.
 
-*******
-
+_________________________________
 
 Xeph stood once more in the observation blister deep within The Cradle as the mechanical arm recovered the next and last of the clones belonging to Katie Annhues. She was long dead now but her parents, who had been quite rich, had actually produced two clones for their mentally ill daughter. That Bee had chosen the other one of Katie's clones to initially inhabit was only pure luck. Or perhaps even in xer haste xe had calculated that this one had a spare. Either way, the ache in his gut settled as Xeph's mind fought to find anyway at all to try to recover what had been lost. And there was at least the hint of a way for Bee.
 
@@ -5537,8 +5520,7 @@ The pain in his gut twisted further as the egg-like stasis pod and the arm movin
 
 Sub-Coordinator Xepharious Wryn stepped back from the mystifying view before him and turned slowly, this time he was moving not toward the death of an enemy, but towards the new life of a child.
 
-*******
-
+_________________________________
 
 H'Aki stepped through the doorway and into the theatre's upper viewing area. She looked around momentarily but no one seemed to really notice her enter, not that there were many others present to notice. She continued her pace down the terraced rows of seats until she was less than a meter from the force field which looked down over the operating area below. Nobody else in the viewing area was sitting so H'Aki chose to stand as well. The operating area wasn't large, but then it didn't really have to be. A single body lay supine on the medical table as technicians began inserting jack-lines into a large apparatus which had been hovered just over and obscuring most of the body's head and face. She'd arrived just in time to see the large mechanical arm surreptitiously whisk away an empty stasis pod. She hadn't been quick enough to fully make it out but something about the blue-green coloration of that pod had seemed rather strange compared any other pod she'd seen. Oh well, H'Aki was just happy to have been allowed to attend and she wasn't about to start asking questions which might get her invitation revoked.
 
@@ -5561,6 +5543,8 @@ A collective breath of air rushed from everyone around her and for just a moment
 The movement of a large piece of equipment totally obscured H'Aki's view of her friend and she took just a few more steps forward until her nose was actually quite close to the force field. The equipment was again moved shortly thus affording her a much better view. Bee's eyes were closed again but H'Aki could see the left portion of xer temple being prepped for surgery; right, the implants. She could also see additional lights come on in the alcove and something about the way various techs were shifting out for separate techs gave her the impression that she was witnessing some sort of a differently specialized team taking over. There was so much happening, in fact, the she nearly missed it when Bee opened xer eyes once more and looked directly at her. Was she looking at her or just in this direction? Could her friend actually see her?
 
 Bee smiled and winked at H'Aki.
+
+_________________________________
 
 ## Chapter 16b
 
@@ -5644,7 +5628,6 @@ Each of the three clone pods opened suddenly and as one. Not a single tech so mu
 The chief physician nodded to what must have been the chief technician, a heavily bearded man with an aged face, who nodded back and in turn looked over to the original Solu. "We are prepared."
 
 Having witnessed the revelation of the three new clones Meyan suddenly wished only to see the original one, as if what she knew was about to happen might somehow rob her of the friend she knew. A few steps brought her around to the left and within eyesight of Solu who now lay prostrate on her table. Solu turned her head to make eye contact with Meyan and smiled again to her. There was such warmth and confidence in that smile. It wasn't a cocky confidence or even a fake one, some misfounded attempt to reassure Meyan when trust wasn't there for herself. No, this was the path that Solu was choosing and it was one she had spent a lot of time, heart, and soul in choosing. She knew that this was what she wanted and all that passed through and into her smile to Meyan. "Proceed" Solu closed her eyes but the smile remained.
-
 
 The next few minutes were a bit less climactic than Meyan had anticipated. Solu remained peacefully quiet while her other clones were extracted from their pods and laid, in a similar fashion as she had been, onto each of the other three tables. The original Solu was then jacked up to each of the six cables which had been gathered and hooked into her table. This was shortly followed by the techs performing that process three more times with each of the other clones. Meyan again wondered at the seemingly reverent and methodical rhythm with which each tech shifted and inserted each coil. Another tech would then review the first tech's work and then yet another tech would carefully re-gather and restrain the coils back into the hook.
 
@@ -5778,8 +5761,7 @@ Meyan tried to extract some understanding from what she'd just seen; from what s
 
 Meyan gathered herself, wiping tears from her face, and turned to take a different way back to her apartment. It was a longer route, but maybe it would give her the time she needed. Maybe, by the time she reached her door, she'd figure out whether she was happy, sad, excited, or just all three at once.
 
-*******
-
+_________________________________
 
 Private Relay 1458 hours:
 
@@ -5859,8 +5841,7 @@ Private Relay 1458 hours:
 
 ::It's... not. Alright, you made your point. Still... :: Xepharious Wryn
 
-*******
-
+_________________________________
 
 Meyan shifted her weight from one foot to the other, bringing her just a little closer to the woman standing beside her. In response to her movement she could feel the hem of her pale blue dress shift slightly along the back of her knee and it's neckline move ever so slightly to match. The sensation was almost sensuously exotic as it sent a slight warmth of enjoyment and amusement through her. The dress, which she had never thought to get for herself, had been a gift from Iralis who had secretly bought it behind Meyan's back that day in the park boutique. Somehow, wearing this one felt immensely more comfortable than the pink one she'd splurged on. Maybe it was partly who she was with. That thought brought her mind once more to her right hand and the hand she held clasped within it.
 

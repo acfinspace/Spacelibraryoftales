@@ -29,6 +29,7 @@ Works:
 - [Anonymous end](./anonymousend.md) (2019)
 - [Medal ceremony](./medalceremony.md) (2021)
 - [Call of the State](./callofthestate.md) (2021)
+- [Haiku's style poetry](./haikusstylepoetry.md) (2021)
 - [A free agent life](./afreeagentlife.md) (2022)
 - [A Haiku collection](./ahaikucollection.md) (2022)
 - [Establishing an industrial colony: a journal](./establishinganindustrialcolonyajournal.md) (2022)

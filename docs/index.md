@@ -52,11 +52,12 @@ To do:
  - [ ] Properly tag all the written pieces (on many I put only a few standard tags such as author, contest and prose/poetry)
  - [ ] Add contests
     - [ ] Pod & Planet 2016
-    - [ ] Pod & Planet 2017
+    - [x] Pod & Planet 2017
     - [ ] Pod & Planet 2018
     - [ ] Other Pod & Planet
     - [ ] New Eden Capsuleer's Writing Contest
     - [x] Amore Tank Your Hearts Contest
+    - [x] YC123 Union Day Celebrations - Short Written Works Contest
 
 Last updated: October 2023
 

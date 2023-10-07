@@ -40,6 +40,10 @@ A page colelcting all authors with just one piece in the library.
 
 - [Traitors](./traitors.md) (2017)
 
+## Cecilie Vale
+
+- [A Poem](./cecilievale_apoem.md) (2021)
+
 ## Che Biko
 
 - [Emissions & Omission](./emissionsandomissions.md) (2016)
@@ -112,6 +116,14 @@ A page colelcting all authors with just one piece in the library.
 
 - [A Love Story In Five Drabbles](./alovestoryinfivedrabbles.md) (2017)
 
+## Michifusa Nishouji
+
+- [Victory](./victory.md) (2021)
+
+## Morgana Tsukiyo
+
+- [A Poem](./morganatsukiyo_apoem.md) (2021)
+
 ## Sylvia Carpenter
 
 - [Day 26: I Will Always Be There For You](./daay26iwillalwaysbethereforyou.md) (2017)
@@ -127,4 +139,8 @@ A page colelcting all authors with just one piece in the library.
 ## Tsao Aubbes
 
 - [A Good Kind of Awkward](./agoodkingofawkard.md) (2017)
+
+## Zahra Sarain
+
+- [Sunset on the Shiigeru](./sunsetontheshiigeru.md) (2021)
 
