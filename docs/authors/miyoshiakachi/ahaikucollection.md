@@ -11,7 +11,9 @@ tags:
 
 > Original post:
 
-> Entry for YC124 New Eden Capsuleer’s Writing Contest in the poetry category. Thank you Siasia for the Japanese side of this little project.
+> Thank you Siasia for the Japanese side of this little project.
+
+> Entry for YC124 New Eden Capsuleer’s Writing Contest in the Poetry category.
 
 
 A collection of Haikus follows.

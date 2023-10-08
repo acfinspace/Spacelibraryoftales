@@ -20,6 +20,10 @@ A page colelcting all authors with just one piece in the library.
 
 - [Valor](./valor.md) (2017)
 
+## Alda Malukker
+
+- [Captured](./captured.md) (2022)
+
 ## Aleksi Aksan
 
 - [Worth Waking Up For](./worthwakingupfor.md) (2017)
@@ -27,6 +31,14 @@ A page colelcting all authors with just one piece in the library.
 ## Alen Asques
 
 - [L'Hécate de Nos Mémoires - An Interstellar Love Story](./lhecatedenosmemoires.md) (2017)
+
+## Aria Jenneth
+
+- [One True Law](./onetruelaw.md) (2022)
+
+## Arkana Hawker
+
+- [A New Deck of Cards](./anewdeckofcards.md) (2022)
 
 ## Arnold Kalashnikov
 
@@ -40,6 +52,10 @@ A page colelcting all authors with just one piece in the library.
 
 - [Traitors](./traitors.md) (2017)
 
+## Brisc Rubal
+
+- [Short Skirt, Long Jacket](./shortskirtlongjacket.md) (2022)
+
 ## Cecilie Vale
 
 - [A Poem](./cecilievale_apoem.md) (2021)
@@ -48,9 +64,17 @@ A page colelcting all authors with just one piece in the library.
 
 - [Emissions & Omission](./emissionsandomissions.md) (2016)
 
+## Corix
+
+- [Rainfall](./rainfall.md) (2022)
+
 ## Da'iel Zehn
 
 - [Dark Ripple](./darkripple.md) (2017)
+
+## Daiko Kobayashi
+
+- [Jin Mei Leaving Home](../authors/miscauthors/jinmeileavinghome.md) (2021-2022)
 
 ## DireNecessity
 
@@ -64,13 +88,33 @@ A page colelcting all authors with just one piece in the library.
 
 - [Echoes of Origin](./echoesoforigin.md) (2014)
 
+## Duke Shasta
+
+- [The Blood of Gladiators](./thebloodofgladiators.md) (2022)
+
 ## Elinari Rhodan
 
 - [Phantom Sound](./phantomsound.md) (2017)
 
+## Emilia Dallocort
+
+- [Podded](./podded.md) (2022)
+
+## Evelyn Arnoux
+
+- [Ashes to Ascendance](./ashestoascendance.md) (2022)
+
+## Evepandora
+
+- [DammFam Refinery Attacked](./dammfamrefineryattacked.md)
+
 ## Garion Avarr
 
 - [Three Dances](./threedances.md) (2017)
+
+## Gavin Lok’ri
+
+- [A Briefing on the State of the Empire](./abriefingonthestateoftheempire.md) (2022)
 
 ## General Stargazer
 
@@ -78,7 +122,11 @@ A page colelcting all authors with just one piece in the library.
 
 ## Greasyforehead
 
-- [Arise O' Sleeper](./ariseosleeper.md)
+- [Arise O' Sleeper](./ariseosleeper.md) (2022)
+
+## Grimaxemorpher
+
+- [The Fall of Niarja The Start Of A New Era](./thefallofniarjathestartofanewera.md) (2022)
 
 ## Hardradda
 
@@ -95,6 +143,10 @@ A page colelcting all authors with just one piece in the library.
 ## Katsumoto Moliko
 
 - [Tomb of the Immortals](./tomboftheimmortals.md) (2017)
+
+## Kyle Saltz
+
+- [Bells](./bells.md) (2022)
 
 ## Leehams DaWildabeast
 
@@ -116,6 +168,10 @@ A page colelcting all authors with just one piece in the library.
 
 - [A Love Story In Five Drabbles](./alovestoryinfivedrabbles.md) (2017)
 
+## Melicien Tetro
+
+- [Retrospect](./retrospect.md) (2022)
+
 ## Michifusa Nishouji
 
 - [Victory](./victory.md) (2021)
@@ -124,13 +180,29 @@ A page colelcting all authors with just one piece in the library.
 
 - [A Poem](./morganatsukiyo_apoem.md) (2021)
 
+## Raultalainen Isise
+
+- [The Way Turns Unexpectedly](./thewayturnsunexpectedly.md) (2022)
+
 ## Sylvia Carpenter
 
 - [Day 26: I Will Always Be There For You](./daay26iwillalwaysbethereforyou.md) (2017)
 
+## Talaris Eveningstar
+
+- [The truth is out there](./thetruthisoutthere.md) (2022)
+
+## Tanagura Amoii
+
+- [Jin Emperor’s Leaning Tower](./jinemperorsleaningtower.md) (2022)
+
 ## Teinyhr
 
 - [Stains of the Soul](./stainsofthesoul.md) (2017)
+
+## Theodosius Savnar
+
+- [Eulogy for an Astrahus - The Fall of Farthest Shore](./eulogyforanastrahus.md)
 
 ## The Record Keeper
 
@@ -139,6 +211,18 @@ A page colelcting all authors with just one piece in the library.
 ## Tsao Aubbes
 
 - [A Good Kind of Awkward](./agoodkingofawkard.md) (2017)
+
+## Tsuneshi Ryuzouji
+
+- [A Corny Love Poem](./acornylovepoem.md) (2022)
+
+## wallel Audeles
+
+- [Memoirs of a Capsuleer: wallel Audeles: Splintered Soul](./memoirsofacapsuleerwallelaudelessplinteredsoul.md)
+
+## Yun-Hee ‘Tight-lips’ Yubari 
+
+- [The Black Song’s Flight](./theblacksongsflight.md)
 
 ## Zahra Sarain
 
