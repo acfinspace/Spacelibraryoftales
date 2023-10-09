@@ -4,6 +4,7 @@ tags:
   - Pirate
   - Minmatar
   - MiyoshiAkachi
+  - NewEdenCapsuleersWritingContestYC124
 ---
 
 
@@ -14,6 +15,9 @@ tags:
 > Original post:
 
 > Present and past (in italic) alternates in the tale of a Capsuleer.
+
+> Entry for YC124 New Eden Capsuleer’s Writing Contest in the Prose category.
+
 
 *Why you do it?*
 

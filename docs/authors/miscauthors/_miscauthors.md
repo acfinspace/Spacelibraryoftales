@@ -176,9 +176,17 @@ A page colelcting all authors with just one piece in the library.
 
 - [Victory](./victory.md) (2021)
 
+## Mizhara Del’Thul
+
+- [Walking in Myth](./walkinginmyth.md) (2020)
+
 ## Morgana Tsukiyo
 
 - [A Poem](./morganatsukiyo_apoem.md) (2021)
+
+## Octantia Dadarwar
+
+- [Custody Battle](../nauplius/custodybattle.md) (with Nauplius) (2022)
 
 ## Raultalainen Isise
 

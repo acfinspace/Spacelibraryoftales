@@ -12,3 +12,5 @@ Works:
 - [Solaria, my Home](./solariamyhome.md) (2022)
 - [Getting My Bearings - A Noob’s Three-year Tale](./gettingmybearings.md) (2022)
 - [In Response](./inresponse.md) (2022)
+- [Eras of Solaria III](./erasofsoliaraiii.md) (2022)
+- [History of the Temperate Worlds of Helab](./historyofthetemperateworldsofhelab.md) (2022)

@@ -63,7 +63,7 @@ Last updated: October 2023
 
 #### Issues
 
-See the [Issue page](issues.md).
+See the [Issue page](issues.md) and the tags "ISSUES" and "TOBEFORMATTED.
 
 ### Acknoledgements
 

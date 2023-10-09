@@ -9,7 +9,7 @@ tags:
 
 > Author: Zedicon Prime
 
-> Original post: [https://forums.eveonline.com/t/in-response/361957]https://forums.eveonline.com/t/in-response/361957)
+> Original post: [https://forums.eveonline.com/t/in-response/361957](https://forums.eveonline.com/t/in-response/361957)
 
 > Entry for YC124 New Eden Capsuleer’s Writing Contest in the Prose category.
 

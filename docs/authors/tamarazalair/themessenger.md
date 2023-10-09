@@ -1,6 +1,6 @@
 ---
 tags:
-  - Poetry
+  - Prose
   - TamaraZalair
   - NewEdenCapsuleersWritingContestYC124
   - TOBEFORMATTED

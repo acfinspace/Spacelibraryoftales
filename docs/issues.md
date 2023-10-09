@@ -2,6 +2,8 @@
 
 Issues with fiction.
 
+See also the tag ISSUES.
+
 - [Angelic State](./authors/lasairionaraske/angelicstate.md) (file not accessible)
 - [Reachblades of Chandeille - Broken People and Shattered Dreams](./authors/ninavask/reachbladesofchandeille_brokenpeopleandshattereddreams.md) (content cannot be copied)
 - [An Empire of Mad Science](./authors/ninavask/anempireofmadscience.md) (content cannot be copied)
