@@ -144,6 +144,10 @@ A page colelcting all authors with just one piece in the library.
 
 - [Tomb of the Immortals](./tomboftheimmortals.md) (2017)
 
+## Kilzin
+
+- [Filaments Gone Wrong](./filamentsgonewrong.md) (2018)
+
 ## Kyle Saltz
 
 - [Bells](./bells.md) (2022)
@@ -191,6 +195,10 @@ A page colelcting all authors with just one piece in the library.
 ## Raultalainen Isise
 
 - [The Way Turns Unexpectedly](./thewayturnsunexpectedly.md) (2022)
+
+## Shorai Aikyoraan
+
+- [The Package](./thepackage.md) (2018)
 
 ## Sylvia Carpenter
 
