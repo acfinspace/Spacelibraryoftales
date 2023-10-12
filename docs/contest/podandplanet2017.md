@@ -79,6 +79,6 @@ Original website: [Pod and Planet 2017 reading bank](https://podandplanet.wixsit
     - [A Royal Gift of Beans](../authors/jorusqmerrill/aroyalgiftofbeans.md) (1st Prize)
     - [Fourteen Points of CODE](../authors/jorusqmerrill/fourteenpointsofcode.md) (2nd Prize)
 - Korsavius: [Slaver Hound Training for Dummies](../authors/korsavius/slaverhoundtrainingfordummies.md) (3rd Prize)
-- DireNecessity: [DireNecessity Goes Camping](../authors/miscauthors/direnecessitygoescamping.md)
+- DireNecessity: [DireNecessity Goes Camping](../authors/direnecessity/direnecessitygoescamping.md)
 - Rob Kaichin: [Pointless](../authors/robkaichin/pointless.md)
 - General Stargazer: [The League](../authors/miscauthors/theleague.md)

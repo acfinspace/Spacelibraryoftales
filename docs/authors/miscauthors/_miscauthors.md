@@ -32,6 +32,10 @@ A page colelcting all authors with just one piece in the library.
 
 - [L'Hécate de Nos Mémoires - An Interstellar Love Story](./lhecatedenosmemoires.md) (2017)
 
+## Archangael/Jason Jones
+
+- [The Best Sport](./thebestsport.md) (2015)
+
 ## Aria Jenneth
 
 - [One True Law](./onetruelaw.md) (2022)
@@ -56,6 +60,10 @@ A page colelcting all authors with just one piece in the library.
 
 - [Short Skirt, Long Jacket](./shortskirtlongjacket.md) (2022)
 
+## Canatana Jovakko
+
+- [Some recent adventures that started in low-sec in a Heron.](./somerecentadventuresthatstartedinlowsecinaheron.md) (2017)
+
 ## Cecilie Vale
 
 - [A Poem](./cecilievale_apoem.md) (2021)
@@ -75,10 +83,6 @@ A page colelcting all authors with just one piece in the library.
 ## Daiko Kobayashi
 
 - [Jin Mei Leaving Home](../authors/miscauthors/jinmeileavinghome.md) (2021-2022)
-
-## DireNecessity
-
-- [DireNecessity Goes Camping](./direnecessitygoescamping.md) (2017)
 
 ## Djavak Andrard
 
@@ -140,6 +144,10 @@ A page colelcting all authors with just one piece in the library.
 
 - [It Was In That Moment...](./itwasinthatmoment.md) (2017)
 
+## Johnnie Blaze
+
+- [Hiraeth](./hiraeth.md) (2015)
+
 ## Katsumoto Moliko
 
 - [Tomb of the Immortals](./tomboftheimmortals.md) (2017)
@@ -196,9 +204,25 @@ A page colelcting all authors with just one piece in the library.
 
 - [The Way Turns Unexpectedly](./thewayturnsunexpectedly.md) (2022)
 
+## Regalas Davaham/Ben C.
+
+- [Stargate](./regalasdavaham_stargate.md) (2015)
+
+## Sere O'Asis
+
+- [Origin Stories:  Chapter One](./sereoasis_originstorieschapterone.md) (2015)
+
 ## Shorai Aikyoraan
 
 - [The Package](./thepackage.md) (2018)
+
+## Sleightz:
+
+- [From Riches to Riches](./fromrichestoriches.md) (2015)
+
+## Sugar Kyle
+
+- [Cortex](./cortex.md) (2015)
 
 ## Sylvia Carpenter
 
@@ -231,6 +255,10 @@ A page colelcting all authors with just one piece in the library.
 ## Tsuneshi Ryuzouji
 
 - [A Corny Love Poem](./acornylovepoem.md) (2022)
+
+## Viceorvirtue
+
+- [The Dance](../direnecessity/thedance.md) (2015)
 
 ## wallel Audeles
 
