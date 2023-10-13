@@ -29,7 +29,7 @@ Original website: [Pod and Planet 2017 reading bank](https://podandplanet.wixsit
 - Mundi Kundoni: [Biomass](../authors/mundikundoni/biomass.md) (3rd Prize)
 - Avio Yaken: [Traitors](../authors/miscauthors/traitors.md)
 - Ninavask: [Reachblades of Chandeille - Broken People and Shattered Dreams](../authors/ninavask/reachbladesofchandeille_brokenpeopleandshattereddreams.md) (3rd Prize)
-- Da'iel Zehn: [Dark Ripple](../authors/miscauthors/darkripple.md) (Honorable Mention)
+- Da'iel Zehn: [Dark Ripple](../authors/daielzehn/darkripple.md) (Honorable Mention)
 - Erutor: [Crimson Harvest](../authors/erutor/crimsonharvest.md)
 - Teinyhr: [Stains of the Soul](../authors/miscauthors/stainsofthesoul.md)
 - Djavak Andrard: [Flametender](../authors/miscauthors/flametender.md) (Grand Prize, Best Entry by a New Writer)

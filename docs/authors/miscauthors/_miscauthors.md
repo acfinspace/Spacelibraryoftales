@@ -8,6 +8,10 @@ tags:
 A page colelcting all authors with just one piece in the library.
 
 
+## Abavus Durden
+
+- [The Allure of the Damsel](./theallureofthedamsel.md) (2015)
+
 ## Aillel
 
 - [The Job Posting](./thejobposting.md) (2017)
@@ -31,6 +35,10 @@ A page colelcting all authors with just one piece in the library.
 ## Alen Asques
 
 - [L'Hécate de Nos Mémoires - An Interstellar Love Story](./lhecatedenosmemoires.md) (2017)
+
+## Alyla By
+
+- [Immortality](./alylaby_immortality.md)
 
 ## Archangael/Jason Jones
 
@@ -60,9 +68,21 @@ A page colelcting all authors with just one piece in the library.
 
 - [Short Skirt, Long Jacket](./shortskirtlongjacket.md) (2022)
 
+## Brodit/Brendan O'Donnell
+
+- [Eulogy of an Immortal](./eulogyofanimmortal.md) (2015)
+
+## Callista Dallmore
+
+- [The Gate](../authors/miscauthors/callistadallmore_thegate.md) (2015)
+
 ## Canatana Jovakko
 
 - [Some recent adventures that started in low-sec in a Heron.](./somerecentadventuresthatstartedinlowsecinaheron.md) (2017)
+
+## Cassandra Habalu
+
+- [Interceptors Are Our Business And Business Is Good](./interceptorsareourbusinessandbusinessisgood.md) (2015)
 
 ## Cecilie Vale
 
@@ -72,17 +92,25 @@ A page colelcting all authors with just one piece in the library.
 
 - [Emissions & Omission](./emissionsandomissions.md) (2016)
 
+## Conan Barbaris
+
+- [A Thousand Sleepers](./athousandsleepers.md) (2015)
+
 ## Corix
 
 - [Rainfall](./rainfall.md) (2022)
 
-## Da'iel Zehn
-
-- [Dark Ripple](./darkripple.md) (2017)
-
 ## Daiko Kobayashi
 
 - [Jin Mei Leaving Home](../authors/miscauthors/jinmeileavinghome.md) (2021-2022)
+
+## Darrell Musko
+
+- [Sixty-Two Jumps](./sixty-twojumps.md) (2015)
+
+## Dirk Magnum
+
+- [A Code Like No Other](./acodelikenoother.md) (2015)
 
 ## Djavak Andrard
 
@@ -96,6 +124,10 @@ A page colelcting all authors with just one piece in the library.
 
 - [The Blood of Gladiators](./thebloodofgladiators.md) (2022)
 
+## Easy Esky
+
+- [Enigma Redressed](../authors/miscauthors/enigmaredressed.md) (2015)
+
 ## Elinari Rhodan
 
 - [Phantom Sound](./phantomsound.md) (2017)
@@ -104,6 +136,14 @@ A page colelcting all authors with just one piece in the library.
 
 - [Podded](./podded.md) (2022)
 
+## Eridan
+
+- [Capsuleer's blues](./capsuleersblues.md) (2015)
+
+## Erylis Aphelyon
+
+- [a tale of one cyno or two](./ataleofonecynoortwo.md) (2015)
+
 ## Evelyn Arnoux
 
 - [Ashes to Ascendance](./ashestoascendance.md) (2022)
@@ -111,6 +151,14 @@ A page colelcting all authors with just one piece in the library.
 ## Evepandora
 
 - [DammFam Refinery Attacked](./dammfamrefineryattacked.md)
+
+# Finden Parril
+
+- [Collect and Return](./collectandreturn.md) (2015)
+
+## flaming phantom/Bridger Cummings
+
+- [Vitoc, Liberation, and Revenge](./vitocliberationandrevenge.md) (2015)
 
 ## Garion Avarr
 
@@ -140,13 +188,25 @@ A page colelcting all authors with just one piece in the library.
 
 - [A Broken Shell](./abrokenshell.md) (2017)
 
+## Isaac Neville
+
+- [Revenge](./isaacneville_revenge.md) (2015)
+
 ## Jack Carrigan
 
 - [It Was In That Moment...](./itwasinthatmoment.md) (2017)
 
+## Jacqui Atruin/Amy
+
+- [A meeting with the station administrator](./ameetingwiththestationadministrator.md) (2015)
+
 ## Johnnie Blaze
 
 - [Hiraeth](./hiraeth.md) (2015)
+
+## Judas II
+
+- [The Oxfeld Account](./theoxfeldaccount.md) (2015)
 
 ## Katsumoto Moliko
 
@@ -164,9 +224,9 @@ A page colelcting all authors with just one piece in the library.
 
 - [Captain's Log](../authors/miscauthors/captainslog.md) (2017)
 
-## Literia
+## Lite Sabre:
 
-- [Normal Life](./normallife.md) (2016)
+- [The Three](./litesabre_thethree.md) (2015)
 
 ## Loai Qerl
 
@@ -179,6 +239,14 @@ A page colelcting all authors with just one piece in the library.
 ## Lunarisse Aspenstar
 
 - [A Love Story In Five Drabbles](./alovestoryinfivedrabbles.md) (2017)
+
+## Matteral
+
+- [Mother of Children](./matteral_motherofchildren.md) (2015)
+
+## Marc Scaurus
+
+- [2000 Kills](../authors/miscauthors/2000kills.md) (2015)
 
 ## Melicien Tetro
 
@@ -196,9 +264,21 @@ A page colelcting all authors with just one piece in the library.
 
 - [A Poem](./morganatsukiyo_apoem.md) (2021)
 
+## Niden
+
+- [Rapture](./niden_rapture.md) (2015)
+
 ## Octantia Dadarwar
 
 - [Custody Battle](../nauplius/custodybattle.md) (with Nauplius) (2022)
+
+##  Oreamnos Amric
+
+- [Blood Frenzy](./bloodfrenzy.md) (2015)
+
+## Particul
+
+- [Junior Points of View](./juniorpointsofview.md) (2015)
 
 ## Raultalainen Isise
 
@@ -207,6 +287,22 @@ A page colelcting all authors with just one piece in the library.
 ## Regalas Davaham/Ben C.
 
 - [Stargate](./regalasdavaham_stargate.md) (2015)
+
+## Rusty Boon
+
+- [A Longing for Loss](./alongingforloss.md) (2015)
+
+## Sain Darkwing
+
+- [The Doomed Freighter](./thedoomedfreighter.md) (2015)
+
+## Sarah Flinnley
+
+- [Eyes Wide Open](../authors/miscauthors/eyeswideopen.md) (2015)
+
+## Sera Kor-Azor
+
+- [Ole' Time Religion](./oletimereligion.md) (2015)
 
 ## Sere O'Asis
 
@@ -248,6 +344,14 @@ A page colelcting all authors with just one piece in the library.
 
 - [Scotty](./scotty.md) (2017)
 
+## Tiberius StarGazer
+
+- [Different Bodies](../authors/miscauthors/differentbodies.md) (2015)
+
+## Torsnk
+
+- [fleet logistics](./torsnk_fleetlogistics.md)
+
 ## Tsao Aubbes
 
 - [A Good Kind of Awkward](./agoodkingofawkard.md) (2017)
@@ -256,9 +360,17 @@ A page colelcting all authors with just one piece in the library.
 
 - [A Corny Love Poem](./acornylovepoem.md) (2022)
 
+## Vehestian
+
+- [The Stars Have Strange Voices](../authors/miscauthors/thestarshavestrangevoices.md) (2015)
+
 ## Viceorvirtue
 
 - [The Dance](../direnecessity/thedance.md) (2015)
+
+## Voodoo Williams
+
+- [A Spider in Her Web](./aspiderinherweb.md) (2015)
 
 ## wallel Audeles
 
@@ -267,6 +379,10 @@ A page colelcting all authors with just one piece in the library.
 ## Yun-Hee ‘Tight-lips’ Yubari 
 
 - [The Black Song’s Flight](./theblacksongsflight.md)
+
+## Yuri Serafim
+
+- [Split Decision](./splitdecision.md) (2015)
 
 ## Zahra Sarain
 
