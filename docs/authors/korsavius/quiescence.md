@@ -11,7 +11,7 @@ tags:
 
 > Original post: [https://backstage.eve-inspiracy.com/index.php?topic=7546.msg122784#msg122784](https://backstage.eve-inspiracy.com/index.php?topic=7546.msg122784#msg122784)
 
-> Entry for the YC120 Pod and Planet Fiction Contest in the 8000 Suns category and the Very Short Fiction subcategory.
+> Entry for the YC120 Pod and Planet Fiction Contest in the Eight Thousand Suns in New Eden category and the Very Short Fiction subcategory.
 
 
 Echoes of the heavenly symphony of music and choir humming reverberated throughout the chapel. An ethereal God ray pierced through stained glass windows, and enveloped the worshippers in their God’s tender embrace. The windows were for show, naturally, and the sunlight peeking in was artifical, of course - necessities aboard stations anchored across the cluster. The Amarr perfected the hologram technique for such an effect many generations ago. They say you can’t tell the hologram from the real thing, and Ardashir certainly couldn’t tell the difference.

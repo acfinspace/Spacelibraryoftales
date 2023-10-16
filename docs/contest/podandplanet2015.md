@@ -19,7 +19,7 @@ Original website: [Pod and Planet 2015 reading bank](https://podandplanet.wixsit
 - Sarah Flinnley: [Eyes Wide Open](../authors/miscauthors/eyeswideopen.md)
 - Judas II: [The Oxfeld Account](../authors/miscauthors/theoxfeldaccount.md)
 - Erylis Aphelyon: [a tale of one cyno or two](../authors/miscauthors/ataleofonecynoortwo.md)
-- Marc Scaurus: [2000 Kills](../authors/miscauthors/2000kills.md)
+- Marc Scaurus: [2000 Kills](../authors/miscauthors/marcscaurus_2000kills.md)
 - Rhavas: [Decoherence](../authors/rhavas/decoherence.md) (2nd Prize)
 - Eridan: [Capsuleer's blues](../authors/miscauthors/capsuleersblues.md)
 - Easy Esky: [Enigma Redressed](../authors/miscauthors/enigmaredressed.md)

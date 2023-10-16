@@ -12,6 +12,10 @@ A page colelcting all authors with just one piece in the library.
 
 - [The Allure of the Damsel](./theallureofthedamsel.md) (2015)
 
+## Aenea Maim
+
+- [Low Power](./lowpower.md) (2018)
+
 ## Aillel
 
 - [The Job Posting](./thejobposting.md) (2017)
@@ -175,6 +179,10 @@ A page colelcting all authors with just one piece in the library.
 ## Greasyforehead
 
 - [Arise O' Sleeper](./ariseosleeper.md) (2022)
+
+## Grievious Maximus
+
+- [A Package Better Left Unopened](./apackagebetterleftunopened.md) (2018)
 
 ## Grimaxemorpher
 

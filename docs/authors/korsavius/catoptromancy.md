@@ -10,7 +10,7 @@ tags:
 
 > Original post: [https://backstage.eve-inspiracy.com/index.php?topic=7546.msg122784#msg122784](https://backstage.eve-inspiracy.com/index.php?topic=7546.msg122784#msg122784)
 
-> Entry for the YC120 Pod and Planet Fiction Contest in the 8000 Suns category and the Very Short Fiction subcategory.
+> Entry for the YC120 Pod and Planet Fiction Contest in the Eight Thousand Suns in New Eden category and the Very Short Fiction subcategory.
 
 
 *Look within yourself. What do you see?*

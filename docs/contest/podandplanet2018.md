@@ -7,7 +7,7 @@ tags:
 
 ## Eight Thousand Suns in New Eden (New Eden lore-based)
 
-- Aenea Maim: [Low Power]()
+- Aenea Maim: [Low Power](../authors/miscauthors/lowpower.md)
 - Donkyhotay: [The Box Star Colony]()
 - Jack Carrigan: [Blood and Deathglow]()
 - Epigene: [Love]()
@@ -65,7 +65,7 @@ tags:
 - Le Petite More: [Sentenced]()
 - chanman Yatolila: [new beginnings]()
 - Arissa Etonna: [Cracked Capsule]()
-- Grievious Maximus [A Package Better Left Unopened]()
+- Grievious Maximus [A Package Better Left Unopened](../authors/miscauthors/apackagebetterleftunopened.md)
 - Shorai Aikyoraan: [The Package](../authors/miscauthors/thepackage.md)
 - Kilzin: [Filaments Gone Wrong](../authors/miscauthors/filamentsgonewrong.md)
 - Korsavius: [Flight of the Ravens](../authors/korsavius/flightoftheravens.md)
