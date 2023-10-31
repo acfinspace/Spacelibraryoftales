@@ -76,10 +76,6 @@ A page colelcting all authors with just one piece in the library.
 
 - [Eulogy of an Immortal](./eulogyofanimmortal.md) (2015)
 
-## Callista Dallmore
-
-- [The Gate](../authors/miscauthors/callistadallmore_thegate.md) (2015)
-
 ## Canatana Jovakko
 
 - [Some recent adventures that started in low-sec in a Heron.](./somerecentadventuresthatstartedinlowsecinaheron.md) (2017)
@@ -120,6 +116,10 @@ A page colelcting all authors with just one piece in the library.
 
 - [Flametender](./flametender.md) (2017)
 
+## Donkyhotay
+
+- [The Box Star Colony](./theboxstarcolony.md) (2018)
+
 ## Dreygun
 
 - [Echoes of Origin](./echoesoforigin.md) (2014)
@@ -136,9 +136,17 @@ A page colelcting all authors with just one piece in the library.
 
 - [Phantom Sound](./phantomsound.md) (2017)
 
+## Elisa Kose
+
+- [Star of Blood](./starofblood.md) (2018)
+
 ## Emilia Dallocort
 
 - [Podded](./podded.md) (2022)
+
+## Epigene
+
+- [Love](./epigene_love.md) (2018)
 
 ## Eridan
 
@@ -279,10 +287,6 @@ A page colelcting all authors with just one piece in the library.
 ## Octantia Dadarwar
 
 - [Custody Battle](../nauplius/custodybattle.md) (with Nauplius) (2022)
-
-##  Oreamnos Amric
-
-- [Blood Frenzy](./bloodfrenzy.md) (2015)
 
 ## Particul
 

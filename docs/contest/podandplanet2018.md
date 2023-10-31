@@ -3,21 +3,21 @@ tags:
   - Contest
 ---
 
-# YC119 Pod and Planet Fiction Contest (2018)
+# YC120 Pod and Planet Fiction Contest (2018)
 
 ## Eight Thousand Suns in New Eden (New Eden lore-based)
 
 - Aenea Maim: [Low Power](../authors/miscauthors/lowpower.md)
-- Donkyhotay: [The Box Star Colony]()
+- Donkyhotay: [The Box Star Colony](../authors/miscauthors/theboxstarcolony.md)
 - Jack Carrigan: [Blood and Deathglow]()
-- Epigene: [Love]()
-- Elisa Kose: [Star of Blood]()
+- Epigene: [Love](../authors/miscauthors/epigene_love.md)
+- Elisa Kose: [Star of Blood](../authors/miscauthors/starofblood.md)
 - Samtin Rewn:
-    - [Fall and Rise]()
-    - [Residual Cinders]()
-- Bas Mosker: [Holoreels and the Box]()
-- ​Oreamnos Amric: [The Lost Wormholers]()
-- Callista Dalmore: [Forced Evolution]()
+    - [Fall and Rise](../authors/daielzehn/fallandrise.md)
+    - [Residual Cinders](../authors/daielzehn/residualcinders.md)
+- Bas Mosker: [Holoreels and the Box](../authors/daielzehn/holoreelsandthebox.md)
+- ​Oreamnos Amric: [The Lost Wormholers](../authors/oreamnosamric/thelostwormholers.md)
+- Callista Dalmore: [Forced Evolution](../authors/callistadallmore/forcedevolution.md)
 - Korsavius:
     - [Quiescence](../authors/korsavius/quiescence.md)
     - [Catoptromancy](../authors/korsavius/catoptromancy.md)

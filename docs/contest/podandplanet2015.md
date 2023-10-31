@@ -51,7 +51,7 @@ Original website: [Pod and Planet 2015 reading bank](https://podandplanet.wixsit
 - Regalas Davaham/Ben C.: [Stargate](../authors/miscauthors/regalasdavaham_stargate.md) (Honorable Mention)
 - Archangael/Jason Jones: [The Best Sport](../authors/miscauthors/thebestsport.md) (1st Prize)
 - Sere O'Asis: [Origin Stories:  Chapter One](../authors/miscauthors/sereoasis_originstorieschapterone.md)
-- Oreamnos Amric: [Blood Frenzy](../authors/miscauthors/bloodfrenzy.md) (2nd Prize)
+- Oreamnos Amric: [Blood Frenzy](../authors/oreamnosamric/bloodfrenzy.md) (2nd Prize)
 - Brodit/Brendan O'Donnell: [Eulogy of an Immortal](../authors/miscauthors/eulogyofanimmortal.md)
 - Cassandra Habalu: [Interceptors Are Our Business And Business Is Good](../authors/miscauthors/interceptorsareourbusinessandbusinessisgood.md)
 - Lite Sabre:
