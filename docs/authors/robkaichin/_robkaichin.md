@@ -16,3 +16,4 @@ tags:
 - [Myth and Memory](./mythandmemory.md) (2017)
 - [Divinely Devoted](./divinedevotion.md) (2017)
 - [Pointless](./pointless.md)
+- [In Amber Clad](./inamberclad.md) (2018)

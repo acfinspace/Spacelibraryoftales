@@ -68,6 +68,10 @@ A page colelcting all authors with just one piece in the library.
 
 - [Traitors](./traitors.md) (2017)
 
+## Ayara Itris
+
+- [Be](./ayaraitris_be.md) (2018)
+
 ## Brisc Rubal
 
 - [Short Skirt, Long Jacket](./shortskirtlongjacket.md) (2022)
@@ -102,7 +106,11 @@ A page colelcting all authors with just one piece in the library.
 
 ## Daiko Kobayashi
 
-- [Jin Mei Leaving Home](../authors/miscauthors/jinmeileavinghome.md) (2021-2022)
+- [Jin Mei Leaving Home](./jinmeileavinghome.md) (2021-2022)
+
+## Dantelion Shinoni
+
+- [The Gheinok Chambers](./thegheinokchambers.md) (2018)
 
 ## Darrell Musko
 
@@ -327,6 +335,10 @@ A page colelcting all authors with just one piece in the library.
 ## Sleightz:
 
 - [From Riches to Riches](./fromrichestoriches.md) (2015)
+
+## Strepan Dorsett
+
+- [Childhood's Memory](./childhoodsmemory.md) (2018)
 
 ## Sugar Kyle
 

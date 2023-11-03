@@ -21,17 +21,17 @@ tags:
 - Korsavius:
     - [Quiescence](../authors/korsavius/quiescence.md)
     - [Catoptromancy](../authors/korsavius/catoptromancy.md)
-- Ayara Itris: [Be]()
-- Shen Striker: [Breach]()
-- Dantelion Shinoni: [The Gheinok Chambers]()
-- Mundi Kundoni: [Fragments]()
+- Ayara Itris: [Be](../authors/miscauthors/ayaraitris_be.md)
+- Shen Striker: [Breach](../authors/daielzehn/breach.md)
+- Dantelion Shinoni: [The Gheinok Chambers](../authors/miscauthors/thegheinokchambers.md)
+- Mundi Kundoni: [Fragments](../authors/mundikundoni/fragments.md)
 - Tam en Marland:
-    - [Hoarder]()
-    - [Tumble]()
-- Strepan Dorsett: [Childhood's Memory]()
-- Nomistrav: [Rotten Curiosity]()
-- Mundi Kundoni: [Biomass 2 - Revelations](./authors/miscauthors/biomass2.md)
-- Rob Kaichin: [In Amber Clad]()
+    - [Hoarder](../authors/daielzehn/hoarder.md)
+    - [Tumble](../authors/daielzehn/tumble.md)
+- Strepan Dorsett: [Childhood's Memory](../authors/miscauthors/childhoodsmemory.md)
+- Nomistrav: [Rotten Curiosity](../authors/nomistrav.md/rottencuriosity.md)
+- Mundi Kundoni: [Biomass 2 - Revelations](../authors/miscauthors/biomass2.md)
+- Rob Kaichin: [In Amber Clad](../authors/robkaichin/inamberclad.md)
 
 ## A Day in the Life (Gameplay-based/freeform)
 
