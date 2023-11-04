@@ -19,7 +19,7 @@ To navigate the library either start from the Authors' index gathering all the a
 - Authors: see [Authors index](authorsindex.md)
 - Contests: see [Contest index](contestindex.md)
 
-Some authors might have dedicated pages. Dedicated author's pages can be created at request, write me a message on Discord, at miyoshiakachi or make a pull request adding it, kind of like new fiction.
+Each author with more than one piece hosted in the library have dedicated pages listing their works. Author's pages can be customized at request, write me a message on Discord, at miyoshiakachi or make a pull request adding it, kind of like new fiction.
 
 
 ### How to contribute
@@ -59,7 +59,7 @@ To do:
     - [x] Amore Tank Your Hearts Contest
     - [x] YC123 Union Day Celebrations - Short Written Works Contest
 
-Last updated: October 2023
+Last updated: November 2023
 
 #### Issues
 

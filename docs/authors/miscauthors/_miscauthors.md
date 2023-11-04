@@ -44,6 +44,10 @@ A page colelcting all authors with just one piece in the library.
 
 - [Immortality](./alylaby_immortality.md)
 
+## Annisir Kaugan
+
+- [Reflections](./annisirkaugan_reflections.md) (2018)
+
 ## Archangael/Jason Jones
 
 - [The Best Sport](./thebestsport.md) (2015)
@@ -51,6 +55,10 @@ A page colelcting all authors with just one piece in the library.
 ## Aria Jenneth
 
 - [One True Law](./onetruelaw.md) (2022)
+
+## Arkade Elerra
+
+- [A wild year](./awildyear.md)
 
 ## Arkana Hawker
 
@@ -60,13 +68,13 @@ A page colelcting all authors with just one piece in the library.
 
 - [Beginning of the Endgame](./beginningoftheendgame.md) (2017)
 
-## Arrowspeed Bounty
-
-- [The Problem of the Wormholes](./theproblemofthewormholes.md) (2017)
-
 ## Avio Yaken
 
 - [Traitors](./traitors.md) (2017)
+
+## Ayana Naito
+
+- [Arrival at the Crossroads](./arrivalatthecrossroads.md) (2018)
 
 ## Ayara Itris
 
@@ -92,6 +100,10 @@ A page colelcting all authors with just one piece in the library.
 
 - [A Poem](./cecilievale_apoem.md) (2021)
 
+## chanman Yatolila
+
+- [new beginnings](./chanmanyatolila_newbeginnings.md) (2018)
+
 ## Che Biko
 
 - [Emissions & Omission](./emissionsandomissions.md) (2016)
@@ -104,13 +116,13 @@ A page colelcting all authors with just one piece in the library.
 
 - [Rainfall](./rainfall.md) (2022)
 
+## Cyno Krisse (DUST Name: Sergei Domar)
+
+- [Iron Lion](./ironlion.md) (2018)
+
 ## Daiko Kobayashi
 
 - [Jin Mei Leaving Home](./jinmeileavinghome.md) (2021-2022)
-
-## Dantelion Shinoni
-
-- [The Gheinok Chambers](./thegheinokchambers.md) (2018)
 
 ## Darrell Musko
 
@@ -123,6 +135,10 @@ A page colelcting all authors with just one piece in the library.
 ## Djavak Andrard
 
 - [Flametender](./flametender.md) (2017)
+
+## Doggo Von Booplesnoot
+
+- []() (2018)
 
 ## Donkyhotay
 
@@ -216,13 +232,13 @@ A page colelcting all authors with just one piece in the library.
 
 - [Revenge](./isaacneville_revenge.md) (2015)
 
-## Jack Carrigan
-
-- [It Was In That Moment...](./itwasinthatmoment.md) (2017)
-
 ## Jacqui Atruin/Amy
 
 - [A meeting with the station administrator](./ameetingwiththestationadministrator.md) (2015)
+
+## John LaCroix
+
+- [GoodKite](./goodkite.md) (2018)
 
 ## Johnnie Blaze
 
@@ -232,17 +248,9 @@ A page colelcting all authors with just one piece in the library.
 
 - [The Oxfeld Account](./theoxfeldaccount.md) (2015)
 
-## Katsumoto Moliko
-
-- [Tomb of the Immortals](./tomboftheimmortals.md) (2017)
-
 ## Kilzin
 
 - [Filaments Gone Wrong](./filamentsgonewrong.md) (2018)
-
-## Kyle Saltz
-
-- [Bells](./bells.md) (2022)
 
 ## Leehams DaWildabeast
 
@@ -255,6 +263,10 @@ A page colelcting all authors with just one piece in the library.
 ## Loai Qerl
 
 - [The Heart Treads A Rocky Path](./thehearttreadsarockypath.md) (2017)
+
+## Lt Bleue
+
+- [A Crimson Harvest](./acrimsonharvest.md) (2018)
 
 ## Lucas Ballard
 
@@ -270,7 +282,11 @@ A page colelcting all authors with just one piece in the library.
 
 ## Marc Scaurus
 
-- [2000 Kills](../authors/miscauthors/2000kills.md) (2015)
+- [2000 Kills](./marcscaurus_2000kills.md) (2015)
+
+##  Max Ouch
+
+- [Red](./maxouch_red.md) (2018)
 
 ## Melicien Tetro
 
@@ -288,6 +304,10 @@ A page colelcting all authors with just one piece in the library.
 
 - [A Poem](./morganatsukiyo_apoem.md) (2021)
 
+## Mountain Ghasha
+
+- [Marine (Livestock)](./marinelivestock.md) (2018)
+
 ## Niden
 
 - [Rapture](./niden_rapture.md) (2015)
@@ -296,9 +316,17 @@ A page colelcting all authors with just one piece in the library.
 
 - [Custody Battle](../nauplius/custodybattle.md) (with Nauplius) (2022)
 
+## Palis Airuta
+
+- [The Escape](./palisairuta_theescape.md) (2018)
+
 ## Particul
 
 - [Junior Points of View](./juniorpointsofview.md) (2015)
+
+## Rachel Syne
+
+- [The scary life of a newbie trader: a tale of epic greed stupidity and bravery](./thescarylifeofanewbietrader.md) (2018)
 
 ## Raultalainen Isise
 
@@ -307,6 +335,10 @@ A page colelcting all authors with just one piece in the library.
 ## Regalas Davaham/Ben C.
 
 - [Stargate](./regalasdavaham_stargate.md) (2015)
+
+## Reyg Xander
+
+- [Warp.  Pod.  Repeat.](./warppodrepeat.md) (2018)
 
 ## Rusty Boon
 
@@ -327,10 +359,6 @@ A page colelcting all authors with just one piece in the library.
 ## Sere O'Asis
 
 - [Origin Stories:  Chapter One](./sereoasis_originstorieschapterone.md) (2015)
-
-## Shorai Aikyoraan
-
-- [The Package](./thepackage.md) (2018)
 
 ## Sleightz:
 

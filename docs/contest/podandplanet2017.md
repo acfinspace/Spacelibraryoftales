@@ -53,7 +53,7 @@ Original website: [Pod and Planet 2017 reading bank](https://podandplanet.wixsit
 ## A Day in the Life (Gameplay-based/freeform)
 
 - Mischa Gau'ss Tesla: [Late Night Battle](../authors/mischagausstesla/latenightbattle.md)
-- Jack Carrigan: [It Was In That Moment...](../authors/miscauthors/itwasinthatmoment.md)
+- Jack Carrigan: [It Was In That Moment...](../authors/jackcarrigan/itwasinthatmoment.md)
 - Arnold Kalashnikov: [Beginning of the Endgame](../authors/miscauthors/beginningoftheendgame.md)
 - Aillel: [The Job Posting](../authors/miscauthors/thejobposting.md) (2nd Prize)
 - Miyoshi Akachi:
@@ -67,8 +67,8 @@ Original website: [Pod and Planet 2017 reading bank](https://podandplanet.wixsit
 - Ninavask: [An Empire of Mad Science](../authors/ninavask/anempireofmadscience.md)
 - Greasyforehead: [Arise O' Sleeper](../authors/miscauthors/ariseosleeper.md)
 - Lasairiona Raske: [Coda](../authors/lasairionaraske/coda.md) (3rd Prize)
-- Arrowspeed Bounty: [The Problem of the Wormholes](../authors/miscauthors/theproblemofthewormholes.md)
-- Katsumoto Moliko: [Tomb of the Immortals](../authors/miscauthors/tomboftheimmortals.md) (3rd Prize)
+- Arrowspeed Bounty: [The Problem of the Wormholes](../authors/arrowspeedbounty/theproblemofthewormholes.md)
+- Katsumoto Moliko: [Tomb of the Immortals](../authors/katsumotomoliko/tomboftheimmortals.md) (3rd Prize)
 - igRaVeN: [A Broken Shell](../authors/miscauthors/abrokenshell.md)
 - The Record Keeper: [Scotty](../authors/miscauthors/scotty.md)
 

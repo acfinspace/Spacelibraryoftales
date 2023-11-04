@@ -60,7 +60,7 @@ if people have any questions or need rulings, I am the contest administrator and
 - Tanagura Amoii: [Jin Emperor’s Leaning Tower](../authors/miscauthors/jinemperorsleaningtower.md)
 - Raultalainen Isise: [The Way Turns Unexpectedly](../authors/miscauthors/thewayturnsunexpectedly.md) (Honorable Mention)
 - Grimaxemorpher: [The Fall of Niarja The Start Of A New Era](../authors/miscauthors/thefallofniarjathestartofanewera.md)
-- Kyle Saltz: [Bells](../authors/miscauthors/bells.md)
+- Kyle Saltz: [Bells](../authors/kylesaltz/bells.md)
 - wallel Audeles: [Memoirs of a Capsuleer: wallel Audeles: Splintered Soul](../authors/miscauthors/memoirsofacapsuleerwallelaudelessplinteredsoul.md)
 - Arkana Hawker: [A New Deck of Cards](../authors/miscauthors/anewdeckofcards.md)
 - Duke Shasta: [The Blood of Gladiators](../authors/miscauthors/thebloodofgladiators.md) (Honorable Mention, Organizer’s Prize)
