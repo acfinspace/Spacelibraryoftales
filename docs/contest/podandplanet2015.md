@@ -71,3 +71,8 @@ Original website: [Pod and Planet 2015 reading bank](https://podandplanet.wixsit
 - Isaac Neville: [Revenge](../authors/miscauthors/isaacneville_revenge.md)
 - Drackarn: [Into the Breach](../authors/drackarn/intothebreach.md) (2nd Prize)
 - Sleightz: [From Riches to Riches](../authors/miscauthors/fromrichestoriches.md) (3rd Prize)
+
+
+## Entries not elegible for prizes
+
+- Drackarn: [The Refit](../authors/drackarn/therefit.md)

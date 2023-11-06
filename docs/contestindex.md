@@ -1,7 +1,5 @@
 # Context index
 
-> WIP
-
 
 ## Pod and Planet Fiction Contest
 
@@ -14,10 +12,10 @@
 
 ## New Eden Capsuleers Writing Contest
 
-- [YC 125 New Eden Capsuleers Writing Contest](./contest/newedencapsuleerswritingcontest2023.md) (2023)
+- [YC 122 New Eden Capsuleers Writing Contest](./contest/newedencapsuleerswritingcontest2020.md) (2020)
+- [YC 123 New Eden Capsuleers Writing Contest](./contest/newedencapsuleerswritingcontest2021.md) (2021)
 - [YC 124 New Eden Capsuleers Writing Contest](./contest/newedencapsuleerswritingcontest2022.md) (2022)
-- [YC 123 New Eden Capsuleers Writing Contest](./index.md) (2021)
-- [YC 122 New Eden Capsuleers Writing Contest](./index.md) (2020)
+- [YC 125 New Eden Capsuleers Writing Contest](./contest/newedencapsuleerswritingcontest2023.md) (2023)
 
 ## Other contest
 

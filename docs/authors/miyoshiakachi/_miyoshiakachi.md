@@ -36,3 +36,4 @@ Works:
 - [Impossible Love, the new bestseller by Chialette Ahubbert is out!](./impossiblelove.md) (2022)
 - [Stellar Fit OG 3000 ](./stellarfitog3000.md) (2023)
 - [Slave from the desert](./slavefromthedesert.md) (2023)
+- [Nobody heard the screaming](./nobodyheardthescreaming.md) (2023)

@@ -7,6 +7,9 @@ tags:
 
 Works:
 
+- [Crash](./crash.md) (2014)
+- [Dead Man Walking](./deadmanwalking.md) (2014)
+- [Beautiful Cherry Blossoms](./beautifulcherryblossoms.md) (2014)
 - [C'est La Vie, Amore](./cestlavieamore.md) (2017)
 - [As the Butterfly Soars](./asthebutterflysoars.md) (2017)
 - [Slaver Hound Training For Dummies](./slaverhoundtrainingfordummies.md) (2017)

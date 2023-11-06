@@ -46,16 +46,21 @@ To do:
     - [ ] Theme
     - [ ] Night mode/light mode
     - [ ] Last updated plugin
- - [ ] Add more fan fiction
-    - [x] Miyoshi Akachi
-    - [ ] Others
  - [ ] Properly tag all the written pieces (on many I put only a few standard tags such as author, contest and prose/poetry)
  - [ ] Add contests
-    - [ ] Pod & Planet 2016
+    - [ ] Pod & Planet 2012
+    - [ ] Pod & Planet 2013
+    - [ ] Pod & Planet 2014
+    - [x] Pod & Planet 2015
+    - [x] Pod & Planet 2016
     - [x] Pod & Planet 2017
-    - [ ] Pod & Planet 2018
-    - [ ] Other Pod & Planet
-    - [ ] New Eden Capsuleer's Writing Contest
+    - [x] Pod & Planet 2018
+    - [x] Pod & Planet 2013 misc content
+    - [ ] New Eden Capsuleer's Writing Contest previous years
+    - [ ] New Eden Capsuleer's Writing Contest 2020
+    - [ ] New Eden Capsuleer's Writing Contest 2021
+    - [x] New Eden Capsuleer's Writing Contest 2022
+    - [ ] New Eden Capsuleer's Writing Contest 2023
     - [x] Amore Tank Your Hearts Contest
     - [x] YC123 Union Day Celebrations - Short Written Works Contest
 

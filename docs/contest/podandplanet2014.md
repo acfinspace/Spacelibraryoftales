@@ -3,9 +3,9 @@ tags:
   - Contest
 ---
 
-# YC117 Pod and Planet Fiction Contest (2014)
+# YC116 Pod and Planet Fiction Contest (2014)
 
-Original website: [Pod and Planet 2015 reading bank](https://podandplanet.wixsite.com/podandplanet/2014-entries)
+Original website: [Pod and Planet 2014 reading bank](https://podandplanet.wixsite.com/podandplanet/2014-entries)
 
 ## Eight Thousand Suns in New Eden (New Eden lore-based)
 
@@ -20,22 +20,22 @@ Original website: [Pod and Planet 2015 reading bank](https://podandplanet.wixsit
 - Salie Gaterau / Gabriel Cassata: [We All Fall Down]()
 - Eve Talaminada: [a forgotten chronicle... Fifty shades...]()
 - hmnomad / Patrick Lee: [My Father is a Capsuleer]() (3rd Prize)
-- Drackarn: [The Wreck]() (3rd Prize)
+- Drackarn: [The Wreck](../authors/drackarn/thewreck.md) (3rd Prize)
 - Nivin Sajjad: [The Party of a Lifetime]()
-- Korsavius: [Crash] (Honorable Mention)
-- Nomistrav / Simon Myers: [Perhaps Reborn]()
+- Korsavius: [Crash](../authors/korsavius/crash.md) (Honorable Mention)
+- Nomistrav / Simon Myers: [Perhaps Reborn](../authors/nomistrav.md/perhapsreborn.md)
 - Shei Bushaava: [Skies Painted with Unnumbered Sparks]()
-- Saede Riordan: [The Things We Bury]() (Honorable Mention)
+- Saede Riordan: [The Things We Bury](../authors/saederiordan/thethingswebury.md) (Honorable Mention)
 - Kirith Kodachi: [Borrowed Time]() (Grand Prize Winner)
 - Louella Dougans: [It's a Man's Life in the Imperial Army]()
 - Vahrek Serveko / Gwydion JMF Weber: [Do It For Your People]()
 - Athrelon: [An Image of God]()
-- Callista Dalmore: [The Tally]() (Honorable Mention)
+- Callista Dalmore: [The Tally](../authors/callistadallmore/thetally.md) (Honorable Mention)
 - Uriel Paradisi Anteovnuecci: [The Giant]()
 - Holker Rubin: [Sad Sun]()
 - Yarrion Yuwen / Grey Y: [Homo Homini Lupus]() (3rd Prize)
 - Kazicht Cixit: [Seeing Double]() (1st Prize)
-- Da'iel Zehn: [Crossfire]() (Honorable Mention)
+- Da'iel Zehn: [Crossfire](../authors/daielzehn/crossfire.md) (Honorable Mention)
 - Jakob Anedalle: [Flags on Far Distant Stars]()
 - Charles Cambridge Schmidt / Eric S.: [Supershow Spotlight: Gimmie a Hand]()
 - aul Elsyn / Paul Naughton: [Hope] (3rd Prize)
@@ -48,7 +48,7 @@ Original website: [Pod and Planet 2015 reading bank](https://podandplanet.wixsit
 - Sarah Flinnley: [After Action]()
 - Zeck Morgan: [The Forgotten Age]()
 - joomla alacard: [January Thaw]()
-- Literia: [Crack of the Whip]()
+- Literia: [Crack of the Whip](../authors/literia/crackofthewhip.md)
 - Saladiin: [Consolidated Cooperation and Relations Command (CONCORD) Secure Commerce Commission v. Wingspan Delivery Services, LLC.]() (3rd Prize)
 - Jack Carrigan / Alan Eaby: [Another Day and a Another Bit of Hatred]()
 - Ebag Trescientas: [Aileen]()
@@ -67,7 +67,7 @@ Original website: [Pod and Planet 2015 reading bank](https://podandplanet.wixsit
     - [A Glimpse into my Heart (Part I)]()
     - [A Glimpse into my Heart (Part II)]()
 - Lynx Artrald: [Whatsoever a Man Soweth]()
-- Korsavius: [Beautiful Cherry Blossoms]() (Honorable Mention)
+- Korsavius: [Beautiful Cherry Blossoms](../authors/korsavius/beautifulcherryblossoms.md) (Honorable Mention)
 
 
 ## Other Thing Just Make You Swear and Curse (Humor)
@@ -77,10 +77,12 @@ Original website: [Pod and Planet 2015 reading bank](https://podandplanet.wixsit
 - Abavus Durden: [The Hobgoblin]() (3rd Prize)
 - Alabath Schmidt: [Identity Crisis]()
 - Drackarn: [Angels and Sinners]() (1st Prize)
-- Callista Dalmore: [The Many]()
+- Callista Dalmore: [The Many](../authors/callistadallmore/themany.md)
 - Kyle Yanowski: [The Fedora]()
 - Owen Levanth / David Lögler: [Once in a Blue Moon]()
 - Sleightz: [Tricks of the Trade]()
 
- 
 
+## Entries not elegible for prizes
+
+- Revileushin Eyri: [Playing the Man](../authors/miscauthors/playingtheman.md)

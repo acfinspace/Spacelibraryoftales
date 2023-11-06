@@ -336,6 +336,10 @@ A page colelcting all authors with just one piece in the library.
 
 - [Stargate](./regalasdavaham_stargate.md) (2015)
 
+## Revileushin Eyri
+
+- [Playing the Man](./playingtheman.md) (2014)
+
 ## Reyg Xander
 
 - [Warp.  Pod.  Repeat.](./warppodrepeat.md) (2018)

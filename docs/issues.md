@@ -1,8 +1,14 @@
+---
+tags:
+  - ISSUES
+  - TOBEFORMATTED
+---
+
 # Issues
 
 Issues with fiction.
 
-See also the tag ISSUES.
+See also the tag ISSUES and TOBEFORMATTED.
 
 - [Angelic State](./authors/lasairionaraske/angelicstate.md) (file not accessible)
 - [Reachblades of Chandeille - Broken People and Shattered Dreams](./authors/ninavask/reachbladesofchandeille_brokenpeopleandshattereddreams.md) (content cannot be copied)
