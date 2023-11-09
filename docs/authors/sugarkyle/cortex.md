@@ -11,7 +11,7 @@ tags:
 
 > Original post: [http://www.lowseclifestyle.com/2015/10/pod-and-planet-yc117-cortex.html](http://www.lowseclifestyle.com/2015/10/pod-and-planet-yc117-cortex.html)
 
-> Entry for the YC118 Pod and Planet Contest in the Eight Thousand Suns in New Eden category.
+> Entry for the YC117 Pod and Planet Contest in the Eight Thousand Suns in New Eden category.
 
 
 **Todaki VI - Moon 1 - School of Applied Knowledge**

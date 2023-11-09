@@ -12,7 +12,7 @@ tags:
 
 > Original post: []()
 
-> Entry for the YC118 Pod and Planet Contest in the Other Thing Just Make You Swear and Curse category.
+> Entry for the YC117 Pod and Planet Contest in the Other Thing Just Make You Swear and Curse category.
 
 
 **Page not available anymore**

@@ -1,6 +1,6 @@
 ---
 tags:
-  - Poetry
+  - Prose
   - Literia
   - PodandPlanetYC116
 ---

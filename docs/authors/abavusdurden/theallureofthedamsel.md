@@ -11,7 +11,7 @@ tags:
 
 > Original post: [https://evedogsbreath.blogspot.com/2015/11/the-allure-of-damsel.html](https://evedogsbreath.blogspot.com/2015/11/the-allure-of-damsel.html)
 
-> Entry for the YC118 Pod and Planet Contest in the Other Thing Just Make You Swear and Curse category.
+> Entry for the YC117 Pod and Planet Contest in the Other Thing Just Make You Swear and Curse category.
 
 
 **[MEANWHILE... at a secret enemy hideout....]**

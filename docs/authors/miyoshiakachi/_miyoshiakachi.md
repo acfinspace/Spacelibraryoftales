@@ -33,7 +33,7 @@ Works:
 - [A free agent life](./afreeagentlife.md) (2022)
 - [A Haiku collection](./ahaikucollection.md) (2022)
 - [Establishing an industrial colony: a journal](./establishinganindustrialcolonyajournal.md) (2022)
-- [Impossible Love, the new bestseller by Chialette Ahubbert is out!](./impossiblelove.md) (2022)
+- [Impossible Love, the new bestseller by Cialette Ahubbert is out!](./impossiblelove.md) (2022)
 - [Stellar Fit OG 3000 ](./stellarfitog3000.md) (2023)
 - [Slave from the desert](./slavefromthedesert.md) (2023)
 - [Nobody heard the screaming](./nobodyheardthescreaming.md) (2023)

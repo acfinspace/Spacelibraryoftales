@@ -9,14 +9,14 @@ Original website: [Pod and Planet 2015 reading bank](https://podandplanet.wixsit
 
 ## Eight Thousand Suns in New Eden (New Eden lore-based)
 
-- Sugar Kyle: [Cortex](../authors/miscauthors/cortex.md) (1st Prize)
+- Sugar Kyle: [Cortex](../authors/sugarkyle/cortex.md) (1st Prize)
 - Islana Deepsorrow:
     - [The name of the capsuleer](../authors/islanadeepsorrow/thenameofthecapsuleer.md) (Honorable Mention)
     - [The Proteus: LC-K-114](../authors/islanadeepsorrow/theproteuslck114.md) (Honorable Mention)
 - Drackarn: [The Journey](../authors/drackarn/thejourney.md) (Honorable Mention)
 - Jacqui Atruin/Amy: [A meeting with the station administrator](../authors/miscauthors/ameetingwiththestationadministrator.md)
 - Tiberius StarGazer: [Different Bodies](../authors/miscauthors/differentbodies.md) (3rd Prize)
-- Sarah Flinnley: [Eyes Wide Open](../authors/miscauthors/eyeswideopen.md)
+- Sarah Flinnley: [Eyes Wide Open](../authors/sarahflinnley/eyeswideopen.md)
 - Judas II: [The Oxfeld Account](../authors/miscauthors/theoxfeldaccount.md)
 - Erylis Aphelyon: [a tale of one cyno or two](../authors/miscauthors/ataleofonecynoortwo.md)
 - Marc Scaurus: [2000 Kills](../authors/miscauthors/marcscaurus_2000kills.md)
@@ -66,11 +66,11 @@ Original website: [Pod and Planet 2015 reading bank](https://podandplanet.wixsit
 ## Other Thing Just Make You Swear and Curse (Humor)
 
 - Particul: [Junior Points of View](../authors/miscauthors/juniorpointsofview.md)
-- Abavus Durden: [The Allure of the Damsel](../authors/miscauthors/theallureofthedamsel.md) (1st Prize)
+- Abavus Durden: [The Allure of the Damsel](../authors/abavusdurden/theallureofthedamsel.md) (1st Prize)
 - Rusty Boon: [A Longing for Loss](../authors/miscauthors/alongingforloss.md) (Honorable Mention)
 - Isaac Neville: [Revenge](../authors/miscauthors/isaacneville_revenge.md)
 - Drackarn: [Into the Breach](../authors/drackarn/intothebreach.md) (2nd Prize)
-- Sleightz: [From Riches to Riches](../authors/miscauthors/fromrichestoriches.md) (3rd Prize)
+- Sleightz: [From Riches to Riches](../authors/sleightz/fromrichestoriches.md) (3rd Prize)
 
 
 ## Entries not elegible for prizes

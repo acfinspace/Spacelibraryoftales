@@ -8,10 +8,6 @@ tags:
 A page colelcting all authors with just one piece in the library.
 
 
-## Abavus Durden
-
-- [The Allure of the Damsel](./theallureofthedamsel.md) (2015)
-
 ## Aenea Maim
 
 - [Low Power](./lowpower.md) (2018)
@@ -23,6 +19,10 @@ A page colelcting all authors with just one piece in the library.
 ## AlacrityFitz
 
 - [Love Costs](./lovecosts.md) (2017)
+
+## Alan Mathison (aka Doc Kinne)
+
+- [The Gift](./alanmathison_thegift.md) (2014)
 
 ## Alawa Patrouette
 
@@ -68,6 +68,14 @@ A page colelcting all authors with just one piece in the library.
 
 - [Beginning of the Endgame](./beginningoftheendgame.md) (2017)
 
+## Athrelon
+
+- [An Image of God](./animageofgod.md) (2014)
+
+## aul Elsyn / Paul Naughton
+
+- [Hope](./aulelsyn_hope.md) (2014)
+
 ## Avio Yaken
 
 - [Traitors](./traitors.md) (2017)
@@ -80,6 +88,14 @@ A page colelcting all authors with just one piece in the library.
 
 - [Be](./ayaraitris_be.md) (2018)
 
+## Brenn Derrington
+
+- [Fledgling Phoenix](./fledglingphoenix.md) (2014)
+
+## Brink Albosa
+
+- [The Wolf-Rayet](./thewolf-rayet.md) (2014)
+
 ## Brisc Rubal
 
 - [Short Skirt, Long Jacket](./shortskirtlongjacket.md) (2022)
@@ -88,9 +104,17 @@ A page colelcting all authors with just one piece in the library.
 
 - [Eulogy of an Immortal](./eulogyofanimmortal.md) (2015)
 
+## Brutus Wellforge (aka Phil Cooper)
+
+- [Rain and Ash](./rainandash.md) (2014)
+
 ## Canatana Jovakko
 
 - [Some recent adventures that started in low-sec in a Heron.](./somerecentadventuresthatstartedinlowsecinaheron.md) (2017)
+
+## Carbon Red
+
+- [-blank-](./carbonred_-blank-.md) (2014)
 
 ## Cassandra Habalu
 
@@ -103,6 +127,10 @@ A page colelcting all authors with just one piece in the library.
 ## chanman Yatolila
 
 - [new beginnings](./chanmanyatolila_newbeginnings.md) (2018)
+
+## Charles Cambridge Schmidt / Eric S.
+
+- [Supershow Spotlight: Gimmie a Hand](./supershowspotlightgimmieahand.md) (2014)
 
 ## Che Biko
 
@@ -138,7 +166,7 @@ A page colelcting all authors with just one piece in the library.
 
 ## Doggo Von Booplesnoot
 
-- []() (2018)
+- [A Legacy of Death](./alegacyofdeath.md) (2018)
 
 ## Donkyhotay
 
@@ -154,7 +182,11 @@ A page colelcting all authors with just one piece in the library.
 
 ## Easy Esky
 
-- [Enigma Redressed](../authors/miscauthors/enigmaredressed.md) (2015)
+- [Enigma Redressed](./enigmaredressed.md) (2015)
+
+## Ebag Trescientas
+
+- [Aileen](./aileen.md) (2014)
 
 ## Elinari Rhodan
 
@@ -187,6 +219,10 @@ A page colelcting all authors with just one piece in the library.
 ## Evepandora
 
 - [DammFam Refinery Attacked](./dammfamrefineryattacked.md)
+
+## Eve Talaminada
+
+- [a forgotten chronicle... Fifty shades...](./aforgottenchroniclefiftyshades.md) (2014)
 
 # Finden Parril
 
@@ -224,6 +260,14 @@ A page colelcting all authors with just one piece in the library.
 
 - [EvE: Awakening](./hardradda_eveawakening.md) (2017)
 
+## hmnomad / Patrick Lee
+
+- [My Father is a Capsuleer](./myfatherisacapsuleer.md) (2014)
+
+## Holker Rubin
+
+- [Sad Sun](./sadsun.md) (2014)
+
 ## igRaVeN
 
 - [A Broken Shell](./abrokenshell.md) (2017)
@@ -236,6 +280,14 @@ A page colelcting all authors with just one piece in the library.
 
 - [A meeting with the station administrator](./ameetingwiththestationadministrator.md) (2015)
 
+## Jakob Anedalle
+
+- [Flags on Far Distant Stars](./flagsonfardistantstars.md) (2014)
+
+## Jalep Malukker
+
+- [The New Hire](./thenewhire.md) (2014)
+
 ## John LaCroix
 
 - [GoodKite](./goodkite.md) (2018)
@@ -244,13 +296,33 @@ A page colelcting all authors with just one piece in the library.
 
 - [Hiraeth](./hiraeth.md) (2015)
 
+## joomla alacard
+
+- [January Thaw](./januarythaw.md) (2014)
+
 ## Judas II
 
 - [The Oxfeld Account](./theoxfeldaccount.md) (2015)
 
+## Kazicht Cixit
+
+- [Seeing Double](./seeingdouble.md) (2014)
+
+## Khaos Hakomairos / Rosa Hopper
+
+- [Memories Untold](./khaoshakomairos_memoriesuntold.md) (2014)
+
 ## Kilzin
 
 - [Filaments Gone Wrong](./filamentsgonewrong.md) (2018)
+
+## Kirith Kodachi
+
+- [Borrowed Time](./borrowedtime.md) (2014)
+
+## Kyle Yanowski
+
+- [The Fedora](./thefedora.md) (2014)
 
 ## Leehams DaWildabeast
 
@@ -264,6 +336,10 @@ A page colelcting all authors with just one piece in the library.
 
 - [The Heart Treads A Rocky Path](./thehearttreadsarockypath.md) (2017)
 
+## Louella Dougans
+
+- [It's a Man's Life in the Imperial Army](./itsamanslifeintheimperialarmy.md) (2014)
+
 ## Lt Bleue
 
 - [A Crimson Harvest](./acrimsonharvest.md) (2018)
@@ -275,6 +351,10 @@ A page colelcting all authors with just one piece in the library.
 ## Lunarisse Aspenstar
 
 - [A Love Story In Five Drabbles](./alovestoryinfivedrabbles.md) (2017)
+
+## Lynx Artrald
+
+- [Whatsoever a Man Soweth](./whatsoeveramansoweth.md) (2014)
 
 ## Matteral
 
@@ -312,9 +392,17 @@ A page colelcting all authors with just one piece in the library.
 
 - [Rapture](./niden_rapture.md) (2015)
 
+## Nivin Sajjad
+
+- [The Party of a Lifetime](./thepartyofalifetime.md) (2014)
+
 ## Octantia Dadarwar
 
 - [Custody Battle](../nauplius/custodybattle.md) (with Nauplius) (2022)
+
+## Owen Levanth / David Lögler
+
+- [Once in a Blue Moon](./onceinabluemoon.md) (2014)
 
 ## Palis Airuta
 
@@ -323,6 +411,10 @@ A page colelcting all authors with just one piece in the library.
 ## Particul
 
 - [Junior Points of View](./juniorpointsofview.md) (2015)
+
+## Penny Ibramovic
+
+- [Stop Touching my Stuff!](./stoptouchingmystuff.md) (2014)
 
 ## Rachel Syne
 
@@ -352,9 +444,13 @@ A page colelcting all authors with just one piece in the library.
 
 - [The Doomed Freighter](./thedoomedfreighter.md) (2015)
 
-## Sarah Flinnley
+## Saladiin
 
-- [Eyes Wide Open](../authors/miscauthors/eyeswideopen.md) (2015)
+- [Consolidated Cooperation and Relations Command (CONCORD) Secure Commerce Commission v. Wingspan Delivery Services, LLC.](./saladiin_concordsccvwingspan.md) (2014)
+
+## Salie Gaterau / Gabriel Cassata
+
+- [We All Fall Down](./weallfalldown.md) (2014)
 
 ## Sera Kor-Azor
 
@@ -364,17 +460,13 @@ A page colelcting all authors with just one piece in the library.
 
 - [Origin Stories:  Chapter One](./sereoasis_originstorieschapterone.md) (2015)
 
-## Sleightz:
+## Shei Bushaava
 
-- [From Riches to Riches](./fromrichestoriches.md) (2015)
+- [Skies Painted with Unnumbered Sparks](./skiespaintedwithunnumberedsparks.md) (2014)
 
 ## Strepan Dorsett
 
 - [Childhood's Memory](./childhoodsmemory.md) (2018)
-
-## Sugar Kyle
-
-- [Cortex](./cortex.md) (2015)
 
 ## Sylvia Carpenter
 
@@ -416,6 +508,14 @@ A page colelcting all authors with just one piece in the library.
 
 - [A Corny Love Poem](./acornylovepoem.md) (2022)
 
+## Uriel Paradisi Anteovnuecci
+
+- [The Giant]() (2014)
+
+## Vahrek Serveko / Gwydion JMF Weber
+
+- [Do It For Your People](./doitforyourpeople.md) (2014)
+
 ## Vehestian
 
 - [The Stars Have Strange Voices](../authors/miscauthors/thestarshavestrangevoices.md) (2015)
@@ -428,9 +528,17 @@ A page colelcting all authors with just one piece in the library.
 
 - [A Spider in Her Web](./aspiderinherweb.md) (2015)
 
+## Vulxanis Viceroy
+
+- [A Glimpse into my Heart](./aglimpseintomyheart.md) (2014)
+
 ## wallel Audeles
 
 - [Memoirs of a Capsuleer: wallel Audeles: Splintered Soul](./memoirsofacapsuleerwallelaudelessplinteredsoul.md)
+
+## Yarrion Yuwen / Grey Y
+
+- [Homo Homini Lupus](./homohominilupus.md) (2014)
 
 ## Yun-Hee ‘Tight-lips’ Yubari 
 
@@ -443,4 +551,8 @@ A page colelcting all authors with just one piece in the library.
 ## Zahra Sarain
 
 - [Sunset on the Shiigeru](./sunsetontheshiigeru.md) (2021)
+
+## Zeck Morgan
+
+- [The Forgotten Age](./zeckmorgan_theforgottenage.md) (2014)
 
