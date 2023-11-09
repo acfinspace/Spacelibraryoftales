@@ -15,9 +15,7 @@ tags:
 
 > Original post: [https://eve-arianis.webnode.page/l/historys-shadow/](https://eve-arianis.webnode.page/l/historys-shadow/)
 
-> This is an EVE Echoes story written in serial short format. It is recommended that you pause between chapters... or don't, this is New Eden. Capsuleers make the rules anyway.
-
-> This original work is based in the fictional world of New Eden as created by CCP and NetEase. All rights to concepts and property related to EVE Echoes or gameplay remain with their original owners.
+> Author’s Note: This is an EVE Echoes story written in serial short format. It is recommended that you pause between chapters... or don't, this is New Eden. Capsuleers make the rules anyway. This original work is based in the fictional world of New Eden as created by CCP and NetEase. All rights to concepts and property related to EVE Echoes or gameplay remain with their original owners.
 
 <br>
 

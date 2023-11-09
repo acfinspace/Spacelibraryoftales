@@ -9,9 +9,9 @@ tags:
 
 > Author: Saede Riordan
 
-> This is the story of the history of my clan, told from myth and legend, up to the current era. As it was passed on to me, so too I pass on the story. How much is true, and how much myth, I will leave as an exercise to the reader.
-
 > Original post: [https://alexylva.webnode.page/l/this-is-a-blog-post-with-images/](https://alexylva.webnode.page/l/this-is-a-blog-post-with-images/)
+
+> Author’s Note: This is the story of the history of my clan, told from myth and legend, up to the current era. As it was passed on to me, so too I pass on the story. How much is true, and how much myth, I will leave as an exercise to the reader.
 
 
 ### The Tale of Aiathich and Sgath

@@ -11,7 +11,7 @@ tags:
 
 > Original post: [https://backstage.eve-inspiracy.com/index.php?topic=7234.0](https://backstage.eve-inspiracy.com/index.php?topic=7234.0)
 
-> How far would you go to protect your way of life? Your passion? Your love? One Gallentean living in Solitude learns how far he would go.
+> Author’s Note: How far would you go to protect your way of life? Your passion? Your love? One Gallentean living in Solitude learns how far he would go.
 
 > Warning: Graphic imagery ahead.
 

@@ -11,7 +11,7 @@ tags:
 
 > Original post: [https://sandciderandspaceships.blogspot.com/2015/11/pod-and-planet-into-breach.html](https://sandciderandspaceships.blogspot.com/2015/11/pod-and-planet-into-breach.html)
 
-> I've been saving this since early 2015 for a comedy entry for the Pod and Planet fiction contest. Given all this, it's probably going to crash and burn... like any good Matari ship :/
+> Author’s Note: I've been saving this since early 2015 for a comedy entry for the Pod and Planet fiction contest. Given all this, it's probably going to crash and burn... like any good Matari ship :/
 
 > Entry for the YC118 Pod and Planet Contest in the Other Thing Just Make You Swear and Curse category.
 

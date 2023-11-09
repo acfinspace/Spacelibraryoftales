@@ -11,7 +11,7 @@ tags:
 
 > Original post: [https://supposedlysolo.blogspot.com/2017/11/the-eighth-of-my-many-entries-for-this.html](https://supposedlysolo.blogspot.com/2017/11/the-eighth-of-my-many-entries-for-this.html)
 
-> Inspired by a passage from Eve Source, which has fascinated and confused me.
+> Author’s Note: Inspired by a passage from Eve Source, which has fascinated and confused me.
 
 > Entry for the YC119 Pod and Planet Fiction Contest in the Other Things Just Make You Swear and Curse category.
 

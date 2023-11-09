@@ -11,7 +11,7 @@ tags:
 
 > Original post: [https://backstage.eve-inspiracy.com/index.php?topic=7408](https://backstage.eve-inspiracy.com/index.php?topic=7408)
 
-> ope you find it at least mildly amusing, if not outright funny or comical.
+> Author’s Note: Hope you find it at least mildly amusing, if not outright funny or comical.
 
 > Entry for the YC119 Pod and Planet Fiction Contest in the Other Things Just Make You Swear and Curse.
 

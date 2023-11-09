@@ -11,7 +11,7 @@ tags:
 
 > Original post: [https://literiaswalk.blogspot.com/2011/06/good-bye-my-oldest-friend.html?zx=2abda412ad530e7e](https://literiaswalk.blogspot.com/2011/06/good-bye-my-oldest-friend.html?zx=2abda412ad530e7e)
 
-> A little backstory as to the depth and torment that she goes through right now. Joshua is/was the Republic Security officer that found Literia Khammael on the transport vessel almost 9 years ago. He extended his massive hand to her and brought back to the Republic. He has been through her success, her torments, her losses. When no one else was there he was there, he held her hand when she lost the baby, he helped her find her mother and sister in Stain. He was the kids security officer, and nanny in some senses. He was like a Father to Lit he seen her through the good, bad and the ugly.
+> Author’s Note: A little backstory as to the depth and torment that she goes through right now. Joshua is/was the Republic Security officer that found Literia Khammael on the transport vessel almost 9 years ago. He extended his massive hand to her and brought back to the Republic. He has been through her success, her torments, her losses. When no one else was there he was there, he held her hand when she lost the baby, he helped her find her mother and sister in Stain. He was the kids security officer, and nanny in some senses. He was like a Father to Lit he seen her through the good, bad and the ugly.
 
 > Entry for the YC117 Pod and Planet Fiction Contest in the A Day in the Life category.
 

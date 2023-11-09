@@ -11,7 +11,7 @@ tags:
 
 > Original post: [https://supposedlysolo.blogspot.com/2017/11/the-twelfth-of-my-many-entries-for-this.html](https://supposedlysolo.blogspot.com/2017/11/the-twelfth-of-my-many-entries-for-this.html)
 
-> A dedication to myself, who didn’t really think this through: “You’re really done it this time, pal.”
+> Author’s Note: A dedication to myself, who didn’t really think this through: “You’re really done it this time, pal.”
 
 > Entry for the YC119 Pod and Planet Fiction Contest in the Eight Thousand Suns in the New Eden category.
 

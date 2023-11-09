@@ -11,7 +11,7 @@ tags:
 
 > Original post: [https://mhizzing.wordpress.com/2014/12/04/playing-the-man/](https://mhizzing.wordpress.com/2014/12/04/playing-the-man/)
 
-> May have broken out of official canon a few times but I had a blast writing this nevertheless. Hope you enjoy reading it too.
+> Author’s Note: ay have broken out of official canon a few times but I had a blast writing this nevertheless. Hope you enjoy reading it too.
 
 > Entry for the YC117 Pod and Planet Contest in the Eight Thousand Suns in New Eden category but not elegible for prize.
 

@@ -9,9 +9,9 @@ tags:
 
 > Author: Talaris Eveningstar
 
-> A post found on an IGS fringe conspiracy theorist forum. The usename, somantic-hax, seems to have something of a sordid history with his fellow conspiracy buffs. His reputation isn’t terribly good on this particular message board, and more intrepid, information gathering capsuleers would find much the same across both Dark IGS sites, and the general IGS. He appears to be something of a troll, though this one particular post includes a TTIN hash that surprisingly verifies as valid against Torchwood’s public database, though the signature places it coming from the now-defunct remote planetary installation on New Caldari. The same one terminated by nuclear failsafe, several years back.
-
 > Original post: [https://forums.eveonline.com/t/yc-124-newcwc-the-truth-is-out-there/356154](https://forums.eveonline.com/t/yc-124-newcwc-the-truth-is-out-there/356154)
+
+> Author’s Note: A post found on an IGS fringe conspiracy theorist forum. The usename, somantic-hax, seems to have something of a sordid history with his fellow conspiracy buffs. His reputation isn’t terribly good on this particular message board, and more intrepid, information gathering capsuleers would find much the same across both Dark IGS sites, and the general IGS. He appears to be something of a troll, though this one particular post includes a TTIN hash that surprisingly verifies as valid against Torchwood’s public database, though the signature places it coming from the now-defunct remote planetary installation on New Caldari. The same one terminated by nuclear failsafe, several years back.
 
 > Entry for YC124 New Eden Capsuleer’s Writing Contest in the Gossip/News/Opinion category.
 

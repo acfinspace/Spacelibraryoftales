@@ -11,7 +11,7 @@ tags:
 
 > Original post: [https://danielcanvas2.wordpress.com/2017/10/25/dark-ripple/](https://danielcanvas2.wordpress.com/2017/10/25/dark-ripple/)
 
-> This story follows the character Arissa and events from [Touch the Stars](https://danielcanvas2.wordpress.com/2016/10/24/eve-online-touch-the-stars/). The character Jillian Oshindo also previously appeared in [Crossfire](https://danielcanvas2.wordpress.com/2014/12/03/cross-fire-eve-online/).
+> Author’s Note: This story follows the character Arissa and events from [Touch the Stars](https://danielcanvas2.wordpress.com/2016/10/24/eve-online-touch-the-stars/). The character Jillian Oshindo also previously appeared in [Crossfire](https://danielcanvas2.wordpress.com/2014/12/03/cross-fire-eve-online/).
 
 > Entry for the YC120 Pod and Planet Fiction Contest in the Eight Thousand Suns in New Eden category.
 

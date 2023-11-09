@@ -11,9 +11,7 @@ tags:
 
 > Original post: [https://docs.google.com/document/d/1GelkYNB3ZCVKVLo5HUmEBSL55_fCYrnPGF1VvcGTpk0/edit](https://docs.google.com/document/d/1GelkYNB3ZCVKVLo5HUmEBSL55_fCYrnPGF1VvcGTpk0/edit)
 
-> This story directly references another story that was created by my fellow Signalleer, Cassandra Habalu.  It is called “On The Origins of ALLISON”, and can be read in its entirety at http://habalueve.blogspot.co.uk/p/chronicle-on-origins-of-allison.html
-
-> I am grateful to Cassandra for allowing me to muck around a bit in her wonderful creation, as well as CCP for allowing me to muck around in theirs.
+> Author’s Note: This story directly references another story that was created by my fellow Signalleer, Cassandra Habalu.  It is called “On The Origins of ALLISON”, and can be read in its entirety at http://habalueve.blogspot.co.uk/p/chronicle-on-origins-of-allison.html I am grateful to Cassandra for allowing me to muck around a bit in her wonderful creation, as well as CCP for allowing me to muck around in theirs.
 
 > Entry for the YC119 Pod and Planet Fiction Contest in the Eight Thousand Suns in New Eden category.
 

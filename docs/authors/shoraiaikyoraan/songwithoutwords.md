@@ -11,7 +11,7 @@ tags:
 
 > Original post: [https://forums.eveonline.com/t/yc120-pod-planet-fiction-contest-song-without-words/119459](https://forums.eveonline.com/t/yc120-pod-planet-fiction-contest-song-without-words/119459)
 
-> Dedication: for LRMD, YC57-YC117
+> Author’s Note: Dedication: for LRMD, YC57-YC117
 
 > Entry for the YC120 Pod and Planet Fiction Contest in the A Day in the Life category.
 

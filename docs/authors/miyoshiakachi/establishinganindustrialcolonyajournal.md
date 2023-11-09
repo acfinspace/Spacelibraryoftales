@@ -11,20 +11,13 @@ tags:
 
 > Original post:
 
+> Author’s Note: I wanted to dive a bit into how planetary colonies were built and operated, a theme I feel it is rarely touched. I focused a bit more on the logistic side of things: I imagined a set of diagrams and procedures behind PI and the construction of colonies.<br>The logic behind the different crews is that, as in real life, who builds is often not the same operating what had been built: who builds a power plant is not the same operating it, who builds IT infrastructures are not the same operating them on a day to day basis. I think building a colony requires knowledge and specializations that would see a limited use in an established colony and thus, I defined a differentiation between building and operations crews.<br>The faces are left without definition on purpose. They are engineers, biologists, technicians… whatever their profession and role, they are people: they could be white or black, woman or men, blonde or dark haired. I choose to let the reader fill in those faces.<br>> The inspiration to dive into a bit of “world building” came from Zedicon Prime’s History of the Temperate Worlds of Helab and Eras of Soliara III.
+
 > Entry for YC124 New Eden Capsuleer’s Writing Contest in the Academic category.
 
-> I wanted to dive a bit into how planetary colonies were built and operated, a theme I feel it is rarely touched. I focused a bit more on the logistic side of things: I imagined a set of diagrams and procedures behind PI and the construction of colonies.
-
-> The logic behind the different crews is that, as in real life, who builds is often not the same operating what had been built: who builds a power plant is not the same operating it, who builds IT infrastructures are not the same operating them on a day to day basis. I think building a colony requires knowledge and specializations that would see a limited use in an established colony and thus, I defined a differentiation between building and operations crews.
-
-> The faces are left without definition on purpose. They are engineers, biologists, technicians… whatever their profession and role, they are people: they could be white or black, woman or men, blonde or dark haired. I choose to let the reader fill in those faces.
-
-> The inspiration to dive into a bit of “world building” came from Zedicon Prime’s History of the Temperate Worlds of Helab and Eras of Soliara III.
-
-
-Author: Sawa Laboratories
-Version: 1.0
-Last revision: 04/05, YC124
+Author: Sawa Laboratories<br>
+Version: 1.0<br>
+Last revision: 04/05, YC124<br>
 
 ## Index
 

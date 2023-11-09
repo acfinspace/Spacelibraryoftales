@@ -10,7 +10,7 @@ tags:
 
 > Original post: 
 
-> This story is set in the fictional world of EVE Online and uses characters created and played by multiple people. I’ve chosen to write the story assuming a basic awareness of the history of New Eden and the tales of its people as set forth by CCP. Those unfamiliar with the world should read the brief forward which covers just enough of that background to move onto the prelude.
+> Author’s Note: This story is set in the fictional world of EVE Online and uses characters created and played by multiple people. I’ve chosen to write the story assuming a basic awareness of the history of New Eden and the tales of its people as set forth by CCP. Those unfamiliar with the world should read the brief forward which covers just enough of that background to move onto the prelude.
 
 ## Forward
 

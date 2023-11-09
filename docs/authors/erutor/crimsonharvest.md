@@ -11,7 +11,7 @@ tags:
 
 > Original post: [https://learningtoeve.wordpress.com/2017/11/03/crimson-harvest/](https://learningtoeve.wordpress.com/2017/11/03/crimson-harvest/)
 
-> I’ve never tried to write something a bit dark (**reader discretion is advised**),  and appreciate your feedback.
+> Author’s Note: I’ve never tried to write something a bit dark (**reader discretion is advised**),  and appreciate your feedback.
 
 > Entry for the YC119 Pod and Planet Fiction Contest in the Eight Thousand Suns in the New Eden category and the Short story category.
 

@@ -11,7 +11,7 @@ tags:
 
 > Original post: [https://docs.google.com/document/d/1oe5ncJOIIMd4gzBBDZQsF_dNWQrz8nspYtXgeNPn2UA/edit](https://docs.google.com/document/d/1oe5ncJOIIMd4gzBBDZQsF_dNWQrz8nspYtXgeNPn2UA/edit)
 
-> Note: this story is pure fiction. Any resemblance to real and actual players or facts is purely coincidental.
+> Author’s Note: this story is pure fiction. Any resemblance to real and actual players or facts is purely coincidental.
 
 > Entry for the YC119 Pod and Planet Fiction Contest in the Eight Thousand Suns in New Eden category.
 

@@ -12,8 +12,7 @@ tags:
 
 > Original post: [https://forums.eveonline.com/t/yc124-necwc-the-blood-of-gladiators/362637](https://forums.eveonline.com/t/yc124-necwc-the-blood-of-gladiators/362637)
 
-> The events of this story are based loosely off the events of a February PSI (Purple, Shoot It) event hosted by @Astrocytoma.
-I hope sincerely that this story can convince my fellow capsuleers that our crew are not simply tools. They are people. They have their own lives … their own issues … their own hopes and aspirations. We cannot be the knife that destroys them. Our events … our actions … they cannot be the cutting block on which we destroy people’s lives. Events like these - arena fights, fleet battles - we have our reasons, be it for entertainment, or strategic purposes. They need to happen. But we must recognize the impact that such actions have on others. We cannot, should not, and hopefully will not be so ignorant as to believe that we alone matter. They matter, as well.
+> Author’s Note: The events of this story are based loosely off the events of a February PSI (Purple, Shoot It) event hosted by @Astrocytoma. I hope sincerely that this story can convince my fellow capsuleers that our crew are not simply tools. They are people. They have their own lives … their own issues … their own hopes and aspirations. We cannot be the knife that destroys them. Our events … our actions … they cannot be the cutting block on which we destroy people’s lives. Events like these - arena fights, fleet battles - we have our reasons, be it for entertainment, or strategic purposes. They need to happen. But we must recognize the impact that such actions have on others. We cannot, should not, and hopefully will not be so ignorant as to believe that we alone matter. They matter, as well.
 
 > Entry for YC124 New Eden Capsuleer’s Writing Contest in the Prose category.
 

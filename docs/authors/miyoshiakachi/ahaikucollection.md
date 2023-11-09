@@ -11,7 +11,7 @@ tags:
 
 > Original post:
 
-> Thank you Siasia for the Japanese side of this little project.
+> Author’s Note: Thank you Siasia for the Japanese side of this little project.
 
 > Entry for YC124 New Eden Capsuleer’s Writing Contest in the Poetry category.
 

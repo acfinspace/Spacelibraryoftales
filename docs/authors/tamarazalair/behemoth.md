@@ -11,7 +11,7 @@ tags:
 
 > Original post: [https://forums.eveonline.com/t/rhyme-of-an-amarr/358732](https://forums.eveonline.com/t/rhyme-of-an-amarr/358732)
 
-> Part of the New Eden Chronicles Collection: Interstitial Space
+> Author’s Note: Part of the New Eden Chronicles Collection: Interstitial Space
 
 > Entry for YC124 New Eden Capsuleer’s Writing Contest in the Poetry category.
 

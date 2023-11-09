@@ -11,7 +11,7 @@ tags:
 
 > Original post: [https://forums.eveonline.com/t/yc123-union-day-celebrations-short-written-works-contest/325391/](https://forums.eveonline.com/t/yc123-union-day-celebrations-short-written-works-contest/325391/)
 
-> A poem, reflecting how emotions must be held in check, and how difficult it can be to conform to a cultural standard thrust upon you. Of comrades lost in battles. Of unrequited love. A glimpse into the difficulty of Caldari life.
+> Author’s Note: A poem, reflecting how emotions must be held in check, and how difficult it can be to conform to a cultural standard thrust upon you. Of comrades lost in battles. Of unrequited love. A glimpse into the difficulty of Caldari life.
 
 > Entry for the YC123 Union Day Celebrations - Short Written Works contest.
 

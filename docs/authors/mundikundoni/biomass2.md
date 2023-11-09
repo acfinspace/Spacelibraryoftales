@@ -11,7 +11,7 @@ tags:
 
 > Original post: [https://forums.eveonline.com/t/yc120-pod-and-planet-fiction-contest-biomass-2-revelations/119855](https://forums.eveonline.com/t/yc120-pod-and-planet-fiction-contest-biomass-2-revelations/119855)
 
-> This is intended as a follow on to my entry last year entitled “Biomass” it is not essential, but if you would like the full story I have linked the original Here [Biomass](../miscauthors/biomass.md)
+> Author’s Note: This is intended as a follow on to my entry last year entitled “Biomass” it is not essential, but if you would like the full story I have linked the original Here [Biomass](../miscauthors/biomass.md)
 
 > Entry for the YC119 Pod and Planet Fiction Contest in the Eight Thousand Suns in New Eden category.
 

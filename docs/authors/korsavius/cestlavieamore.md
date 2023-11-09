@@ -11,7 +11,7 @@ tags:
 
 > Original post: [https://backstage.eve-inspiracy.com/index.php?topic=7229.0](https://backstage.eve-inspiracy.com/index.php?topic=7229.0)
 
-> Some mature content lies ahead.
+> Author’s Note: Some mature content lies ahead.
 
 > Entry for the Amore Tank Your Hearts in the Short Story category.
 

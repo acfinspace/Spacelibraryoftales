@@ -11,7 +11,7 @@ tags:
 
 > Original post: [https://staringatarock.blogspot.com/2015/10/the-doomed-freighter.html](https://staringatarock.blogspot.com/2015/10/the-doomed-freighter.html)
 
-> Events foretold are based on a true event. The names have not been changed to protect the innocent, as there aren't really any. Koswin is still holding a grudge...
+> Author’s Note: Events foretold are based on a true event. The names have not been changed to protect the innocent, as there aren't really any. Koswin is still holding a grudge...
 
 > Entry for the YC117 Pod and Planet Fiction Contest in the A Day in the Life category.
 

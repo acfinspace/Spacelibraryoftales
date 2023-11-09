@@ -11,7 +11,7 @@ tags:
 
 > Original post: [https://forums.eveonline.com/t/pod-planet-contest-submission-the-last-tower/33213](https://forums.eveonline.com/t/pod-planet-contest-submission-the-last-tower/33213)
 
-> h/t to the Cassini mission, for giving their intrepid probe [the final sendoff it deserved](https://saturn.jpl.nasa.gov/the-journey/grand-finale-feature/). And to XKCD, for [the saddest comic about a Martian rover you’ll ever read](https://xkcd.com/695/). (And to that guy on imgur, [who made it all right](http://i.imgur.com/VbKV9DF.jpg).) And last, to the towers of New Eden, which have sustained us for all these years, have served as our homes, our livelihoods, our ambition, our refuge. Thanks for all the memories.
+> Author’s Note: h/t to the Cassini mission, for giving their intrepid probe [the final sendoff it deserved](https://saturn.jpl.nasa.gov/the-journey/grand-finale-feature/). And to XKCD, for [the saddest comic about a Martian rover you’ll ever read](https://xkcd.com/695/). (And to that guy on imgur, [who made it all right](http://i.imgur.com/VbKV9DF.jpg).) And last, to the towers of New Eden, which have sustained us for all these years, have served as our homes, our livelihoods, our ambition, our refuge. Thanks for all the memories.
 
 > Entry for the YC119 Pod and Planet Fiction Contest in the Eight Thousand Suns in New Eden category and in the Short fiction category.
 

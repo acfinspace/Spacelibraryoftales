@@ -11,19 +11,7 @@ tags:
 
 > Original post: [https://splatus.wordpress.com/2018/11/04/fiction-love-among-stars-pod-and-planet-2018-entry/](https://splatus.wordpress.com/2018/11/04/fiction-love-among-stars-pod-and-planet-2018-entry/)
 
-> Yes!
-
-> For many years, Telegram Sam of the Pod and Planet blog has run a EVE Fiction contest that has produced incredibly good stories set within the EVE Online / New Eden world. I was always tempted to take part but somehow never made it.  As my two loyal readers may remember, I did have a fiction project a few years ago and when my corp mate Seraph Essael told me of the upcoming deadline with Telegram Sam, I felt compelled to give it a shot.
-
-> So, with this, please enjoy the story below, sort of in the same style as my previous stories but certainly new content.  Just to explain, I am personally not interested in capsuleer stories, I find little drama to be had among the semi-god status of immortals.  I always focus on baseliners, normal human beings thrown into bad situations despite of their own good actions.  I want to tell stories about true courage, true love, true honor and character strength and I find that easier with mortals as subjects.  But either way, have fun, give me feedback and read the rest of the submissions that Pod and Planet has, some amazing stuff in there.
-
-> Fly safe
-
-> PS.  4900 ish words.  Close shave to the 5000 limit…. Longest story that I have ever written, I think
-
-> PPS.  Its pretty dark.  Sensitive eyes, avert yourselves (and get out of EVE)
-
-> PPPS.  Many thanks to Kalseth for proofreading, mny speling sugs
+> Author’s Note: For many years, Telegram Sam of the Pod and Planet blog has run a EVE Fiction contest that has produced incredibly good stories set within the EVE Online / New Eden world. I was always tempted to take part but somehow never made it.  As my two loyal readers may remember, I did have a fiction project a few years ago and when my corp mate Seraph Essael told me of the upcoming deadline with Telegram Sam, I felt compelled to give it a shot. <br>So, with this, please enjoy the story below, sort of in the same style as my previous stories but certainly new content.  Just to explain, I am personally not interested in capsuleer stories, I find little drama to be had among the semi-god status of immortals.  I always focus on baseliners, normal human beings thrown into bad situations despite of their own good actions.  I want to tell stories about true courage, true love, true honor and character strength and I find that easier with mortals as subjects.  But either way, have fun, give me feedback and read the rest of the submissions that Pod and Planet has, some amazing stuff in there. Fly safe<br>PS.  4900 ish words.  Close shave to the 5000 limit…. Longest story that I have ever written, I think<br>PPS.  Its pretty dark.  Sensitive eyes, avert yourselves (and get out of EVE)<br>PPPS.  Many thanks to Kalseth for proofreading, mny speling sugs
 
 > Entry for the YC120 Pod and Planet Fiction Contest in the Eight Thousand Suns in New Eden category.
 

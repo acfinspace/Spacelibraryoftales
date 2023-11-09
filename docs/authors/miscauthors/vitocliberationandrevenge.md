@@ -11,9 +11,7 @@ tags:
 
 > Original post: [http://bridgersmusings.com/vitoc-liberation-and-revenge-abridged/](http://bridgersmusings.com/vitoc-liberation-and-revenge-abridged/)
 
-> I decided I would write a short story for the Pod and Planet Fiction Contest YC117. This was to be an EVE Online inspired story, and I opted to write one that centered on Galdir, a Minmatar slave, and I attempted to follow the lore as much as possible. The submitted stories were allowed to have 5000 words at maximum, which I went well over, so you can find the unabridged version here. The following is just an abridged version of what I originally wrote.
-
-> I decided to write a story only a few evenings ago, so I didn’t get as much time to work on it as I hoped, and as such, I’m not pleased with the end result as there was much more I wanted to put into it, and I didn’t quite have time to just make the story flow very well. Regardless, I will post it here for you all to read, so without further ado, please find the EVE Online inspired short story that I wrote below:
+> Author’s Note: I decided I would write a short story for the Pod and Planet Fiction Contest YC117. This was to be an EVE Online inspired story, and I opted to write one that centered on Galdir, a Minmatar slave, and I attempted to follow the lore as much as possible. The submitted stories were allowed to have 5000 words at maximum, which I went well over, so you can find the unabridged version here. The following is just an abridged version of what I originally wrote.<br>I decided to write a story only a few evenings ago, so I didn’t get as much time to work on it as I hoped, and as such, I’m not pleased with the end result as there was much more I wanted to put into it, and I didn’t quite have time to just make the story flow very well. Regardless, I will post it here for you all to read, so without further ado, please find the EVE Online inspired short story that I wrote below:
 
 > Entry for the YC117 Pod and Planet Fiction Contest in the Eight Thousand Suns in New Eden category.
 

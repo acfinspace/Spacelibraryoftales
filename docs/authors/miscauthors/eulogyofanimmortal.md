@@ -1,13 +1,14 @@
 ---
 tags:
-  - Poetry
-  - Brodit/BrendanO'Donnell
+  - Prose
+  - Brodit
+  - BrendanO'Donnell
   - PodandPlanetYC117
 ---
 
 # Eulogy of an Immortal
 
-> Author: Brodit/Brendan O'Donnell
+> Author: Brodit / Brendan O'Donnell
 
 > Original post:  [https://darkharlequin8.wordpress.com/2015/11/18/pod-and-planet-yc117-day-one-eulogy-of-an-immortal/](https://darkharlequin8.wordpress.com/2015/11/18/pod-and-planet-yc117-day-one-eulogy-of-an-immortal/)
 

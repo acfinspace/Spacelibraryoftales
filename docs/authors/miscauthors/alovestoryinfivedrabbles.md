@@ -11,7 +11,7 @@ tags:
 
 > Original post: [https://backstage.eve-inspiracy.com/index.php?topic=7211.0](https://backstage.eve-inspiracy.com/index.php?topic=7211.0)
 
-> Author's note - It is only OOC Knowledge unless Luna has icly shared the details with you or you were present in the fifth scene. <br>
+> Author's note: It is only OOC Knowledge unless Luna has icly shared the details with you or you were present in the fifth scene. <br>
 A drabble is a story told in one hundred words. No more, no less.
 
 > Entry for the Amore Tank Your Hearts in the Short Story category.

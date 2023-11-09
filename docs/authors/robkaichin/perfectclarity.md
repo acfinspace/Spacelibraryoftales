@@ -11,7 +11,7 @@ tags:
 
 > Original post: [https://supposedlysolo.blogspot.com/2017/11/the-eighth-of-my-many-entries-for-this.html](https://supposedlysolo.blogspot.com/2017/11/the-eighth-of-my-many-entries-for-this.html)
 
-> To the Dread Pirate Scarlet, who killed my first battleship, a gift.
+> Author’s Note: To the Dread Pirate Scarlet, who killed my first battleship, a gift.
 
 > Entry for the YC119 Pod and Planet Fiction Contest in the Eight Thousand Suns in New Eden category.
 

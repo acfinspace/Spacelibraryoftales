@@ -11,7 +11,7 @@ tags:
 
 > Original post: [https://supposedlysolo.blogspot.com/2017/11/the-sixth-of-my-many-entries-for-this.html](https://supposedlysolo.blogspot.com/2017/11/the-sixth-of-my-many-entries-for-this.html)
 
-> From the Scriptures, Book of Reclamation, a book I'd love to read.
+> Author’s Note: From the Scriptures, Book of Reclamation, a book I'd love to read.
 
 > Entry for the YC119 Pod and Planet Fiction Contest in the Eight Thousand Suns in New Eden category.
 

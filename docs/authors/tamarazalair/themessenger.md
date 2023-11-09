@@ -12,7 +12,7 @@ tags:
 
 > Original post: [https://forums.eveonline.com/t/yc-124-newcwc-the-messenger/362953](https://forums.eveonline.com/t/yc-124-newcwc-the-messenger/362953)
 
-> Part of the New Eden Chronicles Collection: Interstitial Space
+> Author’s Note: Part of the New Eden Chronicles Collection: Interstitial Space
 
 > Entry for YC124 New Eden Capsuleer’s Writing Contest in the Prose category.
 

@@ -11,7 +11,7 @@ tags:
 
 > Original post: [https://backstage.eve-inspiracy.com/index.php?topic=6268.msg105289#msg105289](https://backstage.eve-inspiracy.com/index.php?topic=6268.msg105289#msg105289)
 
-> This is the conclusion of a previous story I wrote, [Dead Man Walking](./deadmanwalking.md). Of course, you are by no means required to read the previous story, but reading both stories will greatly help put the pieces of the puzzle together. I sincerely hope you all enjoy this tale. Comments welcome!
+> Author’s Note: This is the conclusion of a previous story I wrote, [Dead Man Walking](./deadmanwalking.md). Of course, you are by no means required to read the previous story, but reading both stories will greatly help put the pieces of the puzzle together. I sincerely hope you all enjoy this tale. Comments welcome!
 
 > Entry for the YC116 Pod and Planet Fiction Contest in the A Day in the Life category.
 

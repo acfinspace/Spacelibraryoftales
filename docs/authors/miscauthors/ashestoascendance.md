@@ -12,7 +12,7 @@ tags:
 
 > Original post: [https://forums.eveonline.com/t/yc-124-newcwc-ashes-to-ascendance/363635](https://forums.eveonline.com/t/yc-124-newcwc-ashes-to-ascendance/363635)
 
-> This is an entry into the Academic category of this year’s writing contest! To achieve something plausibly academic in tone and concept with (understandably) limited data able to be harvested from the lore, I had to do some… deeply irresponsible things with math. If you are a demographer, statistician, or just someone who values mathematical integrity, I can but apologize for my transgressions here.
+> Author’s Note: This is an entry into the Academic category of this year’s writing contest! To achieve something plausibly academic in tone and concept with (understandably) limited data able to be harvested from the lore, I had to do some… deeply irresponsible things with math. If you are a demographer, statistician, or just someone who values mathematical integrity, I can but apologize for my transgressions here.
 
 > Entry for YC124 New Eden Capsuleer’s Writing Contest in the Academic category.
 

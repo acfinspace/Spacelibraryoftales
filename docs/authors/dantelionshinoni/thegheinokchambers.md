@@ -12,7 +12,7 @@ tags:
 
 > Original post: [https://drive.google.com/file/d/1v7jKuNdtKX-ONvgJ5NwapNDBOy1DimI8/view](https://drive.google.com/file/d/1v7jKuNdtKX-ONvgJ5NwapNDBOy1DimI8/view)
 
-> Pre-Scriptum: This story touches upon the foundation of the Amarr Empire. In order to be in phase with
+> Author’s Note: Pre-Scriptum: This story touches upon the foundation of the Amarr Empire. In order to be in phase with
 the lore, this should be considered as something that very much exists in the EVE universe but could be
 the result of a profound heresy of the Amarr Faith and History, or a Manipulation by non-Amarrians to
 mislead some people into misguiding their own Empire. Or it might be the truth :P. Who knows where

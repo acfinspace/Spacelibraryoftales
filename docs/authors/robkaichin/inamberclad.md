@@ -11,7 +11,7 @@ tags:
 
 > Original post: [https://supposedlysolo.blogspot.com/2018/11/pod-and-planet-entry-in-8000-suns-in.html](https://supposedlysolo.blogspot.com/2018/11/pod-and-planet-entry-in-8000-suns-in.html)
 
-> This story is intended to be set beneath the backdrop of the Moral Reforms, a period of great social and political turbulence in the Amarr Empire. The Emperor Heideran V set the foundations of the Amarr Empire as we know and 'love' it today, taking on the established order of things, and no doubt upsetting the naturally conservative Amarr theologists. This is where we find ourselves, watching the ripples of the waves such titans cause...
+> Author’s Note: This story is intended to be set beneath the backdrop of the Moral Reforms, a period of great social and political turbulence in the Amarr Empire. The Emperor Heideran V set the foundations of the Amarr Empire as we know and 'love' it today, taking on the established order of things, and no doubt upsetting the naturally conservative Amarr theologists. This is where we find ourselves, watching the ripples of the waves such titans cause...
 
 > Entry for the YC120 Pod and Planet Fiction Contest in the Eight Thousand Suns in New Eden category.
 

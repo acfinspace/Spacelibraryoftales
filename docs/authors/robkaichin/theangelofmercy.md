@@ -11,7 +11,7 @@ tags:
 
 > Original post: [https://supposedlysolo.blogspot.com/2017/11/the-fourth-of-my-many-entries-for-this.html](https://supposedlysolo.blogspot.com/2017/11/the-fourth-of-my-many-entries-for-this.html)
 
-> Inspired by the starter mission, “Angel of Mercy”. What other game gets you to commit war crimes in the first hour or less!
+> Author’s Note: Inspired by the starter mission, “Angel of Mercy”. What other game gets you to commit war crimes in the first hour or less!
 
 > Entry for the YC119 Pod and Planet Fiction Contest in the Eight Thousand Suns in New Eden category.
 

@@ -11,7 +11,7 @@ tags:
 
 > Original post: [https://forums.eveonline.com/t/yc-124-newcwc-the-infiltration/357929](https://forums.eveonline.com/t/yc-124-newcwc-the-infiltration/357929)
 
-> The following was created by a Ni-Kunni from my household. This is not his first language, but as a mentor of mine for many years, he was moved to make the attempt, and insisted I enter this work on his behalf. It is an account of our earliest days together, when I was but a young second officer in the Imperial Navy fighting in the Bleak Lands. I took him into my own household after our Captain was slain in battle.
+> Author’s Note: The following was created by a Ni-Kunni from my household. This is not his first language, but as a mentor of mine for many years, he was moved to make the attempt, and insisted I enter this work on his behalf. It is an account of our earliest days together, when I was but a young second officer in the Imperial Navy fighting in the Bleak Lands. I took him into my own household after our Captain was slain in battle.
 
 > Entry for YC124 New Eden Capsuleer’s Writing Contest in the Poetry category.
 

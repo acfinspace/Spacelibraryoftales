@@ -11,7 +11,7 @@ tags:
 
 > Original post: [https://sorrowofeve.wordpress.com/2015/11/05/pod-and-planet-yc116-entry2/](https://sorrowofeve.wordpress.com/2015/11/05/pod-and-planet-yc116-entry2/)
 
-> This entry is a sequel to [The name of the capsuleer](./thenameofthecapsuleer.md).
+> Author’s Note: This entry is a sequel to [The name of the capsuleer](./thenameofthecapsuleer.md).
 
 > Entry for the YC118 Pod and Planet Contest in the Eight Thousand Suns in New Eden category.
 

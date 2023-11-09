@@ -11,7 +11,7 @@ tags:
 
 > Original post: [https://sandciderandspaceships.blogspot.com/2015/11/the-journey.html](https://sandciderandspaceships.blogspot.com/2015/11/the-journey.html)
 
-> I think I'll put this in as a Pod and Planet entry. It can probably go in the lore category as I'm pretty sure I'm not breaking any canon. The Burning Life tells us the boosters we use in-game are available as narcotics to 'norms' and I just need to remember what that Matari weapon is called! Ah, its not what I thought it was. I'll go simple then!
+> Author’s Note: I think I'll put this in as a Pod and Planet entry. It can probably go in the lore category as I'm pretty sure I'm not breaking any canon. The Burning Life tells us the boosters we use in-game are available as narcotics to 'norms' and I just need to remember what that Matari weapon is called! Ah, its not what I thought it was. I'll go simple then!
 
 > Entry for the YC118 Pod and Planet Contest in the Eight Thousand Suns in New Eden category.
 

@@ -11,7 +11,7 @@ tags:
 
 > Original post: [https://sandciderandspaceships.blogspot.com/2015/11/the-refit.html](https://sandciderandspaceships.blogspot.com/2015/11/the-refit.html)
 
-> I was trying to do this as a entry for the Pod and Planet fiction contest in the Day in the Life category however I ran out of time and didn't make the cut-off date. OK, I ran out of time because of cider. A lot of cider. Also what were the rules on lore in the DitL category? Because for some strange reason our CQ's don't have showers!
+> Author’s Note: I was trying to do this as a entry for the Pod and Planet fiction contest in the Day in the Life category however I ran out of time and didn't make the cut-off date. OK, I ran out of time because of cider. A lot of cider. Also what were the rules on lore in the DitL category? Because for some strange reason our CQ's don't have showers!
 
 > Entry for the YC118 Pod and Planet Contest in the A Day in the Life category but not elegible for prizes.
 

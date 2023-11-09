@@ -11,7 +11,7 @@ tags:
 
 > Original post: [https://forums-archive.eveonline.com/message/6162826#post6162826](https://forums-archive.eveonline.com/message/6162826#post6162826)
 
-> [Zkillboard](https://zkillboard.com/related/30000873/201511120100/)
+> Author’s Note: [Zkillboard](https://zkillboard.com/related/30000873/201511120100/)
 
 > Entry for the YC118 Pod and Planet Contest in the Other Thing Just Make You Swear and Curse category.
 

@@ -11,7 +11,7 @@ tags:
 
 > Original post: [https://backstage.eve-inspiracy.com/index.php?topic=7405](https://backstage.eve-inspiracy.com/index.php?topic=7405)
 
-> Enjoy this intimate look into my main character.
+> Author’s Note: Enjoy this intimate look into my main character.
 
 > Entry for the YC119 Pod and Planet Fiction Contest in the A Day in the Life category and the Very Short Fiction subcategory.
 

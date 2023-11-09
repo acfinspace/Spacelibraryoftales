@@ -11,7 +11,7 @@ tags:
 
 > Original post: [https://barbarisblog.blogspot.com/2015/11/a-thousand-and-one-sleepers-eve-pod-and.html](https://barbarisblog.blogspot.com/2015/11/a-thousand-and-one-sleepers-eve-pod-and.html)
 
-> I'ts been a long time since I've written much of anything, but I saw an opportunity here and decided to take it. I've never put any of my works out there for the public, so this is a first for me. I'd like to thank Eluwien for all the support, proofing and reviewing. It's a big deal to me to actually put this out there. Corpies, you're the best! If I win, let's party in some suicide frigs! Let's get on with it. Enjoy.
+> Author’s Note: It's been a long time since I've written much of anything, but I saw an opportunity here and decided to take it. I've never put any of my works out there for the public, so this is a first for me. I'd like to thank Eluwien for all the support, proofing and reviewing. It's a big deal to me to actually put this out there. Corpies, you're the best! If I win, let's party in some suicide frigs! Let's get on with it. Enjoy.
 
 > Entry for the YC117 Pod and Planet Fiction Contest in the Eight Thousand Suns in New Eden category.
 

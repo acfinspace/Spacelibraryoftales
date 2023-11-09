@@ -11,9 +11,7 @@ tags:
 
 > Original post: [https://supposedlysolo.blogspot.com/2017/11/the-fifth-of-my-many-entries-for-this.html](https://supposedlysolo.blogspot.com/2017/11/the-fifth-of-my-many-entries-for-this.html)
 
-> For the authors of the chronicles at CCP, who are far too devious and far too clever, a scenario they left implied, but that deserves further interrogation.
-
-> A companion piece to [The Paths They Chose](./thepaththeychose.md), though I would ask that you read this work first.
+> Author’s Note: For the authors of the chronicles at CCP, who are far too devious and far too clever, a scenario they left implied, but that deserves further interrogation.<br>A companion piece to [The Paths They Chose](./thepaththeychose.md), though I would ask that you read this work first.
 
 > Entry for the YC119 Pod and Planet Fiction Contest in the Eight Thousand Suns in New Eden category.
 

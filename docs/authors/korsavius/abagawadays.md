@@ -11,7 +11,7 @@ tags:
 
 > Original post: [https://backstage.eve-inspiracy.com/index.php?topic=7411](https://backstage.eve-inspiracy.com/index.php?topic=7411)
 
-> As an aside, this story features elements of player driven lore surrounding Abagawa IV, a terrestrial planet in The Forge. Feel free to take a skim through the write-up here, if your curiosity interests you.
+> Author’s Note: As an aside, this story features elements of player driven lore surrounding Abagawa IV, a terrestrial planet in The Forge. Feel free to take a skim through the write-up here, if your curiosity interests you.
 
 > Entry for the YC119 Pod and Planet Fiction Contest in the A Day in the Life category and the Very Short Fiction subcategory.
 

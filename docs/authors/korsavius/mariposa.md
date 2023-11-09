@@ -11,7 +11,7 @@ tags:
 
 > Original post: [https://backstage.eve-inspiracy.com/index.php?topic=7405](https://backstage.eve-inspiracy.com/index.php?topic=7405)
 
-> Oh and as a side note, this story is actually a sequel to one of my [previous works](./asthebutterflysoars.md) which was submitted for the YC 118 Amore Tank Your Heart Contest. You may find that story here, although this work is capable of standing alone without the reading the prior work.
+> Author’s Note: Oh and as a side note, this story is actually a sequel to one of my [previous works](./asthebutterflysoars.md) which was submitted for the YC 118 Amore Tank Your Heart Contest. You may find that story here, although this work is capable of standing alone without the reading the prior work.
 
 > Entry for the YC119 Pod and Planet Fiction Contest in the A Day in the Life category.
 

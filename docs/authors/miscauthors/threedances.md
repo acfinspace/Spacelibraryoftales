@@ -11,7 +11,7 @@ tags:
 
 > Original post: [https://backstage.eve-inspiracy.com/index.php?topic=7249.0](https://backstage.eve-inspiracy.com/index.php?topic=7249.0)
 
-> The story of Garion's first love and marriage.  OOC knowledge.
+> Author’s Note: The story of Garion's first love and marriage.  OOC knowledge.
 
 > Entry for the Amore Tank Your Hearts in the Short Story category.
 

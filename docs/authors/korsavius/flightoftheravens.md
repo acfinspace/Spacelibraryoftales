@@ -11,7 +11,7 @@ tags:
 
 > Original post: [https://backstage.eve-inspiracy.com/index.php?topic=7545.msg122783#msg122783](https://backstage.eve-inspiracy.com/index.php?topic=7545.msg122783#msg122783)
 
-> The following is based on a true story.
+> Author’s Note: The following is based on a true story.
 
 > Entry for the YC120 Pod and Planet Fiction Contest in the Other Things Just Make You Swear and Curse category.
 

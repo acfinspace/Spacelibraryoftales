@@ -12,7 +12,7 @@ tags:
 
 > Original post: [https://interstellarprivateer.wordpress.com/2015/11/01/emergence/](https://interstellarprivateer.wordpress.com/2015/11/01/emergence/)
 
-> This story was awarded Third Prize in the Pod and Planet 2015/YC117 contest in the Day in the Life category. As I tend to do, I’m writing pseudo-canon; close enough that it might be true, but far enough that it’s not quite suited to the full lore category. This story was spawned from a Tweetfleet Slack discussion about the exact nature of the Quarantine sites, and is in some ways the inverse of the story Unchained from last year.
+> Author’s Note: This story was awarded Third Prize in the Pod and Planet 2015/YC117 contest in the Day in the Life category. As I tend to do, I’m writing pseudo-canon; close enough that it might be true, but far enough that it’s not quite suited to the full lore category. This story was spawned from a Tweetfleet Slack discussion about the exact nature of the Quarantine sites, and is in some ways the inverse of the story Unchained from last year.
 
 > Entry for the YC117 Pod and Planet Fiction Contest in the A Day in the Life category.
 
