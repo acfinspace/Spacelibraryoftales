@@ -50,12 +50,12 @@ To do:
  - [ ] Add contests
     - [ ] Pod & Planet 2012
     - [ ] Pod & Planet 2013
-    - [ ] Pod & Planet 2014
+    - [x] Pod & Planet 2014
     - [x] Pod & Planet 2015
     - [x] Pod & Planet 2016
     - [x] Pod & Planet 2017
     - [x] Pod & Planet 2018
-    - [x] Pod & Planet 2013 misc content
+    - [x] Pod & Planet misc content
     - [ ] New Eden Capsuleer's Writing Contest previous years
     - [ ] New Eden Capsuleer's Writing Contest 2020
     - [ ] New Eden Capsuleer's Writing Contest 2021

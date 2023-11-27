@@ -452,6 +452,10 @@ A page colelcting all authors with just one piece in the library.
 
 - [We All Fall Down](./weallfalldown.md) (2014)
 
+## Seraph Essael
+
+- [Midway]() (2013)
+
 ## Sera Kor-Azor
 
 - [Ole' Time Religion](./oletimereligion.md) (2015)
@@ -535,6 +539,10 @@ A page colelcting all authors with just one piece in the library.
 ## wallel Audeles
 
 - [Memoirs of a Capsuleer: wallel Audeles: Splintered Soul](./memoirsofacapsuleerwallelaudelessplinteredsoul.md)
+
+## xCUSx
+
+- [Getting Old]() (2013)
 
 ## Yarrion Yuwen / Grey Y
 
