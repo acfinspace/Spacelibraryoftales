@@ -9,7 +9,7 @@ tags:
 
 > Author: Vehestian
 
-> Original post: []()
+> Original post: [https://forums-archive.eveonline.com/topic/456944/](https://forums-archive.eveonline.com/topic/456944/)
 
 > Entry for the YC117 Pod and Planet Fiction Contest in the Eight Thousand Suns in New Eden category.
 

@@ -76,10 +76,6 @@ A page colelcting all authors with just one piece in the library.
 
 - [Hope](./aulelsyn_hope.md) (2014)
 
-## Avio Yaken
-
-- [Traitors](./traitors.md) (2017)
-
 ## Ayana Naito
 
 - [Arrival at the Crossroads](./arrivalatthecrossroads.md) (2018)
@@ -87,6 +83,10 @@ A page colelcting all authors with just one piece in the library.
 ## Ayara Itris
 
 - [Be](./ayaraitris_be.md) (2018)
+
+## Boatmans Thron
+
+- [A Good Man](./agoodman.md) (2013)
 
 ## Brenn Derrington
 
@@ -280,10 +280,6 @@ A page colelcting all authors with just one piece in the library.
 
 - [A meeting with the station administrator](./ameetingwiththestationadministrator.md) (2015)
 
-## Jakob Anedalle
-
-- [Flags on Far Distant Stars](./flagsonfardistantstars.md) (2014)
-
 ## Jalep Malukker
 
 - [The New Hire](./thenewhire.md) (2014)
@@ -315,10 +311,6 @@ A page colelcting all authors with just one piece in the library.
 ## Kilzin
 
 - [Filaments Gone Wrong](./filamentsgonewrong.md) (2018)
-
-## Kirith Kodachi
-
-- [Borrowed Time](./borrowedtime.md) (2014)
 
 ## Kyle Yanowski
 
@@ -356,6 +348,10 @@ A page colelcting all authors with just one piece in the library.
 
 - [Whatsoever a Man Soweth](./whatsoeveramansoweth.md) (2014)
 
+## Makoto Priano
+
+- [Diamond](./diamond.md) (2013)
+
 ## Matteral
 
 - [Mother of Children](./matteral_motherofchildren.md) (2015)
@@ -371,6 +367,10 @@ A page colelcting all authors with just one piece in the library.
 ## Melicien Tetro
 
 - [Retrospect](./retrospect.md) (2022)
+
+## Michael Turate
+
+- [The White Handled Knife](./thewhitehandledknife.md) (2013)
 
 ## Michifusa Nishouji
 
@@ -412,10 +412,6 @@ A page colelcting all authors with just one piece in the library.
 
 - [Junior Points of View](./juniorpointsofview.md) (2015)
 
-## Penny Ibramovic
-
-- [Stop Touching my Stuff!](./stoptouchingmystuff.md) (2014)
-
 ## Rachel Syne
 
 - [The scary life of a newbie trader: a tale of epic greed stupidity and bravery](./thescarylifeofanewbietrader.md) (2018)
@@ -454,7 +450,7 @@ A page colelcting all authors with just one piece in the library.
 
 ## Seraph Essael
 
-- [Midway]() (2013)
+- [Midway](./midway.md) (2013)
 
 ## Sera Kor-Azor
 
@@ -496,6 +492,10 @@ A page colelcting all authors with just one piece in the library.
 
 - [Scotty](./scotty.md) (2017)
 
+## Thes Redav
+
+- [Blind Spot](./blindspot.md) (2013)
+
 ## Tiberius StarGazer
 
 - [Different Bodies](../authors/miscauthors/differentbodies.md) (2015)
@@ -503,6 +503,10 @@ A page colelcting all authors with just one piece in the library.
 ## Torsnk
 
 - [fleet logistics](./torsnk_fleetlogistics.md)
+
+## Toshi Koni
+
+- [Logistics](./toshikoni_logisitics.md) (2013)
 
 ## Tsao Aubbes
 
@@ -520,17 +524,9 @@ A page colelcting all authors with just one piece in the library.
 
 - [Do It For Your People](./doitforyourpeople.md) (2014)
 
-## Vehestian
-
-- [The Stars Have Strange Voices](../authors/miscauthors/thestarshavestrangevoices.md) (2015)
-
 ## Viceorvirtue
 
 - [The Dance](../direnecessity/thedance.md) (2015)
-
-## Voodoo Williams
-
-- [A Spider in Her Web](./aspiderinherweb.md) (2015)
 
 ## Vulxanis Viceroy
 

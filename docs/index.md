@@ -64,7 +64,7 @@ To do:
     - [x] Amore Tank Your Hearts Contest
     - [x] YC123 Union Day Celebrations - Short Written Works Contest
 
-Last updated: November 2023
+Last updated: December 2023
 
 #### Issues
 

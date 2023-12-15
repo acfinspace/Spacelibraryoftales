@@ -27,7 +27,7 @@ Original website: [Pod and Planet 2017 reading bank](https://podandplanet.wixsit
     - [Watcher of the Relics](../authors/robkaichin/writteninscarsandskin.md)
     - [The Last Tower](../authors/elassusherron/thelasttower.md) (2nd Prize, Very Short Fiction 2nd Prize)
 - Mundi Kundoni: [Biomass](../authors/mundikundoni/biomass.md) (3rd Prize)
-- Avio Yaken: [Traitors](../authors/miscauthors/traitors.md)
+- Avio Yaken: [Traitors](../authors/avioyaken/traitors.md)
 - Ninavask: [Reachblades of Chandeille - Broken People and Shattered Dreams](../authors/ninavask/reachbladesofchandeille_brokenpeopleandshattereddreams.md) (3rd Prize)
 - Da'iel Zehn: [Dark Ripple](../authors/daielzehn/darkripple.md) (Honorable Mention)
 - Erutor: [Crimson Harvest](../authors/erutor/crimsonharvest.md)
