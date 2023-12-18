@@ -79,7 +79,7 @@ Original website: [Pod and Planet 2014 reading bank](https://podandplanet.wixsit
 - Alabath Schmidt: [Identity Crisis](../authors/alabathschmidt/identitycrisis.md)
 - Drackarn: [Angels and Sinners](../authors/drackarn/angelsandsinners.md) (1st Prize)
 - Callista Dalmore: [The Many](../authors/callistadallmore/themany.md)
-- Kyle Yanowski: [The Fedora](../authors/miscauthors/thefedora.md)
+- Kyle Yanowski: [The Fedora](../authors/kyleyanowski/thefedora.mdd)
 - Owen Levanth / David Lögler: [Once in a Blue Moon](../authors/miscauthors/onceinabluemoon.md)
 - Sleightz: [Tricks of the Trade](../authors/sleightz/tricksofthetrade.md)
 

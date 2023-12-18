@@ -47,6 +47,7 @@ To do:
     - [ ] Night mode/light mode
     - [ ] Last updated plugin
  - [ ] Properly tag all the written pieces (on many I put only a few standard tags such as author, contest and prose/poetry)
+ - [ ] Hunt for missing pieces with Time machines and the like
  - [ ] Add contests
     - [ ] Pod & Planet 2012
     - [ ] Pod & Planet 2013

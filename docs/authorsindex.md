@@ -15,7 +15,7 @@
 - [Alyla By](./authors/miscauthors/_miscauthors.md#alyla-by)
 - [Annisir Kaugan](./authors/miscauthors/_miscauthors.md#annisir-kaugan)
 - [Archangael/Jason Jones](./authors/miscauthors/_miscauthors.md#archangaeljason-jones)
-- Archie Andrews
+- [Archie Andrews](./authors/miscauthors/_miscauthors.md#archie-andrews)
 - [Aria Jenneth](./authors/miscauthors/_miscauthors.md#aria-jenneth)
 - [Arissa Etonna](./authors/daielzehn/_daielzehn)
 - [Arkade Elerra](./authors/miscauthors/_miscauthors.md#arkade-elerra)
@@ -33,7 +33,7 @@
 - [Brisc Rubal](./authors/miscauthors/_miscauthors.md#brisc-rubal)
 - [Brodit/Brendan O'Donnell](./authors/miscauthors/_miscauthors.md#broditbrendan-odonnell)
 - [Brutus Wellforge](./authors/miscauthors/_miscauthors.md#brutus-wellforge-aka-phil-cooper)
-- Caelestina
+- [Caelestina](./authors/miscauthors/_miscauthors.md#caelestina)
 - [Callista Dallmore](./authors/callistadallmore/_callistadallmore.md)
 - [Canatana Jovakko](./authors/miscauthors/_miscauthors.md#canatana-jovakko)
 - [Carbon Red](./authors/miscauthors/_miscauthors.md#carbon-red)
@@ -46,7 +46,7 @@
 - [Cyno Krisse](./authors/miscauthors/_miscauthors.md#cyno-krisse-dust-name-sergei-domar)
 - [Da'iel Zehn](./authors/miscauthors/_miscauthors.md#daiel-zehn)
 - [Daiko Kobayashi](./authors/miscauthors/_miscauthors.md#daiko-kobayashi)
-- Damay Aprionati
+- [Damay Aprionati](./authors/miscauthors/_miscauthors.md#damay-aprionati)
 - [Dana Dreher](./authors/alabathschmidt/_alabathschmidt.md)
 - [Dantelion Shinoni](./authors/dantelionshinoni/_dantelionshinoni.md)
 - [Darrell Musko](./authors/miscauthors/_miscauthors.md#darrell-musko)
@@ -56,7 +56,7 @@
 - [Djavak Andrard](./authors/miscauthors/_miscauthors.md#djavak-andrard)
 - [Doc Kinne](./authors/miscauthors/_miscauthors.md#alan-mathison-aka-doc-kinne)
 - [Doggo Von Booplesnoot](./authors/miscauthors/_miscauthors.md#doggo-von-booplesnoot)
-- DomanarK
+- [DomanarK](./authors/miscauthors/_miscauthors.md#domanark)
 - [Donkyhotay](./authors/miscauthors/_miscauthors.md#donkyhotay)
 - [Drackarn](./authors/drackarn/_drackarn.md)
 - [Dreygun](./authors/miscauthors/_miscauthors.md#dreygun)
@@ -79,7 +79,7 @@
 - [Eve Talaminada](./authors/miscauthors/_miscauthors.md#eve-talaminada)
 - [Finden Parril](./authors/miscauthors/_miscauthors.md#finden-parril)
 - [flaming phantom/Bridger Cummings](./authors/miscauthors/_miscauthors.md#flaming-phantombridger-cummings)
-- Freyja Bearclaw
+- [Freyja Bearclaw](./authors/miscauthors/_miscauthors.md#freyja-bearclaw)
 - [Gabriel Cassata](./authors/miscauthors/_miscauthors.md#salie-gaterau--gabriel-cassata)
 - [Garion Avarr](./authors/miscauthors/_miscauthors.md#garion-avarr)
 - [Gavin Lok’ri](./authors/miscauthors/_miscauthors.md#gavin-lokri)
@@ -92,38 +92,37 @@
 - [Hardradda](./authors/miscauthors/_miscauthors.md#hardradda)
 - [hmnoma](./authors/miscauthors/_miscauthors.md#hmnomad--patrick-lee)
 - [Holker Rubin](./authors/miscauthors/_miscauthors.md#holker-rubin)
-- Ig Asho
+- [Ig Asho](./authors/miscauthors/_miscauthors.md#ig-asho)
 - [igRaVeN](./authors/miscauthors/_miscauthors.md#igraven)
-- Ishtanchuk Fazmarai
 - [Isaac Neville](./authors/miscauthors/_miscauthors.md#isaac-neville)
-- Ishtanchuk Fazmarai
+- [Ishtanchuk Fazmarai](./authors/ishtanchukfazmarai.md/_ishtanchukfazmarai.md)
 - [Islana Deepsorrow](./authors/islanadeepsorrow/_islanadeepsorrow.md)
 - [Jack Carrigan](./authors/jackcarrigan/_jackcarrigan.md)
 - [Jacqui Atruin](./authors/miscauthors/_miscauthors.md#jacqui-atruinamy)
 - [Jakob Anedalle](./authors/jakobanedalle/_jakobanedalle)
-- [Jalep Malukker](./authors/miscauthors/_miscauthors.md#jalep-malukker)
+- [Jalep Malukker](./authors/jalepmalukker/_jalepmalukker.md)
 - [John LaCroix](./authors/miscauthors/_miscauthors.md#john-lacroix)
-- John Piggot
+- [John Piggot](./authors/miscauthors/_miscauthors.md#john-piggot-aka-nin-elanihan)
 - [Johnnie Blaze](./authors/miscauthors/_miscauthors.md#johnnie-blaze)
 - [joomla alacard](./authors/miscauthors/_miscauthors.md#joomla-alacard)
 - [Jorianna Gallaire](./authors/joriannagallaire/_joriannagallaire)
 - [Jorus Q Merril](./authors/jorusqmerrill/_jorusqmerrill.md)
 - [Judas II](./authors/miscauthors/_miscauthors.md#judas-ii)
-- Kagaku Kei
+- [Kagaku Kei](./authors/miscauthors/_miscauthors.md#kagaku-kei)
 - [Katsumoto Moliko](./authors/katsumotomoliko/_katsumotomoliko.md)
 - [Kazicht Cixit](./authors/miscauthors/_miscauthors.md#kazicht-cixit)
 - [Khaos Hakomairos](./authors/miscauthors/_miscauthors.md#khaos-hakomairos--rosa-hopper)
 - [Kilzin](./authors/miscauthors/_miscauthors.md#kilzin)
-- Kira Hhallas
+- [Kira Hhallas](./authors/miscauthors/_miscauthors.md#kira-hhallas)
 - [Kirith Kodachi](./authors/kirithkodachi/_kirithkodachi.md)
 - [Korsavius](./authors/korsavius/_korsavius.md)
 - [Kyle Saltz](./authors/kylesaltz/_kylesaltz.md)
-- [Kyle Yanowski](./authors/miscauthors/_miscauthors.md#kyle-yanowski)
-- Kytayn
+- [Kyle Yanowski](./authors/kyleyanowski/_kyleyanowski.md)
+- [Kytayn](./authors/miscauthors/_miscauthors.md#kytayn)
 - [Lasairiona Raske](./authors/lasairionaraske/_lasairionaraske.md)
-- Laudenum Hayes
+- [Laudenum Hayes](./authors/miscauthors/_miscauthors.md#laudenum-hayes)
 - [Leehams DaWildabeast](./authors/miscauthors/_miscauthors.md#leehams-dawildabeast)
-- Leta Lilitu
+- [Leta Lilitu](./authors/letalilitu/_letalilitu.md)
 - [Literia](./authors/miscauthors/_miscauthors.md#literia)
 - [Lite Sabre](./authors/miscauthors/_miscauthors.md#lite-sabre)
 - [Loai Qerl](./authors/miscauthors/_miscauthors.md#loai-qerl)
@@ -146,15 +145,15 @@
 - [Mountain Ghasha](./authors/miscauthors/_miscauthors.md#mountain-ghasha)
 - [Mundi Kundoni](./authors/mundikundoni/_mundikundoni.md)
 - [Nauplius](./authors/nauplius/_nauplius.md)
-- Nenu Kuzua
+- [Nenu Kuzua](./authors/miscauthors/_miscauthors.md#nenu-kuzua)
 - [Niden](./authors/miscauthors/_miscauthors.md#niden)
 - [Ninavask](./authors/ninavask/_ninavask.md)
-- Nin Elanihan
+- [Nin Elanihan](./authors/miscauthors/_miscauthors.md#john-piggot-aka-nin-elanihan)
 - [Nivin Sajjad](./authors/miscauthors/_miscauthors.md#nivin-sajjad)
 - [Nomistrav](./authors/nomistrav.md/_nomistrav.md)
 - [Octantia Dadarwar](./authors/miscauthors/_miscauthors.md#octantia-dadarwar)
 - [Oreamnos Amric](./authors/oreamnosamric/_oreamnosamric.md)
-- Ovv Topik
+- [Ovv Topik](./authors/miscauthors/_miscauthors.md#ovv-topik)
 - [Owen Levanth](./authors/miscauthors/_miscauthors.md#owen-levanth--david-lögler)
 - [P.A.B.Arianis AKA Xepharious Wryn](./authors/xephariouswryn/_xephariouswryn.md)
 - [Palis Airuta](./authors/miscauthors/_miscauthors.md#palis-airuta)
@@ -164,18 +163,18 @@
 - [Penny Ibramovic](./authors/pennyibramovic/_pennyibramovic.md)
 - [Phil Cooper](./authors/miscauthors/_miscauthors.md#brutus-wellforge-aka-phil-cooper)
 - [Prince Seraghis](./authors/princeseraghis/_princeseraghis)
-- Psy Fi
+- [Psy Fi](./authors/miscauthors/_miscauthors.md#psy-fi)
 - [Rachel Syne](./authors/miscauthors/_miscauthors.md#rachel-syne)
-- RAIN Arthie
-- Random McNally
+- [RAIN Arthie](./authors/miscauthors/_miscauthors.md#rain-arthie)
+- [Random McNally](./authors/miscauthors/_miscauthors.md#random-mcnally)
 - [Raultalainen Isise](./authors/miscauthors/_miscauthors.md#raultalainen-isise)
 - [Rhavas](./authors/rhavas/_rhavas.md)
 - [Regalas Davaham/Ben C.](./authors/miscauthors/_miscauthors.md#regalas-davahamben-c)
 - [Revileushin Eyri](./authors/miscauthors/_miscauthors.md#revileushin-eyri)
 - [Reyg Xander](./authors/miscauthors/_miscauthors.md#reyg-xander)
-- Rixx Javixx
+- [Rixx Javixx](./authors/miscauthors/_miscauthors.md#rixx-javixx)
 - [Rob Kaichin](./authors/robkaichin/_robkaichin.md)
-- Rogue Lawyer
+- [Rogue Lawyer](./authors/miscauthors/_miscauthors.md#rogue-lawyer)
 - [Rosa Hopper](./authors/miscauthors/_miscauthors.md#khaos-hakomairos--rosa-hopper)
 - [Rusty Boon](./authors/miscauthors/_miscauthors.md#rusty-boon)
 - [Saede Riordan](./authors/saederiordan/_saederiordan.md)
@@ -187,13 +186,13 @@
 - [Sera Kor-Azor](./authors/miscauthors/_miscauthors.md#sera-kor-azor)
 - [Sere O'Asis](./authors/miscauthors/_miscauthors.md#sere-oasis)
 - [Shauna Aldard](./authors/daielzehn/_daielzehn)
-- Sheave Yens Nor
+- [Sheave Yens Nor](./authors/miscauthors/_miscauthors.md#sheave-yens-nor)
 - [Shei Bushaava](./authors/miscauthors/_miscauthors.md#shei-bushaava)
 - [Shen Striker](./authors/daielzehn/_daielzehn)
 - [Shorai Aikyoraan](./authors/shoraiaikyoraan/_shoraiaikyoraan.md)
 - [Simon Myers](./authors/nomistrav.md/_nomistrav.md)
 - [Sleightz](./authors/sleightz/_sleightz.md)
-- Soren Audeles
+- [Soren Audeles](./authors/miscauthors/_miscauthors.md#soren-audeles)
 - [Strepan Dorsett](./authors/miscauthors/_miscauthors.md#strepan-dorsett)
 - [Sugar Kyle](./authors/sugarkyle/_sugarkyle.md)
 - [Sylvia Carpenter](./authors/miscauthors/_miscauthors.md#sylvia-carpenter)
@@ -215,7 +214,7 @@
 - [Umdomiel](./authors/undomiel/_undomiel.md)
 - [Uriel Paradisi Anteovnuecci](./authors/miscauthors/_miscauthors.md#uriel-paradisi-anteovnuecci)
 - [Vahrek Serveko](./authors/miscauthors/_miscauthors.md#vahrek-serveko--gwydion-jmf-weber)
-- Vaku Rakumakan
+- [Vaku Rakumakan](./authors/vakurakumakan/_vakurakumakan.md)
 - [Vehestian](./authors/vehestian/_vehestian.md)
 - [Viceorvirtue](./authors/miscauthors/_miscauthors.md#viceorvirtue)
 - [Voluspa Dreamweaver](./authors/voluspadreamweaver/_voluspadreamweaver.md)

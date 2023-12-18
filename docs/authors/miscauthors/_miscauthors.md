@@ -52,6 +52,10 @@ A page colelcting all authors with just one piece in the library.
 
 - [The Best Sport](./thebestsport.md) (2015)
 
+## Archie Andrews
+
+- [Monopoly](../authors/miscauthors/archieandrews_monopoly.md) (2013)
+
 ## Aria Jenneth
 
 - [One True Law](./onetruelaw.md) (2022)
@@ -108,6 +112,10 @@ A page colelcting all authors with just one piece in the library.
 
 - [Rain and Ash](./rainandash.md) (2014)
 
+## Caelestina
+
+- [Elusive Desire](./elusivedesire.md) (2013)
+
 ## Canatana Jovakko
 
 - [Some recent adventures that started in low-sec in a Heron.](./somerecentadventuresthatstartedinlowsecinaheron.md) (2017)
@@ -152,6 +160,10 @@ A page colelcting all authors with just one piece in the library.
 
 - [Jin Mei Leaving Home](./jinmeileavinghome.md) (2021-2022)
 
+## Damay Aprionati
+
+- [Promises](./damayaprionati_promises.md) (2013)
+
 ## Darrell Musko
 
 - [Sixty-Two Jumps](./sixty-twojumps.md) (2015)
@@ -167,6 +179,10 @@ A page colelcting all authors with just one piece in the library.
 ## Doggo Von Booplesnoot
 
 - [A Legacy of Death](./alegacyofdeath.md) (2018)
+
+## DomanarK
+
+- [To be a thief](./tobeathief.md) (2013)
 
 ## Donkyhotay
 
@@ -232,6 +248,10 @@ A page colelcting all authors with just one piece in the library.
 
 - [Vitoc, Liberation, and Revenge](./vitocliberationandrevenge.md) (2015)
 
+## Freyja Bearclaw
+
+- [The Lord of the Wings or: How to Choose a Really Bad Title, Chapter 1: Unforeseen Consequences](./thelordofthewingsorhowtochooseabadtitle.md) (2013)
+
 ## Garion Avarr
 
 - [Three Dances](./threedances.md) (2017)
@@ -268,6 +288,10 @@ A page colelcting all authors with just one piece in the library.
 
 - [Sad Sun](./sadsun.md) (2014)
 
+## Ig Asho
+
+- [The Night Before Christmas: A Wormhole Carol](./thenightbeforechristmasawormholecarol.md) (2013)
+
 ## igRaVeN
 
 - [A Broken Shell](./abrokenshell.md) (2017)
@@ -280,13 +304,13 @@ A page colelcting all authors with just one piece in the library.
 
 - [A meeting with the station administrator](./ameetingwiththestationadministrator.md) (2015)
 
-## Jalep Malukker
-
-- [The New Hire](./thenewhire.md) (2014)
-
 ## John LaCroix
 
 - [GoodKite](./goodkite.md) (2018)
+
+## John Piggot (a.k.a. Nin Elanihan)
+
+- [Miner's Blues](./minersblues.md) (2013)
 
 ## Johnnie Blaze
 
@@ -300,6 +324,10 @@ A page colelcting all authors with just one piece in the library.
 
 - [The Oxfeld Account](./theoxfeldaccount.md) (2015)
 
+## Kagaku Kei
+
+- [7 Friends in Space](./7friendsinspace.md) (2013)
+
 ## Kazicht Cixit
 
 - [Seeing Double](./seeingdouble.md) (2014)
@@ -312,9 +340,17 @@ A page colelcting all authors with just one piece in the library.
 
 - [Filaments Gone Wrong](./filamentsgonewrong.md) (2018)
 
-## Kyle Yanowski
+## Kira Hhallas
 
-- [The Fedora](./thefedora.md) (2014)
+- [The Lord of the Wings or: How to Choose a Really Bad Title, Chapter 1: Unforeseen Consequences](./thelordofthewingsorhowtochooseabadtitle.md) (2013)
+
+## Kytayn
+
+- [Free to Choose](./freetochoose.md) (2013)
+
+## Laudenum Hayes
+
+- [To the Victor...](./tothevictor.md) (2013)
 
 ## Leehams DaWildabeast
 
@@ -388,6 +424,10 @@ A page colelcting all authors with just one piece in the library.
 
 - [Marine (Livestock)](./marinelivestock.md) (2018)
 
+## Nenu Kuzua
+
+- [Innocence lost](./innocencelost.md) (2013)
+
 ## Niden
 
 - [Rapture](./niden_rapture.md) (2015)
@@ -399,6 +439,10 @@ A page colelcting all authors with just one piece in the library.
 ## Octantia Dadarwar
 
 - [Custody Battle](../nauplius/custodybattle.md) (with Nauplius) (2022)
+
+## Ovv Topik
+
+- [Red and Black: Chapter 1](./redandblackchapter1.md) (2013)
 
 ## Owen Levanth / David Lögler
 
@@ -412,9 +456,21 @@ A page colelcting all authors with just one piece in the library.
 
 - [Junior Points of View](./juniorpointsofview.md) (2015)
 
+## Psy Fi
+
+- [A Dusty Future](./adustyfuture.md) (2013)
+
 ## Rachel Syne
 
 - [The scary life of a newbie trader: a tale of epic greed stupidity and bravery](./thescarylifeofanewbietrader.md) (2018)
+
+## RAIN Arthie
+
+- [Of whores and Hero's](./ofwhoresandheros.md) (2013)
+
+## Random McNally
+
+- [For Love and Money](./forloveandmoney.md) (2013)
 
 ## Raultalainen Isise
 
@@ -431,6 +487,14 @@ A page colelcting all authors with just one piece in the library.
 ## Reyg Xander
 
 - [Warp.  Pod.  Repeat.](./warppodrepeat.md) (2018)
+
+## Rixx Javixx
+
+- [The Pirate's Life](./thepirateslife.md) (2013)
+
+## Rogue Lawyer
+
+- [The Beckoning of a New Age](./thebeckoningofanewage.md) (2013)
 
 ## Rusty Boon
 
@@ -460,9 +524,17 @@ A page colelcting all authors with just one piece in the library.
 
 - [Origin Stories:  Chapter One](./sereoasis_originstorieschapterone.md) (2015)
 
+## Sheave Yens Nor
+
+- [The People of New Eden](./thepeopleofneweden.md) (2013)
+
 ## Shei Bushaava
 
 - [Skies Painted with Unnumbered Sparks](./skiespaintedwithunnumberedsparks.md) (2014)
+
+## Soren Audeles
+
+- [The Hush of God](./thehushofgod.md) (2013)
 
 ## Strepan Dorsett
 
@@ -503,6 +575,7 @@ A page colelcting all authors with just one piece in the library.
 ## Torsnk
 
 - [fleet logistics](./torsnk_fleetlogistics.md)
+- [The Birth of an Interceptor Pilot](./thebirthofaninterceptorpilot.md) (2013)
 
 ## Toshi Koni
 
@@ -538,7 +611,7 @@ A page colelcting all authors with just one piece in the library.
 
 ## xCUSx
 
-- [Getting Old]() (2013)
+- [Getting Old](./xcusx_gettingold.md) (2013)
 
 ## Yarrion Yuwen / Grey Y
 

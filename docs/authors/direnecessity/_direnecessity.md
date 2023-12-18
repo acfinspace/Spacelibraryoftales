@@ -5,6 +5,7 @@ tags:
 
 # DireNecessity
 
+- [DireNecessity Holds Court](./direnecessityholdscourt.md) (2013)
 - [A Whale of an Argument](./awhaleofanargument.md) (2014)
 - [DireNecessity Antes Up](./direnecessityantesup.md) (2014)
 - [DireNecessity Saves the Day](./direnecessitysavestheday.md) (2015)
