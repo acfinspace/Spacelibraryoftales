@@ -68,6 +68,10 @@ A page colelcting all authors with just one piece in the library.
 
 - [A New Deck of Cards](./anewdeckofcards.md) (2022)
 
+## Arkea Jindoi
+
+- [Unitended Discoveries](./unintendeddiscoveries.md) (2012)
+
 ## Arnold Kalashnikov
 
 - [Beginning of the Endgame](./beginningoftheendgame.md) (2017)
@@ -79,6 +83,10 @@ A page colelcting all authors with just one piece in the library.
 ## aul Elsyn / Paul Naughton
 
 - [Hope](./aulelsyn_hope.md) (2014)
+
+## Aurelie Thalys
+
+- [Entangled](./entangled.md) (2012)
 
 ## Ayana Naito
 
@@ -196,6 +204,10 @@ A page colelcting all authors with just one piece in the library.
 
 - [The Blood of Gladiators](./thebloodofgladiators.md) (2022)
 
+## Dys Novus
+
+- [For Absent Friends](./forabsentfriends.md) (2012)
+
 ## Easy Esky
 
 - [Enigma Redressed](./enigmaredressed.md) (2015)
@@ -203,6 +215,10 @@ A page colelcting all authors with just one piece in the library.
 ## Ebag Trescientas
 
 - [Aileen](./aileen.md) (2014)
+
+## Emiko P'eng
+
+- [Details](./emikopeng_details.md) (2012)
 
 ## Elinari Rhodan
 
@@ -215,6 +231,10 @@ A page colelcting all authors with just one piece in the library.
 ## Emilia Dallocort
 
 - [Podded](./podded.md) (2022)
+
+## E. Morley/Mars Theran
+
+- [White Star](./whitestar.md) (2012)
 
 ## Epigene
 
@@ -288,6 +308,14 @@ A page colelcting all authors with just one piece in the library.
 
 - [Sad Sun](./sadsun.md) (2014)
 
+## Horatius Caul
+
+- [Young Todo's Look](./youngtodoslook.md) (2012)
+
+## Ideki
+
+- [Immortal Warriors](./immortalwarriors.md) (2012)
+
 ## Ig Asho
 
 - [The Night Before Christmas: A Wormhole Carol](./thenightbeforechristmasawormholecarol.md) (2013)
@@ -300,9 +328,17 @@ A page colelcting all authors with just one piece in the library.
 
 - [Revenge](./isaacneville_revenge.md) (2015)
 
+## Iscin
+
+- [Socialising](./iscin_socialising.md) (2012)
+
 ## Jacqui Atruin/Amy
 
 - [A meeting with the station administrator](./ameetingwiththestationadministrator.md) (2015)
+
+## J. D. Miller/Galaxy Pig
+
+- [Cloaking Behind Enemy Lines](./cloakingbehindenemylines.md) (2012)
 
 ## John LaCroix
 
@@ -331,6 +367,10 @@ A page colelcting all authors with just one piece in the library.
 ## Kazicht Cixit
 
 - [Seeing Double](./seeingdouble.md) (2014)
+
+## Keilidh
+
+- [Welcome to Hek](./welcometohek.md) (2012)
 
 ## Khaos Hakomairos / Rosa Hopper
 
@@ -440,6 +480,10 @@ A page colelcting all authors with just one piece in the library.
 
 - [Custody Battle](../nauplius/custodybattle.md) (with Nauplius) (2022)
 
+## Ormond Lycurgus
+
+- [Hunted](./ormondlycurgus_hunted.md) (2012)
+
 ## Ovv Topik
 
 - [Red and Black: Chapter 1](./redandblackchapter1.md) (2013)
@@ -455,6 +499,10 @@ A page colelcting all authors with just one piece in the library.
 ## Particul
 
 - [Junior Points of View](./juniorpointsofview.md) (2015)
+
+## Pelleks
+
+- [Eight Thousand Suns](./eightthousandsuns.md) (2012)
 
 ## Psy Fi
 
@@ -504,6 +552,10 @@ A page colelcting all authors with just one piece in the library.
 
 - [The Doomed Freighter](./thedoomedfreighter.md) (2015)
 
+## SalubriousSky Rinah
+
+- [The Incident](./theincident.md) (2012)
+
 ## Saladiin
 
 - [Consolidated Cooperation and Relations Command (CONCORD) Secure Commerce Commission v. Wingspan Delivery Services, LLC.](./saladiin_concordsccvwingspan.md) (2014)
@@ -511,6 +563,10 @@ A page colelcting all authors with just one piece in the library.
 ## Salie Gaterau / Gabriel Cassata
 
 - [We All Fall Down](./weallfalldown.md) (2014)
+
+## Saul Elsyn
+
+- [Graduation](./saulelsyn_graduation.md) (2012)
 
 ## Seraph Essael
 
@@ -555,6 +611,10 @@ A page colelcting all authors with just one piece in the library.
 ## Teinyhr
 
 - [Stains of the Soul](./stainsofthesoul.md) (2017)
+
+## T'Esshe
+
+- [Escape from Eden](./escapefromeden.md) (2012)
 
 ## Theodosius Savnar
 
@@ -608,10 +668,6 @@ A page colelcting all authors with just one piece in the library.
 ## wallel Audeles
 
 - [Memoirs of a Capsuleer: wallel Audeles: Splintered Soul](./memoirsofacapsuleerwallelaudelessplinteredsoul.md)
-
-## xCUSx
-
-- [Getting Old](./xcusx_gettingold.md) (2013)
 
 ## Yarrion Yuwen / Grey Y
 

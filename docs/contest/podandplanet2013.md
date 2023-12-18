@@ -10,7 +10,7 @@ Original website: [Pod and Planet 2014 reading bank](https://podandplanetyc115.b
 ## Eight Thousand Suns in New Eden (New Eden lore-based)
 
 - Seraph Essael: [Midway](../authors/miscauthors/midway.md)
-- xCUSx: [Getting Old](../authors/miscauthors/xcusx_gettingold.md)
+- xCUSx: [Getting Old](../authors/xcusx/xcusx_gettingold.md)
 - Ishtanchuk Fazmarai: [And Zoe](../authors/ishtanchukfazmarai.md/andzoe.md)
 - Ovv Topik: [Red and Black: Chapter 1](../authors/miscauthors/redandblackchapter1.md)
 - Rhavas: [Stationside](../authors/rhavas/stationside.md)

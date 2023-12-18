@@ -50,7 +50,7 @@ To do:
  - [ ] Hunt for missing pieces with Time machines and the like
  - [ ] Add contests
     - [ ] Pod & Planet 2012
-    - [ ] Pod & Planet 2013
+    - [x] Pod & Planet 2013
     - [x] Pod & Planet 2014
     - [x] Pod & Planet 2015
     - [x] Pod & Planet 2016

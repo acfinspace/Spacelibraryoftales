@@ -9,31 +9,33 @@ Original website: [Pod and Planet 2012 reading bank](https://podandplanetentries
 
 ## Eight Thousand Suns in New Eden (New Eden lore-based)
 
-- Da'iel Zehn: Corruption (Honorable Mention)
-- Madouc D'Gamdis: CEPHON 3
-- J. D. Miller/Galaxy Pig: Cloaking Behind Enemy Lines
-- E. Morley/Mars Theran: White Star
-- Aurelie Thalys: Entangled
-- Saul Elsyn: Graduation
-- Dys Novus: For Absent Friends (3rd Prize)
-- Natassia Krasnoo: The Vendetta II (a.k.a. Paying the Dues)
-- Ideki: Immortal Warriors
-- Voodoo Williams: Hek: A Pirate Story
-- SalubriousSky Rinah: The Incident
-- Keilidh: Welcome to Hek
-- Emiko P'eng: Details
-- Iscin: Socialising
-- xCUSx: Immortality Beckons (2nd Prize)
-- Natassia Krasnoo: As the Crow Flies
-- T'Esshe: Escape from Eden
-- Madouc d'Gamdis: The Truth Shall Set You Free' [scroll down, second story on the page]
-- Arkea Jindoi: Unitended Discoveries
-- Pelleks: Eight Thousand Suns
+- Da'iel Zehn: [Corruption](../authors/daielzehn/corruption.md) (Honorable Mention)
+- Madouc D'Gamdis:
+    - [CEPHON 3](../authors/madoucdgamdis/chephon3.md)
+    - [The Truth Shall Set You Free](../authors/madoucdgamdis/thetruthshallsetyoufree.md)
+- J. D. Miller/Galaxy Pig: [Cloaking Behind Enemy Lines](../authors/miscauthors/cloakingbehindenemylines.md)
+- E. Morley/Mars Theran: [White Star](../authors/miscauthors/whitestar.md)
+- Aurelie Thalys: [Entangled](../authors/miscauthors/entangled.md)
+- Saul Elsyn: [Graduation](../authors/miscauthors/saulelsyn_graduation.md)
+- Dys Novus: [For Absent Friends](../authors/miscauthors/forabsentfriends.md) (3rd Prize)
+- Natassia Krasnoo:
+    - [The Vendetta II (a.k.a. Paying the Dues)](../authors/natassiakrasnoo/thevendettaii.md)
+    - [As the Crow Flies](../authors/natassiakrasnoo/asthecrowflies.md)
+- Ideki: [Immortal Warriors](../authors/miscauthors/immortalwarriors.md)
+- Voodoo Williams: [Hek: A Pirate Story](../authors/voodoowilliams/hekapiratestory.md)
+- SalubriousSky Rinah: [The Incident](../authors/miscauthors/theincident.md)
+- Keilidh: [Welcome to Hek](../authors/miscauthors/welcometohek.md)
+- Emiko P'eng: [Details](../authors/miscauthors/emikopeng_details.md)
+- Iscin: [Socialising](../authors/miscauthors/iscin_socialising.md)
+- xCUSx: [Immortality Beckons](../authors/xcusx/immortalitybeckons.md) (2nd Prize)
+- T'Esshe: [Escape from Eden](../authors/miscauthors/escapefromeden.md)
+- Arkea Jindoi: [Unitended Discoveries](../authors/miscauthors/unintendeddiscoveries.md)
+- Pelleks: [Eight Thousand Suns](../authors/miscauthors/eightthousandsuns.md)
 - Drackam:
-    - [An Eye for an Eye]()
+    - [An Eye for an Eye](../authors/drackarn/aneyeforaneye.md)
     - [Vandalism]()
-- Ormond Lycurgus: Hunted (Grand Prize)
-- Horatius Caul: Young Todo's Look (Honorable Mention)
+- Ormond Lycurgus: [Hunted](../authors/miscauthors/ormondlycurgus_hunted.md) (Grand Prize)
+- Horatius Caul: [Young Todo's Look](../authors/miscauthors/youngtodoslook.md) (Honorable Mention)
 - Idgarad: Memories (3rd Prize)
 - Rhavas: For the Children
 - Braxthimosis: SnapShot
@@ -126,7 +128,7 @@ Original website: [Pod and Planet 2012 reading bank](https://podandplanetentries
 - Nuala Reece: Location, Location, Location
 - Epigene: 8 chapters of EVE fiction
 - a newbie: Darkness
-- Aurelie Thalys:'Emergent Patroller' stories (19 of them to date)
+- Aurelie Thalys: Emergent Patroller stories (19 of them to date)
 - Pelleks: Hair' works (8 to date)
 - Drackarn: the Vengeance series, the Jita Ripper series, and other EVE-related stories
-- Callista Dalmore, 'Chaff and Grain'
+- Callista Dalmore: [Chaff and Grain](../authors/callistadallmore/chaffandgrain.md)
