@@ -1,10 +1,10 @@
 ---
 tags:
   - Prose
-  - Pirate
-  - Minmatar
   - MiyoshiAkachi
   - NewEdenCapsuleersWritingContestYC124
+  - Pirate
+  - Minmatar
 ---
 
 

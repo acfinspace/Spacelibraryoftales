@@ -36,25 +36,25 @@ Original website: [Pod and Planet 2012 reading bank](https://podandplanetentries
     - [Vandalism]()
 - Ormond Lycurgus: [Hunted](../authors/miscauthors/ormondlycurgus_hunted.md) (Grand Prize)
 - Horatius Caul: [Young Todo's Look](../authors/miscauthors/youngtodoslook.md) (Honorable Mention)
-- Idgarad: Memories (3rd Prize)
-- Rhavas: For the Children
-- Braxthimosis: SnapShot
-- Thes Redav: Anvil of the Nameless (2nd Prize)
-- Ghost Brother: The Sun and the Void (Honorable Mention)
-- John Frek: When Brothers Go to War
-- Vai Tanis: Primal
-- Random McNally: In Human Condition
-- Kirsa VonSchattenfels: Tabula rasa
+- Idgarad: [Memories](../authors/miscauthors/idgarad_memories.md) (3rd Prize)
+- Rhavas: [For the Children](../authors/rhavas/forthechildren.md)
+- Braxthimosis: [SnapShot]()
+- Thes Redav: [Anvil of the Nameless]() (2nd Prize)
+- Ghost Brother: [The Sun and the Void]() (Honorable Mention)
+- John Frek: [When Brothers Go to War]()
+- Vai Tanis: [Primal]()
+- Random McNally: [In Human Condition]()
+- Kirsa VonSchattenfels: [Tabula rasa]()
 - Faulx:
-    - Out of Time
-    - Until Next Time
-- Nivavask: Destruction of Rilnais
-- Nathaniel Schereau: True Citizen
-- Joseph Dreadloch: Blood in the Dark
-- Serra Shaadow: Override Transfer Array (Honorable Mention)
-- Jilthda Mieyli: Dancing to Scripture
-- Eugen Tenpenny: A day to die, a day to be born
-- Myrhial Arkenath: Escalation
+    - [Out of Time]()
+    - [Until Next Time]()
+- Nivavask: [Destruction of Rilnais]()
+- Nathaniel Schereau: [True Citizen]()
+- Joseph Dreadloch: [Blood in the Dark]()
+- Serra Shaadow: [Override Transfer Array]() (Honorable Mention)
+- Jilthda Mieyli: [Dancing to Scripture]()
+- Eugen Tenpenny: [A day to die, a day to be born]()
+- Myrhial Arkenath: [Escalation]()
 - Ugleb: We are waiting for you
 - Necromateur Gay: Operation Yomir: The Journal
 - Kalator Cromwaal: The heist
@@ -62,8 +62,8 @@ Original website: [Pod and Planet 2012 reading bank](https://podandplanetentries
 - Callista Dalmore: Worlders
 - NecroWidow: The Condemned
 - L'roc Tacitus:
-    - Recovery and Reappropriation
-    - An Intaki Interview for a Better Placid
+    - [Recovery and Reappropriation]()
+    - [An Intaki Interview for a Better Placid]()
 - Rebel Witch: Clones and Camera Drones
 - a newbie: Spaced...
 - Paintchk: Storm on the Horizon
@@ -72,14 +72,14 @@ Original website: [Pod and Planet 2012 reading bank](https://podandplanetentries
 - Kazicht Cixit: The Attrition Initiative (1st Prize)
 - Arrs Grazznic: An Alternate View
 - Ché Biko: Nightmares
-- Ezek Price: Mordu's Operator
-- Max Chee: The Explorer
-- Seismic Stan: Clouded Judgement
-- Sophia Jackson: Sailors and Satellites
-- Kyle Frost: Smuggled Out
-- the_desertpunk/Ren Kasanshi: TEKI[Conscription]
-- MidnightWyvern: Merciful
-- kraiklyn Asatru: Blood and Ascension
+- Ezek Price: [Mordu's Operator]()
+- Max Chee: [The Explorer]()
+- Seismic Stan: [Clouded Judgement]()
+- Sophia Jackson: [Sailors and Satellites]()
+- Kyle Frost: [Smuggled Out]()
+- the_desertpunk/Ren Kasanshi: [TEKI[Conscription]]()
+- MidnightWyvern: [Merciful]()
+- kraiklyn Asatru: [Blood and Ascension]()
 
 ## A Day in the Life (Gameplay-based/freeform)
 
@@ -123,7 +123,7 @@ Original website: [Pod and Planet 2012 reading bank](https://podandplanetentries
 ## Entries not elegible for prizes
 
 - Dryson: Harvest of Souls
-- Rhavas: Shattered
+- Rhavas: [Shattered](../authors/rhavas/shattered.md)
 - Jaenen: Just Business
 - Nuala Reece: Location, Location, Location
 - Epigene: 8 chapters of EVE fiction

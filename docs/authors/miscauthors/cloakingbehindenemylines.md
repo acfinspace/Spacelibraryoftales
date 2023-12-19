@@ -1,8 +1,8 @@
 ---
 tags:
   - Prose
-  - J. D. Miller
-  - Galaxy Pig
+  - J.D.Miller
+  - GalaxyPig
   - PodandPlanetYC114
   - ISSUES
 ---

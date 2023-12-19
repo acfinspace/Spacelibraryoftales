@@ -98,6 +98,8 @@
 - [hmnoma](./authors/miscauthors/_miscauthors.md#hmnomad--patrick-lee)
 - [Holker Rubin](./authors/miscauthors/_miscauthors.md#holker-rubin)
 - [Horatius Caul](./authors/miscauthors/_miscauthors.md#horatius-caul)
+- [Ideki](./authors/miscauthors/_miscauthors.md#ideki)
+- [Idgarad](./authors/miscauthors/_miscauthors.md#idgarad)
 - [Ig Asho](./authors/miscauthors/_miscauthors.md#ig-asho)
 - [igRaVeN](./authors/miscauthors/_miscauthors.md#igraven)
 - [Isaac Neville](./authors/miscauthors/_miscauthors.md#isaac-neville)

@@ -1,8 +1,8 @@
 ---
 tags:
   - Prose
-  - E. Morley
-  - Mars Theran
+  - E.Morley
+  - MarsTheran
   - PodandPlanetYC114
 ---
 

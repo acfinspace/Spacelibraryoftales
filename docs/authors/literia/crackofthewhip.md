@@ -3,6 +3,8 @@ tags:
   - Prose
   - Literia
   - PodandPlanetYC116
+  - Amarr
+  - Slavery
 ---
 
 # Crack of the Whip
@@ -10,6 +12,8 @@ tags:
 > Author: Literia
 
 > Original post: [https://literiaswalk.blogspot.com/2010/07/crack-of-whip.html?zx=df7efe017a8ceef5](https://literiaswalk.blogspot.com/2010/07/crack-of-whip.html?zx=df7efe017a8ceef5)
+
+> Author's note: sensitive themes ahead
 
 > Entry for the YC116 Pod and Planet Fiction Contest in the A Day in the Life category.
 
@@ -28,7 +32,7 @@ Matron paced back and forth still fuming "NO, I want to hear her scream first, t
 
 She sneered, looking down at me, she spit on me "Filthy little Brute, tend to my brother's needs tonight and we will see." My head hanged, on my knees bowing before her "Yes Matron, your will shall be done." I said weakly, as the blood still was flowing from my back. Her brother walked up behind me and grabbed me by my hair and took me up to his room. 
 
-He allowed my wounds to be tended to otherwise I would have died right there.
+He allowed my wounds to be tended to otherwise I would have died right there.<br>
 My father cleaned and dressed my wounds, the rage that filled his eyes was something I couldn't explain. An audible gulp came out of his mouth as the door to the room opened and then closed, there he stood, the Matron's brother "Get out slave!" He looked at me with rage and sadness in his eyes, and then walked out of the room, the door closed and it was locked from the inside.
 
-I don't remember after that point really, I blacked out and still to this day cant remember. But that was the first time of many I was whipped by Matron.I almost wish she had killed me that day, but then again I wouldn't be here to tell you the story if that happened.
+I don't remember after that point really, I blacked out and still to this day cant remember. But that was the first time of many I was whipped by Matron. I almost wish she had killed me that day, but then again I wouldn't be here to tell you the story if that happened.

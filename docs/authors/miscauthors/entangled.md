@@ -1,14 +1,13 @@
 ---
 tags:
   - Prose
-  - E. Morley
-  - Mars Theran
+  - AurelieThalys
   - PodandPlanetYC114
 ---
 
-# White Star
+# Entangled
 
-> Author: E. Morley/Mars Theran
+> Author: Aurelie Thalys
 
 > Original post: [https://emergentpatroller.blogspot.com/2012/10/entangled.html](https://emergentpatroller.blogspot.com/2012/10/entangled.html)
 

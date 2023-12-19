@@ -1,13 +1,13 @@
 ---
 tags:
   - Prose
-  - Drackam
+  - Drackarn
   - PodandPlanetYC114
 ---
 
 # An Eye for an Eye
 
-> Author: Drackam
+> Author: Drackarn
 
 > Original post: [https://sandciderandspaceships.blogspot.com/2012/11/an-eye-for-eye.html](https://sandciderandspaceships.blogspot.com/2012/11/an-eye-for-eye.html)
 

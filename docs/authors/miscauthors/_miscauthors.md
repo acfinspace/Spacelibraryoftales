@@ -316,6 +316,10 @@ A page colelcting all authors with just one piece in the library.
 
 - [Immortal Warriors](./immortalwarriors.md) (2012)
 
+## Idgarad
+
+- [Memories](./idgarad_memories.md) (2012)
+
 ## Ig Asho
 
 - [The Night Before Christmas: A Wormhole Carol](./thenightbeforechristmasawormholecarol.md) (2013)

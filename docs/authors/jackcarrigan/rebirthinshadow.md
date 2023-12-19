@@ -1,11 +1,11 @@
 ---
 tags:
   - Prose
-  - Jack Carrigan
+  - JackCarrigan
   - PodandPlanetYC120
 ---
 
-# Reborth in Shadow
+# Rebirth in Shadow
 
 > Author: Jack Carrigan
 
