@@ -100,6 +100,10 @@ A page colelcting all authors with just one piece in the library.
 
 - [A Good Man](./agoodman.md) (2013)
 
+## Braxthimosis
+
+- [SnapShot](./snapshot.md) (2012)
+
 ## Brenn Derrington
 
 - [Fledgling Phoenix](./fledglingphoenix.md) (2014)
@@ -248,6 +252,10 @@ A page colelcting all authors with just one piece in the library.
 
 - [a tale of one cyno or two](./ataleofonecynoortwo.md) (2015)
 
+## Eugen Tenpenny
+
+- [A day to die, a day to be born](./adaytodieadaytobeborn.md) (2012)
+
 ## Evelyn Arnoux
 
 - [Ashes to Ascendance](./ashestoascendance.md) (2022)
@@ -283,6 +291,10 @@ A page colelcting all authors with just one piece in the library.
 ## General Stargazer
 
 - [The League](./theleague.md) (2017)
+
+## Ghost Brother
+
+- [The Sun and the Void](./thesunandthevoid.md) (2012)
 
 ## Greasyforehead
 
@@ -344,6 +356,14 @@ A page colelcting all authors with just one piece in the library.
 
 - [Cloaking Behind Enemy Lines](./cloakingbehindenemylines.md) (2012)
 
+## Jilthda Mieyli
+
+- [Dancing to Scripture](./dancingtoscripture.md) (2012)
+
+## John Frek
+
+- [When Brothers Go to War](./whenbrothersgotowar.md) (2012)
+
 ## John LaCroix
 
 - [GoodKite](./goodkite.md) (2018)
@@ -359,6 +379,10 @@ A page colelcting all authors with just one piece in the library.
 ## joomla alacard
 
 - [January Thaw](./januarythaw.md) (2014)
+
+## Joseph Dreadloch
+
+- [Blood in the Dark](./bloodinthedark.md) (2012)
 
 ## Judas II
 
@@ -387,6 +411,10 @@ A page colelcting all authors with just one piece in the library.
 ## Kira Hhallas
 
 - [The Lord of the Wings or: How to Choose a Really Bad Title, Chapter 1: Unforeseen Consequences](./thelordofthewingsorhowtochooseabadtitle.md) (2013)
+
+## Kirsa VonSchattenfels
+
+- [Tabula rasa](./tabularasa.md) (2012)
 
 ## Kytayn
 
@@ -456,6 +484,10 @@ A page colelcting all authors with just one piece in the library.
 
 - [Victory](./victory.md) (2021)
 
+## MidnightWyvern
+
+- [Merciful](./merciful.md) (2012)
+
 ## Mizhara Del’Thul
 
 - [Walking in Myth](./walkinginmyth.md) (2020)
@@ -467,6 +499,14 @@ A page colelcting all authors with just one piece in the library.
 ## Mountain Ghasha
 
 - [Marine (Livestock)](./marinelivestock.md) (2018)
+
+## Myrhial Arkenath
+
+- [Escalation](./escalation.md) (2012)
+
+## Nathaniel Schereau
+
+- [True Citizen](./truecitizen.md) (2012)
 
 ## Nenu Kuzua
 
@@ -519,10 +559,6 @@ A page colelcting all authors with just one piece in the library.
 ## RAIN Arthie
 
 - [Of whores and Hero's](./ofwhoresandheros.md) (2013)
-
-## Random McNally
-
-- [For Love and Money](./forloveandmoney.md) (2013)
 
 ## Raultalainen Isise
 
@@ -584,6 +620,10 @@ A page colelcting all authors with just one piece in the library.
 
 - [Origin Stories:  Chapter One](./sereoasis_originstorieschapterone.md) (2015)
 
+## Serra Shaadow
+
+- [Override Transfer Array](./overridetransferarray.md) (2012)
+
 ## Sheave Yens Nor
 
 - [The People of New Eden](./thepeopleofneweden.md) (2013)
@@ -628,10 +668,6 @@ A page colelcting all authors with just one piece in the library.
 
 - [Scotty](./scotty.md) (2017)
 
-## Thes Redav
-
-- [Blind Spot](./blindspot.md) (2013)
-
 ## Tiberius StarGazer
 
 - [Different Bodies](../authors/miscauthors/differentbodies.md) (2015)
@@ -660,6 +696,10 @@ A page colelcting all authors with just one piece in the library.
 ## Vahrek Serveko / Gwydion JMF Weber
 
 - [Do It For Your People](./doitforyourpeople.md) (2014)
+
+## Vai Tanis
+
+- [Primal](./primal.md) (2012)
 
 ## Viceorvirtue
 

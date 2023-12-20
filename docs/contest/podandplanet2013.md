@@ -27,7 +27,7 @@ Original website: [Pod and Planet 2014 reading bank](https://podandplanetyc115.b
     - [Dolon Denis](../authors/vakurakumakan/dolondenis.md) (Honorable Mention)
     - [Turncoat](../authors/vakurakumakan/turncoat.md) (2nd Prize)
 - TOSHI KONI: [Logistics](../authors/miscauthors/toshikoni_logisitics.md)
-- Thes Redav: [Blind Spot](../authors/miscauthors/blindspot.md) (3rd Prize)
+- Thes Redav: [Blind Spot](../authors/thesredav/blindspot.md) (3rd Prize)
 - Kirith Kodachi: [The Life of Nina Cruse](../authors/kirithkodachi/thelifeofninacruse.md)
 - Drackarn:
     - [My Sisters Ship](../authors/drackarn/mysistersship.md)
@@ -40,7 +40,7 @@ Original website: [Pod and Planet 2014 reading bank](https://podandplanetyc115.b
 - Callista Dalmore: [Mexallon falling](../authors/callistadallmore/mexallonfalling.md) (3rd Prize)
 - Nenu Kuzua: [Innocence lost](../authors/miscauthors/innocencelost.md)
 - Voluspa Dreamweaver: [Unintended Consequences](../authors/voluspadreamweaver/unintendedconsequences.md)
-- Random McNally: [For Love and Money](../authors/miscauthors/forloveandmoney.md) (Honorable Mention)
+- Random McNally: [For Love and Money](../authors/randommcnally/forloveandmoney.md) (Honorable Mention)
 - Archie Andrews: [Monopoly](../authors/miscauthors/archieandrews_monopoly.md) (Honorable Mention)
 - Rogue Lawyer: [The Beckoning of a New Age](../authors/miscauthors/thebeckoningofanewage.md)
 - Makoto Priano: [Diamond](../authors/miscauthors/diamond.md) (Honorable Mention)

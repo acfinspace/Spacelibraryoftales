@@ -3,6 +3,7 @@ nav:
   - Home: index.md
   - Author index: authorsindex.md
   - Contest index: contestindex.md
+  - The meaning of tags: tagsexplained.md
   - Tags: tags.md
 
 markdown_extensions:
