@@ -5,6 +5,7 @@ tags:
 
 # Nomistrav
 
+- [Rumor Zero](./rumorzero.md) (2012)
 - [[Perhaps Reborn]](./perhapsreborn.md) (2014)
 - [He Saw Infinity](./hesawinfinity.md) (2015)
 - [Fractured](./fractured.md) (2017)

@@ -44,6 +44,10 @@ A page colelcting all authors with just one piece in the library.
 
 - [Immortality](./alylaby_immortality.md)
 
+## a newbie
+
+- [Spaced...](./spaced.md) (2012)
+
 ## Annisir Kaugan
 
 - [Reflections](./annisirkaugan_reflections.md) (2018)
@@ -75,6 +79,10 @@ A page colelcting all authors with just one piece in the library.
 ## Arnold Kalashnikov
 
 - [Beginning of the Endgame](./beginningoftheendgame.md) (2017)
+
+## Arrs Grazznic
+
+- [An Alternate View](./analternateview.md) (2012)
 
 ## Athrelon
 
@@ -151,10 +159,6 @@ A page colelcting all authors with just one piece in the library.
 ## Charles Cambridge Schmidt / Eric S.
 
 - [Supershow Spotlight: Gimmie a Hand](./supershowspotlightgimmieahand.md) (2014)
-
-## Che Biko
-
-- [Emissions & Omission](./emissionsandomissions.md) (2016)
 
 ## Conan Barbaris
 
@@ -392,9 +396,9 @@ A page colelcting all authors with just one piece in the library.
 
 - [7 Friends in Space](./7friendsinspace.md) (2013)
 
-## Kazicht Cixit
+## Kalator Cromwaal
 
-- [Seeing Double](./seeingdouble.md) (2014)
+- [The heist](./theheist.md) (2012)
 
 ## Keilidh
 
@@ -415,6 +419,10 @@ A page colelcting all authors with just one piece in the library.
 ## Kirsa VonSchattenfels
 
 - [Tabula rasa](./tabularasa.md) (2012)
+
+## Kyle Frost
+
+- [Smuggled Out](./smuggledout.md) (2012)
 
 ## Kytayn
 
@@ -468,6 +476,10 @@ A page colelcting all authors with just one piece in the library.
 
 - [2000 Kills](./marcscaurus_2000kills.md) (2015)
 
+## Max Chee
+
+- [The Explorer](./theexplorer.md) (2012)
+
 ##  Max Ouch
 
 - [Red](./maxouch_red.md) (2018)
@@ -508,8 +520,17 @@ A page colelcting all authors with just one piece in the library.
 
 - [True Citizen](./truecitizen.md) (2012)
 
+## Necromateur Gay
+
+- [Operation Yomir: The Journal](./operationyomirthejournal.md) (2012)
+
+## NecroWidow
+
+- [The Condemned](./thecondemned.md) (2012)
+
 ## Nenu Kuzua
 
+- [Awakenings](./awakenings.md) (2012)
 - [Innocence lost](./innocencelost.md) (2013)
 
 ## Niden
@@ -535,6 +556,10 @@ A page colelcting all authors with just one piece in the library.
 ## Owen Levanth / David Lögler
 
 - [Once in a Blue Moon](./onceinabluemoon.md) (2014)
+
+## Paintchk
+
+- [Storm on the Horizon](./stormonthehorizon.md) (2012)
 
 ## Palis Airuta
 
@@ -563,6 +588,10 @@ A page colelcting all authors with just one piece in the library.
 ## Raultalainen Isise
 
 - [The Way Turns Unexpectedly](./thewayturnsunexpectedly.md) (2022)
+
+## Rebel Witch
+
+- [Clones and Camera Drones](./clonesandcameradrones.md) (2012)
 
 ## Regalas Davaham/Ben C.
 
@@ -608,6 +637,10 @@ A page colelcting all authors with just one piece in the library.
 
 - [Graduation](./saulelsyn_graduation.md) (2012)
 
+## Seismic Stan
+
+- [Clouded Judgement](./cloudedjudgement.md) (2012)
+
 ## Seraph Essael
 
 - [Midway](./midway.md) (2013)
@@ -631,6 +664,10 @@ A page colelcting all authors with just one piece in the library.
 ## Shei Bushaava
 
 - [Skies Painted with Unnumbered Sparks](./skiespaintedwithunnumberedsparks.md) (2014)
+
+## Sophia Jackson
+
+- [Sailors and Satellites](./sailorsanddsatellites.md) (2012)
 
 ## Soren Audeles
 
@@ -660,6 +697,10 @@ A page colelcting all authors with just one piece in the library.
 
 - [Escape from Eden](./escapefromeden.md) (2012)
 
+## the_desertpunk/Ren Kasanshi
+
+- [TEKI[Conscription]](../authors/miscauthors/tekiconscription.md) (2012)
+
 ## Theodosius Savnar
 
 - [Eulogy for an Astrahus - The Fall of Farthest Shore](./eulogyforanastrahus.md)
@@ -688,6 +729,10 @@ A page colelcting all authors with just one piece in the library.
 ## Tsuneshi Ryuzouji
 
 - [A Corny Love Poem](./acornylovepoem.md) (2022)
+
+## Ugleb
+
+- [We are waiting for you](./wearewaitingforyou.md) (2012)
 
 ## Uriel Paradisi Anteovnuecci
 

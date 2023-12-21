@@ -34,7 +34,7 @@ Original website: [Pod and Planet 2014 reading bank](https://podandplanet.wixsit
 - Uriel Paradisi Anteovnuecci: [The Giant](../authors/miscauthors/thegiant.md)
 - Holker Rubin: [Sad Sun](../authors/miscauthors/sadsun.md)
 - Yarrion Yuwen / Grey Y: [Homo Homini Lupus](../authors/miscauthors/homohominilupus.md) (3rd Prize)
-- Kazicht Cixit: [Seeing Double](../authors/miscauthors/seeingdouble.md) (1st Prize)
+- Kazicht Cixit: [Seeing Double](../authors/kazichtcixit/seeingdouble.md) (1st Prize)
 - Da'iel Zehn: [Crossfire](../authors/daielzehn/crossfire.md) (Honorable Mention)
 - Jakob Anedalle: [Flags on Far Distant Stars](../authors/jakobanedalle/flagsonfardistantstars.md)
 - Charles Cambridge Schmidt / Eric S.: [Supershow Spotlight: Gimmie a Hand](../authors/miscauthors/supershowspotlightgimmieahand.md)

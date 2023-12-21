@@ -55,29 +55,29 @@ Original website: [Pod and Planet 2012 reading bank](https://podandplanetentries
 - Jilthda Mieyli: [Dancing to Scripture](../authors/miscauthors/dancingtoscripture.md)
 - Eugen Tenpenny: [A day to die, a day to be born](../authors/miscauthors/adaytodieadaytobeborn.md)
 - Myrhial Arkenath: [Escalation](../authors/miscauthors/escalation.md)
-- Ugleb: We are waiting for you
-- Necromateur Gay: Operation Yomir: The Journal
-- Kalator Cromwaal: The heist
-- Nomistrav: Rumor Zero (3rd Prize)
-- Callista Dalmore: Worlders
-- NecroWidow: The Condemned
+- Ugleb: [We are waiting for you](../authors/miscauthors/wearewaitingforyou.md)
+- Necromateur Gay: [Operation Yomir: The Journal](../authors/miscauthors/operationyomirthejournal.md)
+- Kalator Cromwaal: [The heist](../authors/miscauthors/theheist.md)
+- Nomistrav: [Rumor Zero](../authors/nomistrav.md/rumorzero.md) (3rd Prize)
+- Callista Dalmore: [Worlders](../authors/callistadallmore/worlders.md)
+- NecroWidow: [The Condemned](../authors/miscauthors/thecondemned.md)
 - L'roc Tacitus:
-    - [Recovery and Reappropriation]()
-    - [An Intaki Interview for a Better Placid]()
-- Rebel Witch: Clones and Camera Drones
-- a newbie: Spaced...
-- Paintchk: Storm on the Horizon
-- Korsavius: Abandoned
-- Nenu Kuzua: Awakenings
-- Kazicht Cixit: The Attrition Initiative (1st Prize)
-- Arrs Grazznic: An Alternate View
-- Ché Biko: Nightmares
-- Ezek Price: [Mordu's Operator]()
-- Max Chee: [The Explorer]()
-- Seismic Stan: [Clouded Judgement]()
-- Sophia Jackson: [Sailors and Satellites]()
-- Kyle Frost: [Smuggled Out]()
-- the_desertpunk/Ren Kasanshi: [TEKI[Conscription]]()
+    - [Recovery and Reappropriation](../authors/lroctacitus.md/recoveryandreappropriation.md)
+    - [An Intaki Interview for a Better Placid](../authors/lroctacitus.md/anintakiinterviewforabetterplacid.md)
+- Rebel Witch: [Clones and Camera Drones](../authors/miscauthors/clonesandcameradrones.md)
+- a newbie: [Spaced...](../authors/miscauthors/spaced.md)
+- Paintchk: [Storm on the Horizon](../authors/miscauthors/stormonthehorizon.md)
+- Korsavius: [Abandoned](../authors/korsavius/abandoned.md)
+- Nenu Kuzua: [Awakenings](../authors/miscauthors/awakenings.md)
+- Kazicht Cixit: [The Attrition Initiative](../authors/kazichtcixit/theattritioninitiative.md) (1st Prize)
+- Arrs Grazznic: [An Alternate View](../authors/miscauthors/analternateview.md)
+- Ché Biko: [Nightmares](../authors/chebiko/nightmares.md)
+- Ezek Price: [Mordu's Operator](../authors/miscauthors/mordusoperator.md)
+- Max Chee: [The Explorer](../authors/miscauthors/theexplorer.md)
+- Seismic Stan: [Clouded Judgement](../authors/miscauthors/cloudedjudgement.md)
+- Sophia Jackson: [Sailors and Satellites](../authors/miscauthors/sailorsanddsatellites.md)
+- Kyle Frost: [Smuggled Out](../authors/miscauthors/smuggledout.md)
+- the_desertpunk/Ren Kasanshi: [TEKI[Conscription]](../authors/miscauthors/tekiconscription.md)
 - MidnightWyvern: [Merciful](../authors/miscauthors/merciful.md)
 - Kraiklyn Asatru: [Blood and Ascension](../authors/miscauthors/bloodandascension.md)
 
