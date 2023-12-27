@@ -47,7 +47,7 @@ To do:
  - [ ] Tweak and finalize the library itself
     - [ ] Theme
     - [x] Night mode/light mode
-    - [x] Last updated plugin
+    - [ ] Last updated plugin
  - [ ] Properly tag all the written pieces (on many I put only a few standard tags such as author, contest and prose/poetry)
  - [ ] Hunt for missing pieces with Time machines and the like
  - [ ] Add contests
