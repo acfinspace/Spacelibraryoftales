@@ -5,6 +5,12 @@ tags:
 
 # Sugar Kyle
 
+- [Ill Gained Goods](./illgainedgoods.md) (2012)
+- [The Path Divides](./thepathdivides.md) (2012)
+- [Sleeper Dreams](./sleeperdreams.md) (2012)
+- [If Bullets were Kisses](./ifbulletswerekisses.md) (2012)
+- [Jita](./jita.md) (2012)
+- [The Cog's Pieces](./thecogspieces.md) (2012)
 - [Economics](./economics.md) (2013)
 - [ECM Nightmare](./ecmnightmare.md) (2013)
 - [Blood Money](./bloodmoney.md) (2013)

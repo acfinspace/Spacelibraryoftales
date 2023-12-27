@@ -37,7 +37,7 @@ Original website: [Pod and Planet 2016 reading bank](https://podandplanet.wixsit
 
 ## A Day in the Life (Gameplay-based/freeform)
 
-- Xepharious Wryn: [Phantom Pains](../xepharious/phantompains.md) (1st Prize)
+- Xepharious Wryn: [Phantom Pains](../authors/xephariouswryn/phantompains.md) (1st Prize)
 - Erutor: [An Unexpected Op]() (3rd Prize)
 - Takamori Saig0:
     - [Protect What You Love]()

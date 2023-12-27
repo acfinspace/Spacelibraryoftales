@@ -29,7 +29,7 @@ Original website: [Pod and Planet 2012 reading bank](https://podandplanetentries
 - Iscin: [Socialising](../authors/miscauthors/iscin_socialising.md)
 - xCUSx: [Immortality Beckons](../authors/xcusx/immortalitybeckons.md) (2nd Prize)
 - T'Esshe: [Escape from Eden](../authors/miscauthors/escapefromeden.md)
-- Arkea Jindoi: [Unitended Discoveries](../authors/miscauthors/unintendeddiscoveries.md)
+- Arkea Jindoi: [Unitended Discoveries](../authors/arkeajindoi/unintendeddiscoveries.md)
 - Pelleks: [Eight Thousand Suns](../authors/miscauthors/eightthousandsuns.md)
 - Drackarn:
     - [An Eye for an Eye](../authors/drackarn/aneyeforaneye.md)
@@ -83,38 +83,38 @@ Original website: [Pod and Planet 2012 reading bank](https://podandplanetentries
 
 ## A Day in the Life (Gameplay-based/freeform)
 
-- Evelyn Meiyi: The Day the Gods Came
-- Skitterball: Miners Trap
-- Samued Ryan: Emperor's Vision
-- Jack Carrigan: A Day in the Life
-- Touval Lysander: You don't know me
-- Dread Pirate Rodgers: A Day in the Life of Dread Pirate Rodgers
-- DireNecessity: DireNecessity Teaches Class (2nd Prize)
+- Evelyn Meiyi: [The Day the Gods Came]
+- Skitterball: [Miners Trap]
+- Samued Ryan: [Emperor's Vision]
+- Jack Carrigan: [A Day in the Life](../authors/jackcarrigan/adayinthelife.md)
+- Touval Lysander: [You don't know me]
+- Dread Pirate Rodgers: [A Day in the Life of Dread Pirate Rodgers]
+- DireNecessity: [DireNecessity Teaches Class] (2nd Prize)
 - Sugar Kyle:
-    - Ill Gained Goods' (2nd Prize)
-    - The Path Divides
-    - Sleeper Dreams
-    - If Bullets were Kisses
-    - Jita
-    - The Cog's Pieces
-- Darth Skorpius: Vacation
-- Qec: There is No Place Like Home
-- Meryl SinGarda: Suicidal Tendencies
-- Tsavu Irika: Making a Comeback
-- Evil Incarn8: Running for the Border
-- Rhavas: Escalation (1st Prize)
-- Arkea Jindoi: Anchor
-- Random McNally: Omega Challenge
+    - [Ill Gained Goods](../authors/sugarkyle/illgainedgoods.md) (2nd Prize)
+    - [The Path Divides](../authors/sugarkyle/thepathdivides.md)
+    - [Sleeper Dreams](../authors/sugarkyle/sleeperdreams.md)
+    - [If Bullets were Kisses](../authors/sugarkyle/ifbulletswerekisses.md)
+    - [Jita](../authors/sugarkyle/jita.md)
+    - [The Cog's Pieces](../authors/sugarkyle/thecogspieces.md)
+- Darth Skorpius: [Vacation](../authors/darthskorpius/vacation.md)
+- Qec: [There is No Place Like Home]
+- Meryl SinGarda: [Suicidal Tendencies]
+- Tsavu Irika: [Making a Comeback]
+- Evil Incarn8: [Running for the Border]
+- Rhavas: [Escalation](../authors/rhavas/escalation.md) (1st Prize)
+- Arkea Jindoi: [Anchor](../authors/arkeajindoi/anchor.md)
+- Random McNally: [Omega Challenge]
 - Si Karde: The Path of the Righteous
 - Mike Azariah: Learning
-- Penny Ibramovic: Predator and Prey
+- Penny Ibramovic: [Predator and Prey](../authors/pennyibramovic/predatorandprey.md)
 - Ashlief: Ride of Valkyries
 - Vipieris: EVE - Contested Treasures (3rd Prize)
 - Kyle Yanowski: A Game of Fedo (3rd Prize)
 - Aurelie Thalys: Leaving Home
 - Jin alPatar: Stranger in a Strange Body
 - Faulx: Arek’Jaalan Museum
-- Callista Dalmore: The Trial
+- Callista Dalmore: [The Trial](../authors/callistadallmore/thetrial.md)
 - Joseph Dreadloch: EVE Online, Crime Simulator
 - Necromateur Gay: Damn You, Auto-pilot
 - Errubus: The Turning of Dormas
@@ -122,7 +122,7 @@ Original website: [Pod and Planet 2012 reading bank](https://podandplanetentries
 
 ## Entries not elegible for prizes
 
-- Dryson: Harvest of Souls
+- Dryson: [Harvestor of Souls](../authors/miscauthors/theharvestorofsouls.md)
 - Rhavas: [Shattered](../authors/rhavas/shattered.md)
 - Jaenen: Just Business
 - Nuala Reece: Location, Location, Location

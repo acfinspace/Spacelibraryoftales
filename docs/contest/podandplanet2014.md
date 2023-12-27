@@ -55,7 +55,7 @@ Original website: [Pod and Planet 2014 reading bank](https://podandplanet.wixsit
 - Jack Carrigan / Alan Eaby: [Another Day and a Another Bit of Hatred](../authors/jackcarrigan/anotherdayandanotherbitofhatred.md)
 - Ebag Trescientas: [Aileen](../authors/miscauthors/aileen.md)
 - Penny Ibramovic: [Stop Touching my Stuff!](../authors/pennyibramovic/stoptouchingmystuff.md)
-- Jalep Malukker: [The New Hire](../authors/miscauthors/thenewhire.md)
+- Jalep Malukker: [The New Hire](../authors/jalepmalukker/thenewhire.md)
 - DireNecessity: [DireNecessity Antes Up](../authors/direnecessity/direnecessityantesup.md) (3rd Prize)
 - Alan Mathison / Doc Kinne: [The Gift](../authors/miscauthors/alanmathison_thegift.md) (2nd Prize)
 - Alabath Schmidt / Dana Dreher: [Schmidt Out of Luck](../authors/alabathschmidt/schmidtoutofluck.md)
@@ -79,7 +79,7 @@ Original website: [Pod and Planet 2014 reading bank](https://podandplanet.wixsit
 - Alabath Schmidt: [Identity Crisis](../authors/alabathschmidt/identitycrisis.md)
 - Drackarn: [Angels and Sinners](../authors/drackarn/angelsandsinners.md) (1st Prize)
 - Callista Dalmore: [The Many](../authors/callistadallmore/themany.md)
-- Kyle Yanowski: [The Fedora](../authors/kyleyanowski/thefedora.mdd)
+- Kyle Yanowski: [The Fedora](../authors/kyleyanowski/thefedora.md)
 - Owen Levanth / David Lögler: [Once in a Blue Moon](../authors/miscauthors/onceinabluemoon.md)
 - Sleightz: [Tricks of the Trade](../authors/sleightz/tricksofthetrade.md)
 

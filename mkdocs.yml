@@ -14,8 +14,24 @@ markdown_extensions:
 theme:
   name: material
   palette:
-      primary: cyan
+
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
       accent: blue
+      primary: cyan
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      accent: blue
+      primary: cyan
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode       
   features:
     - search.suggest
     - search.highlight
@@ -24,6 +40,9 @@ theme:
 
 plugins:
   - search
+  - git-revision-date-localized:
+      enable_creation_date: true
+      type: date
   - tags:
       tags_file: tags.md
 

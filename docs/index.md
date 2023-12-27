@@ -46,8 +46,8 @@ To do:
 
  - [ ] Tweak and finalize the library itself
     - [ ] Theme
-    - [ ] Night mode/light mode
-    - [ ] Last updated plugin
+    - [x] Night mode/light mode
+    - [x] Last updated plugin
  - [ ] Properly tag all the written pieces (on many I put only a few standard tags such as author, contest and prose/poetry)
  - [ ] Hunt for missing pieces with Time machines and the like
  - [ ] Add contests
@@ -67,7 +67,7 @@ To do:
     - [x] Amore Tank Your Hearts Contest
     - [x] YC123 Union Day Celebrations - Short Written Works Contest
 
-Last updated: December 2023 (see [GitHub's commits](https://github.com/acfinspace/Spacelibraryoftales/commits/main))
+Lastest library updated: December 2023 (see [GitHub's commits](https://github.com/acfinspace/Spacelibraryoftales/commits/main) for further details)
 
 #### Issues
 

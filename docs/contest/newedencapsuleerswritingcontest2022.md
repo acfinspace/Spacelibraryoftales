@@ -34,7 +34,7 @@ if people have any questions or need rulings, I am the contest administrator and
 ### Poetry:
 
 - Miyoshi Akachi: [A Haiku Collection](../authors/miyoshiakachi/ahaikucollection.md) (Honorable Mention)
-- Prince Seraghis: [The Infiltration](../authors/miscauthors/theinfiltration.md) (Honorable Mention)
+- Prince Seraghis: [The Infiltration](../authors/princeseraghis/theinfiltration.md) (Honorable Mention)
 - Zedicon Prime:
     - [Rhyme of an Amarr](../authors/zediconprime.md/rhymeofanamarr.md)
     - [Ramblings of the Stellar Mariner](../authors/zediconprime.md/ramblingsofthestellarmariner.md)

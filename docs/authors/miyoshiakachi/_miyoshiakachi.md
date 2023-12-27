@@ -23,7 +23,7 @@ Works:
 - [Wednesday Morning Pod News!](./wednesdaymorningpodnews.md) (2017)
 - [Let me show you the world in my eyes](./letmeshowyoutheworldinmyeyes.md) (2017)
 - [A visit home](./avisithome.md) (2017)
-- [Reflections](./authors/miyoshiakachi/reflections.md) (2017)
+- [Reflections](./reflections.md) (2017)
 - [Transcript Id: 17342](./transcriptid17342.md) (2018)
 - [Origin Story 1-5](./originstory.md) (2018)
 - [Anonymous end](./anonymousend.md) (2019)

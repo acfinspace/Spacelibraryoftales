@@ -58,7 +58,7 @@ A page colelcting all authors with just one piece in the library.
 
 ## Archie Andrews
 
-- [Monopoly](../authors/miscauthors/archieandrews_monopoly.md) (2013)
+- [Monopoly](./archieandrews_monopoly.md) (2013)
 
 ## Aria Jenneth
 
@@ -71,10 +71,6 @@ A page colelcting all authors with just one piece in the library.
 ## Arkana Hawker
 
 - [A New Deck of Cards](./anewdeckofcards.md) (2022)
-
-## Arkea Jindoi
-
-- [Unitended Discoveries](./unintendeddiscoveries.md) (2012)
 
 ## Arnold Kalashnikov
 
@@ -207,6 +203,10 @@ A page colelcting all authors with just one piece in the library.
 ## Dreygun
 
 - [Echoes of Origin](./echoesoforigin.md) (2014)
+
+## Dryson
+
+- [Harvestor of Souls](./theharvestorofsouls.md) (2012)
 
 ## Duke Shasta
 
@@ -394,7 +394,7 @@ A page colelcting all authors with just one piece in the library.
 
 ## Kagaku Kei
 
-- [7 Friends in Space](./7friendsinspace.md) (2013)
+- [7 Friends in Space](./kagakukei_7friendsinspace.md) (2013)
 
 ## Kalator Cromwaal
 
@@ -434,7 +434,7 @@ A page colelcting all authors with just one piece in the library.
 
 ## Leehams DaWildabeast
 
-- [Captain's Log](../authors/miscauthors/captainslog.md) (2017)
+- [Captain's Log](./captainslog.md) (2017)
 
 ## Lite Sabre:
 
@@ -699,7 +699,7 @@ A page colelcting all authors with just one piece in the library.
 
 ## the_desertpunk/Ren Kasanshi
 
-- [TEKI[Conscription]](../authors/miscauthors/tekiconscription.md) (2012)
+- [TEKI[Conscription]](./tekiconscription.md) (2012)
 
 ## Theodosius Savnar
 
@@ -711,7 +711,7 @@ A page colelcting all authors with just one piece in the library.
 
 ## Tiberius StarGazer
 
-- [Different Bodies](../authors/miscauthors/differentbodies.md) (2015)
+- [Different Bodies](./differentbodies.md) (2015)
 
 ## Torsnk
 

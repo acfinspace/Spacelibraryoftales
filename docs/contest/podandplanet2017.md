@@ -21,7 +21,7 @@ Original website: [Pod and Planet 2017 reading bank](https://podandplanet.wixsit
     - [Cold-blooded Creatures](../authors/korsavius/coldbloodedmention.md) (Honorable Mention)
 - Miyoshi Akachi:
     - [Abduction](../authors/miyoshiakachi/abduction.md)
-    - [Wendsday Morning Pod News!](../authors/iyoshiakachi/wednesdaymorningpodnews.md)
+    - [Wendsday Morning Pod News!](../authors/miyoshiakachi/wednesdaymorningpodnews.md)
     - [Let me show you the world in my eyes](../authors/miyoshiakachi/letmeshowyoutheworldinmyeyes.md)
 - Elassus Herron:
     - [Watcher of the Relics](../authors/robkaichin/writteninscarsandskin.md)

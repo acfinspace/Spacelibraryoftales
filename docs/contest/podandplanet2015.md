@@ -23,7 +23,7 @@ Original website: [Pod and Planet 2015 reading bank](https://podandplanet.wixsit
 - Rhavas: [Decoherence](../authors/rhavas/decoherence.md) (2nd Prize)
 - Eridan: [Capsuleer's blues](../authors/miscauthors/capsuleersblues.md)
 - Easy Esky: [Enigma Redressed](../authors/miscauthors/enigmaredressed.md)
-- Callista Dallmore: [The Gate](../authors/miscauthors/callistadallmore_thegate.md) (2nd Prize)
+- Callista Dallmore: [The Gate](../authors/callistadallmore/callistadallmore_thegate.md) (2nd Prize)
 - Finden Parril: [Collect and Return](../authors/miscauthors/collectandreturn.md)
 - Voodoo Williams: [A Spider in Her Web](../authors/voodoowilliams/aspiderinherweb.md) (Grand Prize)
 - Conan Barbaris: [A Thousand Sleepers](../authors/miscauthors/athousandsleepers.md)

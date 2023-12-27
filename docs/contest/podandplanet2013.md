@@ -11,7 +11,7 @@ Original website: [Pod and Planet 2014 reading bank](https://podandplanetyc115.b
 
 - Seraph Essael: [Midway](../authors/miscauthors/midway.md)
 - xCUSx: [Getting Old](../authors/xcusx/xcusx_gettingold.md)
-- Ishtanchuk Fazmarai: [And Zoe](../authors/ishtanchukfazmarai.md/andzoe.md)
+- Ishtanchuk Fazmarai: [And Zoe](../authors/ishtanchukfazmarai/andzoe.md)
 - Ovv Topik: [Red and Black: Chapter 1](../authors/miscauthors/redandblackchapter1.md)
 - Rhavas: [Stationside](../authors/rhavas/stationside.md)
 - Michael Turate: [The White Handled Knife](../authors/miscauthors/thewhitehandledknife.md)
@@ -56,9 +56,9 @@ Original website: [Pod and Planet 2014 reading bank](https://podandplanetyc115.b
 - Rhavas:
     - [Intercession](../authors/rhavas/intercession.md) (Grand Prize)
     - [Homecoming](../authors/rhavas/homecoming.md) (2nd Prize)
-- Ishtanchuk Fazmarai: [Walking a thin line](../authors/ishtanchukfazmarai.md/walkingathinline.md)
+- Ishtanchuk Fazmarai: [Walking a thin line](../authors/ishtanchukfazmarai/walkingathinline.md)
 - Laudenum Hayes: [To the Victor...](../authors/miscauthors/tothevictor.md)
-- Leta Lilitu: [An Awkward Moment on a Gate](../authors/miscauthors/anawkwardmomentonagate.md) (Honorable Mention)
+- Leta Lilitu: [An Awkward Moment on a Gate](../authors/letalilitu/anawkwardmomentonagate.md) (Honorable Mention)
 - Soren Audeles: [The Hush of God](../authors/miscauthors/thehushofgod.md) (3rd Prize)
 - John Piggot/Nin Elanihan: [Miner's Blues](../authors/miscauthors/minersblues.md) (Honorable Mention)
 - DomanarK: [To be a thief](../authors/miscauthors/tobeathief.md)
@@ -75,14 +75,14 @@ Original website: [Pod and Planet 2014 reading bank](https://podandplanetyc115.b
 ## Other Thing Just Make You Swear and Curse (Humor)
 
 - Ishtanchuk Fazmarai:
-    - [The dead Captain Roberts](../authors/ishtanchukfazmarai.md/thedeadcaptainroberts.md)
-    - [The solitary demise of Epidio Trantino](../authors/ishtanchukfazmarai.md/thesolitarydemiseofepidiotrantino.md)
+    - [The dead Captain Roberts](../authors/ishtanchukfazmarai/thedeadcaptainroberts.md)
+    - [The solitary demise of Epidio Trantino](../authors/ishtanchukfazmarai/thesolitarydemiseofepidiotrantino.md)
 - Kira Hhallas & Freyja Bearclaw
     - [The Lord of the Wings or: How to Choose a Really Bad Title, Chapter 1: Unforeseen Consequences](../authors/miscauthors/thelordofthewingsorhowtochooseabadtitle.md)
 - Kyle Yanowski: [The Happy Wife](../authors/kyleyanowski/thehappylife.md)
 - Sugar Kyle: [ECM Nightmare](../authors/sugarkyle/ecmnightmare.md) (2nd prize)
 - Sheave Yens Nor: [The People of New Eden](../authors/miscauthors/thepeopleofneweden.md)
-- Leta Lilitu: [Jimmy Jammer's Genius Jumpdrives](../authors/miscauthors/jimmyjammersgeniusjumpdrives.md)
+- Leta Lilitu: [Jimmy Jammer's Genius Jumpdrives](../authors/letalilitu/jimmyjammersgeniusjumpdrives.md)
 - Ig Asho: [The Night Before Christmas: A Wormhole Carol](../authors/miscauthors/thenightbeforechristmasawormholecarol.md)
 - Drackarn: [The Briefing](../authors/drackarn/thebriefing.md) (1st Prize)
 - Voluspa Dreamweaver: [Lesson Learned](../authors/voluspadreamweaver/lessonlearned.md) (3rd Prize)

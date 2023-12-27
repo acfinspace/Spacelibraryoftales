@@ -7,6 +7,7 @@ tags:
 
 Also known as Alan Eaby.
 
+- [A Day in the Life](./adayinthelife.md) (2012)
 - [Just One of Those Days](./justoneofthosedays.md) (2013)
 - [Another Day and a Another Bit of Hatred](./anotherdayandanotherbitofhatred.md) (2014)
 - [It Was In That Moment...](./itwasinthatmoment.md) (2017)

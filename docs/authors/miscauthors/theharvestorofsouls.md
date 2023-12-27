@@ -1,0 +1,22 @@
+---
+tags:
+  - Prose
+  - Dryson
+  - PodandPlanetYC114
+---
+
+# The Harvestor of Souls
+
+> Author: Dryson
+
+> Original post: [https://drysonbennington.wixsite.com/harvestorofsouls](https://drysonbennington.wixsite.com/harvestorofsouls)
+
+> Entry for the YC114 Pod and Planet Fiction Contest but not elegible for prizes.
+
+
+She nudged her small frigate inside of the lightless abandon. Making her way to hatch she slipped her fingers into the glove of her environmental suit. The hatch sensing her presence hissed open into the void of space.  The flood lamp on her suits visor played across the twisted metal beams and wires as she made her way to a hatch its small lights flickering in the night. Her breath was steady as she placed the hacker card into the slot. A few seconds later the lights turned green and a sliver of light broke through the darkness.  What greeted her inside was unlike anything that she had ever seen. She could feel a loneliness that she had only felt when she had been podded and sent back to the clone facility. A loneliness at being somewhere but nowhere at all. She moved through the facility the large beams giving way to a hive of computers. Cabling ran for thousands of meters above and below her obviously to some antenna situated on the outside of the facilities hull. Then she saw it, rather felt it. Seated in the center of the vast cavern were six container tubes the light blue colored fluid bubbling every so oftern but not in sequence. What could this place be she thought? The information that she had been given only said that this place was a derelict and had been left behind for thousands of years. Something sinester was happening here and was no longer just a simple archeology mission.
+
+She felt it again. The loneliness, the despair, the separation. She turned to look behind her from where the loneliness had come from and with horror she now realized the purpose of the facility. Inside one of the containers was a wisp of the form of someone. She didn't know who it was but she watched as the wisp curled up in the fetal position suddenly came alive and let out a scream that could not be heard. The wisp placed its hand against the container surface before it's eyes drooped and its figure went limp as it was rushed through the tubing to another part of the facility. She still didn't understand fully what was happening as she followed the tubing into another part of the facility occasionally seeing wisps flowing the tube. She emerged into another room and there before her were rows of  clone vats. Inside each vat was a clone with implants unlike that she had ever seen or used attached to the clones head. With a horrifying gasp and loss of breath the facility came into being. The souls of pilots who had been podded were being harvested by the facility. She thought to herself that someone or something had been able to build this facility that could intercept the transmission from the pod to a station so that the information for the cloning process would be diverted from a protected facility to this facility. There must be someone inside the corporate facilities that had hacked into the information transfer network that allowed the soul of the podded pilot to be stolen. She could remember hearing about stories where ships had been destroyed and their pilots never recovered. The corporations could not explain the reasoning either and left the fate of such pilots upto the will of God. But who was behind this act of harvesting the soul of the podded pilot that then transformed the pilot into an unwitting slave entombed in a body that was not their own for all times? It couldn't be Sansha Kuvakei as he only made clones from his own DNA. What new menace was stealing souls from New Eden? What new threat would come....and then she felt the loneliness, the despair the separation she had felt before as the voice over the comm system rang out. "Time for work." it bleated. What a horrible nightmare she thought as she snapped her work uniform up over her slender body. Making her way to her work station inside of the facilities clone vat generator she had flashbacks of the dream that seemed to haunt her as she slipped her hands into the oversized work gloves.
+
+
+​

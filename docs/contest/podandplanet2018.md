@@ -30,7 +30,7 @@ tags:
     - [Tumble](../authors/daielzehn/tumble.md)
 - Strepan Dorsett: [Childhood's Memory](../authors/miscauthors/childhoodsmemory.md)
 - Nomistrav: [Rotten Curiosity](../authors/nomistrav.md/rottencuriosity.md)
-- Mundi Kundoni: [Biomass 2 - Revelations](../authors/miscauthors/biomass2.md)
+- Mundi Kundoni: [Biomass 2 - Revelations](../authors/mundikundoni/biomass2.md)
 - Rob Kaichin: [In Amber Clad](../authors/robkaichin/inamberclad.md)
 
 ## A Day in the Life (Gameplay-based/freeform)
