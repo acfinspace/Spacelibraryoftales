@@ -51,7 +51,7 @@ To do:
  - [ ] Properly tag all the written pieces (on many I put only a few standard tags such as author, contest and prose/poetry)
  - [ ] Hunt for missing pieces with Time machines and the like
  - [ ] Add contests
-    - [ ] Pod & Planet 2012
+    - [x] Pod & Planet 2012
     - [x] Pod & Planet 2013
     - [x] Pod & Planet 2014
     - [x] Pod & Planet 2015

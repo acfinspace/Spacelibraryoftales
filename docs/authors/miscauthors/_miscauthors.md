@@ -80,6 +80,10 @@ A page colelcting all authors with just one piece in the library.
 
 - [An Alternate View](./analternateview.md) (2012)
 
+## Ashlief
+
+- [Ride of Valkyries](./rideofvalkyries.md) (2012)
+
 ## Athrelon
 
 - [An Image of God](./animageofgod.md) (2014)
@@ -87,10 +91,6 @@ A page colelcting all authors with just one piece in the library.
 ## aul Elsyn / Paul Naughton
 
 - [Hope](./aulelsyn_hope.md) (2014)
-
-## Aurelie Thalys
-
-- [Entangled](./entangled.md) (2012)
 
 ## Ayana Naito
 
@@ -200,6 +200,10 @@ A page colelcting all authors with just one piece in the library.
 
 - [The Box Star Colony](./theboxstarcolony.md) (2018)
 
+## Dread Pirate Rodgers
+
+- [A Day in the Life of Dread Pirate Rodgers](./adayinthelifeofdreadpiraterodgers.md) (2012)
+
 ## Dreygun
 
 - [Echoes of Origin](./echoesoforigin.md) (2014)
@@ -252,6 +256,10 @@ A page colelcting all authors with just one piece in the library.
 
 - [Capsuleer's blues](./capsuleersblues.md) (2015)
 
+## Errubus
+
+- [The Turning of Dormas](./theturningofdormas.md) (2012)
+
 ## Erylis Aphelyon
 
 - [a tale of one cyno or two](./ataleofonecynoortwo.md) (2015)
@@ -263,6 +271,10 @@ A page colelcting all authors with just one piece in the library.
 ## Evelyn Arnoux
 
 - [Ashes to Ascendance](./ashestoascendance.md) (2022)
+
+## Evelyn Meiyi
+
+- [The Day the Gods Came](./thedaythegodscame.md) (2012)
 
 ## Evepandora
 
@@ -360,9 +372,17 @@ A page colelcting all authors with just one piece in the library.
 
 - [Cloaking Behind Enemy Lines](./cloakingbehindenemylines.md) (2012)
 
+## Jaenen
+
+- [Just Business](./justbusiness.md) (2012)
+
 ## Jilthda Mieyli
 
 - [Dancing to Scripture](./dancingtoscripture.md) (2012)
+
+## Jin alPatar
+
+- [Stranger in a Strange Body](./strangerinastrangebody.md) (2012)
 
 ## John Frek
 
@@ -383,10 +403,6 @@ A page colelcting all authors with just one piece in the library.
 ## joomla alacard
 
 - [January Thaw](./januarythaw.md) (2014)
-
-## Joseph Dreadloch
-
-- [Blood in the Dark](./bloodinthedark.md) (2012)
 
 ## Judas II
 
@@ -488,6 +504,10 @@ A page colelcting all authors with just one piece in the library.
 
 - [Retrospect](./retrospect.md) (2022)
 
+## Meryl SinGarda
+
+- [Suicidal Tendencies](./suicidaltendencies.md) (2012)
+
 ## Michael Turate
 
 - [The White Handled Knife](./thewhitehandledknife.md) (2013)
@@ -499,6 +519,10 @@ A page colelcting all authors with just one piece in the library.
 ## MidnightWyvern
 
 - [Merciful](./merciful.md) (2012)
+
+## Mike Azariah
+
+- [Learning](./learning.md) (2012)
 
 ## Mizhara Del’Thul
 
@@ -520,10 +544,6 @@ A page colelcting all authors with just one piece in the library.
 
 - [True Citizen](./truecitizen.md) (2012)
 
-## Necromateur Gay
-
-- [Operation Yomir: The Journal](./operationyomirthejournal.md) (2012)
-
 ## NecroWidow
 
 - [The Condemned](./thecondemned.md) (2012)
@@ -540,6 +560,10 @@ A page colelcting all authors with just one piece in the library.
 ## Nivin Sajjad
 
 - [The Party of a Lifetime](./thepartyofalifetime.md) (2014)
+
+## Nuala Reece
+
+- [Location, Location, Location](./locationlocationlocation.md) (2012)
 
 ## Octantia Dadarwar
 
@@ -577,6 +601,10 @@ A page colelcting all authors with just one piece in the library.
 
 - [A Dusty Future](./adustyfuture.md) (2013)
 
+## Qec
+
+- [There is No Place Like Home](./thereisnoplacelikehome.md) (2012)
+
 ## Rachel Syne
 
 - [The scary life of a newbie trader: a tale of epic greed stupidity and bravery](./thescarylifeofanewbietrader.md) (2018)
@@ -611,6 +639,7 @@ A page colelcting all authors with just one piece in the library.
 
 ## Rogue Lawyer
 
+- [The Past, Present and Future](./thepastpresentandfuture.md) (2012)
 - [The Beckoning of a New Age](./thebeckoningofanewage.md) (2013)
 
 ## Rusty Boon
@@ -632,6 +661,10 @@ A page colelcting all authors with just one piece in the library.
 ## Salie Gaterau / Gabriel Cassata
 
 - [We All Fall Down](./weallfalldown.md) (2014)
+
+## Samued Ryan
+
+- [Emperor's Vision](./emperorsvision.md) (2012)
 
 ## Saul Elsyn
 
@@ -664,6 +697,14 @@ A page colelcting all authors with just one piece in the library.
 ## Shei Bushaava
 
 - [Skies Painted with Unnumbered Sparks](./skiespaintedwithunnumberedsparks.md) (2014)
+
+## Si Karde
+
+- [The Path of the Righteous](./thepathoftherighteous.md) (2012)
+
+## Skitterball
+
+- [Miners Trap](./minersblues.md) (2012)
 
 ## Sophia Jackson
 
@@ -722,9 +763,17 @@ A page colelcting all authors with just one piece in the library.
 
 - [Logistics](./toshikoni_logisitics.md) (2013)
 
+## Touval Lysander
+
+- [You don't know me](./youdontknowme.md) (2012)
+
 ## Tsao Aubbes
 
 - [A Good Kind of Awkward](./agoodkingofawkard.md) (2017)
+
+## Tsavu Irika
+
+- [Making a Comeback](./makingacomeback.md) (2012)
 
 ## Tsuneshi Ryuzouji
 
@@ -749,6 +798,10 @@ A page colelcting all authors with just one piece in the library.
 ## Viceorvirtue
 
 - [The Dance](../direnecessity/thedance.md) (2015)
+
+## Vipieris
+
+- [EVE - Contested Treasures](./eve-contestedtreasures.md) (2012)
 
 ## Vulxanis Viceroy
 

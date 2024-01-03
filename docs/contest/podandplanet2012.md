@@ -15,7 +15,7 @@ Original website: [Pod and Planet 2012 reading bank](https://podandplanetentries
     - [The Truth Shall Set You Free](../authors/madoucdgamdis/thetruthshallsetyoufree.md)
 - J. D. Miller/Galaxy Pig: [Cloaking Behind Enemy Lines](../authors/miscauthors/cloakingbehindenemylines.md)
 - E. Morley/Mars Theran: [White Star](../authors/miscauthors/whitestar.md)
-- Aurelie Thalys: [Entangled](../authors/miscauthors/entangled.md)
+- Aurelie Thalys: [Entangled](../authors/aureliethalys/entangled.md)
 - Saul Elsyn: [Graduation](../authors/miscauthors/saulelsyn_graduation.md)
 - Dys Novus: [For Absent Friends](../authors/miscauthors/forabsentfriends.md) (3rd Prize)
 - Natassia Krasnoo:
@@ -50,13 +50,13 @@ Original website: [Pod and Planet 2012 reading bank](https://podandplanetentries
     - [Until Next Time](../authors/faulx/untilnexttime.md)
 - Nivavask: [Destruction of Rilnais](../authors/ninavask/destructionofrilnais.md)
 - Nathaniel Schereau: [True Citizen](../authors/miscauthors/truecitizen.md)
-- Joseph Dreadloch: [Blood in the Dark](../authors/miscauthors/bloodinthedark.md)
+- Joseph Dreadloch: [Blood in the Dark](../authors/josephdreadloch/bloodinthedark.md)
 - Serra Shaadow: [Override Transfer Array](../authors/miscauthors/overridetransferarray.md) (Honorable Mention)
 - Jilthda Mieyli: [Dancing to Scripture](../authors/miscauthors/dancingtoscripture.md)
 - Eugen Tenpenny: [A day to die, a day to be born](../authors/miscauthors/adaytodieadaytobeborn.md)
 - Myrhial Arkenath: [Escalation](../authors/miscauthors/escalation.md)
 - Ugleb: [We are waiting for you](../authors/miscauthors/wearewaitingforyou.md)
-- Necromateur Gay: [Operation Yomir: The Journal](../authors/miscauthors/operationyomirthejournal.md)
+- Necromateur Gay: [Operation Yomir: The Journal](../authors/necromateurgay/operationyomirthejournal.md)
 - Kalator Cromwaal: [The heist](../authors/miscauthors/theheist.md)
 - Nomistrav: [Rumor Zero](../authors/nomistrav.md/rumorzero.md) (3rd Prize)
 - Callista Dalmore: [Worlders](../authors/callistadallmore/worlders.md)
@@ -83,13 +83,13 @@ Original website: [Pod and Planet 2012 reading bank](https://podandplanetentries
 
 ## A Day in the Life (Gameplay-based/freeform)
 
-- Evelyn Meiyi: [The Day the Gods Came]
-- Skitterball: [Miners Trap]
-- Samued Ryan: [Emperor's Vision]
+- Evelyn Meiyi: [The Day the Gods Came](../authors/miscauthors/thedaythegodscame.md)
+- Skitterball: [Miners Trap](../authors/miscauthors/minersblues.md)
+- Samued Ryan: [Emperor's Vision](../authors/miscauthors/emperorsvision.md)
 - Jack Carrigan: [A Day in the Life](../authors/jackcarrigan/adayinthelife.md)
-- Touval Lysander: [You don't know me]
-- Dread Pirate Rodgers: [A Day in the Life of Dread Pirate Rodgers]
-- DireNecessity: [DireNecessity Teaches Class] (2nd Prize)
+- Touval Lysander: [You don't know me](../authors/miscauthors/youdontknowme.md)
+- Dread Pirate Rodgers: [A Day in the Life of Dread Pirate Rodgers](../authors/miscauthors/adayinthelifeofdreadpiraterodgers.md)
+- DireNecessity: [DireNecessity Teaches Class](../authors/direnecessity/direnecessityteachesclass.md) (2nd Prize)
 - Sugar Kyle:
     - [Ill Gained Goods](../authors/sugarkyle/illgainedgoods.md) (2nd Prize)
     - [The Path Divides](../authors/sugarkyle/thepathdivides.md)
@@ -98,34 +98,34 @@ Original website: [Pod and Planet 2012 reading bank](https://podandplanetentries
     - [Jita](../authors/sugarkyle/jita.md)
     - [The Cog's Pieces](../authors/sugarkyle/thecogspieces.md)
 - Darth Skorpius: [Vacation](../authors/darthskorpius/vacation.md)
-- Qec: [There is No Place Like Home]
-- Meryl SinGarda: [Suicidal Tendencies]
-- Tsavu Irika: [Making a Comeback]
+- Qec: [There is No Place Like Home](../authors/miscauthors/thereisnoplacelikehome.md)
+- Meryl SinGarda: [Suicidal Tendencies](../authors/miscauthors/suicidaltendencies.md)
+- Tsavu Irika: [Making a Comeback](../authors/miscauthors/makingacomeback.md)
 - Evil Incarn8: [Running for the Border]
 - Rhavas: [Escalation](../authors/rhavas/escalation.md) (1st Prize)
 - Arkea Jindoi: [Anchor](../authors/arkeajindoi/anchor.md)
-- Random McNally: [Omega Challenge]
-- Si Karde: The Path of the Righteous
-- Mike Azariah: Learning
+- Random McNally: [Omega Challenge](../authors/randommcnally/omegachallenge.md)
+- Si Karde: [The Path of the Righteous](../authors/miscauthors/thepathoftherighteous.md)
+- Mike Azariah: [Learning](../authors/miscauthors/learning.md)
 - Penny Ibramovic: [Predator and Prey](../authors/pennyibramovic/predatorandprey.md)
-- Ashlief: Ride of Valkyries
-- Vipieris: EVE - Contested Treasures (3rd Prize)
-- Kyle Yanowski: A Game of Fedo (3rd Prize)
-- Aurelie Thalys: Leaving Home
-- Jin alPatar: Stranger in a Strange Body
-- Faulx: Arek’Jaalan Museum
+- Ashlief: [Ride of Valkyries](../authors/miscauthors/rideofvalkyries.md)
+- Vipieris: [EVE - Contested Treasures](../authors/miscauthors/eve-contestedtreasures.md) (3rd Prize)
+- Kyle Yanowski: [A Game of Fedo](../authors/kyleyanowski/agameoffedo.md) (3rd Prize)
+- Aurelie Thalys: [Leaving Home](../authors/aureliethalys/leavinghome.md)
+- Jin alPatar: [Stranger in a Strange Body](../authors/miscauthors/strangerinastrangebody.md)
+- Faulx: [Arek’Jaalan Museum](../authors/faulx/arekjaalanmuseum.md)
 - Callista Dalmore: [The Trial](../authors/callistadallmore/thetrial.md)
-- Joseph Dreadloch: EVE Online, Crime Simulator
-- Necromateur Gay: Damn You, Auto-pilot
-- Errubus: The Turning of Dormas
-- Rogue Lawyer: The Past, Present and Future
+- Joseph Dreadloch: [EVE Online, Crime Simulator](../authors/josephdreadloch/eveonlinecrimesimulator.md)
+- Necromateur Gay: [Damn You, Auto-pilot](../authors/necromateurgay/damnyouauto-pilot.md)
+- Errubus: [The Turning of Dormas](../authors/miscauthors/theturningofdormas.md)
+- Rogue Lawyer: [The Past, Present and Future](../authors/miscauthors/thepastpresentandfuture.md)
 
 ## Entries not elegible for prizes
 
 - Dryson: [Harvestor of Souls](../authors/miscauthors/theharvestorofsouls.md)
 - Rhavas: [Shattered](../authors/rhavas/shattered.md)
-- Jaenen: Just Business
-- Nuala Reece: Location, Location, Location
+- Jaenen: [Just Business](../authors/miscauthors/justbusiness.md)
+- Nuala Reece: [Location, Location, Location](../authors/miscauthors/locationlocationlocation.md)
 - Epigene: 8 chapters of EVE fiction
 - a newbie: Darkness
 - Aurelie Thalys: Emergent Patroller stories (19 of them to date)
