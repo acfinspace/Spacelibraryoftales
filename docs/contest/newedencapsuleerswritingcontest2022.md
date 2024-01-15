@@ -29,7 +29,7 @@ if people have any questions or need rulings, I am the contest administrator and
 
 ((OOC note - no plagarism! it is requested that the work be “original” to the player entering and not copied from another author.))
 
-## Entris
+## Entries
 
 ### Poetry:
 

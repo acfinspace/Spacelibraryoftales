@@ -28,7 +28,7 @@ Original website: [https://alexylva.webnode.page/atyh-entries/](https://alexylva
 
 - Erutor: [Saints We Should Remember - Saint Vilantane](../authors/erutor/saintsweshouldremember.md)
 - Korsavius: [C'est La Vie, Amore](../authors/korsavius/cestlavieamore.md)
-- Garion Avarr: [Three Dances](../authors/miscauthors/threedances.md)
+- Garion Avarr: [Three Dances](../authors/garionavarr/threedances.md)
 - Alawa Patrouette: [Valor](../authors/miscauthors/valor.md)
 - Tsao Aubbes: [A Good Kind of Awkward](../authors/miscauthors/agoodkingofawkard.md)
 - Elinari Rhodan: [Phantom Sound](../authors/miscauthors/phantomsound.md)

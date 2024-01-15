@@ -126,7 +126,7 @@ Original website: [Pod and Planet 2012 reading bank](https://podandplanetentries
 - Rhavas: [Shattered](../authors/rhavas/shattered.md)
 - Jaenen: [Just Business](../authors/miscauthors/justbusiness.md)
 - Nuala Reece: [Location, Location, Location](../authors/miscauthors/locationlocationlocation.md)
-- Epigene: 8 chapters of EVE fiction
+- Epigene: [8 chapters of EVE fiction](../authors/epigene/redemption.md)
 - a newbie: Darkness
 - Aurelie Thalys: Emergent Patroller stories (19 of them to date)
 - Pelleks: Hair' works (8 to date)

@@ -10,7 +10,7 @@ tags:
 - Aenea Maim: [Low Power](../authors/miscauthors/lowpower.md)
 - Donkyhotay: [The Box Star Colony](../authors/miscauthors/theboxstarcolony.md)
 - Jack Carrigan: [Blood and Deathglow]()
-- Epigene: [Love](../authors/miscauthors/epigene_love.md)
+- Epigene: [Love](../authors/epigene/epigene_love.md)
 - Elisa Kose: [Star of Blood](../authors/miscauthors/starofblood.md)
 - Samtin Rewn:
     - [Fall and Rise](../authors/daielzehn/fallandrise.md)

@@ -7,6 +7,13 @@ tags:
 
 A page colelcting all authors with just one piece in the library.
 
+## 4e6f74206964656e 746966696564
+
+- [Restless Sleepers](./restlesssleepers.md) (2020)
+
+## Admiral Rodj Blake
+
+- [It was Fifteen Years Ago Today](./itwasfifteenyearsagotoday.md) (2018)
 
 ## Aenea Maim
 
@@ -15,6 +22,10 @@ A page colelcting all authors with just one piece in the library.
 ## Aillel
 
 - [The Job Posting](./thejobposting.md) (2017)
+
+## Ailo Koskinen
+
+- [A Raata Dawn](./araatadawn.md) (2018)
 
 ## AlacrityFitz
 
@@ -248,10 +259,6 @@ A page colelcting all authors with just one piece in the library.
 
 - [White Star](./whitestar.md) (2012)
 
-## Epigene
-
-- [Love](./epigene_love.md) (2018)
-
 ## Eridan
 
 - [Capsuleer's blues](./capsuleersblues.md) (2015)
@@ -295,10 +302,6 @@ A page colelcting all authors with just one piece in the library.
 ## Freyja Bearclaw
 
 - [The Lord of the Wings or: How to Choose a Really Bad Title, Chapter 1: Unforeseen Consequences](./thelordofthewingsorhowtochooseabadtitle.md) (2013)
-
-## Garion Avarr
-
-- [Three Dances](./threedances.md) (2017)
 
 ## Gavin Lok’ri
 
@@ -412,9 +415,17 @@ A page colelcting all authors with just one piece in the library.
 
 - [7 Friends in Space](./kagakukei_7friendsinspace.md) (2013)
 
+## Kalaratiri
+
+- [Our Curse](./ourcurse.md) (2018)
+
 ## Kalator Cromwaal
 
 - [The heist](./theheist.md) (2012)
+
+## Karene Avarr
+
+- [The Forgotten Place](.theforgottenplace.md) (2018)
 
 ## Keilidh
 
@@ -475,6 +486,10 @@ A page colelcting all authors with just one piece in the library.
 ## Lunarisse Aspenstar
 
 - [A Love Story In Five Drabbles](./alovestoryinfivedrabbles.md) (2017)
+
+## Lursan Ayin
+
+- [Cataclysm, a vision of the future](./cataclysmavisionofthefuture.md) (2018)
 
 ## Lynx Artrald
 
@@ -749,6 +764,10 @@ A page colelcting all authors with just one piece in the library.
 ## The Record Keeper
 
 - [Scotty](./scotty.md) (2017)
+
+## Thulla Icin
+
+- [Upon the sea](./uponthesea.md) (2018)
 
 ## Tiberius StarGazer
 
