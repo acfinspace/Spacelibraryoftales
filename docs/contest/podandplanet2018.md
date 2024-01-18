@@ -8,7 +8,7 @@ tags:
 ## Eight Thousand Suns in New Eden (New Eden lore-based)
 
 - Aenea Maim: [Low Power](../authors/miscauthors/lowpower.md)
-- Donkyhotay: [The Box Star Colony](../authors/miscauthors/theboxstarcolony.md)
+- Donkyhotay: [The Box Star Colony](../authors/donkyhotay/theboxstarcolony.md)
 - Jack Carrigan: [Blood and Deathglow]()
 - Epigene: [Love](../authors/epigene/epigene_love.md)
 - Elisa Kose: [Star of Blood](../authors/miscauthors/starofblood.md)

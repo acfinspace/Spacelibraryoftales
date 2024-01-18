@@ -51,36 +51,36 @@ Directrix Societas Sceptri Coronaeque
 
 ### Poetry
 
-- Lursan Ayin: [Cataclysm, a vision of the future](../authors/miscauthors/cataclysmavisionofthefuture.md)
-- Lasairiona Raske: [Corvus](../authors/lasairionaraske/corvus.md)
-- Ailo Koskinen: [A Raata Dawn](../authors/miscauthors/araatadawn.md)
-- Admiral Rodj Blake: [It was Fifteen Years Ago Today](../authors/miscauthors/itwasfifteenyearsagotoday.md)
-- Karene Avarr: [The Forgotten Place](../authors/miscauthors/theforgottenplace.md)
-- Garion Avarr: [God's Glory](../authors/garionavarr/godsglory.md)
-- Thulla Icin: [Upon the sea](../authors/miscauthors/uponthesea.md)
+- Lursan Ayin: [Cataclysm, a vision of the future](../authors/miscauthors/cataclysmavisionofthefuture.md) (2nd Prize)
+- Lasairiona Raske: [Corvus](../authors/lasairionaraske/corvus.md) (Honorable Mention)
+- Ailo Koskinen: [A Raata Dawn](../authors/miscauthors/araatadawn.md) (4th Prize)
+- Admiral Rodj Blake: [It was Fifteen Years Ago Today](../authors/miscauthors/itwasfifteenyearsagotoday.md) (Organizer’s Prize)
+- Karene Avarr: [The Forgotten Place](../authors/miscauthors/theforgottenplace.md) (1st Prize)
+- Garion Avarr: [God's Glory](../authors/garionavarr/godsglory.md) (3rd Prize)
+- Thulla Icin: [Upon the sea](../authors/miscauthors/uponthesea.md) (Honorable Mention)
 
 ### Prose
 
-- Ninavask: [Abandoned](../authors/ninavask/abandoned.md)
+- Ninavask: [Abandoned](../authors/ninavask/abandoned.md) (1st Prize)
 - Miyoshi Akachi: [Transcript Id: 17342](../authors/miyoshiakachi/transcriptid17342.md)
-- Kalaratiri: [Our Curse](../authors/miscauthors/ourcurse.md)
+- Kalaratiri: [Our Curse](../authors/miscauthors/ourcurse.md) (Honorable Mention)
 - Ravana 729:
-    - [Ravana 729's Story I Stray Cat](../authors/ravana729/ravana729storyItoIII.md#i-stray-cat)
-    - [Ravana 729's Story II The Dark Amarr](../authors/ravana729/ravana729storyItoIII.md#ii-the-dark-amarr)
-    - [Ravana 729's Story III The Avenging Angel](../authors/ravana729/ravana729storyItoIII.md#iii-the-avenging-angel)
-- Lynn Yi: [YC 120 New Eden Capsuleer’s Writing Contest] Book of Todram by Sebiestor Lynn Yi
-- Weils Kingdom: “Collisions” - https://cynal.blogspot.com/2018/05/collisions.html
-- Cecilie Vale: “Revelations” - [YC 120 New Eden Capsuleer’s Writing Contest] Revelations
-- Mizhara Del’Thul: https://kynaldrnari.com/2018/05/31/thoughts-on-futility/
-- Mika Firestorm: Helen - [YC120 New Eden Capsuleer’s Writing Contest]
+    - [Ravana 729's Story I Stray Cat](../authors/ravana729/ravana729storyItoIII.md#i-stray-cat) (Honorable Mention)
+    - [Ravana 729's Story II The Dark Amarr](../authors/ravana729/ravana729storyItoIII.md#ii-the-dark-amarr) (Honorable Mention)
+    - [Ravana 729's Story III The Avenging Angel](../authors/ravana729/ravana729storyItoIII.md#iii-the-avenging-angel) (Honorable Mention)
+- Lynn Yi: [Book of Todram by Sebiestor Lynn Yi](../authors/miscauthors/bookoftodrambysebiestorlynnui.md) (Honorable Mention)
+- Weils Kingdom: [Collisions](../authors/miscauthors/collisions.md) (4th Prize, Organizer’s Prize)
+- Cecilie Vale: [Revelations](../authors/cecilievale/cecilievale_revelations.md) (3rd Prize)
+- Mizhara Del’Thul: [Thoughts on Futility](../authors/mizharadelthul/thoughtsonfutility.md) (Organizer’s Prize)
+- Mika Firestorm: [Helen](../authors/miscauthors/helen.md) (2nd Prize)
 
 ### Academic/News
 
-- Miyoshi Akachi: [Origin Story 1 - 5](../authors/miyoshiakachi/originstory.md)
-- Izi Ningishzidda: https://ningishzidda.deviantart.com/art/Athra-Girl-Magazine-732041883
-- Oliver Aurelius: New Eden system general research proposal with special emphasis on the EVE Gate
-- Umbre Fallenstar: A study about gravitational waves, effects and applications
-- Ibrahim Tash Murkon: Trends in Empyrean Manufacturing
-- Donkyhotay: Gallente Gossip broadcast - 03/30/2018
-- Ku Mayaseki: Insights Into Biotechnology: Transthymic Microcontrollers
-- Mantelglobalindustries: http://backstage.eve-inspiracy.com/index.php?topic=7477.0
+- Miyoshi Akachi: [Origin Story 1 - 5](../authors/miyoshiakachi/originstory.md) (Honorable Mention)
+- Izi Ningishzidda: [Athra Girl Magazine](../authors/miscauthors/athragirlmagazine.md) (4th Prize)
+- Oliver Aurelius: [New Eden system general research proposal with special emphasis on the EVE Gate](../authors/miscauthors/newedensystemgeneralresearchproposal.md)
+- Umbre Fallenstar: [A study about gravitational waves, effects and applications](../authors/miscauthors/astudyaboutgravitationalwaves.md) (Honorable Mention)
+- Ibrahim Tash Murkon: [Trends in Empyrean Manufacturing](../authors/miscauthors/Trends%20in%20Empyrean%20Manufacturing.pdf) (1st Prize)
+- Donkyhotay: [Gallente Gossip broadcast - 03/30/2018](../authors/donkyhotay/gallentegossipbroadcast03302018.md) (Honorable Mention)
+- Ku Mayaseki: [Insights Into Biotechnology: Transthymic Microcontrollers](../authors/miscauthors/insightintobiotechnologytransthymicmicrocontrollers.md) (3rd Prize)
+- Mantelglobalindustries: [A New Decade: A Security Assessment of New Eden YC120](../authors/miscauthors/anewdecadeasecurityassessmentofnewedenyc120.md) (2nd Prize)

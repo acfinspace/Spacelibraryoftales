@@ -155,10 +155,6 @@ A page colelcting all authors with just one piece in the library.
 
 - [Interceptors Are Our Business And Business Is Good](./interceptorsareourbusinessandbusinessisgood.md) (2015)
 
-## Cecilie Vale
-
-- [A Poem](./cecilievale_apoem.md) (2021)
-
 ## chanman Yatolila
 
 - [new beginnings](./chanmanyatolila_newbeginnings.md) (2018)
@@ -206,10 +202,6 @@ A page colelcting all authors with just one piece in the library.
 ## DomanarK
 
 - [To be a thief](./tobeathief.md) (2013)
-
-## Donkyhotay
-
-- [The Box Star Colony](./theboxstarcolony.md) (2018)
 
 ## Dread Pirate Rodgers
 
@@ -343,6 +335,10 @@ A page colelcting all authors with just one piece in the library.
 
 - [Young Todo's Look](./youngtodoslook.md) (2012)
 
+## Ibrahim Tash Murkon
+
+- [Trends in Empyrean Manufacturing](./Trends%20in%20Empyrean%20Manufacturing.pdf) (2018)
+
 ## Ideki
 
 - [Immortal Warriors](./immortalwarriors.md) (2012)
@@ -366,6 +362,10 @@ A page colelcting all authors with just one piece in the library.
 ## Iscin
 
 - [Socialising](./iscin_socialising.md) (2012)
+
+## Izi Ningishzidda
+
+- [Athra Girl Magazine](./athragirlmagazine.md) (2018)
 
 ## Jacqui Atruin/Amy
 
@@ -447,6 +447,10 @@ A page colelcting all authors with just one piece in the library.
 
 - [Tabula rasa](./tabularasa.md) (2012)
 
+## Ku Mayaseki
+
+- [Insights Into Biotechnology: Transthymic Microcontrollers](./insightintobiotechnologytransthymicmicrocontrollers.md) (2018)
+
 ## Kyle Frost
 
 - [Smuggled Out](./smuggledout.md) (2012)
@@ -491,6 +495,10 @@ A page colelcting all authors with just one piece in the library.
 
 - [Cataclysm, a vision of the future](./cataclysmavisionofthefuture.md) (2018)
 
+## Lynn Yi
+
+- [Book of Todram by Sebiestor Lynn Yi](./bookoftodrambysebiestorlynnui.md) (2018)
+
 ## Lynx Artrald
 
 - [Whatsoever a Man Soweth](./whatsoeveramansoweth.md) (2014)
@@ -498,6 +506,10 @@ A page colelcting all authors with just one piece in the library.
 ## Makoto Priano
 
 - [Diamond](./diamond.md) (2013)
+
+## Mantelglobalindustries
+
+- [A New Decade: A Security Assessment of New Eden YC120](../authors/miscauthors/anewdecadeasecurityassessmentofnewedenyc120.md) (2018)
 
 ## Matteral
 
@@ -511,7 +523,7 @@ A page colelcting all authors with just one piece in the library.
 
 - [The Explorer](./theexplorer.md) (2012)
 
-##  Max Ouch
+## Max Ouch
 
 - [Red](./maxouch_red.md) (2018)
 
@@ -535,13 +547,13 @@ A page colelcting all authors with just one piece in the library.
 
 - [Merciful](./merciful.md) (2012)
 
+## Mika Firestorm
+
+- [Helen](./helen.md) (2018)
+
 ## Mike Azariah
 
 - [Learning](./learning.md) (2012)
-
-## Mizhara Del’Thul
-
-- [Walking in Myth](./walkinginmyth.md) (2020)
 
 ## Morgana Tsukiyo
 
@@ -583,6 +595,10 @@ A page colelcting all authors with just one piece in the library.
 ## Octantia Dadarwar
 
 - [Custody Battle](../nauplius/custodybattle.md) (with Nauplius) (2022)
+
+## Oliver Aurelius
+
+- [New Eden system general research proposal with special emphasis on the EVE Gate](./newedensystemgeneralresearchproposal.md) (2018)
 
 ## Ormond Lycurgus
 
@@ -802,6 +818,10 @@ A page colelcting all authors with just one piece in the library.
 
 - [We are waiting for you](./wearewaitingforyou.md) (2012)
 
+## Umbre Fallenstar
+
+- [A study about gravitational waves, effects and applications](./astudyaboutgravitationalwaves.md) (2018)
+
 ## Uriel Paradisi Anteovnuecci
 
 - [The Giant]() (2014)
@@ -829,6 +849,10 @@ A page colelcting all authors with just one piece in the library.
 ## wallel Audeles
 
 - [Memoirs of a Capsuleer: wallel Audeles: Splintered Soul](./memoirsofacapsuleerwallelaudelessplinteredsoul.md)
+
+## Weils Kingdom
+
+- [Collisions](./collisions.md) (2018)
 
 ## Yarrion Yuwen / Grey Y
 

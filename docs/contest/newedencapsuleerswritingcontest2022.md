@@ -66,7 +66,7 @@ if people have any questions or need rulings, I am the contest administrator and
 - Duke Shasta: [The Blood of Gladiators](../authors/miscauthors/thebloodofgladiators.md) (Honorable Mention, Organizer’s Prize)
 - Brisc Rubal: [Short Skirt, Long Jacket](../authors/miscauthors/shortskirtlongjacket.md) (Honorable Mention)
 - Tamara Zalair: [The Messenger](../authors/tamarazalair/themessenger.md)
-- Mizhara Del’Thul: [Walking in Myth](../authors/miscauthors/walkinginmyth.md) ( Audit Entry)
+- Mizhara Del’Thul: [Walking in Myth](../authors/mizharadelthul/walkinginmyth.md) ( Audit Entry)
 - Daiko Kobayashi: [Jin Mei Leaving Home](../authors/miscauthors/jinmeileavinghome.md) (Honorable Mention)
 - Aria Jenneth: [One True Law](../authors/miscauthors/onetruelaw.md)
 - Corix: [Rainfall](../authors/miscauthors/rainfall.md) (Honorable Mention)

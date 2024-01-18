@@ -27,5 +27,5 @@ The entries shall be no longer than 1000 words, there is no minimal length.
     - [Haiku's style poetry](../authors/miyoshiakachi/haikusstylepoetry.md)
 - Michifusa Nishouji: [Victory](../authors/miscauthors/victory.md) (1st Place)
 - Zahra Sarain: [Sunset on the Shiigeru](../authors/miscauthors/sunsetontheshiigeru.md) (2st Place)
-- Cecilie Vale: [A Poem](../authors/miscauthors/cecilievale_apoem.md) (3st Place)
+- Cecilie Vale: [A Poem](../authors/cecilievale/cecilievale_apoem.md) (3st Place)
 - Morgana Tsukiyo: [A Poem](../authors/miscauthors/morganatsukiyo_apoem.md)
