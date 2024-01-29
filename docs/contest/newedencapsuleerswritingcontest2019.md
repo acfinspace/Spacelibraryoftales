@@ -58,30 +58,30 @@ Executrix Khimi Harar
 
 ### Poetry
 
-- Cilisa Lugara: Every single in God’s Light
-- Ravermile: Here in Eve I’ve traveled near and far
-- Kyle Saltz: Assorted Poems
-- Valdezi: Four Love Poems (Honorable Mention)
-- Lynn Yi: The Harpy Sings (3rd Prize)
-- Creetalor: Rememberance (4th Prize)
-- Constantin Baracca: The Embrace of Arms
-- Kithrus: Turn Home
-- Elassus Herron: Nine Lyrics of Hirvomiakken (1st Prize)
-- Charles Surge: To Recover (Honorable Mention)
-- Che Biko: The Winter of Origin
-- Charles Cambridge Schmidt: A Really Long Title - See Post (2nd Prize)
+- Cilisa Lugara: [Every single in God’s Light](../authors/miscauthors/everysingleingodslight.md)
+- Ravermile: [Here in Eve I’ve traveled near and far](../authors/miscauthors/hereineveivetravelednearandfar.md)
+- Kyle Saltz: [Assorted Poems](../authors/kylesaltz/assortedpoems.md)
+- Valdezi: [Four Love Poems](../authors/valdezi/fourlovepoems.md) (Honorable Mention)
+- Lynn Yi: [The Harpy Sings](../authors/lynnyi/theharpysings.md) (3rd Prize)
+- Creetalor: [Rememberance](../authors/miscauthors/rememberance.md) (4th Prize)
+- Constantin Baracca: [The Embrace of Arms](../authors/miscauthors/theembraceofarms.md)
+- Kithrus: [Turn Home](../authors/miscauthors/turnhome.md)
+- Elassus Herron: [Nine Lyrics of Hirvomiakken](../authors/elassusherron/ninelyricsofhirvomiakken.md) (1st Prize)
+- Charles Surge: [To Recover](../authors/miscauthors/torecover.md) (Honorable Mention)
+- Che Biko: [The Winter of Origin](../authors/chebiko/thewinteroforigin.md)
+- Charles Cambridge Schmidt: [A Really Long Title - See Post](../authors/charlescambridgeschmidt/areallylongtitle.md) (2nd Prize)
 
 ### Prose
 
-- Kyle Saltz: Interrogation of a Paladin
-- Havohej: Voices in the Dark (Honorable Mention)
+- Kyle Saltz: [Interrogation of a Paladin](../authors/kylesaltz/interrogationofapaladin.md)
+- Havohej: [Voices in the Dark]() (Honorable Mention)
 - Vaari: Cleansing of Providence (Honorable Mention)
 - Quedragan en Gravonere: The Least interesting Man in the World
 - Miyoshi Akachi: [Anonymous End](../authors/miyoshiakachi/anonymousend.md)
 - Lynn Yi:
-    - An Uncharted Abyss - Part One (Honorable Mention)
-    - An Uncharted Abyss - Part Two (Honorable Mention)
-- Lynn Yi: The Book of Todram
+    - [An Uncharted Abyss - Part One](../authors/lynnyi/anunchartedabyss.md#part-one) (Honorable Mention)
+    - [An Uncharted Abyss - Part Two](../authors/lynnyi/anunchartedabyss.md#part-two) (Honorable Mention)
+    - [The Book of Todram](../authors/lynnyi/thebookoftodram.md) (Honorable Mention)
 - Rue: Crimson Birth (Honorable Mention)
 - Elias enDiabel: The Story
 - Tanagura Amoii: The Dragon of Hei Shi-an (3rd Prize)
@@ -93,24 +93,25 @@ Executrix Khimi Harar
 - Loai Qerl: Kingdom’s Just Desserts (Not eligible for primary Prize, Organizer’s Prize)
 - Thomas Markand: What Serpents Would Call This Paradise (4th Prize)
 - Auriga Menkalinan: Clay Maiden (2nd Prize)
-- Ninavask: Keitgas Station (Honorable Mention)
+- Ninavask:[Keitgas Station](../authors/ninavask/keitgasstation.md) (Honorable Mention)
 
 ### Academic/Scientific/News
 
-- Valdezi: Match Report - Syndicate Kendu League (Agoze Rules) Men’s B Grade Grand Final 25.2.121")
+- Valdezi:
+    - [Malkalen Address](../authors/valdezi/malkalenaddress.md) (1st Prize)
+    - [Match Report - Syndicate Kendu League (Agoze Rules) Men’s B Grade Grand Final 25.2.121](../authors/valdezi/matchreport252121.md) (Honorable Mention)
 - Auriga Menkalinan:
-    - Scandal at Syndicate’s Kendu Showdown!
-    - Make ours a Henry’s!
-- Mantelglobalindustries: Itamo Naval Rum
-- Bakul en Divalone: SEE THE INTAKI HOMEWORLD
-- Mantelglobalindustries and HC Androidson: An Astrogeological Survey
+    - Scandal at Syndicate’s Kendu Showdown! (2nd Prize)
+    - Make ours a Henry’s! (4th Prize)
+- Mantelglobalindustries: Itamo Naval Rum (Honorable Mention)
+- Bakul en Divalone: SEE THE INTAKI HOMEWORLD (Honorable Mention)
+- Mantelglobalindustries and HC Androidson: An Astrogeological Survey (Honorable Mention)
 - Kalodote Lafisques: Project “Alexandria”
-- Sky Seolec: Early-Life Traumatic Experience As a Predictor of Capsule Compatibility
-- Valdezi: Malkalen Address
-- Taora Teonsur: Gelfiven News Network Collection
-- Jorianna Gallaire - “See and Hear” Magazine Article
-- Valerie Valate - The use of cyborg constructs as religious enforcers…
-- Ninavask - VaskTech Indigo’s Fall After Action Report
-- Koren Akko -I-RCN Collection - YC 121 Articles in Thread
-- Diana Kim - The Rise and Fall of Caldari Providence Directorate
-- Roirdan Bouche - OGS Facility Guides
+- Sky Seolec: Early-Life Traumatic Experience As a Predictor of Capsule Compatibility (Organizer’s Prize) (Honorable Mention)
+- Taora Teonsur: Gelfiven News Network Collection (3rd Prize)
+- Jorianna Gallaire: “See and Hear” Magazine Article
+- Valerie Valate: The use of cyborg constructs as religious enforcers… (Honorable Mention)
+- Ninavask: [VaskTech Indigo’s Fall After Action Report](../authors/ninavask/vasktechindigosfallafteractionreport.md) (Honorable Mention)
+- Koren Akko: I-RCN Collection - YC 121 Articles in Thread (Honorable Mention)
+- Diana Kim: The Rise and Fall of Caldari Providence Directorate (Honorable Mention)
+- Roirdan Bouche: OGS Facility Guides (Honorable Mention)

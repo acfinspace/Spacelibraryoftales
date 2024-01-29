@@ -3,7 +3,7 @@ tags:
   - Contest
 ---
 
-# YC121 New Eden Capsuleers Writing Contest (2020)
+# YC122 New Eden Capsuleers Writing Contest (2020)
 
 In light of the successful contest the last six years I am pleased to announce the SEVENTH (yay!) year for a writing contest for stories or poems by or about Capsuleers/Baseliners and their worlds and cultures.
 
@@ -82,16 +82,16 @@ Co-Executrix Khimi Harar
 ### Academic/News
 
 - Auriga Menkalinan:
-    - [YC 122 NEWCWC] Khushka Cartel compendium (not eligible for a prize)
+    - [YC 122 NEWCWC] Khushka Cartel compendium
     - Knives Out On The Frontier Part I 2 and Knives Out On The Frontier - Part II
 - Kaladote Lafisques: Project 'Alexandria"
-- Nolcond v’Arxis: The Importance of Gold
+- Nolcond v’Arxi: The Importance of Gold
 - Juris Doctor: Rebuttal of Komi CSM Campaign
 - Jorianna Gallaire:
     - Woman, 18, dies of suspected drug overdose
     - Murder in Jita
-    - Summit gets ‘White Hot’
-- Gavin Lok’ri: God Does Not Forgive…
+- Gavin Lok’ri: God Does Not Forgive...
+- Jorianna Gallaire: Summit gets ‘White Hot’
 - Utari Onzo: The Pilgrimage of Utari Onzo-Gallius
-- Umbre Fallenstar: The Gravity of New Eden
+- Umbre Fallenstar - The Gravity of New Eden
 - Galm Eskola Fae: Skarkon War News Compliation

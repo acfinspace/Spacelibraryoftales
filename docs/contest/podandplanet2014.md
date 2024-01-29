@@ -37,7 +37,7 @@ Original website: [Pod and Planet 2014 reading bank](https://podandplanet.wixsit
 - Kazicht Cixit: [Seeing Double](../authors/kazichtcixit/seeingdouble.md) (1st Prize)
 - Da'iel Zehn: [Crossfire](../authors/daielzehn/crossfire.md) (Honorable Mention)
 - Jakob Anedalle: [Flags on Far Distant Stars](../authors/jakobanedalle/flagsonfardistantstars.md)
-- Charles Cambridge Schmidt / Eric S.: [Supershow Spotlight: Gimmie a Hand](../authors/miscauthors/supershowspotlightgimmieahand.md)
+- Charles Cambridge Schmidt / Eric S.: [Supershow Spotlight: Gimmie a Hand](../authors/charlescambridgeschmidt/supershowspotlightgimmieahand.md)
 - aul Elsyn / Paul Naughton: [Hope](../authors/miscauthors/aulelsyn_hope.md) (3rd Prize)
 - Khaos Hakomairos / Rosa Hopper: [Memories Untold](../authors/miscauthors/khaoshakomairos_memoriesuntold.md)
 

@@ -26,7 +26,7 @@ Mizhir
 Telegram Sam
 Loai Qerl
 
-There is no minimum length. Maximum length is 30,000 words. There is no required subject matter; the content may be fiction or non-fiction. All entries will be considered. Submissions are to be made by posting on Eve Forums - Eve Fiction or on http://backstage.eve-inspiracy.com 25 . Your post should specifically reference at the outset that it is being submitted for consideration in the YC 120 New Eden Capsuleer’s Writing Contest. If you have a good reason why you want to make a private submission, then contact me privately as to why.
+There is no minimum length. Maximum length is 30,000 words. There is no required subject matter; the content may be fiction or non-fiction. All entries will be considered. Submissions are to be made by posting on Eve Forums - Eve Fiction or on http://backstage.eve-inspiracy.com . Your post should specifically reference at the outset that it is being submitted for consideration in the YC 120 New Eden Capsuleer’s Writing Contest. If you have a good reason why you want to make a private submission, then contact me privately as to why.
 
 DEADLINE for submissions is MAY 30TH of this year.
 
@@ -68,7 +68,7 @@ Directrix Societas Sceptri Coronaeque
     - [Ravana 729's Story I Stray Cat](../authors/ravana729/ravana729storyItoIII.md#i-stray-cat) (Honorable Mention)
     - [Ravana 729's Story II The Dark Amarr](../authors/ravana729/ravana729storyItoIII.md#ii-the-dark-amarr) (Honorable Mention)
     - [Ravana 729's Story III The Avenging Angel](../authors/ravana729/ravana729storyItoIII.md#iii-the-avenging-angel) (Honorable Mention)
-- Lynn Yi: [Book of Todram by Sebiestor Lynn Yi](../authors/miscauthors/bookoftodrambysebiestorlynnui.md) (Honorable Mention)
+- Lynn Yi: [Book of Todram by Sebiestor Lynn Yi](../authors/lynnyi/bookoftodrambysebiestorlynnui.md) (Honorable Mention)
 - Weils Kingdom: [Collisions](../authors/miscauthors/collisions.md) (4th Prize, Organizer’s Prize)
 - Cecilie Vale: [Revelations](../authors/cecilievale/cecilievale_revelations.md) (3rd Prize)
 - Mizhara Del’Thul: [Thoughts on Futility](../authors/mizharadelthul/thoughtsonfutility.md) (Organizer’s Prize)

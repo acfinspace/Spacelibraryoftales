@@ -159,17 +159,29 @@ A page colelcting all authors with just one piece in the library.
 
 - [new beginnings](./chanmanyatolila_newbeginnings.md) (2018)
 
-## Charles Cambridge Schmidt / Eric S.
+## Charles Surge
 
-- [Supershow Spotlight: Gimmie a Hand](./supershowspotlightgimmieahand.md) (2014)
+- [To Recover](./torecover.md) (2019)
+
+## Cilisa Lugara
+
+- [Every single in God’s Light](./everysingleingodslight.md) (2019)
 
 ## Conan Barbaris
 
 - [A Thousand Sleepers](./athousandsleepers.md) (2015)
 
+## Constantin Baracca
+
+- [The Embrace of Arms](./theembraceofarms.md) (2019)
+
 ## Corix
 
 - [Rainfall](./rainfall.md) (2022)
+
+## Creetalor
+
+- [Rememberance](./rememberance.md) (2019)
 
 ## Cyno Krisse (DUST Name: Sergei Domar)
 
@@ -447,6 +459,10 @@ A page colelcting all authors with just one piece in the library.
 
 - [Tabula rasa](./tabularasa.md) (2012)
 
+## Kithrus
+
+- [Turn Home](./turnhome.md) (2019)
+
 ## Ku Mayaseki
 
 - [Insights Into Biotechnology: Transthymic Microcontrollers](./insightintobiotechnologytransthymicmicrocontrollers.md) (2018)
@@ -494,10 +510,6 @@ A page colelcting all authors with just one piece in the library.
 ## Lursan Ayin
 
 - [Cataclysm, a vision of the future](./cataclysmavisionofthefuture.md) (2018)
-
-## Lynn Yi
-
-- [Book of Todram by Sebiestor Lynn Yi](./bookoftodrambysebiestorlynnui.md) (2018)
 
 ## Lynx Artrald
 
@@ -647,6 +659,10 @@ A page colelcting all authors with just one piece in the library.
 ## Raultalainen Isise
 
 - [The Way Turns Unexpectedly](./thewayturnsunexpectedly.md) (2022)
+
+## Ravermile
+
+- [Here in Eve I’ve traveled near and far](./hereineveivetravelednearandfar.md) (2019)
 
 ## Rebel Witch
 
