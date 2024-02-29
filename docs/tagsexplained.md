@@ -38,6 +38,12 @@ tags:
 - Capsuleer: this tag is used for all the works related to capsuleers
 - Wormhole: this tag is used for all the works related to wormholes
 
+## Lenght tags
+
+- Short: below 5.000 (five thousand) words
+- Medium: between 5000 (five thousand) words and 15000 (fifteen thousand) words
+- Long: above 15000 (fifteen thousand) words
+
 ### Other tags
 
 - Author's name: this tag is used for all the works of an author (es.: "MiyoshiAkachi")

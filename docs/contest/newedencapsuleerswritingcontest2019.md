@@ -74,25 +74,25 @@ Executrix Khimi Harar
 ### Prose
 
 - Kyle Saltz: [Interrogation of a Paladin](../authors/kylesaltz/interrogationofapaladin.md)
-- Havohej: [Voices in the Dark]() (Honorable Mention)
-- Vaari: Cleansing of Providence (Honorable Mention)
-- Quedragan en Gravonere: The Least interesting Man in the World
+- Havohej: [Voices in the Dark](../authors/miscauthors/voicesinthedark.md) (Honorable Mention)
+- Vaari: [Cleansing of Providence](../authors/miscauthors/cleansingofprovidence.md) (Honorable Mention)
+- Quedragan en Gravonere: [The Least interesting Man in the World](../authors/miscauthors/theleastinterestingmanintheworld.md)
 - Miyoshi Akachi: [Anonymous End](../authors/miyoshiakachi/anonymousend.md)
 - Lynn Yi:
     - [An Uncharted Abyss - Part One](../authors/lynnyi/anunchartedabyss.md#part-one) (Honorable Mention)
     - [An Uncharted Abyss - Part Two](../authors/lynnyi/anunchartedabyss.md#part-two) (Honorable Mention)
     - [The Book of Todram](../authors/lynnyi/thebookoftodram.md) (Honorable Mention)
-- Rue: Crimson Birth (Honorable Mention)
-- Elias enDiabel: The Story
-- Tanagura Amoii: The Dragon of Hei Shi-an (3rd Prize)
-- Creetalor: Past Shadows
-- Melisma Ramijozana: An Entirely Fictional Account of an Entirely Fictional Incident (1st Prize)
-- Mahazkie Vas’Hilgara: The Talk of Tintoh (Honorable Mention)
-- Aiden Vayle: In Deep, Chapter 1-3 (Honorable Mention)
-- DeMichael Crimson: SoCT Vacation Transcripts (Honorable Mention)
-- Loai Qerl: Kingdom’s Just Desserts (Not eligible for primary Prize, Organizer’s Prize)
-- Thomas Markand: What Serpents Would Call This Paradise (4th Prize)
-- Auriga Menkalinan: Clay Maiden (2nd Prize)
+- Rue: [Crimson Birth](../authors/miscauthors/crimsonbirth.md) (Honorable Mention)
+- Elias enDiabel: [The Story](../authors/miscauthors/eliasendiabel_thestory.md)
+- Tanagura Amoii: [The Dragon of Hei Shi-an](../authors/tanaguraamoii/thedragonofheishi-an.md) (3rd Prize)
+- Creetalor: [Past Shadows]()
+- Melisma Ramijozana: [An Entirely Fictional Account of an Entirely Fictional Incident]() (1st Prize)
+- Mahazkie Vas’Hilgara: [The Talk of Tintoh]() (Honorable Mention)
+- Aiden Vayle: [In Deep, Chapter 1-3]() (Honorable Mention)
+- DeMichael Crimson: [SoCT Vacation Transcripts]() (Honorable Mention)
+- Loai Qerl: [Kingdom’s Just Desserts]() (Not eligible for primary Prize, Organizer’s Prize)
+- Thomas Markand: [What Serpents Would Call This Paradise]() (4th Prize)
+- Auriga Menkalinan: [Clay Maiden]() (2nd Prize)
 - Ninavask:[Keitgas Station](../authors/ninavask/keitgasstation.md) (Honorable Mention)
 
 ### Academic/Scientific/News

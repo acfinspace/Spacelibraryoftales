@@ -47,7 +47,7 @@ The silence is no more silence. They let themselves go, their bodies burning wit
 
 The sun settles high up in the sky as they once again relax. They did love. Again and again, until they were satisfied at max. They rest, breathing slowly. She smiles, it felt so good, it always did. She knows Syn is thinking the same.
 
-A growls breaks the silence but this is a particular growl. A growl of hunger. Syn giggles “Too much fun makes me hungry.” Syn laughs “Then we should get something to eat.” Her mind, with just a thought, sends the order for breakfast to be brought up.
+A growl breaks the silence but this is a particular growl. A growl of hunger. Syn giggles “Too much fun makes me hungry.” Syn laughs “Then we should get something to eat.” Her mind, with just a thought, sends the order for breakfast to be brought up.
 
 The waits there, snuggling and relaxing as breakfast is prepared and brought up. She pushes Syn away as she hears the knocks and her lover moans, it was comfy “You want something to eat?” she asks her with a boop of her nose before getting up. She feels Syn’s eyes on her and she smiles, it makes her warm. Getting in a bathrobe, she reaches for the door and lets the breakfast be brought in before they are alone again.
 

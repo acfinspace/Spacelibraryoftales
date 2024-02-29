@@ -38,3 +38,4 @@ Works:
 - [Slave from the desert](./slavefromthedesert.md) (2023)
 - [Nobody heard the screaming](./nobodyheardthescreaming.md) (2023)
 - [Wormhole like a wound](./wormholelikeawound.md) (2024)
+- [Love: Lost and Found](./lovelostandfound.md) (2024)

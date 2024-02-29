@@ -57,7 +57,7 @@ if people have any questions or need rulings, I am the contest administrator and
     - [In Response](../authors/zediconprime.md/inresponse.md) (Honorable Mention)
 - Melicien Tetro: [Retrospect](../authors/miscauthors/retrospect.md)
 - Prince Seraghis: [The Farthest Shore](../authors/princeseraghis/thefarthestshore.md)
-- Tanagura Amoii: [Jin Emperor’s Leaning Tower](../authors/miscauthors/jinemperorsleaningtower.md)
+- Tanagura Amoii: [Jin Emperor’s Leaning Tower](../authors/tanaguraamoii/jinemperorsleaningtower.md)
 - Raultalainen Isise: [The Way Turns Unexpectedly](../authors/miscauthors/thewayturnsunexpectedly.md) (Honorable Mention)
 - Grimaxemorpher: [The Fall of Niarja The Start Of A New Era](../authors/miscauthors/thefallofniarjathestartofanewera.md)
 - Kyle Saltz: [Bells](../authors/kylesaltz/bells.md)

@@ -247,6 +247,10 @@ A page colelcting all authors with just one piece in the library.
 
 - [Details](./emikopeng_details.md) (2012)
 
+## Elias enDiabel
+
+- [The Story](./eliasendiabel_thestory.md) (2019)
+
 ## Elinari Rhodan
 
 - [Phantom Sound](./phantomsound.md) (2017)
@@ -334,6 +338,10 @@ A page colelcting all authors with just one piece in the library.
 ## Hardradda
 
 - [EvE: Awakening](./hardradda_eveawakening.md) (2017)
+
+## Havohej
+
+- [Voices in the Dark](./voicesinthedark.md) (2019)
 
 ## hmnomad / Patrick Lee
 
@@ -648,6 +656,10 @@ A page colelcting all authors with just one piece in the library.
 
 - [There is No Place Like Home](./thereisnoplacelikehome.md) (2012)
 
+## Quedragan en Gravonere
+
+- [The Least interesting Man in the World](./theleastinterestingmanintheworld.md) (2019)
+
 ## Rachel Syne
 
 - [The scary life of a newbie trader: a tale of epic greed stupidity and bravery](./thescarylifeofanewbietrader.md) (2018)
@@ -688,6 +700,10 @@ A page colelcting all authors with just one piece in the library.
 
 - [The Past, Present and Future](./thepastpresentandfuture.md) (2012)
 - [The Beckoning of a New Age](./thebeckoningofanewage.md) (2013)
+
+## Rue
+
+- [Crimson Birth](./crimsonbirth.md) (2019)
 
 ## Rusty Boon
 
@@ -773,10 +789,6 @@ A page colelcting all authors with just one piece in the library.
 
 - [The truth is out there](./thetruthisoutthere.md) (2022)
 
-## Tanagura Amoii
-
-- [Jin Emperor’s Leaning Tower](./jinemperorsleaningtower.md) (2022)
-
 ## Teinyhr
 
 - [Stains of the Soul](./stainsofthesoul.md) (2017)
@@ -840,7 +852,11 @@ A page colelcting all authors with just one piece in the library.
 
 ## Uriel Paradisi Anteovnuecci
 
-- [The Giant]() (2014)
+- [The Giant](./thegiant.md) (2014)
+
+## Vaari
+
+- [Cleansing of Providence](./cleansingofprovidence.md) (2019)
 
 ## Vahrek Serveko / Gwydion JMF Weber
 
