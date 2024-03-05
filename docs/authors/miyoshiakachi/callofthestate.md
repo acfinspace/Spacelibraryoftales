@@ -14,6 +14,7 @@ tags:
 
 > Entry for the YC123 Union Day Celebrations in the Short Written Works category.
 
+
 “Captain.” The Lieutenant saluted as the older, greying man walked past him. He returned the salute but he kept walking past, he had been recalled for a mission of utmost importance. It had been years, long years, since his boots had stepped onto those metal floors, since he had saluted higher ranks and lower ranks had saluted him. So many memories…
 
 ~

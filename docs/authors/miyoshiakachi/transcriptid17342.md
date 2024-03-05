@@ -14,7 +14,7 @@ tags:
 > Entry for YC120 New Eden Capsuleer’s Writing Contest in the prose category.
 
 
-  Connecting...
+Connecting...
 
     Click.
 

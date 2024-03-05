@@ -15,6 +15,7 @@ tags:
 
 > Entry for the YC119 Pod and Planet Fiction Contest in the A Day in the Life category.
 
+
 "I'm sending you out." the words came out cold, as a statement and without appeal. She had thought about it but in the end, it was the only course of action she thought safe enough.
 
 The blue-green haired woman laying close jumped up with a bit of wide eyes "What?!" there was something wrong in the way it was said, such coldness.

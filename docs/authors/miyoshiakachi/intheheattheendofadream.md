@@ -13,6 +13,7 @@ tags:
 
 > Entry for the YC118 Pod and Planet Contest in the Eight Thousand Suns in New Eden category.
 
+
 Heat, too much heat.
 
 A tear tried to fall, only to be vaporized by the increasing hotness of the air.

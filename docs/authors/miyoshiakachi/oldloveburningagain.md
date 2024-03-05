@@ -13,6 +13,7 @@ tags:
 
 > Entry for the YC118 Pod and Planet Contest in the Eight Thousand Suns in New Eden category.
 
+
 Jita 4-4, the biggest trading hub of all New Eden. You want to buy something? Jita is the place. You want to sell something? Jita is the place. An endless flow of freighters and ship keeps coming and going from Jita 4-4, at every hour of the day, there is a never ending activity on the docs, with goods coming and going.
 
 But Jita isn't just a place for trading material goods. Jita is a meeting place too. Capsuleers from all New Eden travel there and in the upper levels of the station, they talk, exchange tales, make deals. ISK changes hands, pacts are signed, destinies are forged.

@@ -14,6 +14,7 @@ tags:
 
 > Entry for YC119 New Eden Capsuleer's Writing Contest in the A Day in the Life category.
 
+
 "The sight is beautiful, don't you think?"
 
 "Mmmm!" Miyoshi snorted, letting the backpack fall to the ground "I still have to understand why I had agreed coming with you!"

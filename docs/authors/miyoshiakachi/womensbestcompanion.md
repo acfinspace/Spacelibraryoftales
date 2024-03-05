@@ -14,6 +14,7 @@ tags:
 
 > Entry for the YC119 Pod and Planet Fiction Contest in the A Thousand Suns for the Very Short Fiction category.
 
+
 It was said women's best companions were diamonds. Shiny and beautiful like them.
 
 Someone had to disagree.

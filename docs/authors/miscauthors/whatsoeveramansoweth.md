@@ -9,7 +9,7 @@ tags:
 
 > Author: Lynx Artrald
 
-> It is a fictionalized account of an operation I took part in a few months prior.
+> Author's Note: It is a fictionalized account of an operation I took part in a few months prior.
 
 > Original post: [https://capsuleejected.wordpress.com/2014/12/03/whatsoever-a-man-soweth-he-shall-reap/](https://capsuleejected.wordpress.com/2014/12/03/whatsoever-a-man-soweth-he-shall-reap/)
 

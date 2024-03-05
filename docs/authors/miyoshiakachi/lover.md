@@ -11,6 +11,7 @@ tags:
 
 > Original post:
 
+
 She blinked in the darkness. Her mental clock told her it was the deep of the night, the clock on the nightstand agreed. She blinked again, why was she awake? No alarm sounded. She could hear only the usual sounds of the resort: the faint humming of the systems. Everything seemed normal. Then what? A yawn escaped her lips as she rested on the side, trying to get back to sleep. Still, sleep kept evading her.
 
 Slowly and silently, she got up. From the warm bed, the air feels cold, tickling her bare skin but she enjoy that feeling. Lightly, with little sounds, she reached for the window. She stood there, watching the mountains all around. She is a dark silhouette framed by the dimmed light from outside. Thoughts moved through her mind.

@@ -19,6 +19,10 @@ A page colelcting all authors with just one piece in the library.
 
 - [Low Power](./lowpower.md) (2018)
 
+## Aiden Vayle
+
+- [In Deep, Chapter 1-3](./indeepchapter13.md) (2019)
+
 ## Aillel
 
 - [The Job Posting](./thejobposting.md) (2017)
@@ -103,6 +107,10 @@ A page colelcting all authors with just one piece in the library.
 
 - [Hope](./aulelsyn_hope.md) (2014)
 
+## Auriga Menkalinan
+
+- [Clay Maiden](./theclaymaiden.md) (2019)
+
 ## Ayana Naito
 
 - [Arrival at the Crossroads](./arrivalatthecrossroads.md) (2018)
@@ -179,10 +187,6 @@ A page colelcting all authors with just one piece in the library.
 
 - [Rainfall](./rainfall.md) (2022)
 
-## Creetalor
-
-- [Rememberance](./rememberance.md) (2019)
-
 ## Cyno Krisse (DUST Name: Sergei Domar)
 
 - [Iron Lion](./ironlion.md) (2018)
@@ -198,6 +202,10 @@ A page colelcting all authors with just one piece in the library.
 ## Darrell Musko
 
 - [Sixty-Two Jumps](./sixty-twojumps.md) (2015)
+
+## DeMichael Crimson
+
+- [SoCT Vacation Transcripts](./soctvacationtranscripts.md) (2019)
 
 ## Dirk Magnum
 
@@ -495,10 +503,6 @@ A page colelcting all authors with just one piece in the library.
 
 - [The Three](./litesabre_thethree.md) (2015)
 
-## Loai Qerl
-
-- [The Heart Treads A Rocky Path](./thehearttreadsarockypath.md) (2017)
-
 ## Louella Dougans
 
 - [It's a Man's Life in the Imperial Army](./itsamanslifeintheimperialarmy.md) (2014)
@@ -550,6 +554,10 @@ A page colelcting all authors with just one piece in the library.
 ## Melicien Tetro
 
 - [Retrospect](./retrospect.md) (2022)
+
+## Melisma Ramijozana
+
+- [An Entirely Fictional Account of an Entirely Fictional Incident](./anentirelyfictionalaccount.md) (2019)
 
 ## Meryl SinGarda
 
@@ -808,6 +816,10 @@ A page colelcting all authors with just one piece in the library.
 ## The Record Keeper
 
 - [Scotty](./scotty.md) (2017)
+
+## Thomas Markand
+
+- [What Serpents Would Call This Paradise](./whatserpentswouldcallthisparadise.md) (2019)
 
 ## Thulla Icin
 

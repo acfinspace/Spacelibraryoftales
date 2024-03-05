@@ -14,6 +14,7 @@ tags:
 
 > Entry for Amore Tank Your Hearts Contest.
 
+
 She is sleeping, her face buried in the pillow. She doesn’t react as the soft sheets are pulled away. A soft touch caresses the skin of her back. She stirs lightly in her sleep as that touch makes images pop up, good ones.
 
 Someone giggles softly and that soft touch keeps caressing. A finger comes down, following the line of implant connections, one by one. A soft voice counts "One, two, three..." and then up again. She stirs and moans softly. A higher giggle can be heard now.

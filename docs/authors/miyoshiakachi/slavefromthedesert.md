@@ -15,6 +15,7 @@ tags:
 
 > A short fiction piece for Just About.
 
+
 “The anomaly should be dead ahead.” it was hard to be heard over the noise of the engines and behind the layers of the cloths shielding the faces of the desert runners. Such cloths protected from the sand, or at least tried because sand was nonetheless everywhere, seeping in and seeping through.
 
 They had spotted a space anomaly entering the high atmosphere a few hours earlier and they had tracked it throughout the ever expanding desert. Astronomers had guessed it was an asteroid or some remnant of old tech finally coming back to them. Someone worried its descent looked a little too controlled but in a world of minimal resources and little space for a space wonder lost in time, the hope of something new was thrilling.

@@ -15,7 +15,6 @@ tags:
 > A short fiction piece for Just About.
 
 
-
 The wormhole swirled in the silence of space, emitting no signal but its own presence. Its watery look trembled at times, its teal aurora slowly flowed around it. The wormhole reflected some light from the distant star, sitting at the center of the system it had spawned in, but looking into it felt like looking in another place entirely.
 A place charged with emotions.
 

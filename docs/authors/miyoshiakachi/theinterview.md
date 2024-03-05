@@ -14,6 +14,7 @@ tags:
 
 > Entry for the YC118 New Eden Capsuleer Writing Contest.
 
+
 Fizzies of statics.
 
 “… our viewers today, I’d like to give the line to Paline Aldens that has something really interesting I heard. Something about wormholes? Paline?”

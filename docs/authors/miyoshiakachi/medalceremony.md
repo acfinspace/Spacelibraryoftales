@@ -14,10 +14,13 @@ tags:
 
 > Entry for the YC123 Union Day Celebrations in the Short Written Works category.
 
+
 She stood at attention, straight as a steel bar, immaculate dark blue uniform, boots gleaming.
 
 The light was blinding and she hardly saw anything of the silent room past the stage she was standing on. She could hear the silence split by the booming voice of the speaker.
+
 The high ranking Navy official was speaking on a podium at the end of the row of military personnel. He spoke about the State… about how much they had achieved in so little time… he spoke about defending the values of the Caldari State… about the service all those who were in the Navy did in the defence of the State… about the dangers and enemies the Navy faced every day… about how proud the State should be of them, of the Navy, for their outstanding work.
+
 "These people fought for the State! They risked their life for the State! They put their hearts and minds toward the defence of our values, of our STATE!" the words boomed and the tail end was drown into the thunderous applause.
 
 “We are here today to reward some of those personnel, some of those people that had been doing their best out there, in space, for away from their homes but with the State in their heart.”
@@ -25,6 +28,7 @@ The high ranking Navy official was speaking on a podium at the end of the row of
 “FOR THE STATE!” as on clue the few rows of Navy personnel boomed their salute and rose their hands to their eyebrow in unison, sharp and precise, because the Navy was one: it did not matter you were a Deteis, a Civire or an Achura, once you joined the Navy, you were the Navy.
 
 The salute was met with another round of thunderous applause and the high ranking official let it die before he stepped down from the podium. A military aide was right there, ready to trail him as he started on the row.
+
 The military aide carried a metal tray full of medals and followed the high ranking official just one step behind, never missing a step, never moving more than what was exactly needed. Each time the Navy official stepped in front of a Navy soldier, he would turn to pick up one of the medals and appoint it on their chest. A few words were whispered and the soldier would salute before the high ranking official moved on.
 
 She did not move an inch, she did not let the lights from above glare her to the point of wincing, she did not let the warmness make her sweat. This was one of those moment on which an entire career hinged, where months long efforts were rewarded.

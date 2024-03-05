@@ -14,6 +14,7 @@ tags:
 
 > Entry for the YC119 Pod and Planet Contest in the A Day in the Life category.
 
+
 "Why don't we go visit your planet? How is called? Saisio?" Syn asked one evening while they were enjoying each other’s company in their apartment on top of the spires. Miyo had smiled "Well we could..." she wasn't feeling much. It had been a while since she had visited her parents.
 
 "You could make me visit your old home, the best spots around." continued Syn, like to echo Miyoshi's inner thoughts. The girl rolled and rested her head on the capsuleer's lap, looking up with sparkling violet eyes "We could take it as a vacation, from the boring and dull life of Origin!" she giggled, playfully.

@@ -15,6 +15,7 @@ tags:
 
 > Entry for YC124 New Eden Capsuleer’s Writing Contest in the News category.
 
+
 ![Impossible Love](./ImpossibleLove1.jpeg)
 
 >She gasped as she felt him get closer. The shrouds of the testing facility hid them, nobody would spot them there, it would be just her… and him. He was so close… … his bulk, with those heavy plates adding to his musculature, the smell of nanites ready to activate… those thick guns… She thrembled, her chassis shivering as her shield glowed with a blush. So strong… so close…

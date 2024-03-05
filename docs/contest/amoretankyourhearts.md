@@ -11,14 +11,14 @@ Original website: [https://alexylva.webnode.page/atyh-entries/](https://alexylva
 
 - Undomiel: [Enhanced Performance](../authors/undomiel/enhancedperformance.md)
 - Alen Asques: [L'Hécate de Nos Mémoires - An Interstellar Love Story](../authors/miscauthors/lhecatedenosmemoires.md)
-- Loai Qerl - [The Heart Treads A Rocky Path](../authors/miscauthors/thehearttreadsarockypath.md)
+- Loai Qerl - [The Heart Treads A Rocky Path](../authors/loaiqerl/thehearttreadsarockypath.md)
 
 ## Non-comedy
 
 - Aleksi Aksan: [Worth Waking Up For](../authors/miscauthors/worthwakingupfor.md)
 - Korsavius:
-        - [Nocturnal Bloom](../authors/korsavius/nocturnalbloom.md)
-        - [As the Butterfly Soars](../authors/korsavius/asthebutterflysoars.md)
+  - [Nocturnal Bloom](../authors/korsavius/nocturnalbloom.md)
+  - [As the Butterfly Soars](../authors/korsavius/asthebutterflysoars.md)
 - AlacrityFitz: [Love Costs](../authors/miscauthors/lovecosts.md)
 - Miyoshi Akachi: [Good Morning](../authors/miyoshiakachi/goodmorning.md)
 - Trensk Mikakka: [Immortality](../authors/trenskmikakka/immortality.md)

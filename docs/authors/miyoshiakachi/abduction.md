@@ -14,6 +14,7 @@ tags:
 
 > Entry for the YC119 Pod and Planet Fiction Contest in the Eighty Thousand Suns in New Eden - Very Short Fiction category.
 
+
 Darkness.
 
 She wasn't ready for it. She scrambled to get a hold of one of the shelves as she felt the station shuddering and vibrating once again. What was happening? She felt panic raising into her, a dark tide growing silent, as dark as the absence of light around her.

@@ -13,6 +13,7 @@ tags:
 
 > Entry for the YC118 Pod and Planet Contest in the A Day in the Life category.
 
+
 The emptiness of space.
 
 The stars shines on the black velvet of the space. She had always dreamed of them. When she was just a young girl making her first step into life, she looked up to them, she spoke to them and dreamed of them. She thought many secrets were hidden up there, amazing worlds to be discovered and unheard phenomena. She wanted to reach the stars and explore the vastness of space.

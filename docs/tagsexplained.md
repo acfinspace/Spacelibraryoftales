@@ -38,11 +38,11 @@ tags:
 - Capsuleer: this tag is used for all the works related to capsuleers
 - Wormhole: this tag is used for all the works related to wormholes
 
-## Lenght tags
+## Length tags
 
-- Short: below 5.000 (five thousand) words
-- Medium: between 5000 (five thousand) words and 15000 (fifteen thousand) words
-- Long: above 15000 (fifteen thousand) words
+- Length_Short: below 5.000 (five thousand) words
+- Length_Medium: between 5000 (five thousand) words and 15000 (fifteen thousand) words
+- Length_Long: above 15000 (fifteen thousand) words
 
 ### Other tags
 
