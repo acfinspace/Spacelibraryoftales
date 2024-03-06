@@ -3,6 +3,7 @@ tags:
   - Prose
   - MiyoshiAkachi
   - NewEdenCapsuleersWritingContestYC120
+  - Length_Short
 ---
 
 # Transcript Id: 17342

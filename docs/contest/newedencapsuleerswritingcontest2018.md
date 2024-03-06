@@ -83,4 +83,4 @@ Directrix Societas Sceptri Coronaeque
 - Ibrahim Tash Murkon: [Trends in Empyrean Manufacturing](../authors/miscauthors/Trends%20in%20Empyrean%20Manufacturing.pdf) (1st Prize)
 - Donkyhotay: [Gallente Gossip broadcast - 03/30/2018](../authors/donkyhotay/gallentegossipbroadcast03302018.md) (Honorable Mention)
 - Ku Mayaseki: [Insights Into Biotechnology: Transthymic Microcontrollers](../authors/miscauthors/insightintobiotechnologytransthymicmicrocontrollers.md) (3rd Prize)
-- Mantelglobalindustries: [A New Decade: A Security Assessment of New Eden YC120](../authors/miscauthors/anewdecadeasecurityassessmentofnewedenyc120.md) (2nd Prize)
+- Mantelglobalindustries: [A New Decade: A Security Assessment of New Eden YC120](../authors/mantelglobalindustries/anewdecadeasecurityassessmentofnewedenyc120.md) (2nd Prize)

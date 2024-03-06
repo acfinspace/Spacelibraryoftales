@@ -4,6 +4,7 @@ tags:
   - Caldari
   - MiyoshiAkachi
   - UnionDayCelebrationsYC123
+  - Length_Short
 ---
 
 # Medal ceremony

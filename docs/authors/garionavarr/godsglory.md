@@ -3,6 +3,7 @@ tags:
   - Poetry
   - GarionAvarr
   - NewEdenCapsuleersWritingContestYC120
+  - Length_VeryShort
 ---
 
 # God's Glory

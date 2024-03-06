@@ -107,10 +107,6 @@ A page colelcting all authors with just one piece in the library.
 
 - [Hope](./aulelsyn_hope.md) (2014)
 
-## Auriga Menkalinan
-
-- [Clay Maiden](./theclaymaiden.md) (2019)
-
 ## Ayana Naito
 
 - [Arrival at the Crossroads](./arrivalatthecrossroads.md) (2018)
@@ -118,6 +114,10 @@ A page colelcting all authors with just one piece in the library.
 ## Ayara Itris
 
 - [Be](./ayaraitris_be.md) (2018)
+
+## Bakul en Divalone
+
+- [SEE THE INTAKI HOMEWORLD](./seetheintakihomeworld.md) (2019)
 
 ## Boatmans Thron
 
@@ -206,6 +206,10 @@ A page colelcting all authors with just one piece in the library.
 ## DeMichael Crimson
 
 - [SoCT Vacation Transcripts](./soctvacationtranscripts.md) (2019)
+
+## Diana Kim
+
+- [The Rise and Fall of Caldari Providence Directorate](./theriseandfallofcaldariprovidencedirectorate.md) (2019)
 
 ## Dirk Magnum
 
@@ -351,6 +355,10 @@ A page colelcting all authors with just one piece in the library.
 
 - [Voices in the Dark](./voicesinthedark.md) (2019)
 
+## HC Androidson
+
+- [An Astrogeological Survey](../mantelglobalindustries/anastrogeologicalsurvey.md) (2019)
+
 ## hmnomad / Patrick Lee
 
 - [My Father is a Capsuleer](./myfatherisacapsuleer.md) (2014)
@@ -451,6 +459,10 @@ A page colelcting all authors with just one piece in the library.
 
 - [The heist](./theheist.md) (2012)
 
+## Kalodote Lafisques
+
+- [Project “Alexandria”](./projectalexandria.md) (2019)
+
 ## Karene Avarr
 
 - [The Forgotten Place](.theforgottenplace.md) (2018)
@@ -478,6 +490,10 @@ A page colelcting all authors with just one piece in the library.
 ## Kithrus
 
 - [Turn Home](./turnhome.md) (2019)
+
+## Koren Akko
+
+- [I-RCN Article Collection](./ircnarticlescollection.md) (2019)
 
 ## Ku Mayaseki
 
@@ -530,10 +546,6 @@ A page colelcting all authors with just one piece in the library.
 ## Makoto Priano
 
 - [Diamond](./diamond.md) (2013)
-
-## Mantelglobalindustries
-
-- [A New Decade: A Security Assessment of New Eden YC120](../authors/miscauthors/anewdecadeasecurityassessmentofnewedenyc120.md) (2018)
 
 ## Matteral
 
@@ -709,6 +721,10 @@ A page colelcting all authors with just one piece in the library.
 - [The Past, Present and Future](./thepastpresentandfuture.md) (2012)
 - [The Beckoning of a New Age](./thebeckoningofanewage.md) (2013)
 
+## Roirdan Bouche
+
+- [OGS Facility Guides](./ogsfacilityguides.md) (2019)
+
 ## Rue
 
 - [Crimson Birth](./crimsonbirth.md) (2019)
@@ -745,6 +761,10 @@ A page colelcting all authors with just one piece in the library.
 
 - [Clouded Judgement](./cloudedjudgement.md) (2012)
 
+## Selenna 'Scarlet' Solange
+
+- [I-RCN Article Collection](./ircnarticlescollection.md) (2019)
+
 ## Seraph Essael
 
 - [Midway](./midway.md) (2013)
@@ -777,6 +797,10 @@ A page colelcting all authors with just one piece in the library.
 
 - [Miners Trap](./minersblues.md) (2012)
 
+## Sky Seolec
+
+- [Early-Life Traumatic Experience As a Predictor of Capsule Compatibility](./earlylifetraumaticexperienceasapredictorofcapsulecompatibility.md) (2019)
+
 ## Sophia Jackson
 
 - [Sailors and Satellites](./sailorsanddsatellites.md) (2012)
@@ -793,9 +817,17 @@ A page colelcting all authors with just one piece in the library.
 
 - [Day 26: I Will Always Be There For You](./daay26iwillalwaysbethereforyou.md) (2017)
 
+## Taigeru Beldeia
+
+- [I-RCN Article Collection](./ircnarticlescollection.md) (2019)
+
 ## Talaris Eveningstar
 
 - [The truth is out there](./thetruthisoutthere.md) (2022)
+
+## Taora Teonsur
+
+- [Gelfiven News Network Collection](./gelfivennewsnetworkcollection.md) (2019)
 
 ## Teinyhr
 
@@ -877,6 +909,10 @@ A page colelcting all authors with just one piece in the library.
 ## Vai Tanis
 
 - [Primal](./primal.md) (2012)
+
+## Valerie Valate
+
+- [The use of cyborg constructs as religious enforcers…](./theuseofcyborgconstructsasreligiousenforcers.md) (2019)
 
 ## Viceorvirtue
 

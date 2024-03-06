@@ -3,6 +3,7 @@ tags:
   - Poetry
   - CilisaLugara
   - NewEdenCapsuleersWritingContestYC121
+  - Length_VeryShort
 ---
 
 # Every single in God’s Light

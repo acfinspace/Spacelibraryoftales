@@ -3,6 +3,7 @@ tags:
   - Prose
   - MiyoshiAkachi
   - NewEdenCapsuleersWritingContestYC124
+  - Length_VeryShort
 ---
 
 # Impossible Love, the new bestseller by Cialette Ahubbert is out! 

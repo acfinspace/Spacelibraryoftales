@@ -3,6 +3,7 @@ tags:
   - Poetry
   - ZediconPrime
   - NewEdenCapsuleersWritingContestYC124
+  - Length_VeryShort
 ---
 
 # Rhyme of an Amarr

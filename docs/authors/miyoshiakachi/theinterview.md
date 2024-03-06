@@ -4,6 +4,7 @@ tags:
   - Prose
   - MiyoshiAkachi
   - NewEdenCapsuleersWritingContestYC118
+  - Length_Short
 ---
 
 # The Interview

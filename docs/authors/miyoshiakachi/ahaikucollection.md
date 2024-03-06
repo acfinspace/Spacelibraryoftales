@@ -3,6 +3,7 @@ tags:
   - Poetry
   - MiyoshiAkachi
   - NewEdenCapsuleersWritingContestYC124
+  - Length_VeryShort
 ---
 
 # A Haiku collection

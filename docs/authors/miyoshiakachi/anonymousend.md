@@ -3,6 +3,7 @@ tags:
   - Prose
   - MiyoshiAkachi
   - NewEdenCapsuleersWritingContestYC121
+  - Length_Short
 ---
 
 # Anonymous End
@@ -85,8 +86,5 @@ It wasn’t a simple text file but a video.
 The news report is replaced by a a few digit at the center of the screen. Stark white against the hard black.
 
 ## YC 120
-
-
-
 
 The video abruptly ends.

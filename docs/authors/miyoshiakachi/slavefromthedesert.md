@@ -5,6 +5,7 @@ tags:
   - Prose
   - MiyoshiAkachi
   - JustAbout
+  - Length_Short
 ---
 
 # Slave from the desert

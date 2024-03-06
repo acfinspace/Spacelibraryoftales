@@ -40,7 +40,10 @@ tags:
 
 ## Length tags
 
-- Length_Short: below 5.000 (five thousand) words
+How long is a piece. It gives an idea of how long it takes to read it.
+
+- Length_VeryShort: below 1.000 (one thousand) words
+- Length_Short: between 1.000 (one thousand) and 5.000 (five thousand) words
 - Length_Medium: between 5000 (five thousand) words and 15000 (fifteen thousand) words
 - Length_Long: above 15000 (fifteen thousand) words
 

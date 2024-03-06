@@ -4,6 +4,7 @@ tags:
   - MiyoshiAkachi
   - AlexylvaParadox
   - NewEdenCapsuleersWritingContestYC120
+  - Length_Short
 ---
 
 # Origin Story 1-5

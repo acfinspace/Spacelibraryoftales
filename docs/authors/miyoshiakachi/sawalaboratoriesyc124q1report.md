@@ -3,6 +3,7 @@ tags:
   - Prose
   - MiyoshiAkachi
   - NewEdenCapsuleersWritingContestYC124
+  - Length_Short
 ---
 
 # Sawa Laboratories YC 124 Q1 Report

@@ -3,6 +3,7 @@ tags:
   - Poetry
   - TsuneshiRyuzoiji
   - NewEdenCapsuleersWritingContestYC124
+  - Length_VeryShort
 ---
 
 # A Corny Love Poem

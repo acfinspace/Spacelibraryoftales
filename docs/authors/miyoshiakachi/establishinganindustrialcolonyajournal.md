@@ -3,6 +3,7 @@ tags:
   - Prose
   - MiyoshiAkachi
   - NewEdenCapsuleersWritingContestYC124
+  - Length_Long
 ---
 
 # Establishing an industrial colony: a journal
