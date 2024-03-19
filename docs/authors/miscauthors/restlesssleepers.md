@@ -1,8 +1,9 @@
 ---
 tags:
-  - Poetry
+  - Prose
   - 4e6f74206964656e746966696564
-  - NewEdenCapsuleersWritingContestYC121
+  - NewEdenCapsuleersWritingContestYC122
+  - Length_Short
 ---
 
 # Restless Sleeprs
@@ -11,7 +12,7 @@ tags:
 
 > Original post: [https://forums.eveonline.com/t/restless-sleepers/116983/3](https://forums.eveonline.com/t/restless-sleepers/116983/3)
 
-> Entry for YC121 New Eden Capsuleer’s Writing Contest in the Prose category.
+> Entry for YC122 New Eden Capsuleer’s Writing Contest in the Prose category.
 
 
 

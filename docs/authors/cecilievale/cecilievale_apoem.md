@@ -3,6 +3,7 @@ tags:
   - Poetry
   - MichifusaNishouji
   - UnionDayCelebrationsYC123
+  - Length_VeryShort
 ---
 
 # A Poem

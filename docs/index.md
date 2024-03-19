@@ -61,7 +61,7 @@ To do:
     - [x] Pod & Planet misc content
     - [ ] New Eden Capsuleer's Writing Contest previous years
     - [x] New Eden Capsuleer's Writing Contest 2018
-    - [ ] New Eden Capsuleer's Writing Contest 2019
+    - [x] New Eden Capsuleer's Writing Contest 2019
     - [ ] New Eden Capsuleer's Writing Contest 2020
     - [ ] New Eden Capsuleer's Writing Contest 2021
     - [x] New Eden Capsuleer's Writing Contest 2022

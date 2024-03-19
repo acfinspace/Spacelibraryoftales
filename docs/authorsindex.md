@@ -254,6 +254,7 @@
 - [Revileushin Eyri](./authors/miscauthors/_miscauthors.md#revileushin-eyri)
 - [Reyg Xander](./authors/miscauthors/_miscauthors.md#reyg-xander)
 - [Rhavas](./authors/rhavas/_rhavas.md)
+- [Rinai Vero](./authors/miscauthors/_miscauthors.md#rinai-vero)
 - [Rixx Javixx](./authors/miscauthors/_miscauthors.md#rixx-javixx)
 - [Rob Kaichin](./authors/robkaichin/_robkaichin.md)
 - [Rogue Lawyer](./authors/miscauthors/_miscauthors.md#rogue-lawyer)

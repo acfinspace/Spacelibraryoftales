@@ -21,14 +21,14 @@ A collection of Haikus follows.
 
 —----------------------------------------------------------------------------------
 
-雪の音の
-聞こえるほどの
+雪の音の<br>
+聞こえるほどの<br>
 静寂よ
 
 **Pronunciation:**
 
-Yu Ki No Ne No
-Ki Ko E Ru Ho Do No
+Yu Ki No Ne No<br>
+Ki Ko E Ru Ho Do No<br>
 Se I Jya Ku Yo
 
 **Translation:**
@@ -42,14 +42,14 @@ I admire the stillness of the place so much that I can almost hear the sound of 
 
 —----------------------------------------------------------------------------------
 
-人知れず
-朽ちゆくステーション
+人知れず<br>
+朽ちゆくステーション<br>
 ここに在り
 
 **Pronunciation:**
 
-Hi To Shi Re Zu
-Ku Chi Yu Ku station
+Hi To Shi Re Zu<br>
+Ku Chi Yu Ku station<br>
 Ko Ko Ni A Ri
 
 **Translation:**
@@ -58,20 +58,20 @@ A station that quietly decays, unknown to anyone, certainly exists here.
 
 —----------------------------------------------------------------------------------
 
-ゲート入り
-波状の閃光
+ゲート入り<br>
+波状の閃光<br>
 命を加速
 
 **Pronunciation:**
 
-Gate I Ri
-Ha Jyo U No Se N Ko U
+Gate I Ri<br>
+Ha Jyo U No Se N Ko U<br>
 I No Chi Wo Ka So Ku
 
 **Translation:**
 
-Gated
-Wavy flashes
+Gated<br>
+Wavy flashes<br>
 Accelerate life
 
 **Meaning:**
@@ -80,20 +80,20 @@ A gate is sitting quietly in space until an activation make it alight; a ship ap
 
 —----------------------------------------------------------------------------------
 
-粗い石
-レーザー発泡
+粗い石<br>
+レーザー発泡<br>
 船倉へ
 
 **Pronunciation:**
 
-A Ra I I Shi
-laser Ha Ppo U
+A Ra I I Shi<br>
+laser Ha Ppo U<br>
 Se N So U E
 
 **Translation:**
 
-Rough rocks
-A laser fizzling
+Rough rocks<br>
+A laser fizzling<br>
 Go to the hold
 
 **Meaning:**
@@ -102,14 +102,14 @@ Rough asteroids floats in an asteroid belt; the lasers of a mining ship carve in
 
 —----------------------------------------------------------------------------------
 
-渦を巻く
-波紋に入り
+渦を巻く<br>
+波紋に入り<br>
 新世界
 
 **Pronunciation:**
 
-U Zu Wo Ma Ku
-Ha Mo N Ni Ha I Ri
+U Zu Wo Ma Ku<br>
+Ha Mo N Ni Ha I Ri<br>
 Shi N Se Ka I
 
 **Translation:**
@@ -122,20 +122,20 @@ A wormhole sits in known space: it’s ripples twist the nebula behind it. Enter
 
 —----------------------------------------------------------------------------------
 
-静かにね
-ハッキング進行
+静かにね<br>
+ハッキング進行<br>
 コンテナ開く
 
 **Pronunciation:**
 
-Shi Zu Ka Ni Ne
-Hacking Shi N Ko U
+Shi Zu Ka Ni Ne<br>
+Hacking Shi N Ko U<br>
 Container Hi Ra Ku
 
 **Translation:**
 
-Silence
-hacking in progress
+Silence<br>
+hacking in progress<br>
 A container opens
 
 **Meaning:**

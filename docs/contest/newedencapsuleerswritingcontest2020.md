@@ -44,40 +44,40 @@ Co-Executrix Khimi Harar
 
 ### Poetry
 
-- Rinai Vero - General Soter’s Testament
-- Miriam Hemah - Just Breathe
-- Alexis Clarke - Logistics
-- Madeleine Raske-Lancier -Universe Dreams
-- Kyle Saltz - I Must Control My Rage
-- Cilisa Lugara - Untitled.
-- Constantin Baracca - I Danced With Her, Cloaked In Night
-- Inara Subaka - Courtesy
-- Eli Jibb - Options
-- Elassus Herron - Poems of the Sky Temple of the Northern Seas
-- Saikoyo - Not Man
-- Dantelion Shinoni - Mortification can’t be Avoided, but Glorification is in our hands.
+- Rinai Vero: [General Soter’s Testament](../authors/miscauthors/generalsoterstestament.md)
+- Miriam Hemah: Just Breathe
+- Alexis Clarke: Logistics
+- Madeleine Raske-Lancier: Universe Dreams
+- Kyle Saltz: I Must Control My Rage
+- Cilisa Lugara: Untitled.
+- Constantin Baracca: I Danced With Her, Cloaked In Night
+- Inara Subaka: Courtesy
+- Eli Jibb: Options
+- Elassus Herron: Poems of the Sky Temple of the Northern Seas
+- Saikoyo: Not Man
+- Dantelion Shinoni: Mortification can’t be Avoided, but Glorification is in our hands.
 
 ### Prose
 
-- Unknown Sender - Signal Original Unknown
-- Elsebeth Rhiannon
-    - The God Beyond The Gate
-    - The Woman Who Loved a Ghost
-- Lex Declare - Alone, yet not mad
-- Komi Valentine - Conscience
-- Vladimir Korff - The Lesser of Evils
+- Unknown Sender: Signal Original Unknown
+- Elsebeth Rhiannon:
+    - [The God Beyond The Gate](../authors/elsebethrhiannon/thegodbehindthegate.md)
+    - [The Woman Who Loved a Ghost](../authors/elsebethrhiannon/thewomanwholovedaghost.md)
+- Lex Declare: Alone, yet not mad
+- Komi Valentine: Conscience
+- Vladimir Korff: The Lesser of Evils
 - 4e6f74206964656e 746966696564: [Restless Sleepers](../authors/miscauthors/restlesssleepers.md) (Non-competitive entry, not eligible for prize)
-- Juris Doctor - Shards of Seyllin
-- Hannah Taredi - Graduation Day
-- Palis Airuta - Skimming Stones
-- Renn Omaya - Red v Blue
-- Arsia Elkin - The Little Girl Who Spoke To The Trees
-- Riccoda Arada - Hauling Offer
-- DeMichael Crimson - Anomaly Encounter
-- Inara Subaka - Parables
-- Saikoyu - Kitsa’s Tale
-- Dantelion Shinoni - Glorification is in our Hands, but can Mortification be Avoided
-- Kyle Saltz - Battle for VKI
+- Juris Doctor: Shards of Seyllin
+- Hannah Taredi: Graduation Day
+- Palis Airuta: Skimming Stones
+- Renn Omaya: Red v Blue
+- Arsia Elkin: The Little Girl Who Spoke To The Trees
+- Riccoda Arada: Hauling Offer
+- DeMichael Crimson: Anomaly Encounter
+- Inara Subaka: Parables
+- Saikoyu: Kitsa’s Tale
+- Dantelion Shinoni: Glorification is in our Hands, but can Mortification be Avoided
+- Kyle Saltz: Battle for VKI
 
 ### Academic/News
 

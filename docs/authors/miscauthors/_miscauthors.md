@@ -712,6 +712,10 @@ A page colelcting all authors with just one piece in the library.
 
 - [Warp.  Pod.  Repeat.](./warppodrepeat.md) (2018)
 
+## Rinai Vero
+
+- [General Soter’s Testament](./generalsoterstestament.md) (2020)
+
 ## Rixx Javixx
 
 - [The Pirate's Life](./thepirateslife.md) (2013)
