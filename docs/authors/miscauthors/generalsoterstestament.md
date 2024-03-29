@@ -12,7 +12,7 @@ tags:
 
 > Original post: [https://forums.eveonline.com/t/yc-122-newcwc-general-soters-testament/225529](https://forums.eveonline.com/t/yc-122-newcwc-general-soters-testament/225529)
 
-> Entry for YC122 New Eden Capsuleer’s Writing Contest in the Prose category.
+> Entry for YC122 New Eden Capsuleer’s Writing Contest in the Poetry category.
 
 
 Inspired by an ancient Rovenour-era poem considered by Gallente historians to be a quintessential example of the tenets of asymmetrical warfare during the period. This modern version captures the fighting spirit of Federal Defense Union forces in the years they fought to liberate Federation systems from State Protectorate occupation, which formed the foundation for their later dominance of the warzone.

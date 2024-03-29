@@ -58,13 +58,13 @@ Executrix Khimi Harar
 
 ### Poetry
 
-- Cilisa Lugara: [Every single in God’s Light](../authors/miscauthors/everysingleingodslight.md)
+- Cilisa Lugara: [Every single in God’s Light](../authors/cilisalugara/everysingleingodslight.md)
 - Ravermile: [Here in Eve I’ve traveled near and far](../authors/miscauthors/hereineveivetravelednearandfar.md)
 - Kyle Saltz: [Assorted Poems](../authors/kylesaltz/assortedpoems.md)
 - Valdezi: [Four Love Poems](../authors/valdezi/fourlovepoems.md) (Honorable Mention)
 - Lynn Yi: [The Harpy Sings](../authors/lynnyi/theharpysings.md) (3rd Prize)
 - Creetalor: [Rememberance](../authors/creetalor/rememberance.md) (4th Prize)
-- Constantin Baracca: [The Embrace of Arms](../authors/miscauthors/theembraceofarms.md)
+- Constantin Baracca: [The Embrace of Arms](../authors/constantinbaracca/theembraceofarms.md)
 - Kithrus: [Turn Home](../authors/miscauthors/turnhome.md)
 - Elassus Herron: [Nine Lyrics of Hirvomiakken](../authors/elassusherron/ninelyricsofhirvomiakken.md) (1st Prize)
 - Charles Surge: [To Recover](../authors/miscauthors/torecover.md) (Honorable Mention)

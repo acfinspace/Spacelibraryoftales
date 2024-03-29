@@ -45,17 +45,17 @@ Co-Executrix Khimi Harar
 ### Poetry
 
 - Rinai Vero: [General Soter’s Testament](../authors/miscauthors/generalsoterstestament.md)
-- Miriam Hemah: Just Breathe
-- Alexis Clarke: Logistics
-- Madeleine Raske-Lancier: Universe Dreams
-- Kyle Saltz: I Must Control My Rage
-- Cilisa Lugara: Untitled.
-- Constantin Baracca: I Danced With Her, Cloaked In Night
-- Inara Subaka: Courtesy
-- Eli Jibb: Options
-- Elassus Herron: Poems of the Sky Temple of the Northern Seas
-- Saikoyo: Not Man
-- Dantelion Shinoni: Mortification can’t be Avoided, but Glorification is in our hands.
+- Miriam Hemah: [Just Breathe](../authors/miscauthors/justbreath.md)
+- Alexis Clarke: [Logistics](../authors/miscauthors/logistics.md)
+- Madeleine Raske-Lancier: [Universe Dreams](../authors/lasairionaraske/universedreams.md)
+- Kyle Saltz: [I Must Control My Rage](../authors/kylesaltz/imustcontrolmyrage.md)
+- Cilisa Lugara: [Untitled.](../authors/cilisalugara/cilisalugara_untitled.md)
+- Constantin Baracca: [I Danced With Her, Cloaked In Night](../authors/constantinbaracca/idancedwithhercloakedinnight.md)
+- Inara Subaka: [Courtesy](../authors/miscauthors/courtesy.md)
+- Eli Jibb: [Options](../authors/miscauthors/elijibb_options.md)
+- Elassus Herron: [Poems of the Sky Temple of the Northern Seas](../authors/elassusherron/poemsoftheskytempleofthenorthernseas.md)
+- Saikoyo: [Not Man](../authors/miscauthors/notman.md)
+- Dantelion Shinoni: [Mortification can’t be Avoided, but Glorification is in our hands.](../authors/dantelionshinoni/mortificationcantbeavoided.md)
 
 ### Prose
 
@@ -82,16 +82,16 @@ Co-Executrix Khimi Harar
 ### Academic/News
 
 - Auriga Menkalinan:
-    - [YC 122 NEWCWC] Khushka Cartel compendium
-    - Knives Out On The Frontier Part I 2 and Knives Out On The Frontier - Part II
-- Kaladote Lafisques: Project 'Alexandria"
-- Nolcond v’Arxi: The Importance of Gold
-- Juris Doctor: Rebuttal of Komi CSM Campaign
+    - [\[YC 122 NEWCWC\] Khushka Cartel compendium]()
+    - [Knives Out On The Frontier Part I 2 and Knives Out On The Frontier - Part II]()
+- Kaladote Lafisques: [Project 'Alexandria"]()
+- Nolcond v’Arxi: [The Importance of Gold]()
+- Juris Doctor: [Rebuttal of Komi CSM Campaign]()
 - Jorianna Gallaire:
-    - Woman, 18, dies of suspected drug overdose
-    - Murder in Jita
-- Gavin Lok’ri: God Does Not Forgive...
-- Jorianna Gallaire: Summit gets ‘White Hot’
-- Utari Onzo: The Pilgrimage of Utari Onzo-Gallius
-- Umbre Fallenstar - The Gravity of New Eden
-- Galm Eskola Fae: Skarkon War News Compliation
+    - [Woman, 18, dies of suspected drug overdose]()
+    - [Murder in Jita]()
+- Gavin Lok’ri: [God Does Not Forgive...]()
+- Jorianna Gallaire: [Summit gets ‘White Hot’]()
+- Utari Onzo: [The Pilgrimage of Utari Onzo-Gallius]()
+- Umbre Fallenstar: [The Gravity of New Eden]()
+- Galm Eskola Fae: [Skarkon War News Compliation]()

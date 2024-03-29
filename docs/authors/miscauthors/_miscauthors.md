@@ -55,6 +55,11 @@ A page colelcting all authors with just one piece in the library.
 
 - [L'Hécate de Nos Mémoires - An Interstellar Love Story](./lhecatedenosmemoires.md) (2017)
 
+## Alexis Clarke
+
+- [Logistics](./logistics.md) (2020)
+
+
 ## Alyla By
 
 - [Immortality](./alylaby_immortality.md)
@@ -171,17 +176,9 @@ A page colelcting all authors with just one piece in the library.
 
 - [To Recover](./torecover.md) (2019)
 
-## Cilisa Lugara
-
-- [Every single in God’s Light](./everysingleingodslight.md) (2019)
-
 ## Conan Barbaris
 
 - [A Thousand Sleepers](./athousandsleepers.md) (2015)
-
-## Constantin Baracca
-
-- [The Embrace of Arms](./theembraceofarms.md) (2019)
 
 ## Corix
 
@@ -262,6 +259,10 @@ A page colelcting all authors with just one piece in the library.
 ## Elias enDiabel
 
 - [The Story](./eliasendiabel_thestory.md) (2019)
+
+## Eli Jibb
+
+- [Options](./elijibb_options.md) (2020)
 
 ## Elinari Rhodan
 
@@ -390,6 +391,10 @@ A page colelcting all authors with just one piece in the library.
 ## igRaVeN
 
 - [A Broken Shell](./abrokenshell.md) (2017)
+
+## Inara Subaka
+
+- [Courtesy](./courtesy.md) (2020)
 
 ## Isaac Neville
 
@@ -595,6 +600,10 @@ A page colelcting all authors with just one piece in the library.
 
 - [Learning](./learning.md) (2012)
 
+## Miriam Hemah
+
+- [Just Breathe](./justbreath.md) (2020)
+
 ## Morgana Tsukiyo
 
 - [A Poem](./morganatsukiyo_apoem.md) (2021)
@@ -736,6 +745,10 @@ A page colelcting all authors with just one piece in the library.
 ## Rusty Boon
 
 - [A Longing for Loss](./alongingforloss.md) (2015)
+
+## Saikoyo
+
+- [Not Man](./notman.md) (2020)
 
 ## Sain Darkwing
 

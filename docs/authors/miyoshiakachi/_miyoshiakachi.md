@@ -39,3 +39,4 @@ Works:
 - [Nobody heard the screaming](./nobodyheardthescreaming.md) (2023)
 - [Wormhole like a wound](./wormholelikeawound.md) (2024)
 - [Love: Lost and Found](./lovelostandfound.md) (2024)
+- [A Haiku collection 2](./ahaikucollection2.md) (2024)
