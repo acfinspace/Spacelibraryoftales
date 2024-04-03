@@ -2,7 +2,7 @@
 tags:
   - Prose
   - UmbreFallenstar
-  - NewEdenCapsuleersWritingContestYC120
+  - NewEdenCapsuleersWritingContestYC122
   - TOBEFORMATTED
 ---
 

@@ -81,7 +81,7 @@ if people have any questions or need rulings, I am the contest administrator and
 - Zedicon Prime:
     - [History of the Temperate Worlds of Helab](../authors/zediconprime.md/historyofthetemperateworldsofhelab.md)
     - [Eras of Soliara III](../authors/zediconprime.md/erasofsoliaraiii.md) (4th Prize)
-- Gavin Lok’ri: [A Briefing on the State of the Empire](../authors/miscauthors/abriefingonthestateoftheempire.md) (2nd Prize)
+- Gavin Lok’ri: [A Briefing on the State of the Empire](../authors/gavinlokri/abriefingonthestateoftheempire.md) (2nd Prize)
 - Evelyn Arnoux: [Ashes to Ascendance](../authors/miscauthors/ashestoascendance.md) (1st Prize, Special Awar from Cassandra Habalu)
 
 

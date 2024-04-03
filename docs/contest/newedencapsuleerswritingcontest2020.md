@@ -16,12 +16,12 @@ There is no minimum length. Maximum length is 30,000 words. There is no required
 Please post entries by linking in this thread or by a clear label in the Eve Fiction category of these forums, e.g. [YC 122 NEWCWC your work title here] as the title.
 
 JUDGES:
-Loai Qerl
-Pol Macsliebh
-Francophobia
-Valdezi
-Haria Haritimado
-Tessande Falconer
+Loai Qerl<br>
+Pol Macsliebh<br>
+Francophobia<br>
+Valdezi<br>
+Haria Haritimado<br>
+Tessande Falconer<br>
 Lightnin Lemmont
 
 ADDITIONAL RULES/COMMENTS
@@ -82,16 +82,16 @@ Co-Executrix Khimi Harar
 ### Academic/News
 
 - Auriga Menkalinan:
-    - [\[YC 122 NEWCWC\] Khushka Cartel compendium]()
-    - [Knives Out On The Frontier Part I 2 and Knives Out On The Frontier - Part II]()
-- Kaladote Lafisques: [Project 'Alexandria"]()
-- Nolcond v’Arxi: [The Importance of Gold]()
-- Juris Doctor: [Rebuttal of Komi CSM Campaign]()
+    - [\[YC 122 NEWCWC\] Khushka Cartel compendium](../authors/aurigamenkalinan.md/yc122newcwckhushkacartelcompendium.md)
+    - [Knives Out On The Frontier](../authors/aurigamenkalinan.md/knivesoutonthefrontier.md)
+- Kaladote Lafisques: [Project 'Alexandria"](../authors/miscauthors/projectalexandria.md)
+- Nolcond v’Arxi: [The Importance of Gold](../authors/miscauthors/theimportanceofgold.md)
+- Juris Doctor: [Rebuttal of Komi CSM Campaign](../authors/miscauthors/rebuttalofkomicsmcampaign.md)
 - Jorianna Gallaire:
-    - [Woman, 18, dies of suspected drug overdose]()
-    - [Murder in Jita]()
-- Gavin Lok’ri: [God Does Not Forgive...]()
-- Jorianna Gallaire: [Summit gets ‘White Hot’]()
-- Utari Onzo: [The Pilgrimage of Utari Onzo-Gallius]()
-- Umbre Fallenstar: [The Gravity of New Eden]()
-- Galm Eskola Fae: [Skarkon War News Compliation]()
+    - [Woman, 18, dies of suspected drug overdose](../authors/joriannagallaire/woman18diesofsuspecteddrugoverdose.md)
+    - [Murder in Jita](../authors/joriannagallaire/murderinjita.md)
+    - [Summit gets ‘White Hot’](../authors/joriannagallaire/summitgetswhitehot.md)
+- Gavin Lok’ri: [God Does Not Forgive...](../authors/gavinlokri/goddoesnotforgive.md)
+- Utari Onzo: [The Pilgrimage of Utari Onzo-Gallius](../authors/miscauthors/thepilgrimageofutarionzo-gallius.md)
+- Umbre Fallenstar: [The Gravity of New Eden](../authors/miscauthors/astudyaboutgravitationalwaves.md)
+- Galm Eskola Fae: [Skarkon War News Compilation](../authors/miscauthors/skarkonwarnewscompilation.md)

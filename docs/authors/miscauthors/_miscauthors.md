@@ -324,10 +324,6 @@ A page colelcting all authors with just one piece in the library.
 
 - [The Lord of the Wings or: How to Choose a Really Bad Title, Chapter 1: Unforeseen Consequences](./thelordofthewingsorhowtochooseabadtitle.md) (2013)
 
-## Gavin Lok’ri
-
-- [A Briefing on the State of the Empire](./abriefingonthestateoftheempire.md) (2022)
-
 ## General Stargazer
 
 - [The League](./theleague.md) (2017)
@@ -451,6 +447,10 @@ A page colelcting all authors with just one piece in the library.
 ## Judas II
 
 - [The Oxfeld Account](./theoxfeldaccount.md) (2015)
+
+## Juris Doctor
+
+- [Rebuttal of Komi CSM Campaign](./rebuttalofkomicsmcampaign.md) (2020)
 
 ## Kagaku Kei
 
@@ -636,6 +636,10 @@ A page colelcting all authors with just one piece in the library.
 ## Nivin Sajjad
 
 - [The Party of a Lifetime](./thepartyofalifetime.md) (2014)
+
+## Nolcond v’Arxi
+
+- [The Importance of Gold](./theimportanceofgold.md) (2020)
 
 ## Nuala Reece
 
@@ -914,6 +918,10 @@ A page colelcting all authors with just one piece in the library.
 ## Uriel Paradisi Anteovnuecci
 
 - [The Giant](./thegiant.md) (2014)
+
+## Utari Onzo
+
+- [The Pilgrimage of Utari Onzo-Gallius](./thepilgrimageofutarionzo-gallius.md) (2020)
 
 ## Vaari
 
