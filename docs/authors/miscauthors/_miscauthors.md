@@ -100,6 +100,10 @@ A page colelcting all authors with just one piece in the library.
 
 - [An Alternate View](./analternateview.md) (2012)
 
+## Arsia Elkin
+
+- [The Little Girl Who Spoke To The Trees](./thelittlegirlwhospoketothetrees.md) (2020)
+
 ## Ashlief
 
 - [Ride of Valkyries](./rideofvalkyries.md) (2012)
@@ -199,10 +203,6 @@ A page colelcting all authors with just one piece in the library.
 ## Darrell Musko
 
 - [Sixty-Two Jumps](./sixty-twojumps.md) (2015)
-
-## DeMichael Crimson
-
-- [SoCT Vacation Transcripts](./soctvacationtranscripts.md) (2019)
 
 ## Diana Kim
 
@@ -388,10 +388,6 @@ A page colelcting all authors with just one piece in the library.
 
 - [A Broken Shell](./abrokenshell.md) (2017)
 
-## Inara Subaka
-
-- [Courtesy](./courtesy.md) (2020)
-
 ## Isaac Neville
 
 - [Revenge](./isaacneville_revenge.md) (2015)
@@ -448,10 +444,6 @@ A page colelcting all authors with just one piece in the library.
 
 - [The Oxfeld Account](./theoxfeldaccount.md) (2015)
 
-## Juris Doctor
-
-- [Rebuttal of Komi CSM Campaign](./rebuttalofkomicsmcampaign.md) (2020)
-
 ## Kagaku Kei
 
 - [7 Friends in Space](./kagakukei_7friendsinspace.md) (2013)
@@ -496,6 +488,10 @@ A page colelcting all authors with just one piece in the library.
 
 - [Turn Home](./turnhome.md) (2019)
 
+## Komi Valentine
+
+- [Conscience](./conscience.md) (2020)
+
 ## Koren Akko
 
 - [I-RCN Article Collection](./ircnarticlescollection.md) (2019)
@@ -519,6 +515,10 @@ A page colelcting all authors with just one piece in the library.
 ## Leehams DaWildabeast
 
 - [Captain's Log](./captainslog.md) (2017)
+
+## Lex Declare
+
+- [Alone, yet not mad](./aloneyetnotmad.md) (2020)
 
 ## Lite Sabre:
 
@@ -669,10 +669,6 @@ A page colelcting all authors with just one piece in the library.
 
 - [Storm on the Horizon](./stormonthehorizon.md) (2012)
 
-## Palis Airuta
-
-- [The Escape](./palisairuta_theescape.md) (2018)
-
 ## Particul
 
 - [Junior Points of View](./juniorpointsofview.md) (2015)
@@ -713,6 +709,10 @@ A page colelcting all authors with just one piece in the library.
 
 - [Clones and Camera Drones](./clonesandcameradrones.md) (2012)
 
+## Renn Omaya
+
+- [Red v Blue](./redvblue.md) (2020)
+
 ## Regalas Davaham/Ben C.
 
 - [Stargate](./regalasdavaham_stargate.md) (2015)
@@ -724,6 +724,10 @@ A page colelcting all authors with just one piece in the library.
 ## Reyg Xander
 
 - [Warp.  Pod.  Repeat.](./warppodrepeat.md) (2018)
+
+## Riccoda Arada
+
+- [Hauling Offer](./haulingoffer.md) (2020)
 
 ## Rinai Vero
 
@@ -753,6 +757,10 @@ A page colelcting all authors with just one piece in the library.
 ## Saikoyo
 
 - [Not Man](./notman.md) (2020)
+
+## Saikoyu
+
+- [Kitsa’s Tale](./kitsastale.md) (2020)
 
 ## Sain Darkwing
 
@@ -915,6 +923,10 @@ A page colelcting all authors with just one piece in the library.
 
 - [A study about gravitational waves, effects and applications](./astudyaboutgravitationalwaves.md) (2018)
 
+## Unknown
+
+- [Signal Origin Unknown](./signaloriginunknown.md) (2020)
+
 ## Uriel Paradisi Anteovnuecci
 
 - [The Giant](./thegiant.md) (2014)
@@ -946,6 +958,10 @@ A page colelcting all authors with just one piece in the library.
 ## Vipieris
 
 - [EVE - Contested Treasures](./eve-contestedtreasures.md) (2012)
+
+## Vladimir Korff
+
+- [The Lesser of Evils](./thelesserofevils.md) (2020)
 
 ## Vulxanis Viceroy
 

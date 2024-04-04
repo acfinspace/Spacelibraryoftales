@@ -52,7 +52,7 @@ tags:
     - [Abyssal Nightmares](../authors/mahazkeivashiigara/abyssalnightmares.md)
 - Shorai Aikyoraan: [Song Without Words](../authors/shoraiaikyoraan/songwithoutwords.md)
 - John LaCroix: [GoodKite](../authors/miscauthors/goodkite.md)
-- Palis Airuta: [The Escape](../authors/miscauthors/palisairuta_theescape.md)
+- Palis Airuta: [The Escape](../authors/palisairuta/palisairuta_theescape.md)
 - Katsumoto Moliko: [The Vale](../authors/katsumotomoliko/thevale.md)
 - Reyg Xander: [Warp.  Pod.  Repeat.](../authors/miscauthors/warppodrepeat.md)
 - Arkade Elerra: [A wild year](../authors/miscauthors/awildyear.md)

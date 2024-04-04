@@ -89,7 +89,7 @@ Executrix Khimi Harar
 - Melisma Ramijozana: [An Entirely Fictional Account of an Entirely Fictional Incident](../authors/miscauthors/anentirelyfictionalaccount.md) (1st Prize)
 - Mahazkie Vas’Hilgara: [The Talk of Tintoh](../authors/mahazkeivashiigara/thetalkoftintoh.md) (Honorable Mention)
 - Aiden Vayle: [In Deep, Chapter 1-3](../authors/miscauthors/indeepchapter13.md) (Honorable Mention)
-- DeMichael Crimson: [SoCT Vacation Transcripts](../authors/miscauthors/soctvacationtranscripts.md) (Honorable Mention)
+- DeMichael Crimson: [SoCT Vacation Transcripts](../authors/demichaelcrimson/soctvacationtranscripts.md) (Honorable Mention)
 - Loai Qerl: [Kingdom’s Just Desserts](../authors/loaiqerl/kingdomsjustdesserts.md) (Not eligible for primary Prize, Organizer’s Prize)
 - Thomas Markand: [What Serpents Would Call This Paradise](../authors/miscauthors/whatserpentswouldcallthisparadise.md) (4th Prize)
 - Auriga Menkalinan: [Clay Maiden](../authors/aurigamenkalinan.md/theclaymaiden.md) (2nd Prize)

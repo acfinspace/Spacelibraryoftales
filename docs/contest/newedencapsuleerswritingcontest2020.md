@@ -5,6 +5,8 @@ tags:
 
 # YC122 New Eden Capsuleers Writing Contest (2020)
 
+Original post: [https://forums.eveonline.com/t/yc-122-new-eden-capsuleers-writing-contest/223209](https://forums.eveonline.com/t/yc-122-new-eden-capsuleers-writing-contest/223209)
+
 In light of the successful contest the last six years I am pleased to announce the SEVENTH (yay!) year for a writing contest for stories or poems by or about Capsuleers/Baseliners and their worlds and cultures.
 
 ## Rules
@@ -51,7 +53,7 @@ Co-Executrix Khimi Harar
 - Kyle Saltz: [I Must Control My Rage](../authors/kylesaltz/imustcontrolmyrage.md)
 - Cilisa Lugara: [Untitled.](../authors/cilisalugara/cilisalugara_untitled.md)
 - Constantin Baracca: [I Danced With Her, Cloaked In Night](../authors/constantinbaracca/idancedwithhercloakedinnight.md)
-- Inara Subaka: [Courtesy](../authors/miscauthors/courtesy.md)
+- Inara Subaka: [Courtesy](../authors/inarasubaka/courtesy.md)
 - Eli Jibb: [Options](../authors/miscauthors/elijibb_options.md)
 - Elassus Herron: [Poems of the Sky Temple of the Northern Seas](../authors/elassusherron/poemsoftheskytempleofthenorthernseas.md)
 - Saikoyo: [Not Man](../authors/miscauthors/notman.md)
@@ -59,25 +61,25 @@ Co-Executrix Khimi Harar
 
 ### Prose
 
-- Unknown Sender: Signal Original Unknown
+- Unknown Sender: [Signal Origin Unknown](../authors/miscauthors/signaloriginunknown.md)
 - Elsebeth Rhiannon:
     - [The God Beyond The Gate](../authors/elsebethrhiannon/thegodbehindthegate.md)
     - [The Woman Who Loved a Ghost](../authors/elsebethrhiannon/thewomanwholovedaghost.md)
-- Lex Declare: Alone, yet not mad
-- Komi Valentine: Conscience
-- Vladimir Korff: The Lesser of Evils
+- Lex Declare: [Alone, yet not mad](../authors/miscauthors/aloneyetnotmad.md)
+- Komi Valentine: [Conscience](../authors/miscauthors/conscience.md)
+- Vladimir Korff: [The Lesser of Evils](../authors/miscauthors/thelesserofevils.md)
 - 4e6f74206964656e 746966696564: [Restless Sleepers](../authors/miscauthors/restlesssleepers.md) (Non-competitive entry, not eligible for prize)
-- Juris Doctor: Shards of Seyllin
-- Hannah Taredi: Graduation Day
-- Palis Airuta: Skimming Stones
-- Renn Omaya: Red v Blue
-- Arsia Elkin: The Little Girl Who Spoke To The Trees
-- Riccoda Arada: Hauling Offer
-- DeMichael Crimson: Anomaly Encounter
-- Inara Subaka: Parables
-- Saikoyu: Kitsa’s Tale
-- Dantelion Shinoni: Glorification is in our Hands, but can Mortification be Avoided
-- Kyle Saltz: Battle for VKI
+- Juris Doctor: [Shards of Seyllin](../authors/jurisdoctor/shardsofsyllin.md)
+- Hannah Taredi: [Graduation Day](../authors/miscauthors/graduationday.md)
+- Palis Airuta: [Skimming Stones](../authors/palisairuta/skimmingstones.md)
+- Renn Omaya: [Red v Blue](../authors/miscauthors/redvblue.md)
+- Arsia Elkin: [The Little Girl Who Spoke To The Trees](../authors/miscauthors/thelittlegirlwhospoketothetrees.md)
+- Riccoda Arada: [Hauling Offer](../authors/miscauthors/haulingoffer.md)
+- DeMichael Crimson: [Anomaly Encounter](../authors/demichaelcrimson/anomalyencounter.md)
+- Inara Subaka: [Parables](../authors/inarasubaka/parables.md)
+- Saikoyu: [Kitsa’s Tale](../authors/miscauthors/kitsastale.md)
+- Dantelion Shinoni: [Glorification is in our Hands, but can Mortification be Avoided](../authors/dantelionshinoni/glorificationisinourhandsbutcanmortificationbeavoided.md)
+- Kyle Saltz: [Battle for VKI](../authors/kylesaltz/battleforvki.md)
 
 ### Academic/News
 
@@ -86,7 +88,7 @@ Co-Executrix Khimi Harar
     - [Knives Out On The Frontier](../authors/aurigamenkalinan.md/knivesoutonthefrontier.md)
 - Kaladote Lafisques: [Project 'Alexandria"](../authors/miscauthors/projectalexandria.md)
 - Nolcond v’Arxi: [The Importance of Gold](../authors/miscauthors/theimportanceofgold.md)
-- Juris Doctor: [Rebuttal of Komi CSM Campaign](../authors/miscauthors/rebuttalofkomicsmcampaign.md)
+- Juris Doctor: [Rebuttal of Komi CSM Campaign](../authors/jurisdoctor/rebuttalofkomicsmcampaign.md)
 - Jorianna Gallaire:
     - [Woman, 18, dies of suspected drug overdose](../authors/joriannagallaire/woman18diesofsuspecteddrugoverdose.md)
     - [Murder in Jita](../authors/joriannagallaire/murderinjita.md)
