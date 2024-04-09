@@ -236,10 +236,6 @@ A page colelcting all authors with just one piece in the library.
 
 - [Harvestor of Souls](./theharvestorofsouls.md) (2012)
 
-## Duke Shasta
-
-- [The Blood of Gladiators](./thebloodofgladiators.md) (2022)
-
 ## Dys Novus
 
 - [For Absent Friends](./forabsentfriends.md) (2012)
@@ -462,7 +458,7 @@ A page colelcting all authors with just one piece in the library.
 
 ## Karene Avarr
 
-- [The Forgotten Place](.theforgottenplace.md) (2018)
+- [The Forgotten Place](./theforgottenplace.md) (2018)
 
 ## Keilidh
 

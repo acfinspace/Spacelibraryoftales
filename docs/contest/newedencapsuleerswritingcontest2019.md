@@ -1,9 +1,12 @@
 ---
 tags:
   - Contest
+  - NewEdenCapsuleersWritingContestYC121
 ---
 
 # YC121 New Eden Capsuleers Writing Contest (2019)
+
+Original post: [https://forums.eveonline.com/t/yc-121-new-eden-capsuleers-writing-contest/143472](https://forums.eveonline.com/t/yc-121-new-eden-capsuleers-writing-contest/143472)
 
 In light of the successful contest the last five years I am pleased to announce the SIXTH (yay!) year for a writing contest for stories or poems by Capsuleers .
 
@@ -11,16 +14,17 @@ In light of the successful contest the last five years I am pleased to announce 
 
 There will be three categories:
 
-Poetry
-Prose
-Academic/News (e.g. Academic, News Reporting, Economic Reports, Science Reports, Theological Writings, Treatises, etc.)
+- Poetry
+- Prose
+- Academic/News (e.g. Academic, News Reporting, Economic Reports, Science Reports, Theological Writings, Treatises, etc.)
+
 There will be a total of at least seven judges, who will judge ALL categories:
 
-Loai Qerl
-Arrendis
-Pol Macsliebh
-Laisariona Raske
-Annabella Rella
+Loai Qerl<br>
+Arrendis<br>
+Pol Macsliebh<br>
+Laisariona Raske<br>
+Annabella Rella<br>
 Francophobia
 
 There is no minimum length. Maximum length is 30,000 words. There is no required subject matter; the content may be fiction or non-fiction. All entries will be considered.
@@ -28,16 +32,16 @@ There is no minimum length. Maximum length is 30,000 words. There is no required
 Submissions are to be made by posting on either
 
 Eve Forums - Fiction Portal - Player Fiction
-https://forums.eveonline.com/c/fiction-portal/fiction 22
+https://forums.eveonline.com/c/fiction-portal/fiction
 
 or Backstage - Eve Fiction Board
-http://backstage.eve-inspiracy.com/index.php?board=6.0 10
+http://backstage.eve-inspiracy.com/index.php?board=6.0
 
 While not required, it helps me track entries if you do start your title [YC 121 NECWC] or something similar. Regardless, Your post should specifically reference at the outset that it is being submitted for consideration in the YC 121 New Eden Capsuleer’s Writing Contest. If you have a good reason why you want to make a private submission, then contact me privately as to why.
 
 DEADLINE for submissions is MAY 15TH of this year.
 
-ADDITIONAL RULES/COMMENTS
+### Additional rules/comments
 
 All judges and I (as administrator) are disqualified from submission.
 

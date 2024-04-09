@@ -14,6 +14,8 @@
 
 ## New Eden Capsuleers Writing Contest
 
+- [YC 120 New Eden Capsuleers Writing Contest](./contest/newedencapsuleerswritingcontest2018.md) (2018)
+- [YC 121 New Eden Capsuleers Writing Contest](./contest/newedencapsuleerswritingcontest2019.md) (2019)
 - [YC 122 New Eden Capsuleers Writing Contest](./contest/newedencapsuleerswritingcontest2020.md) (2020)
 - [YC 123 New Eden Capsuleers Writing Contest](./contest/newedencapsuleerswritingcontest2021.md) (2021)
 - [YC 124 New Eden Capsuleers Writing Contest](./contest/newedencapsuleerswritingcontest2022.md) (2022)

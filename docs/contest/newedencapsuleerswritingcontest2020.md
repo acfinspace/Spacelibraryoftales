@@ -1,6 +1,7 @@
 ---
 tags:
   - Contest
+  - NewEdenCapsuleersWritingContestYC122
 ---
 
 # YC122 New Eden Capsuleers Writing Contest (2020)
@@ -11,7 +12,7 @@ In light of the successful contest the last six years I am pleased to announce t
 
 ## Rules
 
-DEADLINE FOR SUBMISSION - MAY 15th
+DEADLINE FOR SUBMISSION - MAY 15th 2020
 
 There is no minimum length. Maximum length is 30,000 words. There is no required subject matter; the content may be fiction or non-fiction. Prior works are eligible as long as posted or published AFTER May 15, YC 121 (2019). This means, for example, works in the recent story-time thread on the IGS can be nominated by their authors for consideration.
 
@@ -26,7 +27,7 @@ Haria Haritimado<br>
 Tessande Falconer<br>
 Lightnin Lemmont
 
-ADDITIONAL RULES/COMMENTS
+### Additional rules/comments
 
 All judges and I (as administrator) are disqualified from submission for prizes.
 

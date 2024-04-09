@@ -1,37 +1,39 @@
 ---
 tags:
   - Contest
+  - NewEdenCapsuleersWritingContestYC120
 ---
 
 # YC120 New Eden Capsuleers Writing Contest (2018)
 
+Original post: [https://forums.eveonline.com/t/announcement-yc-120-new-eden-capsuleers-writing-contest/65365](https://forums.eveonline.com/t/announcement-yc-120-new-eden-capsuleers-writing-contest/65365)
 
-In light of the successful contest the last four years I am pleased to announce the fifth (?!?! - God time flies) )year for a writing contest for stories or poems by Capsuleers .
+In light of the successful contest the last four years I am pleased to announce the fifth (?!?! - God time flies) year for a writing contest for stories or poems by Capsuleers .
 
 ## Rules
 
 There will be three categories:
 
-Poetry
-Prose
-Academic/News (e.g. Academic, News Reporting, Economic Reports, Science Reports, Theological Writings, Treatises, etc.)
+- Poetry
+- Prose
+- Academic/News (e.g. Academic, News Reporting, Economic Reports, Science Reports, Theological Writings, Treatises, etc.)
+
 There will be a total of at least seven judges, who will judge ALL categories:
 
-Charles Cambridge Schmidt
-Literia
-Silver Night
-Tressith Sefira
-Kador Ouryon
-Mizhir
-Telegram Sam
+Charles Cambridge Schmidt<br>
+Literia<br>
+Silver Night<br>
+Tressith Sefira<br>
+Kador Ouryon<br>
+Mizhir<br>
+Telegram Sam<br>
 Loai Qerl
 
 There is no minimum length. Maximum length is 30,000 words. There is no required subject matter; the content may be fiction or non-fiction. All entries will be considered. Submissions are to be made by posting on Eve Forums - Eve Fiction or on http://backstage.eve-inspiracy.com . Your post should specifically reference at the outset that it is being submitted for consideration in the YC 120 New Eden Capsuleer’s Writing Contest. If you have a good reason why you want to make a private submission, then contact me privately as to why.
 
-DEADLINE for submissions is MAY 30TH of this year.
+DEADLINE for submissions is MAY 30TH 2018.
 
-
-ADDITIONAL RULES/COMMENTS
+### Additional rules/comments
 
 All judges and I (as administrator) are disqualified from submission.
 
@@ -43,7 +45,7 @@ if people have any questions or need rulings, I am the contest administrator and
 
 Cordially, and with God’s Blessings
 
-Lunarisse Aspenstar Daphiti
+Lunarisse Aspenstar Daphiti<br>
 Directrix Societas Sceptri Coronaeque
 
 

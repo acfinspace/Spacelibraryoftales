@@ -1,15 +1,18 @@
 ---
 tags:
   - Contest
+  - NewEdenCapsuleersWritingContestYC123
 ---
 
 # YC123 New Eden Capsuleers Writing Contest (2021)
+
+Original post: [https://forums.eveonline.com/t/yc-123-new-eden-capsuleers-writing-contest/298106](https://forums.eveonline.com/t/yc-123-new-eden-capsuleers-writing-contest/298106)
 
 In light of the successful contest the last seven years I am pleased to announce the EIGHTH (yay!) year for a writing contest for stories or poems by or about Capsuleers/Baseliners and their worlds and cultures.
 
 ## Rules
 
-DEADLINE FOR SUBMISSION - MAY 15th
+DEADLINE FOR SUBMISSION - MAY 15th 2021
 
 There is no minimum length. Maximum length is 15,000 words. There is no required subject matter; the content may be fiction or non-fiction.
 
@@ -17,7 +20,7 @@ Prior works are eligible as long as posted or published AFTER May 15, YC 122 (20
 
 Please post entries by linking in this thread or by a clear label in the Eve Fiction category of these forums, e.g. [YC 123 NEWCWC your work title here] as the title.
 
-### ADDITIONAL RULES/COMMENTS
+### Additional rules/comments
 
 All judges and I (as administrator) are disqualified from submission for prizes.
 
@@ -33,8 +36,8 @@ Also a thank you to this year’s panel of judges for volunteering their time an
 
 Cordially, and with God’s Blessings
 
-Lunarisse Aspenstar Daphiti
-Directrix Societas Sceptri Coronaeque
+Lunarisse Aspenstar Daphiti<br>
+Directrix Societas Sceptri Coronaeque<br>
 Co-Executrix Khimi Harar
 
 ((OOC note - no plagarism! it is requested that the work be “original” to the player entering and not copied from another author.))

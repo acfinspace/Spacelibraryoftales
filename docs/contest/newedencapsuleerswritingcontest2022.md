@@ -1,9 +1,12 @@
 ---
 tags:
   - Contest
+  - NewEdenCapsuleersWritingContestYC124
 ---
 
 # YC124 New Eden Capsuleers Writing Contest (2022)
+
+Original post: [https://forums.eveonline.com/t/yc-124-new-eden-capsuleers-writing-contest/352460](https://forums.eveonline.com/t/yc-124-new-eden-capsuleers-writing-contest/352460)
 
 In light of the successful contest the last eight years I am pleased to announce the NINTH (yay!) year for a writing contest for stories or poems by or about Capsuleers/Baseliners and their worlds and cultures.
 
@@ -17,7 +20,7 @@ Please post entries by linking in this thread or by a clear label in the Eve Fic
 
 Judges: bLoai Qerl, Maira Blackfire, Korsavius, Clementine Lafleur, Nevyn Kumamato, Cassandra Habulu, Pol Macsliebh, and Bin Orlenard.
 
-ADDITIONAL RULES/COMMENTS
+### Additional rules/comments
 
 All judges and I (as administrator) are disqualified from submission for prizes.
 
@@ -63,7 +66,7 @@ if people have any questions or need rulings, I am the contest administrator and
 - Kyle Saltz: [Bells](../authors/kylesaltz/bells.md)
 - wallel Audeles: [Memoirs of a Capsuleer: wallel Audeles: Splintered Soul](../authors/miscauthors/memoirsofacapsuleerwallelaudelessplinteredsoul.md)
 - Arkana Hawker: [A New Deck of Cards](../authors/miscauthors/anewdeckofcards.md)
-- Duke Shasta: [The Blood of Gladiators](../authors/miscauthors/thebloodofgladiators.md) (Honorable Mention, Organizer’s Prize)
+- Duke Shasta: [The Blood of Gladiators](../authors/dukeshasta/thebloodofgladiators.md) (Honorable Mention, Organizer’s Prize)
 - Brisc Rubal: [Short Skirt, Long Jacket](../authors/miscauthors/shortskirtlongjacket.md) (Honorable Mention)
 - Tamara Zalair: [The Messenger](../authors/tamarazalair/themessenger.md)
 - Mizhara Del’Thul: [Walking in Myth](../authors/mizharadelthul/walkinginmyth.md) ( Audit Entry)
