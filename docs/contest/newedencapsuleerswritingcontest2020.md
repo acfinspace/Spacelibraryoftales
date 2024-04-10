@@ -27,6 +27,21 @@ Haria Haritimado<br>
 Tessande Falconer<br>
 Lightnin Lemmont
 
+### Prizes
+
+FIRST PLACE - 5 billion isk<br>
+SECOND PLACE - 3 billion isk<br>
+THIRD PLACE - 750 million isk<br>
+FOURTH PLACE - 250 million isk<br>
+Honorable Mentions - 50 million isk<br>
+(Rolled over from last year - an anonymous donation. Another 5.5 billion received from Arc! 5 Billion from Francophobia! Other Sponsors Welcome and Needed!)
+
+SPECIAL PRIZES:
+
+Each of the Judges may, in their discretion, award a personal prize to the favorite (regardless of the “place” of the submission)
+
+The most “amusing” or “entertaining” to me* or intriguing gets treated to a candlelit dinner by me at a fine restaurant
+
 ### Additional rules/comments
 
 All judges and I (as administrator) are disqualified from submission for prizes.

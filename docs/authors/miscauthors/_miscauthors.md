@@ -64,6 +64,10 @@ A page colelcting all authors with just one piece in the library.
 
 - [Immortality](./alylaby_immortality.md)
 
+## Amicia Cora
+
+- [On the Nature of International Affairs in the Modern Era](./onthenatureofinternationalaffairsinthemodernera.md) (2023)
+
 ## a newbie
 
 - [Spaced...](./spaced.md) (2012)
@@ -156,13 +160,25 @@ A page colelcting all authors with just one piece in the library.
 
 - [Rain and Ash](./rainandash.md) (2014)
 
+## Bullet Kllan
+
+- [Corporation Director Log](./corporationdirectorlog.md) (2023)
+
 ## Caelestina
 
 - [Elusive Desire](./elusivedesire.md) (2013)
 
+## Calus Valmont
+
+- [The Hauler](./thehauler.md) (2023)
+
 ## Canatana Jovakko
 
 - [Some recent adventures that started in low-sec in a Heron.](./somerecentadventuresthatstartedinlowsecinaheron.md) (2017)
+
+## Candide Foole
+
+- [Yearning](./yearning.md) (2023)
 
 ## Carbon Red
 
@@ -179,6 +195,14 @@ A page colelcting all authors with just one piece in the library.
 ## Charles Surge
 
 - [To Recover](./torecover.md) (2019)
+
+## Chongus
+
+- [Fresh Icelandic Air](./freshicelandicair.md) (2023)
+
+## Clisa Lugara
+
+- [Postal Drones](./postaldrones.md) (2023)
 
 ## Conan Barbaris
 
@@ -268,6 +292,10 @@ A page colelcting all authors with just one piece in the library.
 
 - [Star of Blood](./starofblood.md) (2018)
 
+## Ellnore en Divalone
+
+- [Congratulations Intaki](./congratulationsintaki.md) (2023)
+
 ## Emilia Dallocort
 
 - [Podded](./podded.md) (2022)
@@ -275,6 +303,10 @@ A page colelcting all authors with just one piece in the library.
 ## E. Morley/Mars Theran
 
 - [White Star](./whitestar.md) (2012)
+
+## Erica Munory
+
+- [Twelve years of slavery](./twelveyearsofslavery.md) (2023)
 
 ## Eridan
 
@@ -384,6 +416,10 @@ A page colelcting all authors with just one piece in the library.
 
 - [A Broken Shell](./abrokenshell.md) (2017)
 
+## Imlarr Timshae
+
+- [Epitaph for a Capsuleer](./epitaphforacapsuleer.md) (2023)
+
 ## Isaac Neville
 
 - [Revenge](./isaacneville_revenge.md) (2015)
@@ -460,6 +496,10 @@ A page colelcting all authors with just one piece in the library.
 
 - [The Forgotten Place](./theforgottenplace.md) (2018)
 
+## Katya Itzimaru
+
+- [“Untitled”](./katyaitzimaru_untitled.md) (2023)
+
 ## Keilidh
 
 - [Welcome to Hek](./welcometohek.md) (2012)
@@ -516,6 +556,10 @@ A page colelcting all authors with just one piece in the library.
 
 - [Alone, yet not mad](./aloneyetnotmad.md) (2020)
 
+## Lightning Lemmont
+
+- [Haikus](./lightninglemmont_haikus.md) (2023)
+
 ## Lite Sabre:
 
 - [The Three](./litesabre_thethree.md) (2015)
@@ -547,6 +591,10 @@ A page colelcting all authors with just one piece in the library.
 ## Makoto Priano
 
 - [Diamond](./diamond.md) (2013)
+
+## Maksym Sobic
+
+- [About Eve](./abouteve.md) (2023)
 
 ## Matteral
 
@@ -721,6 +769,10 @@ A page colelcting all authors with just one piece in the library.
 
 - [Warp.  Pod.  Repeat.](./warppodrepeat.md) (2018)
 
+## Richard Masseri
+
+- [Ida - To Consider - A Research Paper on the Ida…](./idatoconsider.md) (2023)
+
 ## Riccoda Arada
 
 - [Hauling Offer](./haulingoffer.md) (2020)
@@ -818,6 +870,10 @@ A page colelcting all authors with just one piece in the library.
 
 - [The Path of the Righteous](./thepathoftherighteous.md) (2012)
 
+## Simon Louvaki
+
+- [Ghosts in the Shell…](./ghostsintheshell.md) (2023)
+
 ## Skitterball
 
 - [Miners Trap](./minersblues.md) (2012)
@@ -837,6 +893,10 @@ A page colelcting all authors with just one piece in the library.
 ## Strepan Dorsett
 
 - [Childhood's Memory](./childhoodsmemory.md) (2018)
+
+## Sydeed Ameer Ali
+
+- [His Home Was Among The Stars](./hishomewasamongthestars.md) (2023)
 
 ## Sylvia Carpenter
 
@@ -866,10 +926,6 @@ A page colelcting all authors with just one piece in the library.
 
 - [TEKI[Conscription]](./tekiconscription.md) (2012)
 
-## Theodosius Savnar
-
-- [Eulogy for an Astrahus - The Fall of Farthest Shore](./eulogyforanastrahus.md)
-
 ## The Record Keeper
 
 - [Scotty](./scotty.md) (2017)
@@ -886,6 +942,10 @@ A page colelcting all authors with just one piece in the library.
 
 - [Different Bodies](./differentbodies.md) (2015)
 
+## Tintallel Sharan
+
+- [Ten Thousand Light Years Away](./tenthousandlightyearsaway.md) (2023)
+
 ## Torsnk
 
 - [fleet logistics](./torsnk_fleetlogistics.md)
@@ -898,6 +958,10 @@ A page colelcting all authors with just one piece in the library.
 ## Touval Lysander
 
 - [You don't know me](./youdontknowme.md) (2012)
+
+## Trajon Thrax
+
+- [Sword of God](./swordofgod.md) (2023)
 
 ## Tsao Aubbes
 

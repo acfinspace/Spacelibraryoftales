@@ -33,6 +33,24 @@ There is no minimum length. Maximum length is 30,000 words. There is no required
 
 DEADLINE for submissions is MAY 30TH 2018.
 
+### Prizes
+
+FIRST PLACE - 2.5 billion isk<br>
+SECOND PLACE -1 billion isk<br>
+THIRD PLACE - 500 million isk<br>
+FOURTH PLACE - 100 million isk<br>
+Honorable Mentions - 50 million isk
+
+(*Thank you Francophobia for being our first Sponsor! Thanks also to Pod & Planet ( http://podandplanet.wixsite.com/podandplanet 7 ), the Arakata Research Consortium, Julianni Avala of I-Red, and Ioannis Sepphiros! Other Sponsors Welcome and Needed!)
+
+SPECIAL PRIZES:
+
+To encourage research and science, a special donation of 2 billion ISK has been donated by the Arataka Research Consortium which will be awarded to the winner of the Academic Category in addition to the standard prize.
+
+Additionally, each of the Judges may, in their discretion, award a personal prize to the favorite (regardless of the “place” of the submission)
+
+The most “amusing” or “entertaining” to me* orintriguing gets treated to a candlelit dinner by me at a fine restaurant… and 800 million isk.
+
 ### Additional rules/comments
 
 All judges and I (as administrator) are disqualified from submission.

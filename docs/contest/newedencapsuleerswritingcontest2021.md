@@ -20,6 +20,22 @@ Prior works are eligible as long as posted or published AFTER May 15, YC 122 (20
 
 Please post entries by linking in this thread or by a clear label in the Eve Fiction category of these forums, e.g. [YC 123 NEWCWC your work title here] as the title.
 
+### Prizes
+
+FIRST PLACE - 5 billion isk<br>
+SECOND PLACE - 3 billion isk<br>
+THIRD PLACE - 750 million isk<br>
+FOURTH PLACE - 250 million isk<br>
+Honorable Mentions - 50 million isk
+
+SPECIAL PRIZES:
+
+Each of the Judges may, in their discretion, award a personal prize to the favorite (regardless of the “place” of the submission)
+
+There is also a prize, for the Academic Category, “of up to 1 billion ISK, in the acadenic category, for the best article featuring archaeology or cheese” sponsored by Dr. Valerie Valate.
+
+The most “amusing” or “entertaining” to me* or intriguing gets treated to a candlelit dinner by me at a fine restaurant or a meal at another location
+
 ### Additional rules/comments
 
 All judges and I (as administrator) are disqualified from submission for prizes.

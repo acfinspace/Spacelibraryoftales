@@ -41,6 +41,22 @@ While not required, it helps me track entries if you do start your title [YC 121
 
 DEADLINE for submissions is MAY 15TH of this year.
 
+### Prizes
+
+FIRST PLACE - 8 billion isk<br>
+SECOND PLACE -3 billion isk<br>
+THIRD PLACE - 1 billion isk<br>
+FOURTH PLACE - 100 million isk<br>
+Honorable Mentions - 50 million isk
+
+(*Thank you Hetu Hegirin and Francophobia for being our first Sponsors! Thanks also to the Arakata Research Consortium. We’ve also received an extremely generous anonymous donation, of which 16 billion will be used for this year! (and the rest for next year) Other Sponsors Welcome and Needed!)
+
+SPECIAL PRIZES:
+
+Each of the Judges may, in their discretion, award a personal prize to the favorite (regardless of the “place” of the submission)
+
+The most “amusing” or “entertaining” to me* or intriguing gets treated to a candlelit dinner by me at a fine restaurant… and 800 million isk.
+
 ### Additional rules/comments
 
 All judges and I (as administrator) are disqualified from submission.

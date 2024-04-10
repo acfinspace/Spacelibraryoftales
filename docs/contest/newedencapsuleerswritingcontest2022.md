@@ -20,6 +20,24 @@ Please post entries by linking in this thread or by a clear label in the Eve Fic
 
 Judges: bLoai Qerl, Maira Blackfire, Korsavius, Clementine Lafleur, Nevyn Kumamato, Cassandra Habulu, Pol Macsliebh, and Bin Orlenard.
 
+### Prizes
+
+FIRST PLACE - 5 billion isk<br>
+SECOND PLACE - 3 billion isk<br>
+THIRD PLACE - 750 million isk<br>
+FOURTH PLACE - 250 million isk<br>
+Honorable Mentions - 50 million isk
+
+SPECIAL PRIZES:
+
+There is a special incentive prize, for the Academic and News Category, of an additional 5 billion each, for the winner, donated by Lauralite Anne Brezia!
+
+There is a special prize for the best Triglavian themed entry from Clementine Lefleur.
+
+Each of the Judges may, in their discretion, award a personal prize to the favorite (regardless of the “place” of the submission)
+
+The most “amusing” or “entertaining” to me* or intriguing gets treated to a candlelit dinner by me at a fine restaurant or a meal at another location
+
 ### Additional rules/comments
 
 All judges and I (as administrator) are disqualified from submission for prizes.
@@ -42,7 +60,7 @@ if people have any questions or need rulings, I am the contest administrator and
     - [Rhyme of an Amarr](../authors/zediconprime.md/rhymeofanamarr.md)
     - [Ramblings of the Stellar Mariner](../authors/zediconprime.md/ramblingsofthestellarmariner.md)
 - Alda Malukker: [Captured](../authors/miscauthors/captured.md) (3nd Prize)
-- Theodosius Savnar: [Eulogy for an Astrahus - The Fall of Farthest Shore](../authors/miscauthors/eulogyforanastrahus.md) (3rd Prize)
+- Theodosius Savnar: [Eulogy for an Astrahus - The Fall of Farthest Shore](../authors/theodosiussavnar/eulogyforanastrahus.md) (3rd Prize)
 - Tsuneshi Ryuzoiji: [A Corny Love Poem](../authors/miscauthors/acornylovepoem.md)
 - Tamara Zalair: [Behemoth](../authors/tamarazalair/behemoth.md)
 - Yun-Hee ’Tight-lips’ Yubari: [The Black Song’s Flight](../authors/miscauthors/theblacksongsflight.md) (1st Prize)
