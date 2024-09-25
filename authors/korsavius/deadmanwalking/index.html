@@ -1,0 +1,570 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+      
+      
+      
+      <link rel="icon" href="../../../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.5.36">
+    
+    
+      
+        <title>Dead Man Walking - Space library of tales</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../../assets/stylesheets/main.06209087.min.css">
+      
+        
+        <link rel="stylesheet" href="../../../assets/stylesheets/palette.06af60db.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+    <script>__md_scope=new URL("../../..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+  
+
+
+  
+  
+
+<script id="__analytics">function __md_analytics(){function e(){dataLayer.push(arguments)}window.dataLayer=window.dataLayer||[],e("js",new Date),e("config","G-77VR86ZY08"),document.addEventListener("DOMContentLoaded",(function(){document.forms.search&&document.forms.search.query.addEventListener("blur",(function(){this.value&&e("event","search",{search_term:this.value})}));document$.subscribe((function(){var t=document.forms.feedback;if(void 0!==t)for(var a of t.querySelectorAll("[type=submit]"))a.addEventListener("click",(function(a){a.preventDefault();var n=document.location.pathname,d=this.getAttribute("data-md-value");e("event","feedback",{page:n,data:d}),t.firstElementChild.disabled=!0;var r=t.querySelector(".md-feedback__note [data-md-value='"+d+"']");r&&(r.hidden=!1)})),t.hidden=!1})),location$.subscribe((function(t){e("config","G-77VR86ZY08",{page_path:t.pathname})}))}));var t=document.createElement("script");t.async=!0,t.src="https://www.googletagmanager.com/gtag/js?id=G-77VR86ZY08",document.getElementById("__analytics").insertAdjacentElement("afterEnd",t)}</script>
+  
+    <script>if("undefined"!=typeof __md_analytics){var consent=__md_get("__consent");consent&&consent.analytics&&__md_analytics()}</script>
+  
+
+    
+    
+    
+  </head>
+  
+  
+    
+    
+      
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="cyan" data-md-color-accent="blue">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#dead-man-walking" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+  
+
+<header class="md-header md-header--shadow" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href="../../.." title="Space library of tales" class="md-header__button md-logo" aria-label="Space library of tales" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"/></svg>
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            Space library of tales
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Dead Man Walking
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+        <form class="md-header__option" data-md-component="palette">
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="(prefers-color-scheme: light)" data-md-color-scheme="default" data-md-color-primary="cyan" data-md-color-accent="blue"  aria-label="Switch to dark mode"  type="radio" name="__palette" id="__palette_0">
+    
+      <label class="md-header__button md-icon" title="Switch to dark mode" for="__palette_1" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m17.75 4.09-2.53 1.94.91 3.06-2.63-1.81-2.63 1.81.91-3.06-2.53-1.94L12.44 4l1.06-3 1.06 3zm3.5 6.91-1.64 1.25.59 1.98-1.7-1.17-1.7 1.17.59-1.98L15.75 11l2.06-.05L18.5 9l.69 1.95zm-2.28 4.95c.83-.08 1.72 1.1 1.19 1.85-.32.45-.66.87-1.08 1.27C15.17 23 8.84 23 4.94 19.07c-3.91-3.9-3.91-10.24 0-14.14.4-.4.82-.76 1.27-1.08.75-.53 1.93.36 1.85 1.19-.27 2.86.69 5.83 2.89 8.02a9.96 9.96 0 0 0 8.02 2.89m-1.64 2.02a12.08 12.08 0 0 1-7.8-3.47c-2.17-2.19-3.33-5-3.49-7.82-2.81 3.14-2.7 7.96.31 10.98 3.02 3.01 7.84 3.12 10.98.31"/></svg>
+      </label>
+    
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="(prefers-color-scheme: dark)" data-md-color-scheme="slate" data-md-color-primary="cyan" data-md-color-accent="blue"  aria-label="Switch to light mode"  type="radio" name="__palette" id="__palette_1">
+    
+      <label class="md-header__button md-icon" title="Switch to light mode" for="__palette_0" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 7a5 5 0 0 1 5 5 5 5 0 0 1-5 5 5 5 0 0 1-5-5 5 5 0 0 1 5-5m0 2a3 3 0 0 0-3 3 3 3 0 0 0 3 3 3 3 0 0 0 3-3 3 3 0 0 0-3-3m0-7 2.39 3.42C13.65 5.15 12.84 5 12 5s-1.65.15-2.39.42zM3.34 7l4.16-.35A7.2 7.2 0 0 0 5.94 8.5c-.44.74-.69 1.5-.83 2.29zm.02 10 1.76-3.77a7.131 7.131 0 0 0 2.38 4.14zM20.65 7l-1.77 3.79a7.02 7.02 0 0 0-2.38-4.15zm-.01 10-4.14.36c.59-.51 1.12-1.14 1.54-1.86.42-.73.69-1.5.83-2.29zM12 22l-2.41-3.44c.74.27 1.55.44 2.41.44.82 0 1.63-.17 2.37-.44z"/></svg>
+      </label>
+    
+  
+</form>
+      
+    
+    
+      <script>var palette=__md_get("__palette");if(palette&&palette.color){if("(prefers-color-scheme)"===palette.color.media){var media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']");palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent")}for(var[key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
+    
+    
+    
+      <label class="md-header__button md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+      </label>
+      <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+        <button type="reset" class="md-search__icon md-icon" title="Clear" aria-label="Clear" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/></svg>
+        </button>
+      </nav>
+      
+        <div class="md-search__suggest" data-md-component="search-suggest"></div>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" tabindex="0" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+
+<nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../../.." title="Space library of tales" class="md-nav__button md-logo" aria-label="Space library of tales" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"/></svg>
+
+    </a>
+    Space library of tales
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../.." class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Home
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../authorsindex/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Author index
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../contestindex/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Contest index
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../tagsexplained/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    The meaning of tags
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../tags/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Tags
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              <article class="md-content__inner md-typeset">
+                
+                  
+  
+<nav class="md-tags" >
+  
+    
+    
+    
+      <a href="../../../tags/#prose" class="md-tag">Prose</a>
+    
+  
+    
+    
+    
+      <a href="../../../tags/#korsavius" class="md-tag">Korsavius</a>
+    
+  
+</nav>
+
+
+
+<h1 id="dead-man-walking">Dead Man Walking</h1>
+<blockquote>
+<p>Author: Korsavius</p>
+<p>Original post: <a href="https://backstage.eve-inspiracy.com/index.php?topic=5685.msg93257#msg93257">https://backstage.eve-inspiracy.com/index.php?topic=5685.msg93257#msg93257</a></p>
+</blockquote>
+<p><em>Clack, clack, clack.</em></p>
+<p>The weight of the suit bears down on him. He breathes heavily, but calmly with exhaustion.</p>
+<p><em>Clack, clack, clack.</em></p>
+<p>He looks down at the necklace entangled in his hands - that beautiful teardrop-shape jade amulet which glimmers under the dim lighting of the corridor. It strengthens his resolve. He pushes forward.</p>
+<p><em>Clack, clack, clack.</em></p>
+<p><em>Woosh.</em></p>
+<p>The doors of the cockpit open smoothly, welcoming their pilot home. He collapses on the pilot’s seat, and silences the constant pinging of the incoming hails. The concern of his crew becomes quite obvious, but they need not wait long to see him again. He summons the strength to punch in a few commands, and the small shuttle obeys. The engines awaken as thrusters lift the shuttle off the ground while automatic seatbelts fasten the pilot in.</p>
+<p>He glances one last time as the small jade pendant still on his hand. Warm streams clean the blood and dirt off his dark cheeks. He closes his eyes, and is transported to another place, another time.</p>
+<p>-</p>
+<p>The sun shines down on the land; the wind shapes the clouds effortlessly, a wisp here and a puff there. In the forest, the sounds of two boys playing reverberate among the trees. The children leap and roll around an old orchard tree alone in a small clearing of the forest. Light mist in the air meshes with the mid-day sun to produce a golden haze. Bioluminescent insects dance along around the tree with the children. Smells of the earth and the ocean come together. The scene is intoxicatingly beautiful and serene.</p>
+<p>A woman of dark complexion approaches the scene. She watches quietly, and smiles at the youngsters who seem so oblivious to the world around them. She can contain herself no longer, and she joins the children in laughter. The forest seems alive with the mellifluous sounds of laughter from the children and the woman. She reveals herself, and calls out to them. Both the boys run over to her and embrace her. Together they walk back home.</p>
+<p>One of the boys, who shares a complexion akin to that of the woman, looks up at her. Her face appears young, but worn. The glimmer of her big eyes rivals the sparkle of a small, teardrop-shape jade amulet that rests on her chest. The boy takes his mother's hand and smiles.</p>
+<p>-</p>
+<p>His face beams on the local news; his actions made quite the headlines. A seemingly ordinary, young security officer for Peace and Order Unit stepped beyond expectation to put an end to illegal human trafficking in his sector of the planet. No one knows how he managed to accomplish this feat with the obstacles and resource limitations experienced by your average security officer. Regardless of how he did it, his actions were for the good of the State, and that is what matters. Some people also pay attention to the fact that he is not of Caldari blood, but rather Minmatar. This difference in lineage does not matter, though. He possesses the determination and resolve of any true citizen of the State.</p>
+<p>He became somewhat of an anomaly to the people of the sector. The local SuVee authorities held a hidden resentment towards him for doing a job they could not. The more reserved inhabitants felt uncomfortable that someone not of Caldari blood did a job no other Caldari could apparently do. Other residents welcomed this man as a well-respected figure in their society. Yet, unbeknownst to everyone not part of the trade, the organization to whom the locked up thugs belonged to patiently planned their retribution. The Guristas pirates are not some organization an ordinary folk wants to meddle with. They will enforce this reputation.</p>
+<p>For now, though, life goes on.</p>
+<p>Some people give nods of acknowledgement, or bows of respect as he passes them on the streets; others do not, or simply refuse to. He continues to walk forward, unphased – this is normal for him. In fact this is quite normal for most people whose bloodlines cannot be traced back to the original dwellers of Caldari Prime.</p>
+<p>Thankfully though, in the State, an action of merit and valor will be rewarded appropriately. The young Mr. Valerian Surkousa, who inherited his father’s business empire after his abrupt demise, appointed the man with the position of Chief of Security. Thus, he saw less of the streets, and more of the cold steel walls of the headquarters he oversaw. As a result, he relished in any case severe enough to warrant his time out of the office and into the field. Regardless of whether or not he enjoys his new position, he will execute his duties proficiently and efficiently. He was raised Caldari, after all, and this is the Caldari way.</p>
+<p>-</p>
+<p>“Oh Korbin, I am so proud of you!” The woman smiles wide, causing slight wrinkles to form gentle crevices all across her face. She clasps a teardrop-shape jade amulet as she speaks.</p>
+<p>“My son, my humble son, soon to be joining the ranks of the starstriders! Once you graduate from the university, be sure the first thing you buy is a ticket home! And…,” she continues, “happy birthday! The cake I ordered should have reached your apartment by now. I hope you like it!” Korbin looks over at the half-eaten cake sitting on the kitchen table, and smiles.</p>
+<p>“Right, well, I have to go for now. Remember to leave a reply this time!” She blows a kiss to the camera drone, and cuts off the feed. The hologram projecting the pre-recorded message dissipates, and a new menu materializes. He comes near to selecting the “leave reply” option, but, upon checking the time, opts for the “remind me later” option. He’ll be late for work if he does not leave immediately.</p>
+<p>With a few rushed bites, he finishes a piece of cake and strides towards the exit, making sure to grab his coat and keys on the way out. On his trek out the apartment, he couldn’t help but maintain a big grin on his face at the thought of his mother’s words. She is, to his knowledge, the only surviving family member – his father passed many years ago. Korbin certainly isn’t religious by any means, but he felt a sense of solace in knowing his father’s spirit was watching over him.</p>
+<p>He bid farewell to one of his neighbors on the way out of the apartment complex. The place was by no means luxurious or high-class. Typical of Minmatar infrastructure, the complex was very large, and of a brownish-rusty hue. It was also somewhat dirty-looking, but none of the residents seemed to mind. In the Republic, they say, one takes any decent roof over their head they can afford. This was certainly the case for Korbin, a current fourth-year Pator Tech School student. Only the cost of his education was paid in full by his corporation, and he had a little bit of spending money for food. He had to pay for housing himself.</p>
+<p>Even though he considers himself Caldari in demeanor and spirit, he makes sure to blend in well with the populations of Brutor, Sebiestor, and Vherokior. See, when people learned of his cultural roots, people saw him as an outsider, a stranger to the Republic. Thus, he received words and glances of indifference (and sometimes malice) from those who found out his history. Some of these people were folks who he once considered friends when he first moved to the Republic four years ago. So, although he was Minmatar by blood, he still didn’t quite fit in. This frustration of being an outsider to both his mother nation and the nation from which his blood can be traced back to caused him to climb into reclusiveness. He couldn’t wait to graduate so he could return home.</p>
+<p>He checks his watch again. If he continues on his normal route, he will be late again, and that can’t happen. Korbin stops walking for a few moments in the middle of a sea of flowing people to recalculate the optimal route. His gaze wanders, and finally locks on to a small alleyway that should cut his travel time down significantly. When he approaches the alley, he slows down with hesitation. This neighborhood has been known to be a fairly crime-heavy sector in the city. Another look at his watch and he pushes forward with reluctance.</p>
+<p>Just the atmosphere itself oozes bad radiation. Typical of alleys, it is dark, damp, smelly, and dirty. Korbin walks past several suspicious characters smoking against one of the walls, and talking in hushed tones – they look at him funny, but continue on chatting shadily. Deeper down the pathway, he meets another group of huddled men who are drinking and gambling noisily. They are too drunk to pay him any attention, and he paces forward. Sure enough, after he turns a corner and enters the last stretch of the maze of alleys, a trio of unfriendly-looking men approaches Korbin.</p>
+<p>“Hey, you,” one of the men slurs as he takes a drink from his bottle. Another man pushes Korbin against the wall with light force.</p>
+<p>“What are you up to, friend?” inquires the third man.</p>
+<p>“Hey, wait a sec…I know you,” the second man says. He squints his eyes and analyzes Korbin carefully. “Yeah…you’re that Caldari-turned rat Torf told me about a few days ago!”</p>
+<p>At this comment, Korbin sweeps the man’s hands off his shoulders. The man quickly re-engages his former position, and the other two surround him as well. Face-to-face, Korbin can smell the alcohol trailing out of the trio’s mouths.  Clearly agitated at this point, he sighs and replies firmly to the men.</p>
+<p>“Look, I don’t have any money. So you can try your luck with some other poor folk.” Korbin maneuvers his arms to release the grip once more, but the other two drunks grab hold of them and restrain him further.</p>
+<p>“Woah, woah, woah, friend. Who said we wanted your money?” asks the second man. He gives a signaling grin to his partners, and they each pull out pocket knives. “No, no, no. What we want,” he pauses to take a drink, “is to get rid of scum like you from the Republic. You could be an agent working for the Amarr or some corporate spy for all we know. Can’t have that now can we!”</p>
+<p>“Yeah!” the other two miscreants reply in unison.</p>
+<p>Before the men can say anything further, they are interrupted by an elderly Brutor man. Korbin looks at the man with wide, confused eyes – it is his boss. The elderly man tilts his head at the scene, and nods to himself with a slight chuckle.</p>
+<p>“What are you lookin’ at, old hag?!” one of the men shouts. “Beat it before I cut you  up for dinner!”</p>
+<p>At this response the old man simply nods his head and gives a calm retort. “I suggest you let the man go, lad.” He smiles wide, and the wrinkles on his face become more defined.</p>
+<p>The trio look at each other and laugh. The man still pinning Korbin against the wall nods his head to the others who start to approach the old man maliciously. Korbin prepares his body to release the adrenaline required to overpower the men, and protect his boss and himself from the imminent attack. Before he can act, however, the old man shocks them all.</p>
+<p>As one of the thugs raises his hand to strike the elder, the elder quickly pulls out a blaster pistol, and proceeds to blow off the man’s hand with expert precision. The thug immediately screams in pain and shock as he collapses to the floor. His partner drops his weapon and stumbles back a few steps. Before the old man can say anything the trio quickly flee the scene in terror. The man laughs to himself as he watches the drunks clumsily flee. He turns his attention to Korbin, who has a look of confusion painted over his face.</p>
+<p>“I…I don’t know,” Korbin manages to stutter. “I – thank you.”</p>
+<p>The old man gazes intently into Korbin’s eyes. For the past four years he has seen him grow and develop his skills as a teamaker. He shifts his gaze briefly at the thug’s bloody hand lying on the cold, dead floor. The man approaches Korbin, and hands him the blaster pistol.</p>
+<p>“Korbin, for the past four years you have worked hard and diligently for my teashop. You are of a different breed,” he says, “one that knows how to prepare a delicious cup of tea!” The two share a couple laughs.</p>
+<p>“If anything, I should be the one thanking you. Thank you, Korbin.” Korbin nods sheepishly, completely thrown off by the act of gratitude.</p>
+<p>“But,” he asks, “why are you giving me this?” He looks down at the blaster pistol in his hands. It is a beautiful piece of machinery. Intricate patterns are engraved along the sides of the barrel, and it shines brilliantly despite the dim lighting of the alleyway.</p>
+<p>“Isn’t it obvious? You clearly need this more than I do. And,” the man sighs, “I fear your necessity to keep it with you at all times will only increase with time.” Korbin nods.</p>
+<p>“You will be graduating soon, I know. I know you don’t like the Republic, and I can’t blame you. You want to go home. Keep it with you as a thank you for all your faithful years of service to my shop, son.” Korbin takes the holster from the man, and stores the gun underneath his coat.</p>
+<p>Even though this man grew up light years away from Korbin’s birthplace, he couldn’t help but feel a deep connection with him. A Brutor, raised Brutor, but of the same spirit as himself – a Brutor, raised Caldari. This will be an act of kindness he will never forget. A lesson of life he will always remember.</p>
+<p>“Come,” says the old man, “let us have a nice cup of warm tea.” The pair walks together out the dark alley, and to the teashop where they enjoy a fine serving of sweet tea.</p>
+<p>-</p>
+<p>Graduation day was nothing special, just another formality. The procession seemed to take ages. Korbin wanted nothing more than to get the ordeal over with so he can take the couple of suitcases holding all his belongings, and get on the next Interbus shuttle to the Caldari State. He spent the day before working at the teashop alongside the old man. Once his final work day was over, the two exchanged farewells, and Korbin promised to keep in touch with him.</p>
+<p>When the ceremony ends, Korbin practically runs back to his apartment complex. He quickly changes clothes and darts out the apartment to the nearest starport. His heart races with joy and anticipation.</p>
+<p>While waiting for the shuttle to finish its take-off procedures, Korbin looks out the window into the cityscape. Dusk is approaching, and the orange sun blends with the polluted skies to create a rusty blanket over the city.  He told his mother he was leaving for the State the next day, he wants to surprise her. As the shuttle ascends into orbit, he closes his eyes and falls asleep dreaming of the forests and mountains he grew up near.</p>
+<p>-</p>
+<p>Aside from seeing his mother for the first time in four years, he also yearns to ride his beloved hoverbike that was gifted to his family more than a decade ago by the Surkousa family for loyal years of service. In his humble opinion, the newer models of hoverbikes just don’t compare. They don’t make them like they used to. His bike waits for him at the starport, and Korbin can’t help but wear a huge grin on his face as he loads up his luggage on it. Tuning the various instruments, he appears quite satisfied, and is sure it is in the condition he left it four years ago. He throttles down the accelerator and prepares for the long travel ahead of him.</p>
+<p>Korbin takes in the familiar surroundings of the city, and eventually, the countryside. Abagawa IV is mostly an agricultural world, with only a handful of cities placed throughout the planet. He relishes riding in the more rural districts. His mother’s house is located just outside a small rural farming community, and it only takes a couple hours to get there from the city.</p>
+<p>As he approaches the house, however, he notices immediately something is off about the place. Nothing seems visibly wrong as he approaches the building, but for some odd reason he feels something is wrong. He quickly parks his hoverbike and calls out to his mother. He walks around the perimeter to the front entrance, and notices the door is open. As he enters the house cautiously, he calls out his mother’s name a few more times.</p>
+<p>Nothing could prepare him for what he would stumble into.</p>
+<p>When he turns a corner, and enters the kitchen, he sees the place has been invaded. Blood and broken dishware litter the floor. Korbin’s heart sinks to the pit of his stomach. He begins to feel extremely dizzy, and unfortunately, his mind betrays him and begins to run over all sorts of horrible scenarios as to what happened. Trying to walk becomes a strenuous activity. He begins to pant, and his hands begin to sweat.</p>
+<p>Carefully, he walks through the kitchen and into the living room. There, on one of the walls, rests a symbol painted black which will grow to signify evil in his life from here on out. And on the floor of the living room, lies his mother, beaten and bloodied. The weight of his body becomes too much to bear. He collapses to his knees beside his mother. Korbin summons the remaining strength in his body to check for a pulse. By some miracle, Cold Wind, he feels a pulse. He feels a pulse.</p>
+<p>He looks at the symbol hastily painted on the wall. A rage he has never experienced in his life before overcomes him. A black vortex takes the place of his heart. It destroys his mercy. It destroys his kindness. He will hunt the followers of this emblem to the edges of the cluster. He will kill the ones responsible for this. And he will not stop until they cease to be.</p>
+<p>Those bent, overgrown rabbit ears. That ugly, distorted skull. Nothing will save any Guristas member he encounters from here on out. He will shoot first, and not even bother asking questions later. The justice system he grew up abiding by meant nothing to him now. He will redefine the word justice, make it his own. And to those Guristas who cross his path, pray that they are killed swiftly and painlessly.</p>
+<p>He pulls out his NeoPad to call for the local authorities. He exhales. Korbin rests his hand over his mother’s jade necklace. He pulls it off, and holds it in his hand for a long time just staring at it. Now is not the time for grieving, he reminds himself. There is much work to be done now, much evidence to sift through.</p>
+<p>The Guristas can try all they’d like to kill him, to end him. Their efforts will prove futile, however. He is already a dead man walking.</p>
+
+
+
+
+
+
+
+  
+  
+
+
+
+  
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+          <button type="button" class="md-top md-icon" data-md-component="top" hidden>
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8z"/></svg>
+  Back to top
+</button>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+      <div class="md-consent" data-md-component="consent" id="__consent" hidden>
+        <div class="md-consent__overlay"></div>
+        <aside class="md-consent__inner">
+          <form class="md-consent__form md-grid md-typeset" name="consent">
+            
+
+  
+    
+  
+
+
+
+
+  
+
+
+<h4>Cookie consent</h4>
+<p>We use cookies to recognize your repeated visits and preferences, as well as to measure the effectiveness of our documentation and whether users find what they're searching for. With your consent, you're helping us to make our documentation better.</p>
+<input class="md-toggle" type="checkbox" id="__settings" >
+<div class="md-consent__settings">
+  <ul class="task-list">
+    
+      
+      
+        
+        
+      
+      <li class="task-list-item">
+        <label class="task-list-control">
+          <input type="checkbox" name="analytics" checked>
+          <span class="task-list-indicator"></span>
+          Google Analytics
+        </label>
+      </li>
+    
+  </ul>
+</div>
+<div class="md-consent__controls">
+  
+    
+      <button class="md-button md-button--primary">Accept</button>
+    
+    
+    
+  
+    
+    
+    
+      <label class="md-button" for="__settings">Manage settings</label>
+    
+  
+</div>
+          </form>
+        </aside>
+      </div>
+      <script>var consent=__md_get("__consent");if(consent)for(var input of document.forms.consent.elements)input.name&&(input.checked=consent[input.name]||!1);else"file:"!==location.protocol&&setTimeout((function(){document.querySelector("[data-md-component=consent]").hidden=!1}),250);var form=document.forms.consent;for(var action of["submit","reset"])form.addEventListener(action,(function(e){if(e.preventDefault(),"reset"===e.type)for(var n of document.forms.consent.elements)n.name&&(n.checked=!1);__md_set("__consent",Object.fromEntries(Array.from(new FormData(form).keys()).map((function(e){return[e,!0]})))),location.hash="",location.reload()}))</script>
+    
+    <script id="__config" type="application/json">{"base": "../../..", "features": ["search.suggest", "search.highlight", "navigation.path", "navigation.top"], "search": "../../../assets/javascripts/workers/search.6ce7567c.min.js", "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}}</script>
+    
+    
+      <script src="../../../assets/javascripts/bundle.56dfad97.min.js"></script>
+      
+    
+  </body>
+</html>

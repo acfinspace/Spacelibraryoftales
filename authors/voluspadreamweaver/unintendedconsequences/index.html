@@ -1,0 +1,557 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+      
+      
+      
+      <link rel="icon" href="../../../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.5.36">
+    
+    
+      
+        <title>Unintended Consequences - Space library of tales</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../../assets/stylesheets/main.06209087.min.css">
+      
+        
+        <link rel="stylesheet" href="../../../assets/stylesheets/palette.06af60db.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+    <script>__md_scope=new URL("../../..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+  
+
+
+  
+  
+
+<script id="__analytics">function __md_analytics(){function e(){dataLayer.push(arguments)}window.dataLayer=window.dataLayer||[],e("js",new Date),e("config","G-77VR86ZY08"),document.addEventListener("DOMContentLoaded",(function(){document.forms.search&&document.forms.search.query.addEventListener("blur",(function(){this.value&&e("event","search",{search_term:this.value})}));document$.subscribe((function(){var t=document.forms.feedback;if(void 0!==t)for(var a of t.querySelectorAll("[type=submit]"))a.addEventListener("click",(function(a){a.preventDefault();var n=document.location.pathname,d=this.getAttribute("data-md-value");e("event","feedback",{page:n,data:d}),t.firstElementChild.disabled=!0;var r=t.querySelector(".md-feedback__note [data-md-value='"+d+"']");r&&(r.hidden=!1)})),t.hidden=!1})),location$.subscribe((function(t){e("config","G-77VR86ZY08",{page_path:t.pathname})}))}));var t=document.createElement("script");t.async=!0,t.src="https://www.googletagmanager.com/gtag/js?id=G-77VR86ZY08",document.getElementById("__analytics").insertAdjacentElement("afterEnd",t)}</script>
+  
+    <script>if("undefined"!=typeof __md_analytics){var consent=__md_get("__consent");consent&&consent.analytics&&__md_analytics()}</script>
+  
+
+    
+    
+    
+  </head>
+  
+  
+    
+    
+      
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="cyan" data-md-color-accent="blue">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#unintended-consequences" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+  
+
+<header class="md-header md-header--shadow" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href="../../.." title="Space library of tales" class="md-header__button md-logo" aria-label="Space library of tales" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"/></svg>
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            Space library of tales
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Unintended Consequences
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+        <form class="md-header__option" data-md-component="palette">
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="(prefers-color-scheme: light)" data-md-color-scheme="default" data-md-color-primary="cyan" data-md-color-accent="blue"  aria-label="Switch to dark mode"  type="radio" name="__palette" id="__palette_0">
+    
+      <label class="md-header__button md-icon" title="Switch to dark mode" for="__palette_1" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m17.75 4.09-2.53 1.94.91 3.06-2.63-1.81-2.63 1.81.91-3.06-2.53-1.94L12.44 4l1.06-3 1.06 3zm3.5 6.91-1.64 1.25.59 1.98-1.7-1.17-1.7 1.17.59-1.98L15.75 11l2.06-.05L18.5 9l.69 1.95zm-2.28 4.95c.83-.08 1.72 1.1 1.19 1.85-.32.45-.66.87-1.08 1.27C15.17 23 8.84 23 4.94 19.07c-3.91-3.9-3.91-10.24 0-14.14.4-.4.82-.76 1.27-1.08.75-.53 1.93.36 1.85 1.19-.27 2.86.69 5.83 2.89 8.02a9.96 9.96 0 0 0 8.02 2.89m-1.64 2.02a12.08 12.08 0 0 1-7.8-3.47c-2.17-2.19-3.33-5-3.49-7.82-2.81 3.14-2.7 7.96.31 10.98 3.02 3.01 7.84 3.12 10.98.31"/></svg>
+      </label>
+    
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="(prefers-color-scheme: dark)" data-md-color-scheme="slate" data-md-color-primary="cyan" data-md-color-accent="blue"  aria-label="Switch to light mode"  type="radio" name="__palette" id="__palette_1">
+    
+      <label class="md-header__button md-icon" title="Switch to light mode" for="__palette_0" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 7a5 5 0 0 1 5 5 5 5 0 0 1-5 5 5 5 0 0 1-5-5 5 5 0 0 1 5-5m0 2a3 3 0 0 0-3 3 3 3 0 0 0 3 3 3 3 0 0 0 3-3 3 3 0 0 0-3-3m0-7 2.39 3.42C13.65 5.15 12.84 5 12 5s-1.65.15-2.39.42zM3.34 7l4.16-.35A7.2 7.2 0 0 0 5.94 8.5c-.44.74-.69 1.5-.83 2.29zm.02 10 1.76-3.77a7.131 7.131 0 0 0 2.38 4.14zM20.65 7l-1.77 3.79a7.02 7.02 0 0 0-2.38-4.15zm-.01 10-4.14.36c.59-.51 1.12-1.14 1.54-1.86.42-.73.69-1.5.83-2.29zM12 22l-2.41-3.44c.74.27 1.55.44 2.41.44.82 0 1.63-.17 2.37-.44z"/></svg>
+      </label>
+    
+  
+</form>
+      
+    
+    
+      <script>var palette=__md_get("__palette");if(palette&&palette.color){if("(prefers-color-scheme)"===palette.color.media){var media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']");palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent")}for(var[key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
+    
+    
+    
+      <label class="md-header__button md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+      </label>
+      <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+        <button type="reset" class="md-search__icon md-icon" title="Clear" aria-label="Clear" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/></svg>
+        </button>
+      </nav>
+      
+        <div class="md-search__suggest" data-md-component="search-suggest"></div>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" tabindex="0" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+
+<nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../../.." title="Space library of tales" class="md-nav__button md-logo" aria-label="Space library of tales" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"/></svg>
+
+    </a>
+    Space library of tales
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../.." class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Home
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../authorsindex/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Author index
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../contestindex/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Contest index
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../tagsexplained/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    The meaning of tags
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../tags/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Tags
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              <article class="md-content__inner md-typeset">
+                
+                  
+  
+<nav class="md-tags" >
+  
+    
+    
+    
+      <a href="../../../tags/#prose" class="md-tag">Prose</a>
+    
+  
+    
+    
+    
+      <a href="../../../tags/#voluspadreamweaver" class="md-tag">VoluspaDreamweaver</a>
+    
+  
+    
+    
+    
+      <a href="../../../tags/#podandplanetyc115" class="md-tag">PodandPlanetYC115</a>
+    
+  
+</nav>
+
+
+
+<h1 id="unintended-consequences">Unintended Consequences</h1>
+<blockquote>
+<p>Author: Voluspa Dreamweaver</p>
+<p>Original post: <a href="https://forums-archive.eveonline.com/message/3857414#post3857414">https://forums-archive.eveonline.com/message/3857414#post3857414</a></p>
+<p>Entry for the YC115 Pod and Planet Fiction Contest in the Eight Thousand Suns in New Eden category.</p>
+</blockquote>
+<p>The CONCORD diplomat's sphincter spasmed shut – an involuntary reaction to the constant glare from the Khanid princess.</p>
+<p>The low hum of the SoE luxury liner's drives would normally have been soporific, but under these strained circumstances they only served to remind him that he was in space orbiting the Eve Cemetary in Molea. He suppressed a shudder. Some said that wraiths and ghouls haunted the area, and he was inclined to believe them.</p>
+<p>Mouth dry, he reached for his crystal glass, and took a sip of the sweet wine. He'd been summoned at extremely short notice to this extraordinary meeting with representatives of the four factions, and still had no idea of the true purpose. Discussions so far had been extremely frosty. Despite his vast diplomacy and negotiation skills, every single resolution so far had weakened CONCORD's position across the universe.</p>
+<p>And yet he sensed that they had not reached the crux of the matter. He'd never met these representatives before, but clearly they were the best of the best. For starters, they were all female – definitely a bad sign. What was worse was they all got on very well with each other. He'd have no opportunity to play one faction off against another.</p>
+<p>It was only days since all four navies had combined in an unprecedented operation – one which he didn't know the full results of yet. But he knew that this example of co-operation did not bode well for CONCORD.</p>
+<p>The Khanid princess tapped a long, lacquered fingernail on her glass. “Dreaming of wraiths, sir?” Her sweet tones could not hide the venom in her voice. “Perhaps we could have your attention. There is a minor matter we wish to raise.”</p>
+<p>The diplomat nodded in assent. His throat was still too dry to speak, and a feeble squeak would not do.</p>
+<p>Surprisingly, it was the Brutor who spoke up next, as if on cue. “We hear you've been taking our names in vain, sir. We hear CONCORD has been spreading rumours about the four factions, and what we desire. Why?”</p>
+<p>The Brutor was immaculately and expensively dressed – dressed for hunting, that is. And he felt that he was the prey. Once more his body betrayed him. He felt his balls shrivel, and it took all his control to stay seated and speak. “I... I have no idea what you mean, milady.”</p>
+<p>The Brutor pushed her red hair away from her eyes, dismissed him with a flick of her hand. “Enough! Does the phrase, “The pressure of the four factions has prevailed,” ring a bell?</p>
+<p>It did indeed, but there was no way he could admit it and still keep his job or his life, and he was very attached to both. “No, milady. No bells are ringing.”</p>
+<p>The Caldari laughed. She'd been introduced as a researcher with Lai Dai, but that was clearly a cover. “Never mind, dear. People will circulate silly baseless rumours. On another matter entirely, how is CONCORD managing with the customs offices under its control in high-sec?”</p>
+<p>So they knew. So this was why the meeting had been called. Somehow the factions had learned that in a few days CONCORD would be handing over all high-sec customs offices to InterBus. It was time to bite the bullet, but would they believe the extraordinary tale he would tell them?</p>
+<p>“I'm so glad you asked, milady. I was about to inform you of some up-coming changes.”</p>
+<p>They didn't laugh. They didn't growl. But each of the four females raised an eyebrow and leaned forward.</p>
+<p>“Do tell us more.” The Pend Insurance delegate trilled her R's in that delightful Gallente accent, but there was nothing delightful in her eyes. She looked as if she'd run some actuarial calculations and decided he'd have a very short life.</p>
+<p>“With pleasure, milady. We have reached an agreement with InterBus whereby they will assume control of all high-sec customs offices. Our limited resources are best used for other endeavours.”</p>
+<p>“In nine days time. Yes, we know,” said the Khanid princess.</p>
+<p>“So InterBus will have your protection this time? You failed them in low-sec,” said the Brutor.</p>
+<p>“No, milady. That would not be possible. Limited resources, you see.”</p>
+<p>“No, I do not see,” said the Brutor. “What use are you if you are incapable of protecting high-sec resources? We may as well protect our own regions. Still, if they're taking over your customs offices at least they will go into reinforced mode if attacked by pirates.”</p>
+<p>He was sweating now. “Ah, no. No reinforced mode for InterBus. We're taking them down. Limited resources, need recycling. I'm sure you understand.”</p>
+<p>“No, we do not understand,” said the Gallente. “Nor do we understand why you plan to allow InterBus offices to be indiscriminately destroyed by capsuleers, and then allow those same attackers to erect their own customs offices. Have you not considered the loss of life to InterBus personnel?”</p>
+<p>“We can't protect everbody, milady.”</p>
+<p>“You can't protect anybody these days!” The Khanid princess's glare was back. “High-sec, in case you didn't know, stands for high security. And yet there is an alarming upward trend of ship destruction across high-sec. Jita is supposed to be the highest security, but how many ships are lost there every day? Small groups of pox-ridden destroyers gank at will across the universe. Niarja has become the armpit of space, but you idiots don't have the sense to station more ships in the area. It's completely illogical, beggars belief – unless you're in the employ of our enemies.”</p>
+<p>“Good heavens, no, Princess! CONCORD has a divine mission, and we are true to that.”</p>
+<p>The Brutor laughed. “Divine? Next you'll be telling us that the gods are speaking to you.”</p>
+<p>“The gods have spoken to us, milady.”</p>
+<p>That stopped them in their tracks. Nobody uttered a word.</p>
+<p>He carried on. “The Triumvirate appeared to all high-ranking CONCORD executives in their dreams and ordered them to permit capsuleers to take over high-sec customs offices.”</p>
+<p>The Brutor covered her face with her hand, and shook her head. Then she brushed her hair away and rolled her eyes. “The Triumvirate? Codin, Cthor and Ploki? Please don't tell me these are the new gods capsuleers pray to? As in: 'May CCP never nerf your ship'.</p>
+<p>“Yes, milady. Who are we to argue with the gods? I grant you that these changes are completely illogical – insane, one could say. But...” He shrugged.</p>
+<p>The Khanid princess laughed. “What have you fools been smoking? Have you been sampling confiscated drugs, or is this a new batch your own boffins have cooked up?”</p>
+<p>“Gods my arse!” said the Caldari. “And capsuleers have only one god – money!”</p>
+<p>“They are becoming more and more powerful, milady. It is best to accommodate them.”</p>
+<p>The Brutor leaned across the table. “They are numbered in the tens of thousands. Many go mad and kill themselves, or decline and fade away. They contribute little to our cultures. Some turn pirate. Some disappear into null-space to be rooked senseless by the power-hungry.</p>
+<p>“We number in the trillions. Do you think we will sit idly by and allow some of these null-sec prats to control our own planets in high-sec? Because that's what will happen, fool. We permitted planetary resource extraction to encourage poor capsuleers to earn a meagre living – not to allow some grubby null-sec conglomerate to monopolise our own resources.”</p>
+<p>“I'm sure that won't happen, milady.”</p>
+<p>The Khanid princess snapped her fingers. “Take this message back to your masters. If CONCORD goes ahead with this hair-brained scheme, there will be unintended consequences. Some will arise of their own accord, some will arise because we will jointly take action.”</p>
+<p>“Speaking about our joint actions,” said the Brutor, “do not forget that all capsuleers rely on our societies for everything: missions, blueprints, resources, secure stations to trade in, and more. Without our blessing and co-operation they are nothing.”</p>
+<p>“And we do have navies that could wreak havoc in any region of low-sec or null-sec – if we desired!” said the Gallente.</p>
+<p>“Tell that to your supposed gods,” said the Caldari.</p>
+<p>“This isn't a silly game, dear,” said the Khanid princess. “Now shoo before we eject you into the graveyard.”</p>
+
+
+
+
+
+
+
+  
+  
+
+
+
+  
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+          <button type="button" class="md-top md-icon" data-md-component="top" hidden>
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8z"/></svg>
+  Back to top
+</button>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+      <div class="md-consent" data-md-component="consent" id="__consent" hidden>
+        <div class="md-consent__overlay"></div>
+        <aside class="md-consent__inner">
+          <form class="md-consent__form md-grid md-typeset" name="consent">
+            
+
+  
+    
+  
+
+
+
+
+  
+
+
+<h4>Cookie consent</h4>
+<p>We use cookies to recognize your repeated visits and preferences, as well as to measure the effectiveness of our documentation and whether users find what they're searching for. With your consent, you're helping us to make our documentation better.</p>
+<input class="md-toggle" type="checkbox" id="__settings" >
+<div class="md-consent__settings">
+  <ul class="task-list">
+    
+      
+      
+        
+        
+      
+      <li class="task-list-item">
+        <label class="task-list-control">
+          <input type="checkbox" name="analytics" checked>
+          <span class="task-list-indicator"></span>
+          Google Analytics
+        </label>
+      </li>
+    
+  </ul>
+</div>
+<div class="md-consent__controls">
+  
+    
+      <button class="md-button md-button--primary">Accept</button>
+    
+    
+    
+  
+    
+    
+    
+      <label class="md-button" for="__settings">Manage settings</label>
+    
+  
+</div>
+          </form>
+        </aside>
+      </div>
+      <script>var consent=__md_get("__consent");if(consent)for(var input of document.forms.consent.elements)input.name&&(input.checked=consent[input.name]||!1);else"file:"!==location.protocol&&setTimeout((function(){document.querySelector("[data-md-component=consent]").hidden=!1}),250);var form=document.forms.consent;for(var action of["submit","reset"])form.addEventListener(action,(function(e){if(e.preventDefault(),"reset"===e.type)for(var n of document.forms.consent.elements)n.name&&(n.checked=!1);__md_set("__consent",Object.fromEntries(Array.from(new FormData(form).keys()).map((function(e){return[e,!0]})))),location.hash="",location.reload()}))</script>
+    
+    <script id="__config" type="application/json">{"base": "../../..", "features": ["search.suggest", "search.highlight", "navigation.path", "navigation.top"], "search": "../../../assets/javascripts/workers/search.6ce7567c.min.js", "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}}</script>
+    
+    
+      <script src="../../../assets/javascripts/bundle.56dfad97.min.js"></script>
+      
+    
+  </body>
+</html>

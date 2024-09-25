@@ -1,0 +1,558 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+      
+      
+      
+      <link rel="icon" href="../../../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.5.36">
+    
+    
+      
+        <title>Mariposa - Space library of tales</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../../assets/stylesheets/main.06209087.min.css">
+      
+        
+        <link rel="stylesheet" href="../../../assets/stylesheets/palette.06af60db.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+    <script>__md_scope=new URL("../../..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+  
+
+
+  
+  
+
+<script id="__analytics">function __md_analytics(){function e(){dataLayer.push(arguments)}window.dataLayer=window.dataLayer||[],e("js",new Date),e("config","G-77VR86ZY08"),document.addEventListener("DOMContentLoaded",(function(){document.forms.search&&document.forms.search.query.addEventListener("blur",(function(){this.value&&e("event","search",{search_term:this.value})}));document$.subscribe((function(){var t=document.forms.feedback;if(void 0!==t)for(var a of t.querySelectorAll("[type=submit]"))a.addEventListener("click",(function(a){a.preventDefault();var n=document.location.pathname,d=this.getAttribute("data-md-value");e("event","feedback",{page:n,data:d}),t.firstElementChild.disabled=!0;var r=t.querySelector(".md-feedback__note [data-md-value='"+d+"']");r&&(r.hidden=!1)})),t.hidden=!1})),location$.subscribe((function(t){e("config","G-77VR86ZY08",{page_path:t.pathname})}))}));var t=document.createElement("script");t.async=!0,t.src="https://www.googletagmanager.com/gtag/js?id=G-77VR86ZY08",document.getElementById("__analytics").insertAdjacentElement("afterEnd",t)}</script>
+  
+    <script>if("undefined"!=typeof __md_analytics){var consent=__md_get("__consent");consent&&consent.analytics&&__md_analytics()}</script>
+  
+
+    
+    
+    
+  </head>
+  
+  
+    
+    
+      
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="cyan" data-md-color-accent="blue">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#mariposa" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+  
+
+<header class="md-header md-header--shadow" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href="../../.." title="Space library of tales" class="md-header__button md-logo" aria-label="Space library of tales" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"/></svg>
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            Space library of tales
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Mariposa
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+        <form class="md-header__option" data-md-component="palette">
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="(prefers-color-scheme: light)" data-md-color-scheme="default" data-md-color-primary="cyan" data-md-color-accent="blue"  aria-label="Switch to dark mode"  type="radio" name="__palette" id="__palette_0">
+    
+      <label class="md-header__button md-icon" title="Switch to dark mode" for="__palette_1" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m17.75 4.09-2.53 1.94.91 3.06-2.63-1.81-2.63 1.81.91-3.06-2.53-1.94L12.44 4l1.06-3 1.06 3zm3.5 6.91-1.64 1.25.59 1.98-1.7-1.17-1.7 1.17.59-1.98L15.75 11l2.06-.05L18.5 9l.69 1.95zm-2.28 4.95c.83-.08 1.72 1.1 1.19 1.85-.32.45-.66.87-1.08 1.27C15.17 23 8.84 23 4.94 19.07c-3.91-3.9-3.91-10.24 0-14.14.4-.4.82-.76 1.27-1.08.75-.53 1.93.36 1.85 1.19-.27 2.86.69 5.83 2.89 8.02a9.96 9.96 0 0 0 8.02 2.89m-1.64 2.02a12.08 12.08 0 0 1-7.8-3.47c-2.17-2.19-3.33-5-3.49-7.82-2.81 3.14-2.7 7.96.31 10.98 3.02 3.01 7.84 3.12 10.98.31"/></svg>
+      </label>
+    
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="(prefers-color-scheme: dark)" data-md-color-scheme="slate" data-md-color-primary="cyan" data-md-color-accent="blue"  aria-label="Switch to light mode"  type="radio" name="__palette" id="__palette_1">
+    
+      <label class="md-header__button md-icon" title="Switch to light mode" for="__palette_0" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 7a5 5 0 0 1 5 5 5 5 0 0 1-5 5 5 5 0 0 1-5-5 5 5 0 0 1 5-5m0 2a3 3 0 0 0-3 3 3 3 0 0 0 3 3 3 3 0 0 0 3-3 3 3 0 0 0-3-3m0-7 2.39 3.42C13.65 5.15 12.84 5 12 5s-1.65.15-2.39.42zM3.34 7l4.16-.35A7.2 7.2 0 0 0 5.94 8.5c-.44.74-.69 1.5-.83 2.29zm.02 10 1.76-3.77a7.131 7.131 0 0 0 2.38 4.14zM20.65 7l-1.77 3.79a7.02 7.02 0 0 0-2.38-4.15zm-.01 10-4.14.36c.59-.51 1.12-1.14 1.54-1.86.42-.73.69-1.5.83-2.29zM12 22l-2.41-3.44c.74.27 1.55.44 2.41.44.82 0 1.63-.17 2.37-.44z"/></svg>
+      </label>
+    
+  
+</form>
+      
+    
+    
+      <script>var palette=__md_get("__palette");if(palette&&palette.color){if("(prefers-color-scheme)"===palette.color.media){var media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']");palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent")}for(var[key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
+    
+    
+    
+      <label class="md-header__button md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+      </label>
+      <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+        <button type="reset" class="md-search__icon md-icon" title="Clear" aria-label="Clear" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/></svg>
+        </button>
+      </nav>
+      
+        <div class="md-search__suggest" data-md-component="search-suggest"></div>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" tabindex="0" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+
+<nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../../.." title="Space library of tales" class="md-nav__button md-logo" aria-label="Space library of tales" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"/></svg>
+
+    </a>
+    Space library of tales
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../.." class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Home
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../authorsindex/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Author index
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../contestindex/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Contest index
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../tagsexplained/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    The meaning of tags
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../tags/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Tags
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              <article class="md-content__inner md-typeset">
+                
+                  
+  
+<nav class="md-tags" >
+  
+    
+    
+    
+      <a href="../../../tags/#prose" class="md-tag">Prose</a>
+    
+  
+    
+    
+    
+      <a href="../../../tags/#korsavius" class="md-tag">Korsavius</a>
+    
+  
+    
+    
+    
+      <a href="../../../tags/#podandplanetyc119" class="md-tag">PodandPlanetYC119</a>
+    
+  
+</nav>
+
+
+
+<h1 id="mariposa">Mariposa</h1>
+<blockquote>
+<p>Author: Korsavius</p>
+<p>Original post: <a href="https://backstage.eve-inspiracy.com/index.php?topic=7405">https://backstage.eve-inspiracy.com/index.php?topic=7405</a></p>
+<p>Author’s Note: Oh and as a side note, this story is actually a sequel to one of my <a href="../asthebutterflysoars/">previous works</a> which was submitted for the YC 118 Amore Tank Your Heart Contest. You may find that story here, although this work is capable of standing alone without the reading the prior work.</p>
+<p>Entry for the YC119 Pod and Planet Fiction Contest in the A Day in the Life category.</p>
+</blockquote>
+<p>A feeling of melancholy clung to him like a suckling on its mother’s breast. He shook his head at the datapad which displayed a headline, “Horrific Mass Murder Throws Eggheron VII Colony In Mourning.” <em>Mourning? He guffawed with pretentious exaggeration. They should be thankful I made them beautiful - all twenty-three of those once-ugly immigrant carcasses.</em> He pouted to the wind. Clearly the maestro-artist’s newfound art style was unappreciated with the locale. Maybe with time, perhaps...or another grand canvas; maybe he will paint something breathtaking. He shook his head. Colorful and pretty thoughts in his mind came to a stop. Too much thinking. He released a sigh, and peered over at the swaying thistles beside him.</p>
+<p>The pretty little flowers had an exotic look to them. Dahak Hinj enjoyed their aggressive, yet beautiful stature. In many ways they reminded him of his new method of painting. Seemingly harsh on the surface, but the byproduct of those handcrafted bullets was nothing short of exquisite beauty. His custom rifle was the ultimate brush. And he, the ultimate artist. Oh, all the beautiful canvases he could paint on. How exciting the possibilities of beautifying more immigrant pests! His thin lips quivered with excitement, as a rush of ecstasy creeped into his heart. He sighed again. <em>Focus</em>. The rush slowly faded.</p>
+<p>He leaped off the tree he leaned against and hopped onto his hovercar. A carefully cherry-picked selection of classical music saturated his ears. A sense of relief. As he drove home to his estate to collect some forgotten belongings, he couldn’t help but reminisce how peaceful things seemed to be before the influx of hopeful immigrants to the backwater colony on Eggheron VII. He loved Eggheron VII. And the thought of undeserving second, no, <em>third</em>-class citizens uprooting the fiercely independent and solitary nature of the colony abhorred him. They came in waves over the years. The others grew accustomed to them, but he did not. He could not. They were like festering parasites sucking away his precious livelihood. For him, the final straw was when they took from him his most precious and cherished hobby - painting. Their new and alternative styles took the local art connoisseurs by storm, leaving his perfect artwork without admiration or attention. He eventually lost his ability to paint due to degrading mental health because of that. He gained, however, a new style of artwork. One much more grim. One much more <em>new</em> and <em>alternative</em>. And although the public response wasn’t quite what he had hoped for, he certainly took the world by storm.</p>
+<p>Hinj finally arrived at his abandoned estate. Despite all his meticulous planning in the months leading up to the Madeilla Park Massacre, he had carelessly forgot to pack up a prized possession of his - an antique brooch modeled after a butterfly. It was an old family heirloom. He remembered attending formal parties as a child, and at every one his mother used the same ornate brooch to fasten together her dress. The crafted butterfly brooch inspired his fascination with the little insects. It spawned his adoration for them, and his desire to paint them in a plethora of hues, shapes, and patterns. And in his elation to slay those foreign parasites in a grand work of art, he forgot to pack up the beloved brooch.</p>
+<p>At this point, his estate had only been abandoned for a mere two weeks. He hid out in his lonely bunker far away from civilization like a recluse predator retreating to its den after a prized kill. He monitored the security systems of his estate from his bunker, and it seemed his identity as the shooter remained unknown or else he surely would have got a visit from the local police. The place was essentially just as he left it. A few more weeds, perhaps, but still the tall green grass swayed peacefully to and fro at the helm of the spring breeze.</p>
+<p>He nearly flipped his home upside down looking frantically for the prized family heirloom. <em>Where the hell is it?</em> He checked the multiple safes located in different corners of the main estate. The brooch was nowhere to be found. A feeling of dread mounted within him. Suddenly, it dawned on him where he left it last. He had installed the most zealous security features on his estate in his personal art studio building. It was in there that the prized possession had to be, there was no other option. As he exited his former home and looked toward the studio, that mounting feeling of dread intensified. He knew his brooch was in there, but he also knew so too were the shattered memories of his former life as a grand artist.</p>
+<p>As he drew closer to the studio with each cautious step, his heart felt as if it would scurry out of his chest. The feeling was akin to a rejected artist being forced to walk back on stage after running off with tears swelling in their eyes from the ridicule of the audience. Once he reached the entrance, he began the elaborate process of disarming the security software. When ready, the entrance door creaked open as Hinj reluctantly swung it wide. The inside was dark, lit only by an ethereal ray of sunlight which bursted through a stained-glass window high near the ceiling. This perfect God ray struck an imperfect scene - the remains of a shattered easel and fallen canvas which Hinj had knocked down in rage months before. The fallen duet laid there as he had left them. Silent. Graceful. Beautiful. But not his. Not anymore. The image brought him to his knees. He laid there beside the canvas and easel sobbing hopelessly.</p>
+<p>Inside his head, the tendrils of paranoia reaffirmed their grasp. The fury rekindled in his grim artist’s heart. <em>They</em> took away his talent. <em>He</em> will return the favor in kind.</p>
+<p>Hinj snapped back up from his fetal position. He retrieved the brooch from the safe where he had hid it, and promptly exited the studio. His collection of beautiful butterfly artwork watched him exit without him even paying them any attention. <em>I will make them all beautiful butterflies, one bullet at a time.</em> Hinj sped off towards his remote bunker far away from civilization, and planned his next great canvas.</p>
+<p>~-&gt; | &lt;-~</p>
+<p>The mid-summer gusts of wind carried warmth and life throughout the colony on Eggheron VII. That particular day was the summer solstice, a day accompanied by festivals and celebrations of all sorts from the local inhabitants. Hundreds, even thousands, flocked to the beaches, lakes, parks, and recreation centers to partake in the festivities and summertime revelry. A perfect day to bask in the sun. A perfect day to tan on the beach. A perfect day to sing campfire melodies along the lakeshore. A perfect day to conjure up a grand canvas the likes of which no one has seen before.</p>
+<p>Hinj’s canvas? La Colouré Beach, a popular destination among the immigrants. Thousands of people assembled on the near-white sand looked and crawled like little ants from the vantage point Hinj had set up in - a quiet cliffside adjacent to the beach. So many savage cretins clumped together in a single area. He calculated a minimal beautification toll of fifty people. But he liked to set his sights high. <em>Let’s aim for one-hundred</em>.</p>
+<p>He slipped on his black eel skin mask with soft fabric lining in the insides. He couldn’t just wear a ski mask, after all. He had better taste than that. As a customary ritual, he took in a deep whiff of his handcrafted bullets. The gunpowder was infused with various floral aromas. And as always, to him, the smell was intoxicating. Dulcet clicks trickled into his covered up ears as he assembled the custom rifle. He hummed to the tune of an unknown score as he set up his artist’s station. With the rifle loaded and mounted on the bipod, he was ready to begin his work. He crouched down and peered through the scope to scan for his first masterpiece of the day. Ooph! How could he forget? He slipped out a small audio device, and played his favorite symphony. The classical music sent waves of exhilaration surging through Hinj’s veins. His muscles swelled with elation. His heartbeat jittered with enthusiasm. His pupils dilated with passion. Alone, on that clifftop, the maestro-artist and his beloved brush. This massacre was to be his greatest canvas yet.</p>
+<p>Hinj returned his gaze through the scope. A sunbathing Brutor beach babe? Too drab. A flexing Sebiestor hunk? Too much of a tool. Perhaps a cluster of teenagers laughing and secretly passing around a handle of liquor? <em>Pfft, I’d rather savor the look of terror on their blighted faces as they realize what is happening around them</em>. Scanning for a perfect target was exhausting. The first stroke on his grand canvas had to be just right. Finally, he focused in on it. She was a sandy-colored figure with braided ebony locks. The sun kissed her sunscreen-smothered skin, granting her a primrose shimmer. She was walking alone along the damp shoreline. Everyone took glances of her as she passed by. <em>She is the one</em>. Hinj, mesmerized by the possibilities of this brilliant first stroke on his canvas, accidentally dampened his mask with slight drooling. He wanted to relish every moment of this. He drew a deep breath. He exhaled. The symphony played louder. He inched the trigger backward.</p>
+<p>A sudden shock ushered a screech of pain from the masked maestro-artist. He writhed and flipped around only to find an armored assailant deliver one more shock before he passed out.</p>
+<p>~-&gt; | &lt;-~</p>
+<p>He woke up in a pitch-black room. Disoriented, he was able to feel himself handcuffed with his arms behind a cold, steel chair. Each foot was bound to a leg of the chair. His mask was gone. The room was cold. And empty. Before he had time to process further what had happened, the presence of something else in the room alerted him.</p>
+<p>A figure materialized. About two meters opposite of him, an array of crescents which amalgamated into the vague shape of a falcon with outstretched wings glimmered a ghostly pale silver hue. Hinj looked up toward this figure.</p>
+<p>“Who are you?”</p>
+<p>“I am many things”, replied the solemn spirit. “I did not bring you here to have a discussion about me, alas. We are here to talk about <em>you</em>.”</p>
+<p>“Okay”, hesitated Hinj. “What do you want to know…?”</p>
+<p>“Are your services for hire?”</p>
+<p>Dumbfounded, Hinj stuttered, “W-what?”</p>
+<p>The ghost expired a chilly sigh. “You know it took me quite some time to track you down. When I heard about the massacre at Madeilla Park, I couldn’t really believe it at first.” The ghost began pacing back and forth as it spoke. “I figured that it was just some rogue clone soldier going on a rampage, at first. Looking more into it, I could discern this was no act of a clone soldier. Which, if I may add, was quite remarkable considering the scale and precision of the crime.”</p>
+<p>Hinj, never one to falter on a compliment, replied, “Well, they may have just been lucky shots. It does take a special someone to carry out something like that, as you say.” The ghost did not seem to take kindly to Hinj’s veiled arrogance.</p>
+<p>“You may have been able to fool and outrun the GPD, but you cannot play me the same”, hissed the ghost. Silence ensued.</p>
+<p>“I can turn you over to the Federal authorities right now, if you want me to. I’m sure you know what the Federation does to people like you.”</p>
+<p>Hinj scoffed at the notion, knowing clearly who the ghost was referring to. “Anvent Eturrer was a one-time deal. The Federation would never do something like that again - especially to someone the likes of me.”</p>
+<p>“Oh is that so?”, questioned the ghost. “I think you underestimate the mental fortitude of your own people. I’ve always viewed many of the Federal scum living in Solitude to be monsters in their own right.” The ghost turned away from Hinj, it peered out somewhere toward the darkness as it spoke softly. “And I’ve found that monsters are often most brutal towards other monsters.”</p>
+<p>The ghost returned its icy stare back toward Hinj. “I need your help”, it said flatly. “So you can return in shackles to the Federation to face your crimes, or you can help me with your...talents.”</p>
+<p>Hinj’s ears perked up at the sound of the last word muttered by the ghost. For him, the decision was an easy one. There was only one feasible option. “How can I help?”</p>
+<p>Hinj’s vision couldn’t penetrate through the void-like darkness, but the ghost’s lips curled a grin of satisfaction at that moment.</p>
+<p>~-&gt; | &lt;-~</p>
+<p>An ocean of green meadows stretched out almost to the horizon. The ocean of meadow clashed against a steadfast shoreline of dark evergreens. Beyond this forest, rolling purple mountains stood watch. The recognizable muddy colors of Guristas meddled with the peaceful ambience. A convoy of trucks parked within the outpost gates. <em>A chain-linked fence? How ungraceful</em>. Hinj witnessed the scene a distance away, perched atop a gentle rolling hill and surrounded by evergreens.</p>
+<p>“Get to work Butterfly”, muttered the ghost through Hinj’s headset. “Your canvas awaits.”</p>
+<p>“You can’t rush perfection”, Hinj stammered. “I will inform you when the job is done.”</p>
+<p>He slipped on his black eel skin mask with soft fabric lining in the insides. He couldn’t just wear a ski mask, after all. He had better taste than that. As a customary ritual, he took in a deep whiff of his handcrafted bullets. The gunpowder was infused with various floral aromas. And as always, to him, the smell was intoxicating. Dulcet clicks trickled into his covered up ears as he assembled the custom rifle. He hummed to the tune of an unknown score as he set up his artist’s station. With the rifle loaded and mounted on the bipod, he was ready to begin his work. He crouched down and peered through the scope to scan for his first masterpiece of the day. He slipped out a small audio device, and played his favorite symphony. He did not forget to do so this time. The classical music sent waves of exhilaration surging through Hinj’s veins. His muscles swelled with elation. His heartbeat jittered with enthusiasm. His pupils dilated with passion. Alone, on that lookout, the maestro-artist and his beloved brush. This massacre was to be his greatest canvas yet.</p>
+<p>Hinj peered through the scope to select his first target. No discrimination here. They were to all have their place within his grand canvas. Each of them was important to him. As he pulled the trigger in quick succession, the fresh pine scent of the mighty evergreens stood aside to bask in the fresher aroma of gunpowder and flower petals as it saturated the airspace around Hinj.</p>
+<p>He exhaled softly. The barrel of his rifle was still warm from the flurry of shots stemming from the maestro-artist’s scented palette. He stood on one knee to observe the finished masterpiece through his binoculars. Wretched and mangled corpses, twisted and contorted into all sorts of unnatural positions littered the Guristas base. A warm red meshed with the natural green of the grassy meadows surrounding the outpost. A beautiful sight.</p>
+<p>“Are you getting the visual feed?”</p>
+<p>“Yes. Well done, Butterfly. I think we have struck a good partnership.”</p>
+<p>Hinj began packing up his equipment. He chuckled, “I agree wholeheartedly. But you know I have still yet to hear you say your name? I think it is only fair I should address you as an equal partner…”</p>
+<p>The ghost replied, “You can call me Korbin.”</p>
+
+
+
+
+
+
+
+  
+  
+
+
+
+  
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+          <button type="button" class="md-top md-icon" data-md-component="top" hidden>
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8z"/></svg>
+  Back to top
+</button>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+      <div class="md-consent" data-md-component="consent" id="__consent" hidden>
+        <div class="md-consent__overlay"></div>
+        <aside class="md-consent__inner">
+          <form class="md-consent__form md-grid md-typeset" name="consent">
+            
+
+  
+    
+  
+
+
+
+
+  
+
+
+<h4>Cookie consent</h4>
+<p>We use cookies to recognize your repeated visits and preferences, as well as to measure the effectiveness of our documentation and whether users find what they're searching for. With your consent, you're helping us to make our documentation better.</p>
+<input class="md-toggle" type="checkbox" id="__settings" >
+<div class="md-consent__settings">
+  <ul class="task-list">
+    
+      
+      
+        
+        
+      
+      <li class="task-list-item">
+        <label class="task-list-control">
+          <input type="checkbox" name="analytics" checked>
+          <span class="task-list-indicator"></span>
+          Google Analytics
+        </label>
+      </li>
+    
+  </ul>
+</div>
+<div class="md-consent__controls">
+  
+    
+      <button class="md-button md-button--primary">Accept</button>
+    
+    
+    
+  
+    
+    
+    
+      <label class="md-button" for="__settings">Manage settings</label>
+    
+  
+</div>
+          </form>
+        </aside>
+      </div>
+      <script>var consent=__md_get("__consent");if(consent)for(var input of document.forms.consent.elements)input.name&&(input.checked=consent[input.name]||!1);else"file:"!==location.protocol&&setTimeout((function(){document.querySelector("[data-md-component=consent]").hidden=!1}),250);var form=document.forms.consent;for(var action of["submit","reset"])form.addEventListener(action,(function(e){if(e.preventDefault(),"reset"===e.type)for(var n of document.forms.consent.elements)n.name&&(n.checked=!1);__md_set("__consent",Object.fromEntries(Array.from(new FormData(form).keys()).map((function(e){return[e,!0]})))),location.hash="",location.reload()}))</script>
+    
+    <script id="__config" type="application/json">{"base": "../../..", "features": ["search.suggest", "search.highlight", "navigation.path", "navigation.top"], "search": "../../../assets/javascripts/workers/search.6ce7567c.min.js", "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}}</script>
+    
+    
+      <script src="../../../assets/javascripts/bundle.56dfad97.min.js"></script>
+      
+    
+  </body>
+</html>

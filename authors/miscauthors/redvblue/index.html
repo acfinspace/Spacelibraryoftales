@@ -1,0 +1,637 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+      
+      
+      
+      <link rel="icon" href="../../../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.5.36">
+    
+    
+      
+        <title>Red v Blue - Space library of tales</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../../assets/stylesheets/main.06209087.min.css">
+      
+        
+        <link rel="stylesheet" href="../../../assets/stylesheets/palette.06af60db.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+    <script>__md_scope=new URL("../../..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+  
+
+
+  
+  
+
+<script id="__analytics">function __md_analytics(){function e(){dataLayer.push(arguments)}window.dataLayer=window.dataLayer||[],e("js",new Date),e("config","G-77VR86ZY08"),document.addEventListener("DOMContentLoaded",(function(){document.forms.search&&document.forms.search.query.addEventListener("blur",(function(){this.value&&e("event","search",{search_term:this.value})}));document$.subscribe((function(){var t=document.forms.feedback;if(void 0!==t)for(var a of t.querySelectorAll("[type=submit]"))a.addEventListener("click",(function(a){a.preventDefault();var n=document.location.pathname,d=this.getAttribute("data-md-value");e("event","feedback",{page:n,data:d}),t.firstElementChild.disabled=!0;var r=t.querySelector(".md-feedback__note [data-md-value='"+d+"']");r&&(r.hidden=!1)})),t.hidden=!1})),location$.subscribe((function(t){e("config","G-77VR86ZY08",{page_path:t.pathname})}))}));var t=document.createElement("script");t.async=!0,t.src="https://www.googletagmanager.com/gtag/js?id=G-77VR86ZY08",document.getElementById("__analytics").insertAdjacentElement("afterEnd",t)}</script>
+  
+    <script>if("undefined"!=typeof __md_analytics){var consent=__md_get("__consent");consent&&consent.analytics&&__md_analytics()}</script>
+  
+
+    
+    
+    
+  </head>
+  
+  
+    
+    
+      
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="cyan" data-md-color-accent="blue">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#red-v-blue" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+  
+
+<header class="md-header md-header--shadow" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href="../../.." title="Space library of tales" class="md-header__button md-logo" aria-label="Space library of tales" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"/></svg>
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            Space library of tales
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Red v Blue
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+        <form class="md-header__option" data-md-component="palette">
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="(prefers-color-scheme: light)" data-md-color-scheme="default" data-md-color-primary="cyan" data-md-color-accent="blue"  aria-label="Switch to dark mode"  type="radio" name="__palette" id="__palette_0">
+    
+      <label class="md-header__button md-icon" title="Switch to dark mode" for="__palette_1" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m17.75 4.09-2.53 1.94.91 3.06-2.63-1.81-2.63 1.81.91-3.06-2.53-1.94L12.44 4l1.06-3 1.06 3zm3.5 6.91-1.64 1.25.59 1.98-1.7-1.17-1.7 1.17.59-1.98L15.75 11l2.06-.05L18.5 9l.69 1.95zm-2.28 4.95c.83-.08 1.72 1.1 1.19 1.85-.32.45-.66.87-1.08 1.27C15.17 23 8.84 23 4.94 19.07c-3.91-3.9-3.91-10.24 0-14.14.4-.4.82-.76 1.27-1.08.75-.53 1.93.36 1.85 1.19-.27 2.86.69 5.83 2.89 8.02a9.96 9.96 0 0 0 8.02 2.89m-1.64 2.02a12.08 12.08 0 0 1-7.8-3.47c-2.17-2.19-3.33-5-3.49-7.82-2.81 3.14-2.7 7.96.31 10.98 3.02 3.01 7.84 3.12 10.98.31"/></svg>
+      </label>
+    
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="(prefers-color-scheme: dark)" data-md-color-scheme="slate" data-md-color-primary="cyan" data-md-color-accent="blue"  aria-label="Switch to light mode"  type="radio" name="__palette" id="__palette_1">
+    
+      <label class="md-header__button md-icon" title="Switch to light mode" for="__palette_0" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 7a5 5 0 0 1 5 5 5 5 0 0 1-5 5 5 5 0 0 1-5-5 5 5 0 0 1 5-5m0 2a3 3 0 0 0-3 3 3 3 0 0 0 3 3 3 3 0 0 0 3-3 3 3 0 0 0-3-3m0-7 2.39 3.42C13.65 5.15 12.84 5 12 5s-1.65.15-2.39.42zM3.34 7l4.16-.35A7.2 7.2 0 0 0 5.94 8.5c-.44.74-.69 1.5-.83 2.29zm.02 10 1.76-3.77a7.131 7.131 0 0 0 2.38 4.14zM20.65 7l-1.77 3.79a7.02 7.02 0 0 0-2.38-4.15zm-.01 10-4.14.36c.59-.51 1.12-1.14 1.54-1.86.42-.73.69-1.5.83-2.29zM12 22l-2.41-3.44c.74.27 1.55.44 2.41.44.82 0 1.63-.17 2.37-.44z"/></svg>
+      </label>
+    
+  
+</form>
+      
+    
+    
+      <script>var palette=__md_get("__palette");if(palette&&palette.color){if("(prefers-color-scheme)"===palette.color.media){var media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']");palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent")}for(var[key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
+    
+    
+    
+      <label class="md-header__button md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+      </label>
+      <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+        <button type="reset" class="md-search__icon md-icon" title="Clear" aria-label="Clear" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/></svg>
+        </button>
+      </nav>
+      
+        <div class="md-search__suggest" data-md-component="search-suggest"></div>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" tabindex="0" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+
+<nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../../.." title="Space library of tales" class="md-nav__button md-logo" aria-label="Space library of tales" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"/></svg>
+
+    </a>
+    Space library of tales
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../.." class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Home
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../authorsindex/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Author index
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../contestindex/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Contest index
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../tagsexplained/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    The meaning of tags
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../tags/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Tags
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              <article class="md-content__inner md-typeset">
+                
+                  
+  
+<nav class="md-tags" >
+  
+    
+    
+    
+      <a href="../../../tags/#prose" class="md-tag">Prose</a>
+    
+  
+    
+    
+    
+      <a href="../../../tags/#renn-omaya" class="md-tag">Renn Omaya</a>
+    
+  
+    
+    
+    
+      <a href="../../../tags/#newedencapsuleerswritingcontestyc122" class="md-tag">NewEdenCapsuleersWritingContestYC122</a>
+    
+  
+    
+    
+    
+      <a href="../../../tags/#length_short" class="md-tag">Length_Short</a>
+    
+  
+</nav>
+
+
+
+<h1 id="red-v-blue">Red v Blue</h1>
+<blockquote>
+<p>Author: Renn Omaya</p>
+<p>Original post: <a href="https://chasingtheblack.wordpress.com/2020/05/11/red-vs-blue/">https://chasingtheblack.wordpress.com/2020/05/11/red-vs-blue/</a></p>
+<p>Entry for YC122 New Eden Capsuleer’s Writing Contest in the Prose category.</p>
+</blockquote>
+<p><strong>Placid Region—Josmaert Constellation<br>Algasienan System—Algasienan IV, Moon 1<br>Republic Security Services Assembly Plant<b>YC122 April 16 06:42</strong></p>
+<p>Xavic Kae reviewed his notes for the security briefing as he listened to Kaede Industries’ factory manager Sandor Fabron conclude his industrial operations report. The heavyset, middle-aged Gallentean baseliner looked a bit disheveled, with red eyes, mussed hair, and uneven stubble.</p>
+<p>With a thought, Xavic accessed the corporation security feed through his neocom. His search filters returned a list of log entries recording Sandor’s movements for the last 12 hours. Ah, no wonder the man looked worse for wear. He’d been at the station’s manufacturing facilities throughout the night, returning to his quarters only four hours ago.</p>
+<p>“In summary, our mineral reserves look good,” Sandor said. “The most recent contract shipment from Sudfel Enterprises resolved our isogen shortage. We’ll be poised to resume full production at the conclusion of the current build project.”</p>
+<p>At the head of the meeting table, the hologram of Kaede Industries’ Chief Operating Officer Benetavo Saraki asked, “How is our new project progressing?”</p>
+<p>“We began production yesterday morning,” Sandor replied, “and the first subassemblies are already rolling off the line. Current projections indicate we can begin construction of the Orca itself within three days. Final delivery another ten days after that.”</p>
+<p>“Excellent. I know Ms. Omaya is eagerly anticipating this addition to her corporation’s mining fleet.” The capsuleer paused, then said, “Thank you, Sandor, everyone. Dismissed.”</p>
+<p>The factory manager and three other corporate officers rose from the table and began filtering out of the conference room. Xavic kept his seat and eyed the projected holo-image of his boss as they filed out of the room.</p>
+<p>Benetavo Saraki was a dark-skinned Caldari male with short-cropped dark hair, carefully groomed mustache, and tattoo over his right eye. He appeared to be dressed in all black—boots, leather pants, tank top and vest—though, of course, this was just a simulation of his typical wardrobe while on the station. Xavic knew the capsuleer was actually piloting a Viator somewhere in Syndicate space at the moment.</p>
+<p>His boss projected a polite, patient smile toward the corporate officers filing out of the room, but as the door sealed behind them, he looked at Xavic, expression settling into something more serious, intent. “I’ve reviewed the security report you sent me last night. Assuming there’s been no emergency developments since then, brief me on our special projects.”</p>
+<p>“Yes, sir. As you know, last week’s bio-mining raid on the rogue cloning facility in the Cistuvaert system successfully recovered a high volume of quality biomass.”</p>
+<p>“That was a flawlessly executed op, Commander. You’ve trained your units well.”</p>
+<p>“Thank you, sir,” Xavic replied. “The arena’s proved vastly superior to VR simulations for training purposes. It’s hard to improve on true live-fire exercises.”</p>
+<p>Saraki grunted. “Expensive though. The rake collected from the Downtime bookies doesn’t come close to covering the expense of the biomass usage. Ah well, if the soldiers and the scientists are happy, I suppose it’s worth it. The Ison-Ivax scientists crow about the data they’re collecting from those arena matches.”</p>
+<p>“Speaking of biomass usage, sir, I checked with the cloning supervisor before the meeting. As long as we continue our current bio-mining intake, we can maintain an additional seven warclones, with respect to current projections for reanimation draw on biomass reserves. The draw required for the arena matches is analogous to a wartime load for a unit our size.”</p>
+<p>“Good. You keep a running shortlist from the candidate pool, don’t you?”</p>
+<p>“Yes, sir. I’ve scheduled final interviews following the end of this meeting. It’s a good list. Mostly mercenaries, some corporate security types, even a few light marines. They passed genetic screening, and each scored in the top fifteen percent of the candidate pool on the practical assessment.”</p>
+<p>“Make your selection as soon as possible. I want the final seven run through intake and orientation within a few days. I trust your judgment on candidate selection. Project Crucible is about to get a lot more visible. We’ll need the extra security.”</p>
+<p>His boss paused. “Have we received the Myrddin envoy’s updated itinerary?”</p>
+<p>Xavic double-checked his notes. The lines of text appeared to float off to the side, part of the augmented reality display of his implants’ neocom integration.</p>
+<p>“Yes, sir,” he said. “Their representative is scheduled to arrive at 2300 hours tonight.”</p>
+<p>Benetavo winced. “Damn, I’m not going to make it back in time. I was afraid of that when they requested to move up the timetable. I can remote transmit for the initial meet-and-greet and post-demo negotiation, but Xavic, you’re going to have to run point for the presentation.”</p>
+<p>“Yes, sir. Not a problem.”</p>
+<p>“We have to capitalize on this opportunity. The success of Project Crucible and the future of Ison-Ivax itself depends on securing this contract.”</p>
+<p>“Speaking from the perspective of the ghost in the shell, sir, every duster’s going to want this tech,” Xavic said. “Secondary Arena teams are already deployed planetside, and Red and Blue Teams are on standby for the private demonstration. The Downtime Arena is prepped for live-fire. We’ll give them quite a show.”</p>
+<p>“I know you will, Commander. Contact me tonight when their ship is on approach. Saraki out.”</p>
+<p>The holo-image dissipated, and Xavic Kae stood in the empty room, head bowed in silent thought.</p>
+<hr />
+<p><strong>Republic Security Services Assembly Plant<br>Level 149, Section D — “Downtime”<br>YC122 April 16 19:21</strong></p>
+<p>Xavic Kae slowly walked the Downtime promenade, accompanied by the last of his shortlist interviewees.</p>
+<p>“So, Aiko, welcome to level one forty-nine tac dee, or as it’s known to the locals, Downtime.” He glanced over at the newest recruit to his unit as the Caldari woman gazed around the chaos of the promenade.</p>
+<p>It was unlike any other place on the station—or indeed the system—a strange and unlikely blend of the controlled sophistication of the upper-tier, capsuleer-only levels with the rowdy seediness of the lower level slums.</p>
+<p>In the shallow, alley-like gaps separating the establishments fronting the promenade, homeless junkies could be found buying trash boosters from cheap dealers instead of food for the day. Meanwhile, a few meters away in a neighboring shop, ultra-rich capsuleers shop for vanity implants more expensive than a fitted battlecruiser.</p>
+<p>Licensed and unlicensed shop stalls lined the center of the promenade: food stalls offering everything from pre-packaged Quafe products to Salted Amarrian Rockjaw seared over an open flame. Barking cries from rabid entrepreneurs in pop-up shops hawking everything from novelty trinkets to ‘financial opportunities’ promising to quickly double your investment. Various tattoo artists were available to ink Matari tribal designs or the latest Gallente club-culture nano-tat fad.</p>
+<p>The barking cries from the stall purveyors were almost drowned out by the competing pulses of sound coming from the different entertainment venues. Relaxed-atmosphere stage music in the classier shops on the second level. The thumping bass of Minmatar dance clubs and the frenetic deluge of Gallente rave electronica.</p>
+<p>Throughout this aural landscape were the intermittent mass cheers or groans of the gambling crowds in the casino halls and sports bars, as well as the steady background cacophony of dishware clatter from cheap diners and buzz of conversation from the busier restaurants.</p>
+<p>All of this chaos and mixing of wealth and class was enabled by an absolutely strict no-weapons policy, aggressively enforced by Kaede Industries’ security personnel, backed by a handful of his own warclones in full anti-riot dropsuits.</p>
+<p>One such warclone—their dropsuit SKIN the distinctive white and black pattern of Kaede Industries’ security division—paced at their backs as they made their way down the promenade, a wary bubble of space opening around them as they went.</p>
+<p>Xavic paused when Aiko’s steps faltered, her gaze snagged on the interior of an adjacent strip club. A haze of smoke hung in the air, visually tantalizing as it glowed in the club’s strategically placed black-lights.</p>
+<p>Beyond the haze, a very scantily-clad woman was performing an astonishingly athletic routine twirling around a pole onstage. She was heavily augmented: ears, tail, a full wolf-girl aesthetic. Even more arresting was the series of implant jacks running down her spine.</p>
+<p>Xavic blinked. Holy shit, you really can find everything in Downtime.</p>
+<p>Carefully affecting a casually jaded nonchalance, he asked, “First time seeing a capsuleer wolf-girl stripper?”</p>
+<p>With a monumental effort, he avoided cracking up at the shocked expression on Aiko’s face as she stared at him with wide eyes. “Um,” she replied, blushing slightly. “Yes, sir.”</p>
+<p>She resolutely faced forward and resumed their pace, perhaps slightly faster than before. He noticed she couldn’t help but glance back as they passed for one last glimpse. He spared one himself.</p>
+<p>“You’ll find yourself interacting with capsuleers much more often than you did in your old life,” he said. “You’re in that same strata now. Or, at least, you will be soon. An immortal. Clone bodies are a popular canvass for self-expression.”</p>
+<p>He paused. “Admittedly, not always as extreme an expression as that.” He cleared his throat and resumed the promenade tour and his canned spiel.</p>
+<p>“Technically, this is all on the books as corporate hangar space. Kaede Industries has a contract with Republic Security Services to manage this level. Maintenance, security: all our responsibility, all under our control. We pay a premium on our rental fees for a certain largess when it comes to station regulations.</p>
+<p>“Corporate security’s baseliner personnel handle the majority of petty enforcement.” Xavic gestured back at their warclone escort. “A small number of our unit are detailed for enhanced enforcement actions. We reinforce security checkpoints and maintain a small but visible presence here on the promenade. Downtime stays well-behaved because no one dares attract our attention.</p>
+<p>“Downtime is the only public access section of this level. The remainder is taken up by our unit barracks and CRU, the Ison-Ivax compound, and the Arena.”</p>
+<p>He gestured up to the massive billboard screen mounted at the end of the Promenade. It currently displayed a couple of commentators discussing highlight clips of warclone combat. It could have been footage from any of the innumerable planetary conflict zones in New Eden, except instead of active camouflage, the warclone combatants’ dropsuits featured SKINs of solid blue or red. The violence and destruction was very real and graphically uncensored, but it was clearly a competitive skirmish rather than a hostile engagement.</p>
+<p>“That, Recruit Hausai,” he said, pointing, “is what makes Downtime different than just another mixed-population station concourse. The Arena is a station warehouse container reinforced with 1600mm steel plating on every interior surface, maintained by a battery of armor repair modules. This allows warclone squads to engage each other using everything in the typical planetary assault arsenal, up to and including HAVs and high explosive ordnance.</p>
+<p>“The Arena can be reconfigured into a variety of urban engagement zones. Warclone squads compete against each other in various strategic modes that simulate common tactical objectives, such as ambush or acquisition scenarios, free-fire skirmishes, or an assault on a fortified position.”</p>
+<p>Turning to Aiko, he said, “We advertise this as gory entertainment. The re-purposing of outdated clone soldiers.” He could see the ghost of a frown shadow her features. “We want the public to see us as exploited mercenaries. It makes us safer. A neat little peg in a neat little hole.”</p>
+<p>Xavic offered her a sardonic smile. “They think they understand what they’re watching.” He looked back up at the screen for a moment. “That’s not sports entertainment. That’s training. Day in and day out, members of our unit are grinding it out in wartime conditions.” He gestured at the crowd around them. “They bet on the outcome and jump-seat-general our matches.</p>
+<p>“And all the while, we hide in plain sight, while no one asks the obvious question.</p>
+<p>“What war are they training for?”</p>
+<hr />
+<p><strong>Republic Security Services Assembly Plant</strong><br><strong>Level 149, Section K — Ison-Ivax Research Facility</strong><br><strong>YC122 April 16 23:41</strong></p>
+<p>Xavic Kae lifted the Duvolle Laboratories G75-VLB plasma assault rifle from the weapons rack and held it out to the Myddrin Institute representative, a man named Coen.</p>
+<p>“As you can see,” he said, “our Arena teams use typical infantry weaponry.”</p>
+<p>Coen took the proffered rifle, smoothly released the magazine and executed an efficient examination of the rifle mechanism before returning the weapon to a safe, ready state. Again, Xavic reflected that Coen’s civilian attire really did nothing to disguise the bearing and casual competency of an experienced warclone soldier.</p>
+<p>Coen handed the rifle back, and Xavic returned it to the rack before turning to the armor stand next to it. The stand frame had a roughly humanoid configuration, and it displayed a full dropsuit as it would appear when worn.</p>
+<p>He gestured to the matte gray exterior of the dropsuit and said, “This, however, is not quite the Gallente ‘Federal Marine’ Assault G/1-Series dropsuit it appears to be. We’ve replicated the general design profile and exterior appearance of the G/1-Series, but the interior components are augmented with Ison-Ivax prototypes.</p>
+<p>“The frequency of Arena matches and the host of sensory equipment monitoring dropsuit performance provides a wealth of data to the research scientists and design team to further refine and field-test progressive iterations of an advanced development program we call Project Crucible.”</p>
+<p>Coen appraised the dropsuit with a critical eye. “What makes your dropsuit design so different than the G/1-Series or any of the other advanced military models available?”</p>
+<p>“Two things,” Xavic said. “The C3 ‘Siphonophore’ squad-link and the ‘Seraph’ ADS-X adrenal delivery system.</p>
+<p>“The ‘Siphonophore’ squad-link utilizes a proprietary implant technology to network a clone soldier’s implants with those of the rest of the unit, creating a localized, squad-level tacnet analogue.</p>
+<p>“Theoretically, perfect integration would manifest as collective, contemporaneous cognizance. Meaning, if one member of the squad were to take note of a target or threat indicator, the whole squad would also notice at the exact same moment. In effect, comprehensive, instantaneous, zero-error communication. The squad acting as one.</p>
+<p>“To date, 100% integration is beyond the current limits of the technology. However, partial integration is well within its capabilities. The ‘Siphonophore’ squad-link provides 11% integration when utilized by a squad with no prior relationship.</p>
+<p>“When introduced to veteran squads with a well-established team dynamic—or after one month of squad-link networking for a new unit—the integration curve begins at 27%, rising to 34% six months after that. This rises to 39% integration after twelve months before increasingly diminishing returns.</p>
+<p>“With respect to tactical evaluation metrics, 39% implant integration translates to a dramatic increase in intra-squad communication, coordination, and command effectiveness.”</p>
+<p>“That’s certainly an intriguing pitch,” Coen said. He raised an eyebrow. “But all that sounds too good to be the whole story. What’s the drawback?”</p>
+<p>Xavic spoke more slowly as he did his best to frame his response with the least damaging phrasing. “When a squad has achieved maximum potential integration—once they’ve entered the period of diminishing returns—they become more sensitive to paradigm shifts in the network.”</p>
+<p>Coen squinted at him for a moment. “So, you mean if they lose a member of the squad. If they disconnect or there’s a reanimation failure?”</p>
+<p>“Yes,” Xavic said. And here we go.</p>
+<p>“What happens?”</p>
+<p>“Most of the time, nothing. In the event of such a network interruption, in less than 5% of cases, the shock of the loss can cause progressive disintegration of the network, followed by rapid-onset terminal psychosis.”</p>
+<p>Coen stared at him for a moment. “You mean the whole squad goes crazy and dies.”</p>
+<p>“Unfortunately, yes. Given the odds of an actual disruption event to the network, with respect to a typical wartime deployment rate, we calculate an adjusted attrition rate of 0.15% per annum.”</p>
+<p>Coen blew out a breath. “Okay. Well. Let’s hear the rest.”</p>
+<p>Xavic forged ahead. “The ‘Seraph’ ADS-X adrenal delivery system is a system of artificial capillaries and nanite injectors that connect the clone soldier’s circulatory system to suit reservoirs of high-intensity boosters and active helix nanite colonies.</p>
+<p>“Normally, these advanced boosters would be too detrimental to organ health to be viable. However, we’ve developed a nanite profile that actively repairs the immediate damage.</p>
+<p>“This does lead to a build-up of scar tissue that degrades clone viability at an advanced rate, requiring reanimation before it would otherwise be necessary. This means a higher biomass demand for clone soldiers using this technology.</p>
+<p>“However, our proprietary blend of advanced boosters offers improvements across the board in hand/eye coordination, reflex response time, muscle strength, cardio-pulmonary endurance, and mental acuity.</p>
+<p>“By itself, this benefit would not warrant the downsides of the system; however, when combined with the ‘Siphonophore’ squad-link, the two systems interact in a multiplicative way, providing a stacking bonus to combat effectiveness.”</p>
+<p>“This synergy is what elevates Ison-Ivax’s dropsuit beyond the limits of existing warclone technology.”</p>
+<p>Xavic maintained a pleasant, professional demeanor as he gauged Coen’s response to his sales pitch.</p>
+<p>“I’m really going to need to understand a great deal more about this technology before I could ever recommend its adoption,” Coen said.</p>
+<p>Xavic nodded. “I’ve taken the liberty of having our project lead standing by to answer any specific questions you may have.” He swept his arm to the side to indicate a doorway, with a corridor beyond. Coen joined him as he began walking that way, the man’s retinue trailing behind them.</p>
+<p>“If I’m understanding the implications correctly, utilizing this technology, new units could be trained to combat proficiency at an advanced rate and operate with significantly increased efficiency, but we’d lose flexibility in assignment and require greater biomass reserves to support the same level of troop deployment.” Coen frowned. “And, periodically, we’d lose a veteran squad to your equipment.”</p>
+<p>“That is an accurate summation,” Xavic said.</p>
+<p>“Obviously, we’ve done our due diligence. Kaede Industries began operating this research division only in the last 18 months or so. How did you develop this level of technology so quickly?”</p>
+<p>Xavic eyed the warclone and offered a small smile and nod. “I must compliment your intelligence sources. Until now, I thought my security measures had kept Ison-Ivax entirely covert.”</p>
+<p>“To be fair, you were mostly successful. It wasn’t on our sensors until you approached us with your offer. But, as you know, we’re affiliated with an organization with a broad scope of capabilities. You’d be surprised what you can find out with the right resources.”</p>
+<p>“Then you know that Kaede Industries’ primary operations were mostly dismantled by corporate warfare in YC 116. Following that cascading failure, Mr. Saraki was forced to pursue other avenues of development. Two years after the war, he…liberated…a scientist named Darek Ivax, who, at the time, was being forced to work for Serpentis. He also liberated Mr. Ivax’s entire body of experimental research.”</p>
+<p>“Very altruistic of him,” Coen said dryly.</p>
+<p>“Indeed. The following year, Mr. Saraki continued his altruistic activities,” Xavic said. “You’re familiar with the Idama Combine?”</p>
+<p>“I am. A radical Intaki splinter group that operated briefly following the tacnet shutdown. They were trying to recruit warclones. Something went wrong, and their main outpost in Viriette was hit hard by rogue warclones in YC 119. I remember it well. Though the news story didn’t get much traction, in the alarmist environment of the time, it was used as an example of how we couldn’t be trusted. That we were volatile and would turn on any potential employer.”</p>
+<p>Coen paused. “I understand you began your employment with Kaede Industries in YC 119?”</p>
+<p>Xavic smiled but said nothing.</p>
+<p>“Interesting,” Coen said. “Excuse me, please continue.”</p>
+<p>“Mr. Saraki just happened to be in a position to salvage the wreckage of the Idama Combine outpost. He was lucky enough to recover one of their servers. It contained information and research relating to something they called the Ison Initiative. Somehow they had recruited True Citizen exiles from Sansha’s Nation. The Ison Initiative was some twisted, pseudo-religious vision of enslaved warclones carrying out terrorist attacks, only to be reborn to even greater service to the Intaki in their next life.”</p>
+<p>Coen grimaced. “Good riddance. So, experimental Sansha tech and experimental Serpentis boosters. Ison-Ivax. A disturbing combination.”</p>
+<p>Xavic stopped at one of the doors leading off the corridor and gestured inside. “Meet with our project lead and get the answers you need about the specifics of our technology. Assuage your concerns.</p>
+<p>“After, we have a demonstration planned so that you can see the technology in action. The Downtime audience is suitably distracted with a special event match taking place on the surface of Algasienan IV. Meanwhile, we’ll watch a private demonstration in the Arena proper between Blue Team, using standard G/1-Series dropsuits, and our squad-linked Red Team, using Ison-Ivax dropsuits.”</p>
+<hr />
+<p><strong>Republic Security Services Assembly Plant<br>Level 149, Section C — “The Arena”<br>YC122 April 17 01:45</strong></p>
+<p>Xavic restrained a smile as the ventilation system cleared the lingering smoke from the Arena and ancillary repair systems went to work clearing the carnage and resetting the terrain to its undamaged, starting state. For this engagement, for Blue Team he’d tapped one of his best non-squad-linked units. They had performed superbly. Their defense had been damn near perfect. He was incredibly proud of them. Even more importantly, it would be absolutely clear to an experienced operator like Coen that Blue Team had deployed an effective tactical plan and executed it with professional vigor.</p>
+<p>And Red Team had still rolled them over. To be fair, Red Team was just as experienced as Blue Team, but they had the advantage of being one of the first units to be augmented with Ison-Ivax prototypes. They had long since achieved maximum possible integration and become the most elite squad under his command. Blue Team was the best of the Arena teams, but Red Team was the best field team. He could no longer let the public watch them operate. They moved with a coordinated precision that was just a little too other to go unremarked upon.</p>
+<p>Xavic leaned over slightly towards Coen in the seat next to him in the shielded viewing booth overlooking the Arena.</p>
+<p>“So, while they reset the field and the teams switch positions, what do you think?” Xavic asked.</p>
+<p>Coen didn’t respond. He remained looking down at the field, frowning. Xavic felt a slight tremor of concern. The man had not been enthusiastic about the idea of using Sansha-derived tech. Perhaps their performance had looked too other in that context.</p>
+<p>Coen finally looked over. “I understand the Downtime patrons bet heavily on the outcome of these Arena matches?”</p>
+<p>“Yes,” Xavic replied bemusedly, unable to assess the Myrddin Institute representative’s reaction.</p>
+<p>Coen narrowed his eyes and looked at Xavic intently for a few moments before holding out his hand to shake. “A million isk on the Red Team.”</p>
+<p>Xavic smiled broadly as they shook hands.</p>
+<p>“Done.”</p>
+
+
+
+
+
+
+
+  
+  
+
+
+
+  
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+          <button type="button" class="md-top md-icon" data-md-component="top" hidden>
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8z"/></svg>
+  Back to top
+</button>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+      <div class="md-consent" data-md-component="consent" id="__consent" hidden>
+        <div class="md-consent__overlay"></div>
+        <aside class="md-consent__inner">
+          <form class="md-consent__form md-grid md-typeset" name="consent">
+            
+
+  
+    
+  
+
+
+
+
+  
+
+
+<h4>Cookie consent</h4>
+<p>We use cookies to recognize your repeated visits and preferences, as well as to measure the effectiveness of our documentation and whether users find what they're searching for. With your consent, you're helping us to make our documentation better.</p>
+<input class="md-toggle" type="checkbox" id="__settings" >
+<div class="md-consent__settings">
+  <ul class="task-list">
+    
+      
+      
+        
+        
+      
+      <li class="task-list-item">
+        <label class="task-list-control">
+          <input type="checkbox" name="analytics" checked>
+          <span class="task-list-indicator"></span>
+          Google Analytics
+        </label>
+      </li>
+    
+  </ul>
+</div>
+<div class="md-consent__controls">
+  
+    
+      <button class="md-button md-button--primary">Accept</button>
+    
+    
+    
+  
+    
+    
+    
+      <label class="md-button" for="__settings">Manage settings</label>
+    
+  
+</div>
+          </form>
+        </aside>
+      </div>
+      <script>var consent=__md_get("__consent");if(consent)for(var input of document.forms.consent.elements)input.name&&(input.checked=consent[input.name]||!1);else"file:"!==location.protocol&&setTimeout((function(){document.querySelector("[data-md-component=consent]").hidden=!1}),250);var form=document.forms.consent;for(var action of["submit","reset"])form.addEventListener(action,(function(e){if(e.preventDefault(),"reset"===e.type)for(var n of document.forms.consent.elements)n.name&&(n.checked=!1);__md_set("__consent",Object.fromEntries(Array.from(new FormData(form).keys()).map((function(e){return[e,!0]})))),location.hash="",location.reload()}))</script>
+    
+    <script id="__config" type="application/json">{"base": "../../..", "features": ["search.suggest", "search.highlight", "navigation.path", "navigation.top"], "search": "../../../assets/javascripts/workers/search.6ce7567c.min.js", "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}}</script>
+    
+    
+      <script src="../../../assets/javascripts/bundle.56dfad97.min.js"></script>
+      
+    
+  </body>
+</html>

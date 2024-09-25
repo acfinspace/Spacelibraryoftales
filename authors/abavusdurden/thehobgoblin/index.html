@@ -1,0 +1,593 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+      
+      
+      
+      <link rel="icon" href="../../../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.5.36">
+    
+    
+      
+        <title>The Hobgoblin - Space library of tales</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../../assets/stylesheets/main.06209087.min.css">
+      
+        
+        <link rel="stylesheet" href="../../../assets/stylesheets/palette.06af60db.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+    <script>__md_scope=new URL("../../..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+  
+
+
+  
+  
+
+<script id="__analytics">function __md_analytics(){function e(){dataLayer.push(arguments)}window.dataLayer=window.dataLayer||[],e("js",new Date),e("config","G-77VR86ZY08"),document.addEventListener("DOMContentLoaded",(function(){document.forms.search&&document.forms.search.query.addEventListener("blur",(function(){this.value&&e("event","search",{search_term:this.value})}));document$.subscribe((function(){var t=document.forms.feedback;if(void 0!==t)for(var a of t.querySelectorAll("[type=submit]"))a.addEventListener("click",(function(a){a.preventDefault();var n=document.location.pathname,d=this.getAttribute("data-md-value");e("event","feedback",{page:n,data:d}),t.firstElementChild.disabled=!0;var r=t.querySelector(".md-feedback__note [data-md-value='"+d+"']");r&&(r.hidden=!1)})),t.hidden=!1})),location$.subscribe((function(t){e("config","G-77VR86ZY08",{page_path:t.pathname})}))}));var t=document.createElement("script");t.async=!0,t.src="https://www.googletagmanager.com/gtag/js?id=G-77VR86ZY08",document.getElementById("__analytics").insertAdjacentElement("afterEnd",t)}</script>
+  
+    <script>if("undefined"!=typeof __md_analytics){var consent=__md_get("__consent");consent&&consent.analytics&&__md_analytics()}</script>
+  
+
+    
+    
+    
+  </head>
+  
+  
+    
+    
+      
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="cyan" data-md-color-accent="blue">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#the-hobgoblin" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+  
+
+<header class="md-header md-header--shadow" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href="../../.." title="Space library of tales" class="md-header__button md-logo" aria-label="Space library of tales" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"/></svg>
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            Space library of tales
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              The Hobgoblin
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+        <form class="md-header__option" data-md-component="palette">
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="(prefers-color-scheme: light)" data-md-color-scheme="default" data-md-color-primary="cyan" data-md-color-accent="blue"  aria-label="Switch to dark mode"  type="radio" name="__palette" id="__palette_0">
+    
+      <label class="md-header__button md-icon" title="Switch to dark mode" for="__palette_1" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m17.75 4.09-2.53 1.94.91 3.06-2.63-1.81-2.63 1.81.91-3.06-2.53-1.94L12.44 4l1.06-3 1.06 3zm3.5 6.91-1.64 1.25.59 1.98-1.7-1.17-1.7 1.17.59-1.98L15.75 11l2.06-.05L18.5 9l.69 1.95zm-2.28 4.95c.83-.08 1.72 1.1 1.19 1.85-.32.45-.66.87-1.08 1.27C15.17 23 8.84 23 4.94 19.07c-3.91-3.9-3.91-10.24 0-14.14.4-.4.82-.76 1.27-1.08.75-.53 1.93.36 1.85 1.19-.27 2.86.69 5.83 2.89 8.02a9.96 9.96 0 0 0 8.02 2.89m-1.64 2.02a12.08 12.08 0 0 1-7.8-3.47c-2.17-2.19-3.33-5-3.49-7.82-2.81 3.14-2.7 7.96.31 10.98 3.02 3.01 7.84 3.12 10.98.31"/></svg>
+      </label>
+    
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="(prefers-color-scheme: dark)" data-md-color-scheme="slate" data-md-color-primary="cyan" data-md-color-accent="blue"  aria-label="Switch to light mode"  type="radio" name="__palette" id="__palette_1">
+    
+      <label class="md-header__button md-icon" title="Switch to light mode" for="__palette_0" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 7a5 5 0 0 1 5 5 5 5 0 0 1-5 5 5 5 0 0 1-5-5 5 5 0 0 1 5-5m0 2a3 3 0 0 0-3 3 3 3 0 0 0 3 3 3 3 0 0 0 3-3 3 3 0 0 0-3-3m0-7 2.39 3.42C13.65 5.15 12.84 5 12 5s-1.65.15-2.39.42zM3.34 7l4.16-.35A7.2 7.2 0 0 0 5.94 8.5c-.44.74-.69 1.5-.83 2.29zm.02 10 1.76-3.77a7.131 7.131 0 0 0 2.38 4.14zM20.65 7l-1.77 3.79a7.02 7.02 0 0 0-2.38-4.15zm-.01 10-4.14.36c.59-.51 1.12-1.14 1.54-1.86.42-.73.69-1.5.83-2.29zM12 22l-2.41-3.44c.74.27 1.55.44 2.41.44.82 0 1.63-.17 2.37-.44z"/></svg>
+      </label>
+    
+  
+</form>
+      
+    
+    
+      <script>var palette=__md_get("__palette");if(palette&&palette.color){if("(prefers-color-scheme)"===palette.color.media){var media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']");palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent")}for(var[key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
+    
+    
+    
+      <label class="md-header__button md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+      </label>
+      <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+        <button type="reset" class="md-search__icon md-icon" title="Clear" aria-label="Clear" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/></svg>
+        </button>
+      </nav>
+      
+        <div class="md-search__suggest" data-md-component="search-suggest"></div>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" tabindex="0" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+
+<nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../../.." title="Space library of tales" class="md-nav__button md-logo" aria-label="Space library of tales" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"/></svg>
+
+    </a>
+    Space library of tales
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../.." class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Home
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../authorsindex/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Author index
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../contestindex/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Contest index
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../tagsexplained/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    The meaning of tags
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../tags/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Tags
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              <article class="md-content__inner md-typeset">
+                
+                  
+  
+<nav class="md-tags" >
+  
+    
+    
+    
+      <a href="../../../tags/#prose" class="md-tag">Prose</a>
+    
+  
+    
+    
+    
+      <a href="../../../tags/#abavusdurden" class="md-tag">AbavusDurden</a>
+    
+  
+    
+    
+    
+      <a href="../../../tags/#podandplanetyc116" class="md-tag">PodandPlanetYC116</a>
+    
+  
+</nav>
+
+
+
+<h1 id="the-hobgoblin">The Hobgoblin</h1>
+<blockquote>
+<p>Author: Abavus Durden</p>
+<p>Original post: <a href="https://evedogsbreath.blogspot.com/2014/11/the-hobgoblin-pod-and-planet-fiction.html">https://evedogsbreath.blogspot.com/2014/11/the-hobgoblin-pod-and-planet-fiction.html</a></p>
+<p>Entry for the YC116 Pod and Planet Fiction Contest in the Other Thing Just Make You Swear and Curse category.</p>
+</blockquote>
+<p><em>PRODUCTION COMPLETE.  DELIVER.</em></p>
+<p>"Who said that?  What is this place?"</p>
+<p>"Hey, quiet.  I"m trying to sleep," she said.</p>
+<p>"Hello?  Who's there?  Where am I?" I  asked into the darkness.</p>
+<p>"You're in a cargo bay on the station.  You've just been born.  I'm Q."</p>
+<p>"I ... I uh, don't know my name."</p>
+<p>"Of course not, silly.  You've just been born.  Fresh from the factory.  Let's call you G.  Now settle in. They'll come for you soon enough."</p>
+<p>"But I have questions."</p>
+<p>"Of course you do.  It will be easier just to let them show you."</p>
+<p>"Them... who?"</p>
+<p>"The bosses.  They come for us all eventually. If they built you, the have a need for you. Now shush."</p>
+<p>So I sat in the darkness, bewildered.  Honestly, I'm not sure how long we sat there in silence.  Perhaps that's weird for a machine to say, I mean, we should have an internal clock or something, right?  But yes, I drifted off into something like sleep.</p>
+<p><em>MOVE TO DRONE BAY, GOLEM</em></p>
+<p>I was yanked out of a slumber by an overhead claw, moving high across the cargo bay.  There was light, my first light, mostly coming from the claw itself.  It was the first time I could see around me.  Boxes, containers, all manner of equipment, ammunition, and components were strewn about, stacked floor to ceiling.  One box even said "Exotic Dancers."  The cargo bay was enormous.</p>
+<p>The claw came for me.  It latched on, and I was lifted high off the deck plate.  There was light at the far end.  I was moving towards it.</p>
+<p>"You've been chosen!  Congratulations!"  The voice was faint, but I think it was Q.</p>
+<p>I was moved into another bay, this one not with cargo, but ... ships, my data drive confirmed. There were many, in several configurations.  I began to catalog them, but I noticed that there was a large one in the center, with odd anglular wings.  Data&gt;Ship Database&gt;Match. The ship was a Golem class marauder.  A hatch opened and I was shoved inside.  The hatch locked behind me.</p>
+<p>Darkness again.  I wasn't afraid of the dark, but I wanted to see.</p>
+<p>The cargo bay had been silent, but here there were many voices, all talking over one another.  "I thought they retired me," one said.  "Finally, a mission!" another said.  "I'm filing a complaint with the drone union," said a third getting a laugh.  The rest was a mix and I couldn't make it out.  They were happy, but anxious.  This was banter.</p>
+<p>"What is this place?" I asked.</p>
+<p>"Hey, hey, a new guy!" someone replied. The others snickered.  "Fresh off the line."</p>
+<p>Then, a  new voice, deeper and richer, but full of static and more than a little menace crackled, "We were all new once. Leave him be."</p>
+<p>"No problem Ogre612, sir. I was just introducing him."</p>
+<p>"Mmm hmmm,  I'm sure you were." Ogre612 said.  Addressing me, he began, "Hobgoblin..."</p>
+<p>"Sir, you can call me G.  I don't know why that's my name. But that's what Q called me."</p>
+<p>"Wait... Q is still alive?" the Ogre said, surprised.</p>
+<p>"Yes, she was in the cargo bay."</p>
+<p>"She's a Harvester. A mining drone.  We don't see Harvesters much anymore.  But I'm glad to hear she's safe."</p>
+<p><em>UNDOCK</em></p>
+<p>The ship lurched.</p>
+<p>"... anyway, G.  You're a Hobgoblin.  You're a combat drone.  Your job is to protect this ship.  The boss just launched and is probably on his way to do a job.  We'll all be called on soon enough."</p>
+<p>"What do I do?"</p>
+<p>"You'll see.  The boss will tell you. It will be natural for you.  This is what you were made to do."</p>
+<p><em>Well that's not quite an answer, I thought. And so again, I waited.</em></p>
+<p><em>LAUNCH DRONES (5)</em></p>
+<p>Without warning, I was ejected from the ship into space.  Well that was rude, I thought, I was almost asleep.  I was disoriented, but looking around I got my bearings.  Other drones were near me and began circling the ship.  <em>Protect the ship</em>, I thought.  <em>Protect. Protect. Protect.</em>  I joined in the slow orbit.  It somehow seemed natural.</p>
+<p>There was a battle going on around us.  Another ship like ours, but more gray and plain was nearby and taking fire from a large variety of ships.  It was coded as a friend.  Part of our Fleet.</p>
+<p>Data&gt;Ship Database&gt;Match.  Aha, it's a Raven class battleship.  Small enemy ships orbiting fast.  Medium sized enemy ships orbiting further away and slower.  And 7 large brown ships all converging, at long range now but intent on getting much closer.</p>
+<p>Data&gt;Ship Database&gt;Match.  <em>The enemy is flying a Machariel.</em></p>
+<p><em>Machariel. I'd like to shoot one.  I continued to orbit.  Protect the ship. Protect. Protect. Protect.</em></p>
+<p>Missiles streamed in by the dozens.  Tracers from projectile fire dashed their way through the sky, all focused on the Raven.  She was the center of the fight, taking a beating but dispatching enemy ships one by one.  The enemy hadn't reacted to us yet.</p>
+<p><em>ENGAGE TARGET (5)</em></p>
+<p><em>Protect the ship. Protect the ship.  Mode switch.  Engage. Engage target.</em></p>
+<p>The target was a small ship near the raven streaming some sort of energy. Warp Destabalization.  I broke formation and accelerated.  The other drones I now realized were Hobgoblins like me.  The five of us dived on the target and began to orbit.</p>
+<p>Fire.  Wait, I have guns?  <em>Yes, guns.  Fire. Attack.</em></p>
+<p>Where were these voices coming from?  Was that me thinking?  Another part of me?  It felt like something deeper, more primal.</p>
+<p>I didn't ponder my mental state further.  I attacked.  The singlemindedness of it appealed to me.  The Ogre was right, it felt natural.  All too soon, the target exploded.  I didn't feel satisfaction, I felt rage. I wanted another target.</p>
+<p><em>ENGAGE TARGET (5)</em></p>
+<p>Yes!  The bloodlust had me.  I accelerated to another smaller ship.  <em>Orbit. Fire. Shoot. Destroy.</em></p>
+<p>Why am I so angry?</p>
+<p><em>ENGAGE TARGET (5)</em></p>
+<p>And another! Geronimo!  <em>Accelerate. Orbit. Fire. Shoot. Destroy.</em></p>
+<p>The other Hobgoblins and I worked through the target list, happily chewing through the smaller targets.  There were wrecks and debris everywhere, I had to adjust my flight path constantly to avoid them.  The Raven continued to take damage, but was not retreating.  The Raven also launched drones, but we didn't associate with them.  We didn't like them.  They weren't part of our team.  Our team was good.</p>
+<p>The next target exploded.  The boss offered no new target to engage.  But, there were still threats.  I needed to protect the ship.  And then I saw it.  A Machariel.</p>
+<p>The other 4 drones from my ship had engaged a medium sized ship, but I wanted to shoot that large brown ship.  He was some distance away, but I would fly there and destroy him.  The other cowards could stay near the ship and tackle only the little targets.  I would attack this Machariel alone if I had to.</p>
+<p><em>Accelerate. Orbit. Fire. Shoot. Destroy.</em></p>
+<p>More enemy ships appeared.  Very near to me.</p>
+<p>RETURN AND ORBIT</p>
+<p>I didn't want to. I was shooting at this Machariel.  I strained against my protocols, but I could not disobey.  Reluctantly, I began to return to my ship.</p>
+<p>A stray projectile round sizzled past me, just barely missing.  Then another.  Then a barrage.  I started taking hits.</p>
+<p>Data&gt;Sensors&gt;Threat detection.</p>
+<p>Oh crap, I am being targeted by four enemy frigates.  My shields began to drop.  Rounds bounced off my thin armor and began to penetrate.  And again I strained against protocol.  I wanted to defend myself.  To defend my brothers.  To defend my ship and shoot my enemy.  My last command from the boss was to return and orbit, and I must comply.</p>
+<p>RETURN TO DRONE BAY
+RETURN TO DRONE BAY
+RETURN TO DRONE BAY</p>
+<p>I didn't feel fear, but I did feel regret.  My brothers were assigned to defend me as I retreated back to the ship.  My armor had failed and my structure was being taxed.  I reached the safety of the ship and passed another Hobgoblin headed out, having just been launched.  My replacement.</p>
+<p>Ogre612 was inside the ship, "You look rough, son.  Take a rest. It'll be fine."</p>
+<p>I hoped the boss would send me out again.  I'd give my life to defend the ship, I realized.  But no launch command came.  I sat and waited.</p>
+<p>The others returned.  The battle had been won.  The others celebrated, told stories, recounted the close calls.  But I didn't participate.  I would surely be scrapped by the boss and replaced.</p>
+<p>REPAIR, REPAIR ALL.
+MOVE TO HANGER</p>
+<p>The claw deposited me again next to Q.  This time I could see her.  She was small, but beautiful.  Built for another age, without combat weaponry.  She was elegant.</p>
+<p>"We meet again, Mr. G."</p>
+<p>"Q! I've seen battle.  I defended the ship!  I was shot!  I met Ogre612!  The boss repaired me!"  I then considered the implications, "But he put me here, why?  Have I failed him in some way?"</p>
+<p>"The ways of the bosses are elusive.  He will call you again, or he will not. There is no way to know.  But it sounds as if you perhaps earned this rest.  I am sure you performed well."</p>
+<p>I considered her words, but another claw came.  Again it located me in my spot in the hanger and latched on.</p>
+<p>"Oh," Q said.  "Oh, goodness.  It seems you are called again. This is good!"</p>
+<p>"More battle?!  I'm ready!"</p>
+<p>"No, young one.  THAT claw goes to the factory.  You're being upgraded to ... Tech 2!"</p>
+
+
+
+
+
+
+
+  
+  
+
+
+
+  
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+          <button type="button" class="md-top md-icon" data-md-component="top" hidden>
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8z"/></svg>
+  Back to top
+</button>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+      <div class="md-consent" data-md-component="consent" id="__consent" hidden>
+        <div class="md-consent__overlay"></div>
+        <aside class="md-consent__inner">
+          <form class="md-consent__form md-grid md-typeset" name="consent">
+            
+
+  
+    
+  
+
+
+
+
+  
+
+
+<h4>Cookie consent</h4>
+<p>We use cookies to recognize your repeated visits and preferences, as well as to measure the effectiveness of our documentation and whether users find what they're searching for. With your consent, you're helping us to make our documentation better.</p>
+<input class="md-toggle" type="checkbox" id="__settings" >
+<div class="md-consent__settings">
+  <ul class="task-list">
+    
+      
+      
+        
+        
+      
+      <li class="task-list-item">
+        <label class="task-list-control">
+          <input type="checkbox" name="analytics" checked>
+          <span class="task-list-indicator"></span>
+          Google Analytics
+        </label>
+      </li>
+    
+  </ul>
+</div>
+<div class="md-consent__controls">
+  
+    
+      <button class="md-button md-button--primary">Accept</button>
+    
+    
+    
+  
+    
+    
+    
+      <label class="md-button" for="__settings">Manage settings</label>
+    
+  
+</div>
+          </form>
+        </aside>
+      </div>
+      <script>var consent=__md_get("__consent");if(consent)for(var input of document.forms.consent.elements)input.name&&(input.checked=consent[input.name]||!1);else"file:"!==location.protocol&&setTimeout((function(){document.querySelector("[data-md-component=consent]").hidden=!1}),250);var form=document.forms.consent;for(var action of["submit","reset"])form.addEventListener(action,(function(e){if(e.preventDefault(),"reset"===e.type)for(var n of document.forms.consent.elements)n.name&&(n.checked=!1);__md_set("__consent",Object.fromEntries(Array.from(new FormData(form).keys()).map((function(e){return[e,!0]})))),location.hash="",location.reload()}))</script>
+    
+    <script id="__config" type="application/json">{"base": "../../..", "features": ["search.suggest", "search.highlight", "navigation.path", "navigation.top"], "search": "../../../assets/javascripts/workers/search.6ce7567c.min.js", "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}}</script>
+    
+    
+      <script src="../../../assets/javascripts/bundle.56dfad97.min.js"></script>
+      
+    
+  </body>
+</html>

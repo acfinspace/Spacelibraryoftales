@@ -1,0 +1,671 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+      
+      
+      
+      <link rel="icon" href="../../../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.5.36">
+    
+    
+      
+        <title>Gauss - Space library of tales</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../../assets/stylesheets/main.06209087.min.css">
+      
+        
+        <link rel="stylesheet" href="../../../assets/stylesheets/palette.06af60db.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+    <script>__md_scope=new URL("../../..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+  
+
+
+  
+  
+
+<script id="__analytics">function __md_analytics(){function e(){dataLayer.push(arguments)}window.dataLayer=window.dataLayer||[],e("js",new Date),e("config","G-77VR86ZY08"),document.addEventListener("DOMContentLoaded",(function(){document.forms.search&&document.forms.search.query.addEventListener("blur",(function(){this.value&&e("event","search",{search_term:this.value})}));document$.subscribe((function(){var t=document.forms.feedback;if(void 0!==t)for(var a of t.querySelectorAll("[type=submit]"))a.addEventListener("click",(function(a){a.preventDefault();var n=document.location.pathname,d=this.getAttribute("data-md-value");e("event","feedback",{page:n,data:d}),t.firstElementChild.disabled=!0;var r=t.querySelector(".md-feedback__note [data-md-value='"+d+"']");r&&(r.hidden=!1)})),t.hidden=!1})),location$.subscribe((function(t){e("config","G-77VR86ZY08",{page_path:t.pathname})}))}));var t=document.createElement("script");t.async=!0,t.src="https://www.googletagmanager.com/gtag/js?id=G-77VR86ZY08",document.getElementById("__analytics").insertAdjacentElement("afterEnd",t)}</script>
+  
+    <script>if("undefined"!=typeof __md_analytics){var consent=__md_get("__consent");consent&&consent.analytics&&__md_analytics()}</script>
+  
+
+    
+    
+    
+  </head>
+  
+  
+    
+    
+      
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="cyan" data-md-color-accent="blue">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#gauss" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+  
+
+<header class="md-header md-header--shadow" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href="../../.." title="Space library of tales" class="md-header__button md-logo" aria-label="Space library of tales" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"/></svg>
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            Space library of tales
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Gauss
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+        <form class="md-header__option" data-md-component="palette">
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="(prefers-color-scheme: light)" data-md-color-scheme="default" data-md-color-primary="cyan" data-md-color-accent="blue"  aria-label="Switch to dark mode"  type="radio" name="__palette" id="__palette_0">
+    
+      <label class="md-header__button md-icon" title="Switch to dark mode" for="__palette_1" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m17.75 4.09-2.53 1.94.91 3.06-2.63-1.81-2.63 1.81.91-3.06-2.53-1.94L12.44 4l1.06-3 1.06 3zm3.5 6.91-1.64 1.25.59 1.98-1.7-1.17-1.7 1.17.59-1.98L15.75 11l2.06-.05L18.5 9l.69 1.95zm-2.28 4.95c.83-.08 1.72 1.1 1.19 1.85-.32.45-.66.87-1.08 1.27C15.17 23 8.84 23 4.94 19.07c-3.91-3.9-3.91-10.24 0-14.14.4-.4.82-.76 1.27-1.08.75-.53 1.93.36 1.85 1.19-.27 2.86.69 5.83 2.89 8.02a9.96 9.96 0 0 0 8.02 2.89m-1.64 2.02a12.08 12.08 0 0 1-7.8-3.47c-2.17-2.19-3.33-5-3.49-7.82-2.81 3.14-2.7 7.96.31 10.98 3.02 3.01 7.84 3.12 10.98.31"/></svg>
+      </label>
+    
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="(prefers-color-scheme: dark)" data-md-color-scheme="slate" data-md-color-primary="cyan" data-md-color-accent="blue"  aria-label="Switch to light mode"  type="radio" name="__palette" id="__palette_1">
+    
+      <label class="md-header__button md-icon" title="Switch to light mode" for="__palette_0" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 7a5 5 0 0 1 5 5 5 5 0 0 1-5 5 5 5 0 0 1-5-5 5 5 0 0 1 5-5m0 2a3 3 0 0 0-3 3 3 3 0 0 0 3 3 3 3 0 0 0 3-3 3 3 0 0 0-3-3m0-7 2.39 3.42C13.65 5.15 12.84 5 12 5s-1.65.15-2.39.42zM3.34 7l4.16-.35A7.2 7.2 0 0 0 5.94 8.5c-.44.74-.69 1.5-.83 2.29zm.02 10 1.76-3.77a7.131 7.131 0 0 0 2.38 4.14zM20.65 7l-1.77 3.79a7.02 7.02 0 0 0-2.38-4.15zm-.01 10-4.14.36c.59-.51 1.12-1.14 1.54-1.86.42-.73.69-1.5.83-2.29zM12 22l-2.41-3.44c.74.27 1.55.44 2.41.44.82 0 1.63-.17 2.37-.44z"/></svg>
+      </label>
+    
+  
+</form>
+      
+    
+    
+      <script>var palette=__md_get("__palette");if(palette&&palette.color){if("(prefers-color-scheme)"===palette.color.media){var media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']");palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent")}for(var[key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
+    
+    
+    
+      <label class="md-header__button md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+      </label>
+      <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+        <button type="reset" class="md-search__icon md-icon" title="Clear" aria-label="Clear" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/></svg>
+        </button>
+      </nav>
+      
+        <div class="md-search__suggest" data-md-component="search-suggest"></div>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" tabindex="0" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+
+<nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../../.." title="Space library of tales" class="md-nav__button md-logo" aria-label="Space library of tales" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"/></svg>
+
+    </a>
+    Space library of tales
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../.." class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Home
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../authorsindex/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Author index
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../contestindex/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Contest index
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../tagsexplained/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    The meaning of tags
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../tags/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Tags
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              <article class="md-content__inner md-typeset">
+                
+                  
+  
+<nav class="md-tags" >
+  
+    
+    
+    
+      <a href="../../../tags/#prose" class="md-tag">Prose</a>
+    
+  
+    
+    
+    
+      <a href="../../../tags/#daielzehn" class="md-tag">Dai'elZehn</a>
+    
+  
+    
+    
+    
+      <a href="../../../tags/#podandplanetyc115" class="md-tag">PodandPlanetYC115</a>
+    
+  
+</nav>
+
+
+
+<h1 id="gauss">Gauss</h1>
+<blockquote>
+<p>Author: Dai'el Zehn</p>
+<p>Original post: <a href="https://danielcanvas2.wordpress.com/2013/11/02/gauss/">https://danielcanvas2.wordpress.com/2013/11/02/gauss/</a></p>
+<p>Entry for the YC115 Pod and Planet Contest in the Eight Thousand Suns in New Eden category.</p>
+</blockquote>
+<p>Caldari Space<br>
+The Forge region<br>
+Etsala Constellation<br>
+Walvalin</p>
+<p>Drilnen Asquar let out a vile curse. He threw the helmet of his space suit across the bay. The old helmet spun as it did so, and the audio from its internal speakers echoed off the various dull, metallic walls with each spin. The head unit smashed into some cargo containers, which then caused those to fall to the deck. The resounding crash was satisfying.</p>
+<p>The audio in the helmet had shut off, but that was due to the power being depleted rather than what Drilnen had intended. He did not care if the speakers or the electronics were busted or not. She could pay for it out of her cut. The thought was even more satisfying.</p>
+<p>The man stripped off the upper portion of his black, space suit and dropped it on the floor where he stood. His black undershirt hugged his muscular chest. Then he pushed the old pants down a bit folding the waist line over, and reached into a utility pocket. Retrieving a small, long package, he tore it open with his teeth. The familiar sweet smell made him feel just a little better.</p>
+<p>“Fucking woman…” he grumbled as he grabbed a metal square from the work bench he was standing next to, flicked it open with a metallic clink, and lit his thick cigar. He tossed the lighter back on the table and took a few big puffs to get the business end burning orange.</p>
+<p>His brown hair was short and parted on the left with the lower portions on the back and sides buzzed short. His strong Civire jaw line was covered with dark, two day old stubble. His green eyes looked to the wide computer display on his left. He smacked the input board with his palm a couple of times for good measure.</p>
+<p>The intercom clicked on and he heard a soft giggle. “What’s wrong Dril, do you not like Elsinan’s Symphony Number 32?”</p>
+<p>The big, muscled mechanical engineer lifted a hand behind him toward the video surveillance cameras and made a rude gesture as he typed in some commands into the computer with his other hand. He used his lips to hold his cigar and spoke out of the side of his mouth, “Fuck you.”</p>
+<p>The woman’s laughter echoed around him. “Oh… I bet you’d love to do that right now.”</p>
+<p>Dril went back to typing with both hands. “You have no idea sweet heart,” he replied. “And if I didn’t give a shit about our time table, I’d come up there, pop you out of that pod, and make you…” The rest of his words didn’t make it out.</p>
+<p>The sounds in the engineering bay stood out with his sudden silence, the hum of the idle engines, the sound of the various electronic devices, and Dril puffing on his stogey. The fragrant aroma of the smoke mixed with the smell of old grease and grime where the axels and gears met.</p>
+<p>The engineering bay was long, had various wide displays, engineering stations, and had a low ceiling with inset lights that were mostly burned out . There were doors on each end.</p>
+<p>The moments seemed to slow down with anticipation of what he was going to make her do. He remained quiet. Then he cleared his throat noisily and acted like he had never said anything.</p>
+<p>“Come on…” the woman finally purred over the audio system.</p>
+<p>“Come on what?” Dril asked with indifference.</p>
+<p>“Please tell me?” she asked in her interested voice.</p>
+<p>“Tell you what?” Dril countered as if he was barely listening.</p>
+<p>The woman huffed and whined a little. Then her voice changed. “Tell me what you’d make me do!” she demanded.</p>
+<p>“I don’t know what you’re talking about,” Dril said.</p>
+<p>Frustration pushed through the sound of her voice as she sighed with annoyance.</p>
+<p>Dril chuckled glancing over at the cameras for a moment before returning his attention to the display. “That’s what you get!” he said.</p>
+<p>“Oh? That is how you’re going to play it?” she asked.</p>
+<p>“Mhm!” the engineer said as he worked.</p>
+<p>The deep sound of cellos poured out of the audio speakers around the bay. The music sounded sorrowful and depressing. Then fiddles shrilled with their voices as they accompanied the flowing symphony.</p>
+<p>“Okay! Okay!” Dril roared waving his hands over his ears like trying to drive away the buzz of an insect.</p>
+<p>The music immediately ceased and the woman’s voice giggled. “You were saying?” she prompted.</p>
+<p>Just then the sound of salvation echoed around the engineer. “No fair!” she cried.</p>
+<p>Dril had a hearty laugh as the energy from the ship’s power core flooded back into the Retriever’s ice harvesters. They ramped up quickly and the rumbling sound of their discharge vibrated through the ship as their blue beams gashed into a couple of massive iceroids nearby.</p>
+<p>Dril was already irritated when he had to put on the old, excursion suit and go outside the ship to make repairs to the Retriever’s ventral power grid. The primary and secondary lines servicing the rear set of harvesters had been severed when the back up junction had blown out. The primary had blown long ago from Dril’s assessment. Heather only made it worse when she started playing Symphony 32. She knew he hated it, and she liked to get him all riled up.</p>
+<p>He shook his head thinking about the old age of the mining barge he had bought used, and the fact he had put off that particular maintenance during the brief overhaul. He needed everything to be working properly if they wanted this run to be profitable.</p>
+<p>He monitored the harvester and energy systems from his station as he listened to Heather’s silky voice giving him status updates. “Harvester power is within normal specifications. Energy grid reads green. There is a slight fluctuation in the dorsal relay, but I can compensate.”</p>
+<p>Dril grinned as he listened to her. They were about the same age, but her body was younger. She had lost her pod half a year ago. That was how Dril met her.</p>
+<p>On station in Kiainti, she had walked into his workshop looking for someone to make some special repairs to her ship. He had no idea she was a goddess of the stars until she led him to her ship bay. He was surprised she had docked with all the normal ships that had crew.</p>
+<p>Heather had tossed aside the sun glasses, loose hooded jacket, and black wig. She was wearing a tight, black jump suit, matching boots and gloves. Her eyes were blue, and her skin a light olive. “What’s wrong?” she asked. “Never met an immortal?”</p>
+<p>That wasn’t the issue at all, but he decided his answer might be too much for her. The jumpsuit hugged her breasts in a certain way that grabbed his attention, and looking at her caused some sparks.  “What happened to your hair?” he grunted instead looking unimpressed. Her head was smooth and free of hair or eyebrows.</p>
+<p>“You should see the rest of me.” she said, laughing softly giving him a once over with her eyes. After a few moments, she continued, “Nothing like a new body before the hair begins to grow. Black if you care.”  She paused giving him a lopsided grin. “I’ve recently… been transferred to a new clone if that means anything to you.”</p>
+<p>Dril shrugged and set about making the repairs she was asking for and keeping silent about it for the money that was paid. It was to be kept off the books. They built a business relationship, which spawned their current operation. The passionate sex was just for mutual pleasure, and that had only started a few weeks previously.</p>
+<p>“Launching drones,” Heather’s voice announced. The drone bay doors opened and the little artificial beasts stampeded into open space. Dril heard the bay doors in the distance and felt the slight vibration as the drones’ engines kicked on. A few moments passed. “Drones on station. Everything looking good.”</p>
+<p>“Finally… back on schedule,” Dril said quietly to himself and ran a hand over his face.</p>
+<p>“I heard that,” Heather’s seductive voice chimed.</p>
+<p>The engineer chuckled to himself and headed toward the door. “I’m coming up,” he called.</p>
+<hr />
+<p>Dril made his way through the empty, cavernous, deteriorating ship to the bridge. Even the floor plates protested with his weight. Some compartments had failed gravity generators, which forced him to float through. Passing one hazardous area, he looked through a containment field at the vacuum of space. That small section of hull had been torn open at some point.</p>
+<p>The ship felt hollow without a crew, and having a pod pilot made all the difference. Instead of needing a large number of people, pod pilots virtually controlled every operation if they wanted. They could respond instantaneously as they were jacked into the vessel directly through their nervous system implants.</p>
+<p>The doors to the bridge slid open as Dril approached. “Welcome to my control center,” Heather whispered hotly with a touch of humor.</p>
+<p>Dril smirked and took a seat at the helm. “Thank you,” he replied.</p>
+<p>“I quite enjoy feeling you inside me,” she said with the same tone.</p>
+<p>Dril laughed quietly shaking his head a couple of times. Pod pilots described the experience of being directly connected to a ship as very intimate. The ship became their bodies and the internal functions like their own internal biological systems. The core energy was like their life force, the hydraulics their blood, and the fiber optics their nerves. When the ship died they felt death’s touch.</p>
+<p>“Don’t shake your head at me,” Heather said in a pouty tone.</p>
+<p>Dril paused in his work and smiled looking up at the internal video cameras. “Being inside of you is my single, burning desire at this very moment.”</p>
+<p>“That’s better,” Heather said, her tone playful.</p>
+<p>Dril gave her a wink and continued his work.</p>
+<p>“First ice harvester cycle will complete in 10 seconds.” When she spoke like that her voice took on a computerized quality. The pod pilot was one with the ship’s computer systems as well.</p>
+<p>“Confirmed,” Dril said looking over his display. The bridge of the ship was sparse. Most of the panels were disassembled and energy conduits were visible along with various other cabling. There were three stations situated around a central area with a command chair for a human captain. The helm was the only functional one.</p>
+<p>Dril sat back in his cushioned chair and looked out of the forward view ports. The musty smell of the cushions made him a little nauseous. “I’d hate to fly around in this ship like this for any longer than we have to. I sure hope we make some profit,” he said.</p>
+<p>“At least you have a nice view,” Heather replied. The ice field stretched out in front of him and the system’s star illuminated the massive ice chunks. The ice seemed to break up the light over its multi-faceted surface. Then there was the wide, blue beams of the ice harvesters. Those always seemed to relax him when he watched them. Heather’s voice sounded computerized again, “Ice product processed and stored for transport. Beginning second harvest cycle.”</p>
+<p>Dril nodded glancing at his control panel. “Confirmed,” he said.</p>
+<p>“You can rest if you like,” Heather said, “you’ve had a long two days completing preparations for this operation.”</p>
+<p>Dril nodded as he pressed the controls on his chair and reclined slightly. “I think that is a great idea. I do need to be frosty.” He took his partial cigar from his lips and crushed it out on the metal floor next his chair. Then he flicked its remains across the bridge. It slammed into a bulkhead, threw sparks, and landed on the deck.</p>
+<p>He relaxed and took a deep breath. “Wake me when you need me,” he said with a sleepy voice.</p>
+<p>“I will my sweet man,” Heather said softly. “I’ll watch over you while you rest.”</p>
+<p>Dril grunted.  “Sweet my ass.”</p>
+<p>Heather’s gentle laugh and honey voice remained in his dreams. “I won’t tell anyone.”</p>
+<hr />
+<p>When Dril opened his eyes the chronometer showed he had passed out for almost two and a half hours. He felt groggy realizing his sleep cycle had been interrupted. He struggled to understand what Heather was saying to him.</p>
+<p>“Dril!” Heather said with urgency. “Wake up!”</p>
+<p>Then the emergency alarm was sounded shaking him awake. His hands shot to his belt grasping for something that was missing.  Heather’s voice cut through the haze as he worked to digest the display in front of him.</p>
+<p>“Dril, I’ve detected an activation at the Otsela gate,” Heather warned. As they were operating in low security space there would be no help coming if they were attacked.</p>
+<p>Dril nodded his head. “Acknowledged,” he said with a rough voice, “give me a scan sweep at maximum range. How long until this harvest cycle completes?”</p>
+<p>“Commencing scan,” Heather said, her voice tight with apprehension. “Harvest cycle will complete in two minutes, forty-two seconds.”</p>
+<p>“Ok, great. Let the harvesters finish. Whoever it is might be simply passing through the system,” Dril said. The scanning system had gone live and Dril leaned toward it watching for the report.</p>
+<p>“Dril. I’ve identified the pilot of the other ship. He is a capsuleer,” Heather said.</p>
+<p>The scan did not report any incoming ships. “Keep the scan active,” he said. “I want to know if we have incoming. Who is this guy?”</p>
+<p>“Lasiter Grenselis,” Heather said, “he is a criminal, wanted, and runs with known brigands.” She listed some of his history.</p>
+<p>Dril nodded. “Acknowledged. Remember the plan,” he said. “Time to cycle completion?”</p>
+<p>“One minute fifty-three seconds.”</p>
+<p>“Warm up the engines and prepare for warp,” Drill could hear the warp unit coming out of standby. “Align us to the Kiainti gate, but keep us in range of the ice.”</p>
+<p>The old mining barge slowly turned toward the designated gate. Time felt like it was creeping by.</p>
+<p>Finally, Heather spoke, “Twenty seconds to cycle end.” She reported in her computerized voice.</p>
+<p>“Give me a countdown starting at ten seconds and pull in the drones,” Dril said watching the data coming across his display.</p>
+<p>It felt like the seconds passed instantly. “Ten… nine…” Heather reported.</p>
+<p>“Bring us up to full speed as soon as it completes,” Dril said. The disappointed drones docked with their mothership.</p>
+<p>“Three… two… one.” The countdown finished, Heather deactivated the ice harvesters, and the engines roared to life. Dril could hear the harvesters retracting into place. “I’m detecting multiple gate activations!” she exclaimed.</p>
+<p>At that moment, a ship appeared to starboard as its cloaking field deactivated. “Buzzard!” Dril called out. “He’s locking us!”</p>
+<p>Indeed, Lasiter’s Buzzard easily locked on to the fleeing Retriever almost instantly. The warp capacity indicator on Dril’s console registered a disruption and the ship shuttered as its warp field collapsed and engines almost stalled.</p>
+<p>“Well… well… well,” Lasiter said as the voice comm activated. “What do we have here? Heather Sannil… mining some ice on this lovely rotation?”</p>
+<p>Dril pressed his console opening the channel two ways, “This is Dril Asquar, and the answer to your question is yes.”</p>
+<p>Lasiter laughed. “Oh? A mortal on board this fat ass bird?”</p>
+<p>“I don’t have a fat ass!” Heather said in a nasty tone.</p>
+<p>“Ewww… Heather,” Lasiter said mocking her tone, “You have lice! Dirty girl!”</p>
+<p>“Go fuck yourself,” Heather replied. The Retriever turned to her port toward the ice field away from the Buzzard.</p>
+<p>Dril muted the comm. “Kick it!” he said.</p>
+<p>The Retriever’s engines roared, breathed flame, and burned brighter as Heather kicked the overdrives and afterburners on. The ice field was suddenly coming toward them quicker.</p>
+<p>Lasiter laughed even harder. “Really?” he called after them as the Buzzard’s engines lit and followed.</p>
+<p>“We have incoming,” Heather reported. Indeed, two cruisers and a battle cruiser warped into the rear view behind the Buzzard. “Two Mo and a Drake,” she relayed. She put her vid drones’ view up on Dril’s display.</p>
+<p>“They are locking us,” Dril said as the Retriever hurtled toward the massive chunks of ice. “Launch drones. Get that Buzzard off our ass.”</p>
+<p>Heather didn’t reply, but the drones rocketed from their hangers like frenzied, blood thirsty dogs.</p>
+<p>“Shut your engines down!” one of the other pod pilots called.</p>
+<p>“Get these bastards off me!” Lasiter yelled over the drones’ attack.</p>
+<p>“The two Mo have us locked,” Heather reported. “They are killing our drones.”</p>
+<p>“The Buzzard is all they have to hold us here,” Dril said.</p>
+<p>“The Drake has us,” Heather said. “She is launching! I have seven inbound.”</p>
+<p>The Retriever entered the cold, ice field. The plumes of fire from the missiles were closing fast. “Ten seconds to impact!” Dril reported.</p>
+<p>The old barge rolled to her port and pitched down to the left. “Hold on!” Heather warned as she flew as close as she could to the iceroid trying to get behind it. Light erupted as missiles slammed into the obstacle, and a massive chunk of ice blasted into pieces. The shockwave rolled over the fleeing ship as a few missiles made it in after them.</p>
+<p>The missiles hammered the Retriever and exploded. The blasts engulfed the rear of the ship sending waves of shield energy rolling over its surface like waves on a smooth body of water. The shield system struggled against the brutal assault.</p>
+<p>The shockwave threw the barge forward off course. Heather tried to compensate with thrusters and throttling down the engines, but the mass of the ship versus the weak thrust did not help much. She managed to roll the ship a little further, but the inertia carried them on. “Drones gone!” Heather said with what sounded to Dril like lost hope.</p>
+<p>Dril held on to his console. He was thankful he had secured himself to his chair with the safety harness he had brought along. Power conduits on the right side of the bridge sparked and crackled, and he heard the ship’s frame protest. He cursed when he saw a battleship come out warp on his tactical display.</p>
+<p>Then the barge slammed into an iceroid. Energy shields and a little armor would not provide much protection from a collision. The ship screamed as the concussive force tore into it, and Dril’s guts felt like they were twisting in on themselves. The shields collapsed under the tribulation, the engines died, and chunks of the ship tore loose hurtling over the iceroid’s surface in all directions. The main bulk of the Retriever drifted backward along its incoming path.</p>
+<hr />
+<p>The shadow of the Raven class battleship stretch over much of the ice belt where the Retriever had crashed on the icy rocks. Its pilot listened to the comm chatter. Lasiter was hurling insults at the broken ship and the pilot.</p>
+<p>Long minutes passed and then the pod doors of the Retriever slid open. With a puff of flame, the tiny ship ejected. It sped away from the dead carcass along with the rest of the debris.</p>
+<p>“You’re forgetting your germs!” Lasiter taunted over the comm line. “I’d hate to be him. Geez, leaving him behind and all like that!”</p>
+<p>“Lasiter…” the Raven pilot said as he opened the channel. “Shut your mouth.” There was laughter from the Moa pilots. “Who else is on that ship?”</p>
+<p>“Rigger, it’s just a single crew member,” the female Drake pilot reported.</p>
+<p>The Raven pilot accessed his weaponry and a cruise missile launched from one of his missile bays streaking across the dark expanse.</p>
+<p>“No!” Heather cried desperately over the comm line. The missile pierced the hull of the drifting ship and exploded. The shock wave shattered the remains of the Retriever. The section with the engine core hurtled away and exploded in a brilliant flash of blue light and fire.</p>
+<p>“You bastard!” Heather raged in grief as her pod entered warp.</p>
+<p>“Capsuleer Sannil. Be thankful I didn’t let Lasiter here send you on to your next filthy, inferior clone,” Rigger said. His words were cold and absolutely indifferent.</p>
+<p>Heather’s voice shook with hatred, “I will hunt you down…”</p>
+<p>Rigger cut her off. “Do that,” he replied. He closed the channel not wanting to hear more of her revenge blabber. Then he opened a private channel to his team. “Skulls one, two, and three head to the Otsela gate and make sure Scavenger doesn’t get picked off in that piece of junk transport of his.”</p>
+<p>“Aye, sir,” the replies came. The Drake and Moas aligned and warped off into the darkness of space.</p>
+<p>“Scout, cloak and make the rounds,” Rigger ordered. Lasiter did not respond, he simply vanished. That was exactly what he wanted from the stupid pilot. Rigger laughed to himself and was surprised anytime Lasiter actually did something right. One time, when Lasiter had just learned to use bombs, he launched one and ran right into his own blast wave.</p>
+<p>The Raven moved within range of the wreckage, and Rigger began salvaging anything that survived and looked valuable. Rigger sighed inwardly, just another day doing the same thing over-and-over again. He really wished something interesting would happen.</p>
+<hr />
+<p>Rigger had waited far too long for his people to strip the wreck of every last piece of value. He yelled and threatened, and when it was all over they performed the exact same. Same routine without even a spark of difference. He felt like grinding his teeth into dust.</p>
+<p>The Raven accelerated into warp and he relaxed. Rigger felt bathed in cosmic energy as the warp tunnel swirled and melted space around him. The colors were magnificent. This was the one place where there was always something new to enjoy. He always saw something different when his ship exceeded light speed.</p>
+<p>Rigger was experiencing space travel in a manner that only the capsuleers would ever know or understand. They were so far above the masses of inferior humanity. They were stepping beyond anything that had ever limited them previously as fragile beings of flesh. Soon, all of New Eden would collapse beneath the weight of their power and numbers. The empires would one day bow down before them. Rigger would make sure they licked his boots nice and slow, even the soles.</p>
+<p>As the Raven passed through the warp tunnel, Rigger thought about how smooth and slippery it felt. Deep down in his clone’s abdomen a fire ignited and a hot feeling of euphoria filled him. His armor and hull felt warm. Gentle waves of pleasure passed through the ship into his body that drifted inside the warm, thick liquid environment of his pod.</p>
+<p>In his mind, he grinned thinking of how limited the first explorers were who entered a warp tunnel in their fragile space craft. They had no idea. After all they were bugs to be crushed underfoot. Their ignorance and lack of imagination only hindered them. It was so right to name it a tunnel, and the irony of it always made him laugh. Long moments passed, and his skin reacted to his thoughts as he made love to the cosmos. Rigger could feel the energy filling his body, it wouldn’t be long now. He was reaching for it, reaching with his entire being for release.</p>
+<p>A very unexpected shudder ran through the ship as the Raven’s warp field collapsed. Rigger was painfully snapped back into reality. He growled as the warp tunnel dissipated, and the cold of space gnashed its teeth. Not only did warp go down, the primary magpulse propulsion system failed, and even the stabilizers went offline.</p>
+<p>The Raven began an uncontrolled, slow tumble through space. Rigger attempted to access the damage control systems. Nothing was responding to his thoughts. Then the video signal went offline as did any sensory input from his ship. Suddenly, Rigger was trapped inside his own flesh in the darkness of his pod.</p>
+<p>He released control of the Raven and concentrated on his pod bringing its systems online. He was in the dark, pod bay, but he could not access the battleship. He was confused as nothing like this had ever happened to him in all his years as a pod pilot.</p>
+<p>He attempted to eject from the bay. “Ejection system failure.” Appeared on his HUD. A feeling of being closed into a tight space washed over him, and he felt like he was suffocating. Drawing his consciousness back into his body he thrashed around in the thick fluid that filled his pod’s internal compartment.</p>
+<p>Rigger stopped moving and focused. His enhanced mind began running through the possible actions he might take to escape his current predicament. Seconds passed without a solution presenting itself. Then he heard a familiar sound as the pod began to rotate. His onboard AI’s voice filled his mind, “Pod disembark cycle initiated.”</p>
+<p>“What? I didn’t initiate a…” Rigger began to protest, but it did not matter to the AI. The cycle had already started. The pod shifted and was drawn through a side shaft passing through an airlock. It had been quite some time since Rigger had left his pod. The process was long and messy. He sighed inwardly.</p>
+<p>The exterior, dark metal walls of the pod slowly parted, and the fluid chamber was extracted. The golden colored fluid began to slowly swirl. The speed of the process accelerated and the liquid was evacuated. Then the lower hatch opened, and a platform began to lower Rigger to the ground below.</p>
+<p>As the platform settled into its inset slot, completing the platform’s flat surface, the capsuleer grabbed on to the metallic rails in front of him. When the pod’s interface disconnected from his spinal column, retracted its various tube interfaces, and the face mask lifted free a heavy wave of dizziness swept over him. Pod fluid slowly dripped from his nude body as he worked not to collapse.</p>
+<p>Rigger open his eyes slightly and slowly scanned the indirect illuminated pod insertion chamber on the Raven. It was longer than it was wide with a low ceiling beginning outside the preparation platform. He listened as the pod system drew the fluid chamber up and continued on with its cleaning and sterilization process. The capsuleer carefully stepped down to the next level of the platform and waited holding on to another safety rail.</p>
+<p>A clear cylinder descended from a recess in the ceiling and nozzles within began spraying warm water once it connected to the floor. The layer of pod goop that covered him began to slide from his body. This was just a rinsing stage. He’d need a proper shower to really get clean. The warm water felt good and he ran his fingers through his brown hair that was far longer than he normally kept it. Once the cycle completed the cylinder rose back up into the ceiling.</p>
+<p>Rigger walked forward and stepped down off the platform onto the metallic deck of the ship. The thick air lock doors at the top level of the platform that protected his pod slowly closed and sealed. The room got very quiet, and the capsuleer looked around taking a deep breath of scrubbed air. To his left his bathing chamber was prepared, and to his right his dressing room waited. The doors at the opposite end of the chamber from his pod led into his regular quarters.</p>
+<p>The capsuleer was unnerved by the loss of ship control and unexpected pod extraction. This had never occurred to him. He was just about to go take a proper shower before he figured out what happened when the air in front of him rippled. Something unseen slammed right into his forehead. Caught off guard, Rigger fell to the deck with a gasp and thud. It had been a long time since had had felt pain.</p>
+<p>The air moved as if heated and starting with the barrel of a gun, an armored figure decloaked right in front of him. Blood trickled down his forehead from the gash the gun had caused. Rigger’s eyes were opened wide in shock, and his mouth was hanging open. He attempted to scramble backward, but his muscles failed him. The best he was able to do was prop himself up with his hands.</p>
+<p>The hulking person that stepped forward was obviously male, and his entire body was covered in body armor and full faced helmet. In the low lit chamber, the small lights on the man’s armor and helmet stood out against the dark metal. For all Rigger could see, the person might have been an android or other AI construct, but the barrel of the gun in his face demanded his attention.</p>
+<p>“Welcome to my world,” the armored attacker said. The sound had an electronic quality being produced by the air tight, Caldari scout dropsuit.</p>
+<p>“Who are you?” Rigger managed to ask.</p>
+<p>“The man you tried to murder you arrogant, slimy piece of pod shit.” Dril pulled the trigger of his gauss pistol.</p>
+<hr />
+<p>Dril wiped the blood from his drop suit, returned to and gathered his hacking equipment, and arrived on the Raven’s bridge on schedule. He setup his hacking gear and jacked into the Raven’s central computer system. He began a purge of the capsuleer from the system effectively preparing the ship for its new owner.</p>
+<p>The clone soldier opened a private channel. “Asquar to Sannil.”</p>
+<p>Heather’s voice responded, “Sannil here. How did it go?”</p>
+<p>“Mission complete. The arrogant prick never once noticed me until my gun was in his face,” Dril said.</p>
+<p>“Good work,” Heather purred, “so very talented.”</p>
+<p>“You too.  Lock on to my coordinates. I have an orifice I need you to fill,” Dril said with a hint of humor.</p>
+<p>Heather giggled. “Don’t tease me naughty boy,” she replied. “Warping now.” She heard him chuckle, then the clink of his metallic lighter, and the sound of the cigar as it burned.</p>
+
+
+
+
+
+
+
+  
+  
+
+
+
+  
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+          <button type="button" class="md-top md-icon" data-md-component="top" hidden>
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8z"/></svg>
+  Back to top
+</button>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+      <div class="md-consent" data-md-component="consent" id="__consent" hidden>
+        <div class="md-consent__overlay"></div>
+        <aside class="md-consent__inner">
+          <form class="md-consent__form md-grid md-typeset" name="consent">
+            
+
+  
+    
+  
+
+
+
+
+  
+
+
+<h4>Cookie consent</h4>
+<p>We use cookies to recognize your repeated visits and preferences, as well as to measure the effectiveness of our documentation and whether users find what they're searching for. With your consent, you're helping us to make our documentation better.</p>
+<input class="md-toggle" type="checkbox" id="__settings" >
+<div class="md-consent__settings">
+  <ul class="task-list">
+    
+      
+      
+        
+        
+      
+      <li class="task-list-item">
+        <label class="task-list-control">
+          <input type="checkbox" name="analytics" checked>
+          <span class="task-list-indicator"></span>
+          Google Analytics
+        </label>
+      </li>
+    
+  </ul>
+</div>
+<div class="md-consent__controls">
+  
+    
+      <button class="md-button md-button--primary">Accept</button>
+    
+    
+    
+  
+    
+    
+    
+      <label class="md-button" for="__settings">Manage settings</label>
+    
+  
+</div>
+          </form>
+        </aside>
+      </div>
+      <script>var consent=__md_get("__consent");if(consent)for(var input of document.forms.consent.elements)input.name&&(input.checked=consent[input.name]||!1);else"file:"!==location.protocol&&setTimeout((function(){document.querySelector("[data-md-component=consent]").hidden=!1}),250);var form=document.forms.consent;for(var action of["submit","reset"])form.addEventListener(action,(function(e){if(e.preventDefault(),"reset"===e.type)for(var n of document.forms.consent.elements)n.name&&(n.checked=!1);__md_set("__consent",Object.fromEntries(Array.from(new FormData(form).keys()).map((function(e){return[e,!0]})))),location.hash="",location.reload()}))</script>
+    
+    <script id="__config" type="application/json">{"base": "../../..", "features": ["search.suggest", "search.highlight", "navigation.path", "navigation.top"], "search": "../../../assets/javascripts/workers/search.6ce7567c.min.js", "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}}</script>
+    
+    
+      <script src="../../../assets/javascripts/bundle.56dfad97.min.js"></script>
+      
+    
+  </body>
+</html>

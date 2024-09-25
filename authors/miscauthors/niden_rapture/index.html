@@ -1,0 +1,611 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+      
+      
+      
+      <link rel="icon" href="../../../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.5.36">
+    
+    
+      
+        <title>Rapture - Space library of tales</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../../assets/stylesheets/main.06209087.min.css">
+      
+        
+        <link rel="stylesheet" href="../../../assets/stylesheets/palette.06af60db.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+    <script>__md_scope=new URL("../../..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+  
+
+
+  
+  
+
+<script id="__analytics">function __md_analytics(){function e(){dataLayer.push(arguments)}window.dataLayer=window.dataLayer||[],e("js",new Date),e("config","G-77VR86ZY08"),document.addEventListener("DOMContentLoaded",(function(){document.forms.search&&document.forms.search.query.addEventListener("blur",(function(){this.value&&e("event","search",{search_term:this.value})}));document$.subscribe((function(){var t=document.forms.feedback;if(void 0!==t)for(var a of t.querySelectorAll("[type=submit]"))a.addEventListener("click",(function(a){a.preventDefault();var n=document.location.pathname,d=this.getAttribute("data-md-value");e("event","feedback",{page:n,data:d}),t.firstElementChild.disabled=!0;var r=t.querySelector(".md-feedback__note [data-md-value='"+d+"']");r&&(r.hidden=!1)})),t.hidden=!1})),location$.subscribe((function(t){e("config","G-77VR86ZY08",{page_path:t.pathname})}))}));var t=document.createElement("script");t.async=!0,t.src="https://www.googletagmanager.com/gtag/js?id=G-77VR86ZY08",document.getElementById("__analytics").insertAdjacentElement("afterEnd",t)}</script>
+  
+    <script>if("undefined"!=typeof __md_analytics){var consent=__md_get("__consent");consent&&consent.analytics&&__md_analytics()}</script>
+  
+
+    
+    
+    
+  </head>
+  
+  
+    
+    
+      
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="cyan" data-md-color-accent="blue">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#rapture" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+  
+
+<header class="md-header md-header--shadow" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href="../../.." title="Space library of tales" class="md-header__button md-logo" aria-label="Space library of tales" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"/></svg>
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            Space library of tales
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Rapture
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+        <form class="md-header__option" data-md-component="palette">
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="(prefers-color-scheme: light)" data-md-color-scheme="default" data-md-color-primary="cyan" data-md-color-accent="blue"  aria-label="Switch to dark mode"  type="radio" name="__palette" id="__palette_0">
+    
+      <label class="md-header__button md-icon" title="Switch to dark mode" for="__palette_1" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m17.75 4.09-2.53 1.94.91 3.06-2.63-1.81-2.63 1.81.91-3.06-2.53-1.94L12.44 4l1.06-3 1.06 3zm3.5 6.91-1.64 1.25.59 1.98-1.7-1.17-1.7 1.17.59-1.98L15.75 11l2.06-.05L18.5 9l.69 1.95zm-2.28 4.95c.83-.08 1.72 1.1 1.19 1.85-.32.45-.66.87-1.08 1.27C15.17 23 8.84 23 4.94 19.07c-3.91-3.9-3.91-10.24 0-14.14.4-.4.82-.76 1.27-1.08.75-.53 1.93.36 1.85 1.19-.27 2.86.69 5.83 2.89 8.02a9.96 9.96 0 0 0 8.02 2.89m-1.64 2.02a12.08 12.08 0 0 1-7.8-3.47c-2.17-2.19-3.33-5-3.49-7.82-2.81 3.14-2.7 7.96.31 10.98 3.02 3.01 7.84 3.12 10.98.31"/></svg>
+      </label>
+    
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="(prefers-color-scheme: dark)" data-md-color-scheme="slate" data-md-color-primary="cyan" data-md-color-accent="blue"  aria-label="Switch to light mode"  type="radio" name="__palette" id="__palette_1">
+    
+      <label class="md-header__button md-icon" title="Switch to light mode" for="__palette_0" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 7a5 5 0 0 1 5 5 5 5 0 0 1-5 5 5 5 0 0 1-5-5 5 5 0 0 1 5-5m0 2a3 3 0 0 0-3 3 3 3 0 0 0 3 3 3 3 0 0 0 3-3 3 3 0 0 0-3-3m0-7 2.39 3.42C13.65 5.15 12.84 5 12 5s-1.65.15-2.39.42zM3.34 7l4.16-.35A7.2 7.2 0 0 0 5.94 8.5c-.44.74-.69 1.5-.83 2.29zm.02 10 1.76-3.77a7.131 7.131 0 0 0 2.38 4.14zM20.65 7l-1.77 3.79a7.02 7.02 0 0 0-2.38-4.15zm-.01 10-4.14.36c.59-.51 1.12-1.14 1.54-1.86.42-.73.69-1.5.83-2.29zM12 22l-2.41-3.44c.74.27 1.55.44 2.41.44.82 0 1.63-.17 2.37-.44z"/></svg>
+      </label>
+    
+  
+</form>
+      
+    
+    
+      <script>var palette=__md_get("__palette");if(palette&&palette.color){if("(prefers-color-scheme)"===palette.color.media){var media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']");palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent")}for(var[key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
+    
+    
+    
+      <label class="md-header__button md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+      </label>
+      <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+        <button type="reset" class="md-search__icon md-icon" title="Clear" aria-label="Clear" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/></svg>
+        </button>
+      </nav>
+      
+        <div class="md-search__suggest" data-md-component="search-suggest"></div>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" tabindex="0" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+
+<nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../../.." title="Space library of tales" class="md-nav__button md-logo" aria-label="Space library of tales" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"/></svg>
+
+    </a>
+    Space library of tales
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../.." class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Home
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../authorsindex/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Author index
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../contestindex/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Contest index
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../tagsexplained/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    The meaning of tags
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../tags/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Tags
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              <article class="md-content__inner md-typeset">
+                
+                  
+  
+<nav class="md-tags" >
+  
+    
+    
+    
+      <a href="../../../tags/#prose" class="md-tag">Prose</a>
+    
+  
+    
+    
+    
+      <a href="../../../tags/#niden" class="md-tag">Niden</a>
+    
+  
+    
+    
+    
+      <a href="../../../tags/#podandplanetyc117" class="md-tag">PodandPlanetYC117</a>
+    
+  
+    
+    
+    
+      <a href="../../../tags/#tobeformatted" class="md-tag">TOBEFORMATTED</a>
+    
+  
+</nav>
+
+
+
+<h1 id="rapture">Rapture</h1>
+<blockquote>
+<p>Author: Niden</p>
+<p>Original post: <a href="https://docs.google.com/document/d/15uV-ZrxOHrlcNnodGupKU_h7nkgPVoi9yIGauOAIDTw/edit">https://docs.google.com/document/d/15uV-ZrxOHrlcNnodGupKU_h7nkgPVoi9yIGauOAIDTw/edit</a></p>
+<p>Entry for the YC117 Pod and Planet Fiction Contest in the Eight Thousand Suns in New Eden category.</p>
+</blockquote>
+<p><strong>S</strong>creaming through space at the speed of insanity, she felt like her soul and and mind almost could not keep up, and that if she let go, they would both be gone. She could <em>feel</em> the overheated microwarpdrive, pushed beyond its limits, <em>melting</em>, spewing a torrent of force so great that the ship violently shook and writhed in unholy groans as the internal structure was tortured by violent acceleration. She could taste blood in her mouth. She could feel her heart beating. This was death. This was life. At this moment, there was nothing else.</p>
+<p>Heaven and hell were the same place at nine kilometers per second. 150mm autocannon EMP rounds slid into position, coldly uncaring of their sole reason for existence.</p>
+<p>Locked in.</p>
+<p>As the ship stopped accelerating and the microwarpdrive switched off, the stillness and silence of a windless, bottomless black lake enveloped the world, time itself was denied. The entirety of existence was waiting on her thought, as if it was the first one that had ever been. The trepidation of reality to begin.</p>
+<p>As she gave birth to the thought, a hail of ballistic death manifested violently to either side of the ship, and stabbed through the void.</p>
+<p>This was the only true reason, there was no other. This moment.</p>
+<p>~</p>
+<p><strong>K</strong>adeo Mei’s life principles rested solidly on three foundations: Honour, respect and tradition. His father, Ashuka Mei, was a Lai Dai regional manager with ties directly to Alakoni Ishanoya, the megacorp’s CEO. Through generations, the Mei family had an unblemished record of service to Lai Dai and the family traditions ran deep in Kadeo’s veins. In the six months after being granted the honour of becoming a capsuleer, his service record to company and State had reflected his high station flawlessly. He was the pride of the family.</p>
+<p>The crew of his Caracal class cruiser, the Unuoto Uakan, had been allotted to him by way of service, but in them he had fostered loyalty through respect and fairness, two things that weren’t necessarily required from a person of his station. The fact that the ship had remained intact through all the missions they had conducted in Caldari high security space had given the captain somewhat of a reputation that life pods were not needed on board the Unuoto - they never seemed to be necessary.</p>
+<p>With Kadeo’s heritage and performance in the field, more was expected of him. Since service to the family and company always came first, Kadeo could set fear aside. He was not so unwise as to ignore it - his father had taught him that much - but he used it rather than being under its command. And so, when his agent had proposed to him a mission to low security space in order to deal with a pirate threat to company mining operations, he did not hesitate to accept.</p>
+<p>Little did he know the true objective of the mission.</p>
+<p>~</p>
+<p>“Where the fuck are we going En?” Hasán said with an annoyed look on his face while swiping some sweat-laden short locks off his forehead, his almond brown face moist from the perspiration.</p>
+<p>As they walked into a narrow street and into a slight shadow, a temporary respite from the relentless heat, the woman walking in front of him replied nonchalantly “What’s with the attitude you little baseliner shit? I’m meeting a friend.”</p>
+<p>The city surrounding them was crude and spartan. It looked more like an oversized tribal village than a metropolis, with buildings seldom reaching further than a couple of stories in height. Their rough, stone-like walls were the same matte beige as the desert surrounding the city. Everything bore the signs of years of erosion at the mercy of sandstorms and scorching sun.</p>
+<p>Behind them, a hulking giant of a man was walking with a somewhat awkward gait. The childlike expression on his face at odds with the rest of his appearance. His unproportionally muscular body was riddled with obvious cybernetic augmentations and poorly healed scar tissue.</p>
+<p>“A ‘friend’? Yeah right. Look, I think we both know what’s going on. Why don’t you just drop the act?” Hasán replied, adding some emphasis with a gesture of his hands.</p>
+<p>Niden stopped in the middle of the dusty street, and tuning said with annoyed voice “Oh yeah Hasán? What’s going on Hasán? Because all I see going on is a Minmatar baseliner…”</p>
+<p>Rolling his eyes and putting his arms across his chest he cut her off, “Oh come on En, don’t give me the old ‘I’m a capsuleer’ speech, I know it by heart now. You need me, I unfortunately need you, and we both know it. Besides, if you haven’t noticed, we’re surrounded by regular people, not walking test tube abominations like you.” He opened his arms and held them out towards the wide street they had just left, mockingly arching his eyebrows “Would you like me to declare to the street over there that there is a capsuleer in their city? No?”</p>
+<p>Swiping back a long black strand of her hair, also clammy with sweat, she seemed ready to retort, then thought better of it. In the end she said in a somewhat lighter tone “Just relax you little geek, gimme a fucking break, or I swear to fucking God I’ll sell you back into slavery,” before turning back to continue her determined walk in the scorching heat.</p>
+<p>With a smirk on his lips Hasán replied “God? Oh that’s rich. I don’t imagine he’s too happy with you at this point,” lazily following behind her.</p>
+<p>Niden did not reply. The giant man’s face lit up, seemingly because it was finally his turn to say something, “Can we stop fighting now, please Hasán, please En?”</p>
+<p>“Shut up Cob!”, both replied in unison.</p>
+<p>As they came to a narrow crossing they made a right, leaving the cool shadow of the previous street and stepping onto the hot cobblestone of the next. Passing by a small, rustic spice trader shop on their left and a quiet, run down café on their right, they continued on. The only signs of technology in a setting that otherwise almost seemed timeless were the cheap signs of various establishments along the street, but even these were few in number. The handful of people on the street and in the café were all locals - Minmatar in appearance and clad in lightly coloured robes, well suited to the heat and sand.</p>
+<p>The foreigners walking down the street were so very obviously out of place. Hasán still wore his mottled blue working overall, covered in stains of oil and dirt. His complexion, dark, curly hair and chiseled features made him almost look local and of the trio he probably drew the least amount of attention.</p>
+<p>The same could not be said for Cob who would stand out almost anywhere, with his massive frame, awkward walk and visible implants. His skin must have originally been white, but was grossly discoloured in large patches, varying in colour from grey and a matte yellow, to purple and red. As if that was not enough, he wore soft sandals, loose pants and a white T-shirt with a pink heart on it and the text “Friends For Ever”.</p>
+<p>At the head of their motley crew walked Niden, with her long black hair, facial piercings and tattooed arms. She wore a worn-out leather jacket on top of a torn black tank top, black pants and combat boots. All of it so obviously wrong for the environment she was in.</p>
+<p>At length, Hasán spoke. “So who is this friend anyway?”</p>
+<p>“An old agent of mine, we go way back,” Niden responded assuringly.</p>
+<p>Hasán chuckled, “‘Agent’? What are you talking about? You’ve never done an honest day's work in your life. What did you do, share his bed for forged mission reports?”</p>
+<p>“Watch your mouth shitstain,” Niden replied, pointing a warning finger in Hasán’s general direction, but not looking back.</p>
+<p>Hasán replied dismissively “Yeah, yeah, can you just get your smack so we can get the fuck out of here? I want to go to the bazaar and get something to eat.”</p>
+<p>To this, Niden did not reply, but the subtle flash of consternation in her face alluded to her discomfort with the comment.</p>
+<p>“I am hungry,” Cob sighed solemnly, not so much to the others, but simply as a statement to himself.</p>
+<p>Hasán’s brow furrowed as they approached a dome-like structure that had the appearance of a nightclub, with stairs leading down below street level from the entrance, into the dimly lit interior from which soft music was emanating. It was flanked by two men in beige and dark brown light dropsuits, each leisurely holding an assault rifle at their hip. He stopped in his tracks and said, “Wait, don’t tell me this is another Angel scumbag you fucking psycho! I mean, I shouldn’t be surprised. On the other hand, I’m pretty sure he wasn’t an ‘agent’ either.”</p>
+<p>Niden tuned to him said in a hushed tone, “Mind your own business. It’s fine, just wait out here while I go talk to the guy. Won’t take long.”</p>
+<p>Cob directed his statement at Niden this time, “I am really hungry Miss En.”</p>
+<p>“Shut up Cob, I’ll be out before you know it and you can go and stuff your fat face with grease boy here.”</p>
+<p>Hasán leaned in, and pointing his his right hand to himself said “If it wasn’t for this ‘grease boy’, that ship, which I might add you stole from the despicable Mr. Nardieu, would never have left dock, Niden.”</p>
+<p>Niden promptly invaded Hasán’s private space with her angry face inches away from his. “Don’t. Say. My. Name.” she growled between clenched teeth, “How many times do I have to tell you? Are you forgetting the little bounty hunter incident in Alsavoinon? Don’t think for a second Dal Nathara has given up. That fucking lunatic may be crazy as a hound, but he’s got a hard on for catching me from here to the throne worlds. To him, you’re just a piece of meat in the way. Remember that.”</p>
+<p>At that, she turned away and descended into the darkness of the building. The men outside made it clear that Hasán and Cob were not welcome to follow.</p>
+<p>~</p>
+<p>Kadeo Mei terminated the FTL communications secure channel to Airkio, Lai Dai headquarters. A sinking feeling of concern festered in his chest as he lay motionless in the hydrostatic fluid of his capsule. Ikare Peltoraki, the head of Lai Dai’s security division, had been on the other end. Being contacted directly by Mr. Peltoraki after their unexpected findings was out of the ordinary to begin with. The fact that Mr. Peltoraki had demanded a secure line and that records of the conversation be erased immediately was downright strange.</p>
+<p>Mr. Peltoraki had inquired as to how many crew had observed the object now in their cargo hold and demanded their names. Kadeo had dutifully provided all twelve, but felt uneasy about it. Lai Dai security had subdivisions that solved “problems” off the books and in obscurity. Those that inquired too much as to their activities would often either commit “suicide” or go missing. At best coming back as a shadow of their former selves, unable to speak of it, at worst not coming back at all, erased from all records. As if they had never existed.</p>
+<p>The Unuoto Uakan drifted silently away from the asteroid facility from which a number of her crew had just returned, the faraway star casting long black shadows from the pair of towers that protruded from the mottled brown surface. Kadeo found himself wondering if any were still alive in there. It mattered not. Orders had been given, but he could not help but feel a part of his mind rebel against what he was about to do.</p>
+<p>There was no such thing as good or evil, the world was simply divided into winners and losers. After all, is it not possible that Kadeo might have been in their position, working for the Cartel, had he lived under their circumstances? Were these not brothers, sisters, sons and daughters, even fathers and mothers? His own mother had always said that Kadeo’s greatest strength and greatest weakness both were his compassion. He lived in a world where such a characteristic came at a price.</p>
+<p>Pushing the thought aside with well a rehearsed mental motion, he willed the ship’s targeting systems to lock the structure. Heavy missile launchers swiveled precisely on their gyros and opened their ports to reveal rows of warheads.</p>
+<p>So lost he was in his thoughts that he did not think to check the directional scanner for any nearby ships. Had he looked, he would have seen a Dramiel class frigate on scan within 14.3 AU, closing at speed.</p>
+<p>~</p>
+<p>Shanley Beauward watched the inbound shuttle enter the outer dock from a dirty station window. Hasán had called and told him to get everything ready for departure as quickly as humanly possible. They had been on station for the past week, and while Cob kept his quarters tidy, the same could not be said for Miss Sommer or Hasán.</p>
+<p>By the tone of Hasán’s voice, Shanley knew something was happening, and he could not wait. He had made up the third person in a crew of three for only two weeks and this was his first capsuleer captain. In fact, this was his first captain, period.</p>
+<p>Shanley was not an attractive man. His boylike features, thin, matte blond hair and overweight body had done him no favours over the years. Being selected for something, even though he was under no illusions as to why other techs had refused service onboard the Absu, made him feel special for once in his life. Faced with the choice between waiting around to die alone or take a chance with his life, he’d chosen the latter.</p>
+<p>Within minutes, the door to the hangar he was in opened, and Niden, Hasán and Cob stormed in. The clang from their rushed footsteps upon the mesh grating of the gangway echoed angrily across the vast space. Meeting them halfway, he nervously clasped his hands and averting his gaze downward said “I’ve made everything ready, just as you ordered Miss Sommer”.</p>
+<p>He knew that many crews never even met their capsuleer captain, let alone stood in their presence. Shanley considered himself truly blessed.</p>
+<p>Brushing past Shanley, Niden snapped her fingers, “Oh quit calling me that and get your fat ass into the ship, we’re moving out.”</p>
+<p>Shanley joined Hasán behind her and asked in a hushed tone “What’s going on man? What’s the rush? Where are we going?”</p>
+<p>“Don’t ask,” Hasán replied with a sigh. “You know how I said you’d regret working with her? Well, it’s about to happen.”</p>
+<p>They made their way to the ship, hovering dead still in the vast space. The Absu was a Dramiel class frigate - an Angel Cartel design, known for its speed. Some hundred meters from bow to stern, her main body resembled the head of a bird of prey. On either side of the hull long “tusks” stretched forward and the ship's entire appearance was intimidating. Unlike regular Angel Cartel ships, her fuselage was a dusky charcoal grey, riddled with what looked like scar tissue - clear signs of combat repairs performed by the nanite-fueled, on-board armour repairer.</p>
+<p>As they approached, the Absu came to life. Visually, only a sparse number of lights came on to indicate that it was active. Audibly, however, the low growl of the fractal acceleration shell capacitors coming online methodically rose to a high pitch, reverberating through the massive hangar.</p>
+<p>Hasán watched Niden make her way to the hydrostatic capsule gantry as a platform silently elevated him, Cob and Shanley towards the bowels of the ship. He caught a glimpse of her picking something from her pocket and putting it in her mouth. Great, she’s getting high again, he thought to himself, sighing.</p>
+<p>Just before they vanished into the port that had opened amidships, he caught a glimpse of her throwing off her jacket and opening a purple can. To the untrained eye, this might not have seemed significant, but Hasán knew that was Quafe Zero - a potent drink marketed towards capsuleers, so ridiculously expensive that the price of one can could fund a small army of people for a year. She must have gotten it on the planet, along with the booster she just took. Hasán shuddered to wonder what kind of deal those had been a part of.</p>
+<p>The reason he knew what to look for is because he had seen this before. Niden was an addict of certain experiences and substances, both of which were often of the illegal kind. This particular combination would put her into a rapturous, hyperactive and often delirious state.</p>
+<p>The sinking feeling in his chest moved to his stomach as the port sealed below them.</p>
+<p>~</p>
+<p>Kadeo Mei may have forgotten to check the scanner on his ship, but the angry red icon appearing on his tactical overview ripped him from his somber contemplation within seconds. The Unuoto’s systems identified the vessel as a Dramiel class frigate, capsule piloted. It had exited warp some seventy kilometers off the starboard bow.</p>
+<p>He had barely registered the new arrival before the Dramiel violently accelerated, directly towards the Unuoto. Kadeo aligned his ship to a safe warp trajectory as soon as he was able, but his absent-mindedness would cost him as the Caracal aligned with a speed that seemed painfully slow.</p>
+<p>His onboard CPU calculated the speed of the Dramiel to be nine kilometers per second as it burned towards him.</p>
+<p>It was locking. He wasn’t going to make it. It was all happening too fast.</p>
+<p>The sickly greenish blue tentacle of a warp scrambler ray stabbed from the frigate, shutting down the Unuoto’s warp drive.</p>
+<p>150mm rounds pierced the blackness and slammed into the shields of the cruiser.</p>
+<p>~</p>
+<p>Hasán’s white-knuckled hands gripped the armrests of his seat as if his very life depended on it. His teeth felt as though they had been welded together and his breath came in short, violent bursts. He barely registered Shanley’s panicked screaming. All he could hear was the high-pitched banshee wail of the microwarpdrive and the groans of the hull as it bent.</p>
+<p>The bridge of the Dramiel was relatively small, triangularly shaped, and roughly at a 45-degree angle. The interior was poorly lit, dirty and had the appearance of the inside of a hollowed out bird’s chest, with spines stretching from a central column along the ceiling. In its center, above the seats, a three dimensional tactical image swirled wildly around in mid air, it was the feed from the outboard camera drone - the very same Niden was looking at from her capsule further astern.</p>
+<p>All of a sudden, the violent shaking stopped as the microwarpdrive was turned off. From bedlam to ghostly serenity in the span of a moment. Even Shanley seemed to have run out of air.</p>
+<p>But Hasán knew what came next. Past the forward bulkhead behind him he could hear the faint hum of ammunition feeder motors coming to life. He could hear the main engine coolant pumps below deck begin thumping as the afterburner became active.</p>
+<p>He then realised what they had been racing towards; a Caracal cruiser. The cold lump in his stomach made itself clearly known again. This was positively suicidal, even for her.</p>
+<p>~</p>
+<p>Banking abruptly to her left, Niden engaged the Coreli afterburner and set about a five kilometer orbit around the Caracal. Even in her fevered state, she knew that engaging a cruiser was highly precarious, even a momentary lapse in judgement could be fatal.</p>
+<p>Most combat ships were fit with either a microwarpdrive or an afterburner, the Absu had both. This made it capable of incredible speeds, but also meant sacrifices in the way of protection.</p>
+<p>It was a gamble. A gamble in velocity. The only way a frigate like the Dramiel could survive an engagement with a Caracal was through maneuvering at high speeds. That, and the prayer that it was not fit with rapid light missile launchers - designed specifically to destroy smaller craft.</p>
+<p>She deployed a trio of Acolyte light combat drones as an angry swarm of missiles left the cruiser and aligned towards her.</p>
+<p>Heavy missiles. This could be done. The autocannons sang to her in staccato as warhead detonations violently shook the ship.</p>
+<p>~</p>
+<p>The spacious room was silent and gloomy, save for the cold ambient light of the nearby planet streaming in from the panorama window. The man sitting at the heavy desk between Niden and the window had not reacted to the steel, cubical case she had put in front of him. Even in the shadows his eyes seemed piercing, and she did her best to hide her unease. She just wanted to get paid and get the hell out of there.</p>
+<p>At length he released her from his gaze and focused on the case, exhaling audibly as he studied its plain, grey surface and the Lai Dai logotype on the lid.</p>
+<p>The silence made her uncomfortable, “This is what you asked for, now where’s my payment?” she asked with an annoyed tone, unable to hide a hint of nervousness.</p>
+<p>Ignoring her, he released and removed the lid, gently placing it to his right on the wide desk. The single item inside was an obsidian orb, about twenty centimeters in diameter. In its center, she thought she could see something moving. The thing emanated a sense of wrongness she could not put her finger on, and it made her all the more uneasy and eager to have this over with.</p>
+<p>“Your payment,” the man replied in a deep and clear voice, “is right here.”</p>
+<p>Something was wrong. It was in the way he said it. Niden took a step back.</p>
+<p>To her left, stepping out of the pitch black shadows of the wall was a face she had seen before. The light from the window illuminated the shaved head and stern face of Dal Nathara, one of the most ruthless and feared bounty hunters in the Amarr empire.</p>
+<p>“A pleasure to meet you again, Miss Sommer.”</p>
+
+
+
+
+
+
+
+  
+  
+
+
+
+  
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+          <button type="button" class="md-top md-icon" data-md-component="top" hidden>
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8z"/></svg>
+  Back to top
+</button>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+      <div class="md-consent" data-md-component="consent" id="__consent" hidden>
+        <div class="md-consent__overlay"></div>
+        <aside class="md-consent__inner">
+          <form class="md-consent__form md-grid md-typeset" name="consent">
+            
+
+  
+    
+  
+
+
+
+
+  
+
+
+<h4>Cookie consent</h4>
+<p>We use cookies to recognize your repeated visits and preferences, as well as to measure the effectiveness of our documentation and whether users find what they're searching for. With your consent, you're helping us to make our documentation better.</p>
+<input class="md-toggle" type="checkbox" id="__settings" >
+<div class="md-consent__settings">
+  <ul class="task-list">
+    
+      
+      
+        
+        
+      
+      <li class="task-list-item">
+        <label class="task-list-control">
+          <input type="checkbox" name="analytics" checked>
+          <span class="task-list-indicator"></span>
+          Google Analytics
+        </label>
+      </li>
+    
+  </ul>
+</div>
+<div class="md-consent__controls">
+  
+    
+      <button class="md-button md-button--primary">Accept</button>
+    
+    
+    
+  
+    
+    
+    
+      <label class="md-button" for="__settings">Manage settings</label>
+    
+  
+</div>
+          </form>
+        </aside>
+      </div>
+      <script>var consent=__md_get("__consent");if(consent)for(var input of document.forms.consent.elements)input.name&&(input.checked=consent[input.name]||!1);else"file:"!==location.protocol&&setTimeout((function(){document.querySelector("[data-md-component=consent]").hidden=!1}),250);var form=document.forms.consent;for(var action of["submit","reset"])form.addEventListener(action,(function(e){if(e.preventDefault(),"reset"===e.type)for(var n of document.forms.consent.elements)n.name&&(n.checked=!1);__md_set("__consent",Object.fromEntries(Array.from(new FormData(form).keys()).map((function(e){return[e,!0]})))),location.hash="",location.reload()}))</script>
+    
+    <script id="__config" type="application/json">{"base": "../../..", "features": ["search.suggest", "search.highlight", "navigation.path", "navigation.top"], "search": "../../../assets/javascripts/workers/search.6ce7567c.min.js", "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}}</script>
+    
+    
+      <script src="../../../assets/javascripts/bundle.56dfad97.min.js"></script>
+      
+    
+  </body>
+</html>

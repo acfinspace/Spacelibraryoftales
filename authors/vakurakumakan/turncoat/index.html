@@ -1,0 +1,593 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+      
+      
+      
+      <link rel="icon" href="../../../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.5.36">
+    
+    
+      
+        <title>Turncoat - Space library of tales</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../../assets/stylesheets/main.06209087.min.css">
+      
+        
+        <link rel="stylesheet" href="../../../assets/stylesheets/palette.06af60db.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+    <script>__md_scope=new URL("../../..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+  
+
+
+  
+  
+
+<script id="__analytics">function __md_analytics(){function e(){dataLayer.push(arguments)}window.dataLayer=window.dataLayer||[],e("js",new Date),e("config","G-77VR86ZY08"),document.addEventListener("DOMContentLoaded",(function(){document.forms.search&&document.forms.search.query.addEventListener("blur",(function(){this.value&&e("event","search",{search_term:this.value})}));document$.subscribe((function(){var t=document.forms.feedback;if(void 0!==t)for(var a of t.querySelectorAll("[type=submit]"))a.addEventListener("click",(function(a){a.preventDefault();var n=document.location.pathname,d=this.getAttribute("data-md-value");e("event","feedback",{page:n,data:d}),t.firstElementChild.disabled=!0;var r=t.querySelector(".md-feedback__note [data-md-value='"+d+"']");r&&(r.hidden=!1)})),t.hidden=!1})),location$.subscribe((function(t){e("config","G-77VR86ZY08",{page_path:t.pathname})}))}));var t=document.createElement("script");t.async=!0,t.src="https://www.googletagmanager.com/gtag/js?id=G-77VR86ZY08",document.getElementById("__analytics").insertAdjacentElement("afterEnd",t)}</script>
+  
+    <script>if("undefined"!=typeof __md_analytics){var consent=__md_get("__consent");consent&&consent.analytics&&__md_analytics()}</script>
+  
+
+    
+    
+    
+  </head>
+  
+  
+    
+    
+      
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="cyan" data-md-color-accent="blue">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#turncoat" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+  
+
+<header class="md-header md-header--shadow" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href="../../.." title="Space library of tales" class="md-header__button md-logo" aria-label="Space library of tales" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"/></svg>
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            Space library of tales
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Turncoat
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+        <form class="md-header__option" data-md-component="palette">
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="(prefers-color-scheme: light)" data-md-color-scheme="default" data-md-color-primary="cyan" data-md-color-accent="blue"  aria-label="Switch to dark mode"  type="radio" name="__palette" id="__palette_0">
+    
+      <label class="md-header__button md-icon" title="Switch to dark mode" for="__palette_1" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m17.75 4.09-2.53 1.94.91 3.06-2.63-1.81-2.63 1.81.91-3.06-2.53-1.94L12.44 4l1.06-3 1.06 3zm3.5 6.91-1.64 1.25.59 1.98-1.7-1.17-1.7 1.17.59-1.98L15.75 11l2.06-.05L18.5 9l.69 1.95zm-2.28 4.95c.83-.08 1.72 1.1 1.19 1.85-.32.45-.66.87-1.08 1.27C15.17 23 8.84 23 4.94 19.07c-3.91-3.9-3.91-10.24 0-14.14.4-.4.82-.76 1.27-1.08.75-.53 1.93.36 1.85 1.19-.27 2.86.69 5.83 2.89 8.02a9.96 9.96 0 0 0 8.02 2.89m-1.64 2.02a12.08 12.08 0 0 1-7.8-3.47c-2.17-2.19-3.33-5-3.49-7.82-2.81 3.14-2.7 7.96.31 10.98 3.02 3.01 7.84 3.12 10.98.31"/></svg>
+      </label>
+    
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="(prefers-color-scheme: dark)" data-md-color-scheme="slate" data-md-color-primary="cyan" data-md-color-accent="blue"  aria-label="Switch to light mode"  type="radio" name="__palette" id="__palette_1">
+    
+      <label class="md-header__button md-icon" title="Switch to light mode" for="__palette_0" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 7a5 5 0 0 1 5 5 5 5 0 0 1-5 5 5 5 0 0 1-5-5 5 5 0 0 1 5-5m0 2a3 3 0 0 0-3 3 3 3 0 0 0 3 3 3 3 0 0 0 3-3 3 3 0 0 0-3-3m0-7 2.39 3.42C13.65 5.15 12.84 5 12 5s-1.65.15-2.39.42zM3.34 7l4.16-.35A7.2 7.2 0 0 0 5.94 8.5c-.44.74-.69 1.5-.83 2.29zm.02 10 1.76-3.77a7.131 7.131 0 0 0 2.38 4.14zM20.65 7l-1.77 3.79a7.02 7.02 0 0 0-2.38-4.15zm-.01 10-4.14.36c.59-.51 1.12-1.14 1.54-1.86.42-.73.69-1.5.83-2.29zM12 22l-2.41-3.44c.74.27 1.55.44 2.41.44.82 0 1.63-.17 2.37-.44z"/></svg>
+      </label>
+    
+  
+</form>
+      
+    
+    
+      <script>var palette=__md_get("__palette");if(palette&&palette.color){if("(prefers-color-scheme)"===palette.color.media){var media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']");palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent")}for(var[key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
+    
+    
+    
+      <label class="md-header__button md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+      </label>
+      <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+        <button type="reset" class="md-search__icon md-icon" title="Clear" aria-label="Clear" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/></svg>
+        </button>
+      </nav>
+      
+        <div class="md-search__suggest" data-md-component="search-suggest"></div>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" tabindex="0" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+
+<nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../../.." title="Space library of tales" class="md-nav__button md-logo" aria-label="Space library of tales" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"/></svg>
+
+    </a>
+    Space library of tales
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../.." class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Home
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../authorsindex/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Author index
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../contestindex/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Contest index
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../tagsexplained/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    The meaning of tags
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../tags/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Tags
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              <article class="md-content__inner md-typeset">
+                
+                  
+  
+<nav class="md-tags" >
+  
+    
+    
+    
+      <a href="../../../tags/#prose" class="md-tag">Prose</a>
+    
+  
+    
+    
+    
+      <a href="../../../tags/#vakurakumakan" class="md-tag">VakuRakumakan</a>
+    
+  
+    
+    
+    
+      <a href="../../../tags/#podandplanetyc115" class="md-tag">PodandPlanetYC115</a>
+    
+  
+</nav>
+
+
+
+<h1 id="turncoat">Turncoat</h1>
+<blockquote>
+<p>Author: Vaku Rakumakan</p>
+<p>Original post: <a href="https://vakurakumakan.blogspot.com/2013/11/turncoat.html">https://vakurakumakan.blogspot.com/2013/11/turncoat.html</a></p>
+<p>Entry for the YC115 Pod and Planet Contest in the Eight Thousand Suns in New Eden category.</p>
+</blockquote>
+<p>Call me a traitor if you dare, though to ennoble the people, you must commit to one side or another, and I could not choose to side with the Sanmatar. Call me a big rock if you dare, but my people are not little! They are large boulders, same as me, and we are the foundation, upon which a restored Republic will exist. We are born of the new Defiant. We see clear. We have resolve. We are enduring and we are steady. We honor Ta Ka, she who guided us to stand firm, thickened our skin, revived our morale and dispelled the fog that had made us as blind as the face of Maleatu Shakor—</p>
+<p>Suno had been parsing through his mail for new jobs to take when Turncoat caught his eye. He was familiar to what he could earn executing a traitor, for he had just plugged in his return route from Khabi, having collected the bounty on a runaway corporation thief. He figured Turncoat was no different a title than Kill this Bitch!, Everything Stolen!, and his favorite, Get it done, I’ll pay ANYTHING!</p>
+<p>It puzzled him, as to why there was no complaint, no promise for money, no contact information to follow the message. He considered it might be something of spam that reached the inbox of anyone passing through Ammatar space. It was a call to arms, he thought, and he was unable to make much more sense of the message. He began to wonder if he should pursue a political rebel, and glinting at the front of his mind, he began to wonder if the four empires could wrap better gift packages than the independent corporations.</p>
+<p>His intrigue seemed to compound upon itself, and as his Maelstrom came to exit its jump, he cleared his decision with the rest of his crew, that he would make way to Matar. He jeered in a confident cadence over the intercom, that the men will enjoy loose women with tight tents, and that they should be ready to have a good time on the Minmatar homeworld.</p>
+<p>The crewmen, mostly men, were bolstered by the comment, though a Brutor widow from Matar took offense, and her comrades teased and prodded her with their elbows.</p>
+<p>When the hooting calmed, Suno called out over the intercom, and addressed the widow, saying that she would be coming ashore with him. He gave the entire crew no insight to why. The men around her looked upon the woman with a somber expression, as though they seemed to realize what her story was for leaving the planet surface. The widow felt she deserved an explanation from Suno, and she made her way to the bridge of the Maelstrom.</p>
+<p>She stopped in front of a doorway covered by large rust colored panels. Beside it, she manipulated a bright display feature.</p>
+<p>“Suno, we have to talk.” The widow said. There was no answer from the room beyond, and the device she spoke into did not return any reply. She let a few seconds pass. “Suno!—” The woman was prepared to yell a long string of curses into the holodisplay when the piercing sound of the doorway opening, startled her. “Damn it, Suno.”</p>
+<p>The man stood with a robe wrapped around him, and he patted away a dripping oil substance which began to pool where he stood. Behind him, the walkway was flanked by drains that lead to circular platform, where protruding out of the floor, like a steep green mound, was an upturned and opened end of a capsuleer’s pod.</p>
+<p>“What do you want Mina?” He said as he rotated and launched the rag onto a sofa situated against a wall of the chamber. On the back of the man’s neck was a jagged metal ring the size of a closed fist, which at the time, similarly pounded in the very spot, and made him weak and seek comfort at the shelves of the bar across the way.</p>
+<p>Mina stepped into the room, and with her back turned, the doorway slid shut behind her. “I want to know why we’re going to Matar.”</p>
+<p>“We’re going, because I need an interpreter, and I am not stopping to pick up any malfunctioning-implant-piece-of-crap translation module. Besides, I like to hear your voice, Mina. Don’t you like I like your voice?”</p>
+<p>“Don’t change the topic Suno, and I didn’t mean us.” She gestured between herself and the capsuleer who was then serving himself a mixed drink that began to visibly thicken as he poured into it, the final stream of several beverages. “I am talking about why we’re going to Matar, at all. Pator even. There’s nothing there but a Quafe factory and heartburn. The system even boasts one of CONCORD’s fastest response times.” She had recently read an article from a Galletian holobooklet detailing the fastest fleets in New Eden, and felt her newly learned information could dissuade Suno from reviving old memories.</p>
+<p>“Heartburn for you, maybe, but I am sure most of the crew would enjoy a relaxing tour of the Quafe factory.” He raised his glass, and began to interface with a nearby holoprojector.</p>
+<p>His shoulder came perpendicular to Mina, and the fact he could not face her in the eye, and speak, enraged her. “I don’t want to go.”</p>
+<p>Suno tapped at keys that lit up when pressed, and he manipulated the layouts of information that appeared. “No.” He said in response to Mina.</p>
+<p>“No? I think you’re mistaken. I don’t want to go. You can’t make me.”</p>
+<p>“No.” He said once more as he raised his glass to drink again.</p>
+<p>Mina scowled and roughly grabbed, Suno, rotating him and sloshing the drink over the edges of the glass. Coagulated parts of the capsuleer’s drink spilled onto his robe. “Look!” He shouted and frightened her.</p>
+<p>She, at many times, had seen how callous the man could be when dealing mercilessly with the victims he collected bounties on—often other capsuleers. Some had never truly done a criminal act in their life, but had instead the misfortune of upsetting a wealthy CEO, who put on their lives, many-million ISK bounties.</p>
+<p>“I’m sorry shit got kicked up when you were on Matar. I feel for you, I do, but it’s not my problem. Make peace with your past, and move on.” His hands had achieved a firm grip of her shoulders, and the glass he drank from, shattered when it was released to crash onto the floor. “We all have to move on, and take the days we lived, the things we’ve experienced, as the lessons they are. Just move on. Move on, and live your waking days.”</p>
+<p>Suno finished wide-eyed and stern, though his usual cadence cracked, and his final statement seemed to be tinged with a valence of something in him, unresolved. Mina heard, and she was uncomfortable in his grip, and her scowl moved from shock, to a face of deep-seated anger. “Let go of me!” She shook free of his hold, even though Suno could have easily made her struggle.</p>
+<p>“I’m not going.” She finished and raged out of the room.</p>
+<p>Suno hunched, covered in a mess of oil he missed, which dried in flakes to his skin, and on his robe, spots from the drink he spilled. He watched the widow storm away.</p>
+<p>He huffed, grabbing a rag from the bar shelf behind him.</p>
+<p>The Maelstrom’s route was calibrated seconds after coming out of the Onga Stargate, directed towards the fourth planet of Pator. Suno readied his men for what they would experience when going to the planet. No one could pick up the change in his voice but Mina, and she kept to the small berth allotted to her. She was restrained by her seething dislike for her captain, and behaved as though it killed her to be above the planet where she had lost her husband. Suno directed who would be going with him to the surface, and commanded that those not going, to ready the dropship that he and a pair of Minmatar crewmen would take ashore. He made no mention of Mina, and he did not allow the rest of his crew to visit the surface with him, until his own business was done. So the men took to resting in their bunks and being mirthful.</p>
+<p>Suno flew the dropship out of the cargo bay where it was kept, and his ship travelled down, and swung around the planet. From the torpid heat of the noonday star, to the cool escape of midnight, the dropship rocketed to the brightest point in the river of lights, which snaked in a smooth outline of the great sea of Matar.</p>
+<p>Suno knew that he must get some answers. He first wanted to see if the rebel Ta Ka was of any worth to anyone, and second, to see if the sum he would be paid would be great. He judged that he would need to speak to an advanced agent of the Republic Security Services, and during his travel from Ammatar space, he had sent a message to an agent who agreed she could speak with him. The agent, who was holed alone in her office, was staying after her working hours. She had put into the system of her employer’s log, why she would leave her desk later than usual, sending a message titled, Meeting with a Capsuleer: Ta Ka Incident.</p>
+<p>Few ships seemed to be in flight above the city, and one of Suno’s crewmen pointed to a location he suggested landing at, and followed by letting his captain know that the office of the Republic Security Services would not be far. The landing zone was the broad top of a squat docking structure, which was positioned at an outlying part of the city-scape's bright interior.</p>
+<p>“Not even two blocks from here.” Said the knowledgeable guide in a voice that was accented heavily by the Amarrish he could not speak around Suno.</p>
+<p>The men rounded a corner.</p>
+<p>“Up ahead, up ahead here.” The guide said as they pierced through an alleyway, and spotted, in the shadow of an office building, the smaller shape of their destination. It was a clear architectural after-thought. The building was made in the imitation of the larger one, but out of visibly cheaper resources. Antennas even poked up to the sky from a similarly placed module on the roof, as though money was saved by not creating a unique appearance to the structure. Distanced around the large building were varied spotlights illuminating it, and they served to better show its smaller cousin than the short building’s own lights. On the front of the tiny thing was a simple display that read, OFFICE OF R.S.S.</p>
+<p>When the visitors approached, an uninviting air fell over Suno’s crewmen. Suno asked what was wrong, and the men explained it away with a superstition about dark places. He allowed them to stay outside as he entered by himself.</p>
+<p>The doorway was unsealed, and the hallway of the entrance was not lit. The entire floor seemed to have no light except for the wall of it, which escaped laterally from an open room at the back of the corridor. The pilot took this as where he would be meeting with his agent and made his way forward.</p>
+<p>He was more than halfway to the room, when he heard from it, a snuffed rip and the collapse of a body. Suno dove to cover and knelt in observation of the room. He saw, breaking the path of the light source, two distinct figures, and heard from the area, indecipherable chatter. He wanted to alert his own men, though could not, for fear that his position would be given away, and took instead to maneuvering to better hear.</p>
+<p>“…She thought I was the capsuleer.” A voice said, and the other body in the room did not respond, as it seemed ultimately, that the answer was not to the other figure, but to another individual on the other end of a communication device.</p>
+<p>The speaker choked and stammered, “N-no.” It was the voice of a man, and he cleared his throat. “The capsuleer wasn’t here ma’am.”</p>
+<p>The speaker paused, and then changed his tone, as though he was not addressing a superior, and Suno discerned that the man was addressing his partner. “Is their dropship still at the garage?” He asked.</p>
+<p>“It is.” A similarly gruff voice responded after a short pause.</p>
+<p>“It is, ma’am” repeated the other into his device, and then cleared his throat after a moment of silence.</p>
+<p>Suno cursed under his breath and looked towards where he entered, with a sinking concern in his gut for his men outside.</p>
+<p>“Is The Draugr still anchored in orbit?” Suno recognized the name of his ship. He fumed to hear it, and was furious at whomever he could imagine was on the other end of the grunt’s call.</p>
+<p>The partner, after a moment of pause, worked in an answer “Yes it is…I mean—”</p>
+<p>“The Draugr is still in orbit, ma’am.” The voice repeated promptly. There was pause. Suno nearly fell forward in an attempt to hear what would come next. “—It is?” The man questioned. There was an insuck of surprise. “I apologize.”</p>
+<p>Then time seemed to collapse on itself…</p>
+<p>“Yes.”</p>
+<p>He said…</p>
+<p>Then spoke, “We will detain him immediately.” And time seemed to speed up all too quickly.</p>
+<p>The pilot dashed for the exit, and he could hear from behind him, a charging pair of footsteps. What shit, he thought, as he toppled decorative items into the walkway to create obstacles for those chasing. For one body, he could hear its rough crash into the ground. He made it meters clear out of the building and saw no sign of his accompanying crewmen. He turned into an opposite direction of where he landed, for distrust that his dropship could be safe, and he heard from behind him, the shout of the familiar voice, “Ta Ka wants him alive!”</p>
+<p>Suno perspired, and he was unfamiliar with running great lengths. He felt the danger of predators surrounding him, and at the intersection of the next street, he paused.</p>
+<p>The streets all were empty, except for ahead, where a scantily clad and abundantly tattooed woman, made with Suno, direct contact of the eyes. Her face was in utter shock, and her limbs played the air as surprised. Suno flinched and choked on what he saw before him, and the dancer mirrored his face and weaved the expression in the air. Maddening! Suno thought, and probably showed it in his face, for in that very twist of his mind, the woman brought the seed to the surface in a flurry of movements.</p>
+<p>Mad!</p>
+<p>The guilt he felt through Mina.</p>
+<p>Mad!</p>
+<p>The waking life he lived.</p>
+<p>Mad!</p>
+<p>The troubles that he suffered, the horrible things he did.</p>
+<p>Mad! Mad!</p>
+<p>Suno was struck unconscious, either by his own panic, or from the wound the handle of a firearm made, to the back of his skull.</p>
+<p>He woke, shackled. His feet were restrained by a heavy chain that connected to a hole in the floor. Suno’s arms were bound behind his back. His wrists could have met, were it not for bracer-like cuffs. And he imagined what he could do with his extremities—he desired so strongly to strangle the neck of the heavily robed woman in front of him.</p>
+<p>“You came looking for me,” said the deep and resonating voice of the rebel, Ta Ka. Her notes hung in the air, and Suno could not discern if what he heard was the power in her presence, or the echo of the cold chamber.</p>
+<p>The captor accepted Suno’s silence as his reluctance to answer. She knew that he hated her, or even more, in that moment, that she would give him a reason to hate her.</p>
+<p>“You came to Matar, not to aid me, but to thwart me. Why is that, Suno Ito?”</p>
+<p>By the glare on Suno’s face, she knew that he had underestimated the size of the catch that Ta Ka was. “You don’t know shit, just ‘cause you think you know the surname no one uses, don’t mean piss. Does that get you off, huh?! Using names no one goes by?” Suno chinked the chains in speaking, and the woman turned her back to him and initiated the small display of a holoterminal.</p>
+<p>Suno attempted to gainfully understand his surroundings, by reassessing the room, no longer blurred from his waking moments. His eyes adjusted to the darkness, and the floor panels were that of a yellow-metal alloy. He was on an elevated space, a circular platform, and the only doorway was no more than three meters from him. His head rounded the room, and as it did, he was deducing that he must be in the solitary confinement of a slave-holding ship, until, when he viewed the wall, that with the push of a button from Ta Ka, it opened, and revealed a bay window.</p>
+<p>“Perhaps you can glimpse what gives me pleasure.” She sung slowly to the man.</p>
+<p>Suno saw clearly, in the light of Pator, the mangled carcass of The Draugr.</p>
+<p>“It is from enlightening those worthy of being enlightened. This, Suno Ito, this gives me pleasure”</p>
+<p>“You blew up my ship! You whack-job! Untie me!”</p>
+<p>“Take another look, Suno Ito. Take another look and you will see.” She seemed to have stolen Suno’s former cadence, repurposed it, and made it powerful.</p>
+<p>It dawned on him as she said it, “Mina. Mina is, as with the rest of your crew, perished. She is scattered ash that drifts in space, but you, Suno, you can never be ash. You can never die, and though you have progressed to see life as a man free of mortal coils, you still sympathize with loss, and though you have resisted connection with the slaughtered, you pine for them, as you now do with Mina.”</p>
+<p>Suno raged with the rage of his former friend, and attempted to aggress, and worked his hardest to harm his captor, but he could not reach her for he was a fettered man. “Untie me, you damned nut!”</p>
+<p>Ta Ka left the terminal and she faced out of the translucent portion of her ship’s hull. “Untie me, damn it and I’ll show you death!”</p>
+<p>Her back was turned to Suno when she began to lift away the weighted top layer of her clothing. The robe fell heavily to the floor and bunched around her ankles. Suno caught the shimmer of a metal piece that showed as an angry ring at the middle of her neck.</p>
+<p>In a deep voice, she hummed, as one would to start a chant, and spoke in thundering foreign words.</p>
+<p>Ta Ka repeated in cruel reverence, so that Suno could know what was spoken, “The message is for the living, and we are immortal.”</p>
+<p>Suno did not calm in his struggle. He fought to free himself and to damage her, but unknowing of how.</p>
+<p>“The time of the empires are coming to an end. Maleatus Shokor is unfit to rule, and in short time, others like me will rise to the occasion, all of us being the largest of boulders, united in the toppling of the weakest mountains, those which are mockeries to our nobility. You may call this for what it is, Suno Ito. This is insurrection.” </p>
+<p>She had finished her statement, and Suno had become winded in his attempt to escape. The woman opened the cell door and a painful beam of light entered the room. Ta Ka exited alone, with Suno Ito chained, curled and sobbing.</p>
+
+
+
+
+
+
+
+  
+  
+
+
+
+  
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+          <button type="button" class="md-top md-icon" data-md-component="top" hidden>
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8z"/></svg>
+  Back to top
+</button>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+      <div class="md-consent" data-md-component="consent" id="__consent" hidden>
+        <div class="md-consent__overlay"></div>
+        <aside class="md-consent__inner">
+          <form class="md-consent__form md-grid md-typeset" name="consent">
+            
+
+  
+    
+  
+
+
+
+
+  
+
+
+<h4>Cookie consent</h4>
+<p>We use cookies to recognize your repeated visits and preferences, as well as to measure the effectiveness of our documentation and whether users find what they're searching for. With your consent, you're helping us to make our documentation better.</p>
+<input class="md-toggle" type="checkbox" id="__settings" >
+<div class="md-consent__settings">
+  <ul class="task-list">
+    
+      
+      
+        
+        
+      
+      <li class="task-list-item">
+        <label class="task-list-control">
+          <input type="checkbox" name="analytics" checked>
+          <span class="task-list-indicator"></span>
+          Google Analytics
+        </label>
+      </li>
+    
+  </ul>
+</div>
+<div class="md-consent__controls">
+  
+    
+      <button class="md-button md-button--primary">Accept</button>
+    
+    
+    
+  
+    
+    
+    
+      <label class="md-button" for="__settings">Manage settings</label>
+    
+  
+</div>
+          </form>
+        </aside>
+      </div>
+      <script>var consent=__md_get("__consent");if(consent)for(var input of document.forms.consent.elements)input.name&&(input.checked=consent[input.name]||!1);else"file:"!==location.protocol&&setTimeout((function(){document.querySelector("[data-md-component=consent]").hidden=!1}),250);var form=document.forms.consent;for(var action of["submit","reset"])form.addEventListener(action,(function(e){if(e.preventDefault(),"reset"===e.type)for(var n of document.forms.consent.elements)n.name&&(n.checked=!1);__md_set("__consent",Object.fromEntries(Array.from(new FormData(form).keys()).map((function(e){return[e,!0]})))),location.hash="",location.reload()}))</script>
+    
+    <script id="__config" type="application/json">{"base": "../../..", "features": ["search.suggest", "search.highlight", "navigation.path", "navigation.top"], "search": "../../../assets/javascripts/workers/search.6ce7567c.min.js", "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}}</script>
+    
+    
+      <script src="../../../assets/javascripts/bundle.56dfad97.min.js"></script>
+      
+    
+  </body>
+</html>

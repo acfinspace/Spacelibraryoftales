@@ -1,0 +1,574 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+      
+      
+      
+      <link rel="icon" href="../../../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.5.36">
+    
+    
+      
+        <title>Collisions - Space library of tales</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../../assets/stylesheets/main.06209087.min.css">
+      
+        
+        <link rel="stylesheet" href="../../../assets/stylesheets/palette.06af60db.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+    <script>__md_scope=new URL("../../..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+  
+
+
+  
+  
+
+<script id="__analytics">function __md_analytics(){function e(){dataLayer.push(arguments)}window.dataLayer=window.dataLayer||[],e("js",new Date),e("config","G-77VR86ZY08"),document.addEventListener("DOMContentLoaded",(function(){document.forms.search&&document.forms.search.query.addEventListener("blur",(function(){this.value&&e("event","search",{search_term:this.value})}));document$.subscribe((function(){var t=document.forms.feedback;if(void 0!==t)for(var a of t.querySelectorAll("[type=submit]"))a.addEventListener("click",(function(a){a.preventDefault();var n=document.location.pathname,d=this.getAttribute("data-md-value");e("event","feedback",{page:n,data:d}),t.firstElementChild.disabled=!0;var r=t.querySelector(".md-feedback__note [data-md-value='"+d+"']");r&&(r.hidden=!1)})),t.hidden=!1})),location$.subscribe((function(t){e("config","G-77VR86ZY08",{page_path:t.pathname})}))}));var t=document.createElement("script");t.async=!0,t.src="https://www.googletagmanager.com/gtag/js?id=G-77VR86ZY08",document.getElementById("__analytics").insertAdjacentElement("afterEnd",t)}</script>
+  
+    <script>if("undefined"!=typeof __md_analytics){var consent=__md_get("__consent");consent&&consent.analytics&&__md_analytics()}</script>
+  
+
+    
+    
+    
+  </head>
+  
+  
+    
+    
+      
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="cyan" data-md-color-accent="blue">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#collisions" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+  
+
+<header class="md-header md-header--shadow" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href="../../.." title="Space library of tales" class="md-header__button md-logo" aria-label="Space library of tales" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"/></svg>
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            Space library of tales
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Collisions
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+        <form class="md-header__option" data-md-component="palette">
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="(prefers-color-scheme: light)" data-md-color-scheme="default" data-md-color-primary="cyan" data-md-color-accent="blue"  aria-label="Switch to dark mode"  type="radio" name="__palette" id="__palette_0">
+    
+      <label class="md-header__button md-icon" title="Switch to dark mode" for="__palette_1" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m17.75 4.09-2.53 1.94.91 3.06-2.63-1.81-2.63 1.81.91-3.06-2.53-1.94L12.44 4l1.06-3 1.06 3zm3.5 6.91-1.64 1.25.59 1.98-1.7-1.17-1.7 1.17.59-1.98L15.75 11l2.06-.05L18.5 9l.69 1.95zm-2.28 4.95c.83-.08 1.72 1.1 1.19 1.85-.32.45-.66.87-1.08 1.27C15.17 23 8.84 23 4.94 19.07c-3.91-3.9-3.91-10.24 0-14.14.4-.4.82-.76 1.27-1.08.75-.53 1.93.36 1.85 1.19-.27 2.86.69 5.83 2.89 8.02a9.96 9.96 0 0 0 8.02 2.89m-1.64 2.02a12.08 12.08 0 0 1-7.8-3.47c-2.17-2.19-3.33-5-3.49-7.82-2.81 3.14-2.7 7.96.31 10.98 3.02 3.01 7.84 3.12 10.98.31"/></svg>
+      </label>
+    
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="(prefers-color-scheme: dark)" data-md-color-scheme="slate" data-md-color-primary="cyan" data-md-color-accent="blue"  aria-label="Switch to light mode"  type="radio" name="__palette" id="__palette_1">
+    
+      <label class="md-header__button md-icon" title="Switch to light mode" for="__palette_0" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 7a5 5 0 0 1 5 5 5 5 0 0 1-5 5 5 5 0 0 1-5-5 5 5 0 0 1 5-5m0 2a3 3 0 0 0-3 3 3 3 0 0 0 3 3 3 3 0 0 0 3-3 3 3 0 0 0-3-3m0-7 2.39 3.42C13.65 5.15 12.84 5 12 5s-1.65.15-2.39.42zM3.34 7l4.16-.35A7.2 7.2 0 0 0 5.94 8.5c-.44.74-.69 1.5-.83 2.29zm.02 10 1.76-3.77a7.131 7.131 0 0 0 2.38 4.14zM20.65 7l-1.77 3.79a7.02 7.02 0 0 0-2.38-4.15zm-.01 10-4.14.36c.59-.51 1.12-1.14 1.54-1.86.42-.73.69-1.5.83-2.29zM12 22l-2.41-3.44c.74.27 1.55.44 2.41.44.82 0 1.63-.17 2.37-.44z"/></svg>
+      </label>
+    
+  
+</form>
+      
+    
+    
+      <script>var palette=__md_get("__palette");if(palette&&palette.color){if("(prefers-color-scheme)"===palette.color.media){var media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']");palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent")}for(var[key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
+    
+    
+    
+      <label class="md-header__button md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+      </label>
+      <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+        <button type="reset" class="md-search__icon md-icon" title="Clear" aria-label="Clear" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/></svg>
+        </button>
+      </nav>
+      
+        <div class="md-search__suggest" data-md-component="search-suggest"></div>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" tabindex="0" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+
+<nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../../.." title="Space library of tales" class="md-nav__button md-logo" aria-label="Space library of tales" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"/></svg>
+
+    </a>
+    Space library of tales
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../.." class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Home
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../authorsindex/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Author index
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../contestindex/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Contest index
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../tagsexplained/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    The meaning of tags
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../tags/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Tags
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              <article class="md-content__inner md-typeset">
+                
+                  
+  
+<nav class="md-tags" >
+  
+    
+    
+    
+      <a href="../../../tags/#prose" class="md-tag">Prose</a>
+    
+  
+    
+    
+    
+      <a href="../../../tags/#weilskingdom" class="md-tag">WeilsKingdom</a>
+    
+  
+    
+    
+    
+      <a href="../../../tags/#newedencapsuleerswritingcontestyc120" class="md-tag">NewEdenCapsuleersWritingContestYC120</a>
+    
+  
+</nav>
+
+
+
+<h1 id="collisions">Collisions</h1>
+<blockquote>
+<p>Author: Weils Kingdom </p>
+<p>Original post: <a href="https://cynal.blogspot.com/2018/05/collisions.html">https://cynal.blogspot.com/2018/05/collisions.html</a></p>
+<p>Entry for YC120 New Eden Capsuleer’s Writing Contest in the prose category.</p>
+</blockquote>
+<p>“...and thank-you.”<br>
+“Always a pleasure.” The connection was closed from the far end as the young woman leant back in the chair stretching. She liked it here - a little more freedom on the end of the leash. She ran a long finger down the list on the side of her dataslate. The list was getting shorter, or at least that’s what she told herself. Three taps linked some items together, there was a broker in station that could handle all of those needs.<br>
+She sighed softly as new entries appeared on the list. Silently she started to recite a prayer from her childhood - a memory of a long way off. She’d occasionally wondered what that girl, dusty from the ore processors, would have made of EFA?<br>
+"By His light,” perfectly on time there was a soft chime from the dataslate, “and His will" she completed before accepting the call.<br>
+“Hello Sir.”<br>
+“Good Morning Eloise, and how are you?” she smiled, he was a good master.<br>
+“It is afternoon, and I am well. Thank-you.”<br>
+“I’ve sent you some details around the manufacturing of subcomponents for Gallentean drones. Could you have a look at them and see what the costs look like. I’m hearing that capsuleers are favouring them at the moment and we should be able to make something on their precursors.”<br>
+She made a show of looking at another panel on the dataslate before acknowledging the receipt of the instructions as he ended the call. She flipped the unit over face down on the desk and looked across the room.<br>
+It was a typical rent-by-the-hour commercial area, hard finished off-white panelling in a dark grey framing, a swirling red and gold carpet. Hazed glass meeting areas gave a little privacy from the many people working there. It looked expensive, it spoke of the heart of a great Empire and the family at the centre of it all. People moved quietly and reverently about their business, not wishing to disturb those around them.<br>
+It was a huge difference, she thought, to the station she grew up in; where there was the continual background rumble of machinery and every surface showed scuffs from the fines that would cling to everything. If here was where you grew up you would be accustomed to the green plants, fine art and cleanliness of the Empire. She understood why, as visitors often did, you would look in horror at a mining station and not want to touch anything for fear of contamination. The opposite applied when she had arrived on that age weary ore hauler. She had felt as if her very presence was polluting, that she could never be part of all of this.</p>
+<p>It wasn’t the surprise that drove him, but curiosity. That and a sense of containment and frustration at the situation he was in. He took one last look across the hangar - rows of hulls packaged for shipment, storage crates of the components that would convert them from potential to blessed weapons of light. Rows of pallets, floating ready to be moved to his Transport for shipment to the warzone - a ship he had been politely ordered not to launch. But there was something new occupying his mind.<br>
+It was her name that had caught his eye - it was both unusual and familiar. He had been idly checking the lists of visitors to the station in case there was useful intelligence to be gleaned from it. Or not. It really was just a list of names after all, but it was that or sit, half dozing in the mess waiting for launch clearance from the Admiralty.<br>
+That name and that home station. He now had something interesting to investigate. With a more positive step, he strode along the central hangar gangway, people nodding acknowledgement as he passed. There was the usual queue at the checkpoint by the exit. He joined the end of the general pass holders, which gained a few questioning looks and waited until called to the gates.<br>
+The guard, wearing the Empress's insignia saluted him and extended his hand for the identity chip. The sliver of gold was quickly read and validated by the neuro-scanner. “Commander Kingdom,” he handed the card back to him, “you do have priority rights if you wish sir.” The guard indicated the signage at the start of the queue.<br>
+The officer took the chip from him. “I am not in a hurry.” He saluted and stepped to the access corridor and walked briskly through timing his paces to the barriers as they opened for him.</p>
+<p>“Chip.” The server was abrupt, trying to get through the queue of people as quickly as possible. Eloise placed her tray on the ledge and drew her ID from her battered jacket pocket. The gold finish was scuffed from her time in Mista and passed it over.<br>
+“Credit’s good. Go Left. Next.”<br>
+She pocketed the chip and picked up her tray following the signs to the public tables looking for a quiet space. She’d been on station for four days. The journey from home had been tiring, the deadhead cabin on the hauler had been one of the better ones - though not by design. The problem had been the ship itself; elderly with a misaligned warp system that made entering every warp tunnel feel like falling off a cliff. God knows how many systems they’d crossed wandering from Mista to Amarr, picking up ore at various depots and trading anonymous crates of heaven knows what. Eloise did know that she failed to get much sleep.<br>
+The cafeteria was busy so she ended up sharing a table with a group discussing the state of the conflict with the Minmatar, a conflict she had not previously given much consideration to. After a short murmured prayer she picked at the food - even in this low status area it was better, and richer, than she had been used to. She could see herself putting on weight if she stayed here. Not that it overly worried her, she had always thought of herself as being rather scrawny, not helped by her height, but if she did fill out then she’d need new clothes. And that needed credit. And she had to ask for that.<br>
+She looked back at the man opposite who was looking at her curiously, and felt self conscious about the state of her jacket. She had owned it for many years, and many years ago it was a very presentable item of clothing, a hard wearing long coat that has softened and fortunately worn well with age. She pulled it around herself a little more closely.<br>
+“Sorry ma’am, but I couldn't help noticing your necklace.” She moved her hand to her throat, half in affirmation, half to check it was still fastened there. A series of polished deep green metal panels, interlocked by maille to form a deep vee from the neck. “I don't recognize what it is made of.”<br>
+She felt embarrassed to answer “Tritmex”.<br>
+“Alloy?” He sounded surprised and slightly dismissive. Eloise spread her hand over the necklace holding it in place. It was hers. One of the few things she owned in her own name - a gift from her mother that she had been permitted to keep.<br>
+Single handed she started to scoop her food into her mouth, before leaving with her tray balanced in one hand, the other still protecting her necklace.<br>
+Not for the first time, and despite her wanting otherwise, she missed home.</p>
+<p>People gave him space on the platform. The black and silver of the Praetorian uniform did that for you. People knew who you were without question. Loyal, dedicated and waiting for the shuttle pod up to the other end of the station.<br>
+The Family Station was huge, seventy five thousand metres or so, it dwarfed even Titans. A monument to God and the Empire. To someone who had grown up among mining colonies - small stations bolted to massive rocks, slowly carving minerals from their interiors, it was still an awe-inspiring sight. I still watched astounded whenever he approached to docking rings waiting for drone tugs and tractors to pull him into a bay.<br>
+Commander Kingdom glanced up at the indicators. It would be the second pod he was booked to take, so he stepped back on the platform giving more space for others to board. The slimline dataslate activated as he drew it from his pocket, the flexible display glowing softly as it responded to the movement.<br>
+Her face felt familiar now. A name, a record access - the privilege of his rank - some details, a face and a list of checkpoints passed. The same information existed for everyone on the station, everyone in the Empire. Someone could watch him as he watched her movements. He wondered what they'd make of this rare trip up station. But he had nothing to hide: God watches all. Though He may on occasion delegate. He smiled at the thought.<br>
+At a twitch of the wrist the face on the screen slid aside to be replaced by a list of jobs and correspondences he needed to deal with. There was nothing significant there, but one was flagged as an opportunity since he was going to be up station. He glanced at the pod routing - it was a good suggestion and he wasn't in a hurry. She couldn't just disappeared and professional was always ahead of personal. He added the location to his agenda and silently in the background systems communicated and reschedule the sequence of stops on the pod network for him. For anyone below him it would have reallocated them to a different shared journey.<br>
+The pod, when it arrived at the gate a few minutes later was, as usual, empty and would take him directly to his destination. He sat upright in one of the seats. There was no sense of movement as it accelerated - the artificial gravity compensating perfectly for the motion. Within moments he was flying across the great voids within the station among other station traffic and the starships supporting God’s Empire.</p>
+<p>Eloise joined the end of the queue with a sigh. A pod had just unloaded, and she was a fraction too late to beat them to the checkpoint. The walk had settled her, the corridors quieter and cheaper than joining the masses in the pod. She was used to walking, in the station she'd grown up in walking was more reliable than the patchily repaired passenger pods on the freight tubes. Her height gave her a long easy stride that hypnotically beat a rhythm on the walkways, a tapping in the pace of liturgy.
+The queue moved steadily. It was rare for the checkpoint to reject an applicant. To attempt access where not permitted was a negative mark. You follow teaching, you accept judgement. You do not intrude in areas you were not entitled to. Finally she passed her chip over the reader by the gate under the watchful eye of a uniformed guard. She wondered briefly whether he, like her, was a trusted slave or a citizen of low standing. You couldn't tell without validating the details on the chip. The guard was just given a coloured light. He didn't need to know her status, just whether she was allowed.<br>
+The system gave her access to the dormitory, a multilayered network of corridors with rooms off them. A mix of shared and single rooms. Eloise knew she was fortunate that her holder was willing to pay the supplement for a single. A basic space with a bed that doubled as a sofa, a small desk, chair, basin and a wardrobe. Everything else was shared with the dozen other rooms on her row.<br>
+She'd added a few items of her own. A few ornaments - most she had made herself from bits of scrap taken from the workshops. A small shrine, that she bowed her head to on returning and before departing. Giving thanks for her life and for God's protection. Her travel bag was in the bottom of the wardrobe, her clothes hanging above it.
+Eloise sat for a while, working on a piece of red, glassy, material slowly carving it into a teardrop shape, occasionally holding it up to the reading light to catch a glimpse of the fires dancing in it. Finally she put her work down and repacked her tools and tidied the desk.<br>
+She checked her dataslate for messages. Another couple of tasks had been added to her list, one response to her enquiry about storage space and shipping rights included a daunting set of terms and conditions. She threw the slate on the sofa; she could deal with that somewhere more comfortable.</p>
+<p>The Dolvan Hetrelad Ballroom was at the top of the station among the reserved apartments. The guard, in the Empress's Family uniform, saluted Commander Kingdom as he arrived.<br>
+“Sir. This area is closed to all without express permission.”<br>
+“I am expected.” He handed over his identity chip and waited while the guard validated it. He looked at the entrance hallway, looking for weaknesses that he did not expect to find here at the heart of the Empire. The walls were ivory white, decorated in frames of lacework gold, high angled lights picking up the gentle undulations in the surface. Above him the lacework arched over into a golden canopy forming a processional way towards the ballroom beyond.<br>
+And, from the architectural drawings he had been given privileged access to, behind the finery was rolled tungsten armour.<br>
+“Commander, welcome to Dolvan Hetrelad.” She had appeared almost silently, her long crimson and gold gown complementing the décor perfectly. The guard had stepped back out of deference but remained alert.<br>
+Commander Kingdom bowed. “Ma’am, thank you for making time to see me at short notice. I am greatly honoured.”<br>
+“The Praetorium are always welcome here. I believe you have been sent to review the arrangements for the anniversary?”<br>
+“Yes Ma’am.”<br>
+“Please follow me, Commander.”</p>
+<p>The lounge was busy; the end of the local working day for most on the station and the chance of a drink was temptation enough. The Family guards looked on, watching for transgressions, behaviour that would earn a black mark on a record and a longer period of servitude or unwanted attention from the priesthood and the resultant penance. The difference between the calm considered behaviour of the Amarrians and the rather less inhibited visitors was notable. In a couple of places there were tables of capsuleers, arrogant and wealthy, each group with a guard dedicated to watching them.<br>
+She queued at the bar for a drink, politely waiting as part of the crush until the barman spotted her. Protecting her drink with her dataslate, she walked slowly through the lounge looking for a table away from the crowds where she could work in peace. She had found this lounge a couple of days before and liked the warren of booths and alcoves, each decorated in different styles from different parts of the Empire. A confused mess really, but it appealed to her more than the more open, less welcoming, areas of the station.<br>
+Finally she found a table away from the worst of the crowds she settled into the corner of the bench seat, stretching a leg out along it and making herself comfortable for an evening reading broker's legalese.</p>
+<p>It had cast its magic on him. Dolvan Hetrelad. Walking among the stars. The knowing smile of the Custodian as he looked around like a bedazzled youth rather than a middle-aged Commander with grey just showing in his beard.<br>
+He shook his head at the memory. The review had been simple; a ballroom fit for the Empress easily exceeded the Praetorium's own requirements. The kindly worded offer to tour the ballroom. The sight of those huge shield windows - nothing but the play of electromagnetic fields between you and eternity in all its glory. Starlight reflecting on the black marble floor. You and God’s eternal creation.<br>
+The pod was taking him back down a few dozen levels within the station, away from the rarified glory of Empire and back to the practicalities of a busy station. He checked his slate again, uncertain now he was nearing his quarry. What had, in bored abstract, seemed like a good idea now had a nasty overtone of reality. He looked at her face again and ran his finger down the screen, scrolling through her record. Mista. Mother and Daughter. Slave. And now here at EFA, the heart of Amarr.<br>
+The latest checkpoint logs had her entering the Palisades, an open bar down in commercial. He vaguely remembered going there some years ago, while working his way back into the Empire’s favour while his application to join the Praetorium was being processed.<br>
+His rank and position allowed him to move easily through the station, his uniform clearing the way and attracting a few wary looks. Palisades was busier and a little more worn than he remembered. The owner must be doing well, but would need to spend some of his profits soon. He checked her portrait again. Long brown hair, freckles, angular face. Slender, taller than average. A self-conscious expression. He folded the slate and put it away and started to methodically search the venue.</p>
+<p>It was his movement that caught Eloise's eye, purposeful, vigilant, searching for something. The uniform was unfamiliar, a functional black rather than the gold trimmed finery of the Family Guards. He stopped, looking her way. His expression was hard to read and his hesitation felt out of character as if he was wary about what he was about to do.<br>
+She turned her slate facedown on the table, mentally running through possible causes of guilt, as he started to walk towards her.<br>
+“May I…?” He indicated the bench across the table from her. She nodded nervously and he sat, almost apprehensively. She looked around the bar, trying to spot anyone else he was with, and hunched a little further down in her corner. He sat there for a few moments, looking at her for and not for first time wondering about they ways their lives had differed.<br>
+His laughter surprised her, not a cruel laugh but one of a person caught in an absurdity. “Miss Kingdom…” he paused as if trying to think of the right words to reassure the young woman.<br>
+“Perhaps I should introduce myself first. I am Commander Weils Kingdom.”</p>
+
+
+
+
+
+
+
+  
+  
+
+
+
+  
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+          <button type="button" class="md-top md-icon" data-md-component="top" hidden>
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8z"/></svg>
+  Back to top
+</button>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+      <div class="md-consent" data-md-component="consent" id="__consent" hidden>
+        <div class="md-consent__overlay"></div>
+        <aside class="md-consent__inner">
+          <form class="md-consent__form md-grid md-typeset" name="consent">
+            
+
+  
+    
+  
+
+
+
+
+  
+
+
+<h4>Cookie consent</h4>
+<p>We use cookies to recognize your repeated visits and preferences, as well as to measure the effectiveness of our documentation and whether users find what they're searching for. With your consent, you're helping us to make our documentation better.</p>
+<input class="md-toggle" type="checkbox" id="__settings" >
+<div class="md-consent__settings">
+  <ul class="task-list">
+    
+      
+      
+        
+        
+      
+      <li class="task-list-item">
+        <label class="task-list-control">
+          <input type="checkbox" name="analytics" checked>
+          <span class="task-list-indicator"></span>
+          Google Analytics
+        </label>
+      </li>
+    
+  </ul>
+</div>
+<div class="md-consent__controls">
+  
+    
+      <button class="md-button md-button--primary">Accept</button>
+    
+    
+    
+  
+    
+    
+    
+      <label class="md-button" for="__settings">Manage settings</label>
+    
+  
+</div>
+          </form>
+        </aside>
+      </div>
+      <script>var consent=__md_get("__consent");if(consent)for(var input of document.forms.consent.elements)input.name&&(input.checked=consent[input.name]||!1);else"file:"!==location.protocol&&setTimeout((function(){document.querySelector("[data-md-component=consent]").hidden=!1}),250);var form=document.forms.consent;for(var action of["submit","reset"])form.addEventListener(action,(function(e){if(e.preventDefault(),"reset"===e.type)for(var n of document.forms.consent.elements)n.name&&(n.checked=!1);__md_set("__consent",Object.fromEntries(Array.from(new FormData(form).keys()).map((function(e){return[e,!0]})))),location.hash="",location.reload()}))</script>
+    
+    <script id="__config" type="application/json">{"base": "../../..", "features": ["search.suggest", "search.highlight", "navigation.path", "navigation.top"], "search": "../../../assets/javascripts/workers/search.6ce7567c.min.js", "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}}</script>
+    
+    
+      <script src="../../../assets/javascripts/bundle.56dfad97.min.js"></script>
+      
+    
+  </body>
+</html>

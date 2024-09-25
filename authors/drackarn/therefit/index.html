@@ -1,0 +1,578 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+      
+      
+      
+      <link rel="icon" href="../../../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.5.36">
+    
+    
+      
+        <title>The Refit - Space library of tales</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../../assets/stylesheets/main.06209087.min.css">
+      
+        
+        <link rel="stylesheet" href="../../../assets/stylesheets/palette.06af60db.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+    <script>__md_scope=new URL("../../..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+  
+
+
+  
+  
+
+<script id="__analytics">function __md_analytics(){function e(){dataLayer.push(arguments)}window.dataLayer=window.dataLayer||[],e("js",new Date),e("config","G-77VR86ZY08"),document.addEventListener("DOMContentLoaded",(function(){document.forms.search&&document.forms.search.query.addEventListener("blur",(function(){this.value&&e("event","search",{search_term:this.value})}));document$.subscribe((function(){var t=document.forms.feedback;if(void 0!==t)for(var a of t.querySelectorAll("[type=submit]"))a.addEventListener("click",(function(a){a.preventDefault();var n=document.location.pathname,d=this.getAttribute("data-md-value");e("event","feedback",{page:n,data:d}),t.firstElementChild.disabled=!0;var r=t.querySelector(".md-feedback__note [data-md-value='"+d+"']");r&&(r.hidden=!1)})),t.hidden=!1})),location$.subscribe((function(t){e("config","G-77VR86ZY08",{page_path:t.pathname})}))}));var t=document.createElement("script");t.async=!0,t.src="https://www.googletagmanager.com/gtag/js?id=G-77VR86ZY08",document.getElementById("__analytics").insertAdjacentElement("afterEnd",t)}</script>
+  
+    <script>if("undefined"!=typeof __md_analytics){var consent=__md_get("__consent");consent&&consent.analytics&&__md_analytics()}</script>
+  
+
+    
+    
+    
+  </head>
+  
+  
+    
+    
+      
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="cyan" data-md-color-accent="blue">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#the-refit" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+  
+
+<header class="md-header md-header--shadow" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href="../../.." title="Space library of tales" class="md-header__button md-logo" aria-label="Space library of tales" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"/></svg>
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            Space library of tales
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              The Refit
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+        <form class="md-header__option" data-md-component="palette">
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="(prefers-color-scheme: light)" data-md-color-scheme="default" data-md-color-primary="cyan" data-md-color-accent="blue"  aria-label="Switch to dark mode"  type="radio" name="__palette" id="__palette_0">
+    
+      <label class="md-header__button md-icon" title="Switch to dark mode" for="__palette_1" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m17.75 4.09-2.53 1.94.91 3.06-2.63-1.81-2.63 1.81.91-3.06-2.53-1.94L12.44 4l1.06-3 1.06 3zm3.5 6.91-1.64 1.25.59 1.98-1.7-1.17-1.7 1.17.59-1.98L15.75 11l2.06-.05L18.5 9l.69 1.95zm-2.28 4.95c.83-.08 1.72 1.1 1.19 1.85-.32.45-.66.87-1.08 1.27C15.17 23 8.84 23 4.94 19.07c-3.91-3.9-3.91-10.24 0-14.14.4-.4.82-.76 1.27-1.08.75-.53 1.93.36 1.85 1.19-.27 2.86.69 5.83 2.89 8.02a9.96 9.96 0 0 0 8.02 2.89m-1.64 2.02a12.08 12.08 0 0 1-7.8-3.47c-2.17-2.19-3.33-5-3.49-7.82-2.81 3.14-2.7 7.96.31 10.98 3.02 3.01 7.84 3.12 10.98.31"/></svg>
+      </label>
+    
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="(prefers-color-scheme: dark)" data-md-color-scheme="slate" data-md-color-primary="cyan" data-md-color-accent="blue"  aria-label="Switch to light mode"  type="radio" name="__palette" id="__palette_1">
+    
+      <label class="md-header__button md-icon" title="Switch to light mode" for="__palette_0" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 7a5 5 0 0 1 5 5 5 5 0 0 1-5 5 5 5 0 0 1-5-5 5 5 0 0 1 5-5m0 2a3 3 0 0 0-3 3 3 3 0 0 0 3 3 3 3 0 0 0 3-3 3 3 0 0 0-3-3m0-7 2.39 3.42C13.65 5.15 12.84 5 12 5s-1.65.15-2.39.42zM3.34 7l4.16-.35A7.2 7.2 0 0 0 5.94 8.5c-.44.74-.69 1.5-.83 2.29zm.02 10 1.76-3.77a7.131 7.131 0 0 0 2.38 4.14zM20.65 7l-1.77 3.79a7.02 7.02 0 0 0-2.38-4.15zm-.01 10-4.14.36c.59-.51 1.12-1.14 1.54-1.86.42-.73.69-1.5.83-2.29zM12 22l-2.41-3.44c.74.27 1.55.44 2.41.44.82 0 1.63-.17 2.37-.44z"/></svg>
+      </label>
+    
+  
+</form>
+      
+    
+    
+      <script>var palette=__md_get("__palette");if(palette&&palette.color){if("(prefers-color-scheme)"===palette.color.media){var media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']");palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent")}for(var[key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
+    
+    
+    
+      <label class="md-header__button md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+      </label>
+      <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+        <button type="reset" class="md-search__icon md-icon" title="Clear" aria-label="Clear" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/></svg>
+        </button>
+      </nav>
+      
+        <div class="md-search__suggest" data-md-component="search-suggest"></div>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" tabindex="0" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+
+<nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../../.." title="Space library of tales" class="md-nav__button md-logo" aria-label="Space library of tales" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"/></svg>
+
+    </a>
+    Space library of tales
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../.." class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Home
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../authorsindex/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Author index
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../contestindex/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Contest index
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../tagsexplained/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    The meaning of tags
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../tags/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Tags
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              <article class="md-content__inner md-typeset">
+                
+                  
+  
+<nav class="md-tags" >
+  
+    
+    
+    
+      <a href="../../../tags/#prose" class="md-tag">Prose</a>
+    
+  
+    
+    
+    
+      <a href="../../../tags/#drackarn" class="md-tag">Drackarn</a>
+    
+  
+    
+    
+    
+      <a href="../../../tags/#podandplanetyc118" class="md-tag">PodandPlanetYC118</a>
+    
+  
+</nav>
+
+
+
+<h1 id="the-refit">The Refit</h1>
+<blockquote>
+<p>Author: Drackarn</p>
+<p>Original post: <a href="https://sandciderandspaceships.blogspot.com/2015/11/the-refit.html">https://sandciderandspaceships.blogspot.com/2015/11/the-refit.html</a></p>
+<p>Author’s Note: I was trying to do this as a entry for the Pod and Planet fiction contest in the Day in the Life category however I ran out of time and didn't make the cut-off date. OK, I ran out of time because of cider. A lot of cider. Also what were the rules on lore in the DitL category? Because for some strange reason our CQ's don't have showers!</p>
+<p>Entry for the YC118 Pod and Planet Contest in the A Day in the Life category but not elegible for prizes.</p>
+</blockquote>
+<p>The two Kestrel class frigates dropped out of warp in close proximity to the station. Their gunmetal grey hulls glinting in the light of the red giant.</p>
+<p>As they approached the docking permitter the automated systems took over. Guidance was transferred to docking control and powerful tractor beams locked onto the combat frigates and pulled them in into separate hangers.</p>
+<p>Okasa braced himself for the disconnect. It was not a pleasant experience. He felt as if he was falling as the ship's systems were disconnected from his mind one by one. Okasa was a capsuleer fighting for the Caldari State. Encased in a hydrostatic capsule he was at one with the ship, able to control it with his mind. Now following the docking procedure he was being slowly disconnected from it. It was not the awful sensation of when the ship was destroyed. That was always a violent disconnect as the pod ejected from the burning wreckage. However even in a controlled environment it was still unpleasant. A few moments later he felt vulnerable, his pod now fully disconnected and removed from the ship. The olive-green capsule docked with the gantry and slowly opened. Okasa felt the draining fluid rush over his body as his own senses slowly returned to him. The supports holding him in place retracted and he collapsed heaving on the gantry, vomiting up the pod goo from his lungs. A small serving drone waited patiently with warm towels. Okasa struggled to his knees naked. His legs were weak from days suspended inside the capsule. He slowly and unsteadily rose and took a towel, wiping the last of the remnants of the hydrostatic fluid from his face. He wrapped the towel around himself and headed to the shower in the quarters.</p>
+<p>An hour later the buzzer went on his door and he opened it to find his wingman there, Shittari. Wingman was a misleading name as Shittari was a woman. She was Intaki, late twenties and like Okasa, a capsuleer of the Caldari State.</p>
+<p>"Drink?" she asked. Okasa nodded and stepped into the corridor.</p>
+<p>"Cannot ever recall docking here. Is there anywhere good to go?" he asked as they headed for the lift.</p>
+<p>"I was here a year ago. Its typical Caldari so don't expect much. The best bar is on deck 9 but its pretty boring. State issue drinks with State issue propaganda and State issue furniture. Hell I think the bartenders are State issue as well. This is not a Frog station I'm afraid. "</p>
+<p>In the 'frog' jibe Shittari was referring to the enemy, the Gallente Federation. The one true democracy in the cluster of stars that made up New Eden. The Federation was all about freedom. Freedom and sex, drugs and rock and roll. Caldari society was straight-laced in comparison. Whilst the two fought against the Federation they, like many in the State, they also saw the Federation had its good parts. Bars and entertainment were one of these. The two capsuleers stepped into the lift and the doors hissed closed.</p>
+<p>"We should have gone down to Fliet. The State holds that system and its a captured Gallente station there. I hear the nightclubs and bars have been kept the way they were when we took the system and they need to be seen to be believed. Rumors are the top Caldari Navy brass were heading there to blow off steam before they deemed it a security risk. One is a banking station and you know how those finance guys like to party." Shittari said. "They brass were drinking and whoring themselves silly two jumps for Gallente territory so command put a stop to it."</p>
+<p>Okasa shrugged.</p>
+<p>"Probably would have been more fun, but I needed to dock and this was the closest friendly station. Five or so jumps, whatever it is, was too much especially with the system of Sujerento in the way. Between the damn Frogs occupying it and the capsuleer pirates there it would have likely resulted in a fight. I've heard about this one pirate called PERUNGA. His Incursus is so well tanked and his head so full of armour implants we'll find Tibus Heth before you break through it. I need a drink now not in three days!"</p>
+<p>The lift door hissed open and they stepped out into a promenade. Expensive boutique shops and classy restaurants lined the wide street. This far up in the station access was strictly controlled. Only the elite of society were able to enter these levels. CEOs, rock and movie stars, CFOs and of course Capsuleers. Shittari and Okasa stopped and looked across at a bar. A new sign had obviously been erected over the old one. It read "The Crunchy Frog Bar" in bright green neon. A hologram replayed a cartoon cat dropping a frog into a glass of liquid and then downing it. Very un-Caldari like. The two capsuleers glanced at each other unsure of what they were looking at. This was not typical Caldanese. They shrugged in unison and walked over.</p>
+<p>-o0o-</p>
+<p>The two Militia pilots entered the bar and froze. This was no Caldari bar. Gone were the plain grey walls plastered with propaganda for the State. Gone were the 'grey number 4' heavy duty carpeting tiles. Satin, velvet and lace now dominated in hues of rich red and gold. The harsh florescent lighting was swapped for subtle mood lighting. Gone were the grey glass bottles with their simple white labels behind the bar, replaced with expensive spirits from all around the cluster. No waiters and waitresses in formal subdued Caldari dress. Scantily clad men and women for all races served the busy tables.</p>
+<p>"Erm. Well this has changed." Shittari stated as they took an empty booth.</p>
+<p>"I cannot believe this is a State station. What the hell is going on here?" Okasa exclaimed in a hushed voice.</p>
+<p>A member of staff approached and stood at the end of the booth. He was Caldari and smartly, but provocatively, dressed. Okasa noted his wingman checking him out.</p>
+<p>"Good evening and welcome to the Crunchy Frog. Do you have any preference for your serving staff tonight?" he asked. Both capsuleers looked at him opened mouthed.</p>
+<p>"We get to chose waiting staff?" Shittari asked incredulously.</p>
+<p>"I'll take a dark and dusky Gallente lady and she'll have an oiled up Brutor." Okasa laughed.</p>
+<p>"Excellent choice sir." the man replied, nodded and swiftly turned and left.</p>
+<p>"Hey, wait. I was joking!" he protested but the man had already gone.</p>
+<p>"He wasn't serious was he? What is going on here? Is this some kind of comedy show?"</p>
+<p>Okasa shrugged and picked up the datapad on the table which served as a menu. The cocktails appeared to make fun of both sides of the warring factions. Slippery Stabbed Squid, Flattened Frog, Rusty Wreck and Amarrian Bishop Basher were all there. A moment later Shittari kicked him under the table. He looked up. Approaching was a wall of rippling flesh glinting in the lights. The man was a hulking Brutor, his muscles looked like some sort of body builder. He wore what could only be called a loincloth and sandals. Next to him was a beautiful Gallente woman. She wore a tiny black dress and heels. Raven hair fell to her lower back and her make-up was dark and heavy accentuating her sultry looks. As they neared the table they swapped sides so that the man was on Shittari's side and the Gallente woman was on Okasa's. She slipped into the booth and Okasa felt a warm hand on his thigh.</p>
+<p>"Hello. My name is Venelles. I'm here to make your night at the Crunchy Frog memorable." she purred in a sultry Caldanese with a definite Gallente twang.</p>
+<p>"I'm Okasa and slightly shell-shocked!" he said still taking it all in.</p>
+<p>"I can certainly help with that!" Venelles purred and pulled out a small datapad. She held it in front of him and a variety of boosters and pills popped up on screen. "I can really recommend the Cool Blue Pill. It soothes away all the stress however it is best taken at the end of the night when you have sampled all the delights we have to offer."</p>
+<p>Okasa scanned the list. As a Caldari Militia Pilot he had used boosters. Chemical stimulants to enhance his combat skills. He'd never touched anything recreational before. He looked over at Shittari hoping she was as shocked as him. He was surprised to find her leaning into the oiled up Brutor running a hand over his well defined pecs and laughing. She was certainly enjoying herself.</p>
+<p>"May be just a drink first? Perhaps a... what was it called?" he leant forward and looked at the menu. "A Flattened Frog."</p>
+<p>She smiled a smile that could melt any man's heart, nodded and walked towards the bar. Okasa's eye's were drawn to her behind clad in the short black dress. The material was something he'd never seen before. It clung to her every curve yet appeared not to be restrictive. Out of the corner of his eye he saw the Brutor rise and also head to the bar.</p>
+<p>"What in New Caldari have we walked into?" he gasped.</p>
+<p>She was sat there with a huge smile on her face. "I think I got podded and my consciousness transfer failed. I must be in heaven! Did you see the abs on him!" she said dreamily. "Apparently he has a friend just like him too!"</p>
+<p>Okasa picked up the datapad the woman had left and started to flick through the screens. After the drugs were the women availible. After the women were the men. After the men were the simulations. A range of altered reality programs that customers could enter via a neural interface. Okasa had heard about these. You could be a secret agent, a Zero-G handball player or a rock star. The ultimate video game played inside your head.</p>
+<p>"He said their are suites at the back for hire. I'm temped to be honest!"</p>
+<p>Okasa looked at his wingman in shock. "No! There is seriously something not right here. Its got to be some sort of trap."</p>
+<p>Shittari just shrugged and grabbed the pad. She flicked through to the men section and started appraising the options. Okasa saw the Gallente woman and the Brutor heading back with the drinks. His senses were on overdrive. Something was not right here. The woman placed the bright green drink in front of him and slid onto the bench.</p>
+<p>"So, see anything you like?" she purred crossing her legs. Okasa swallowed as he saw a brief flash of pale flesh above the lace of her stocking tops.</p>
+<p>"Look, I have to ask. What in Divinities Edge is going on here? This place does not belong here on a Caldari station! This is not right."</p>
+<p>The woman smiled. "Of course not, but the owner is hardly traditional Caldari. Give me a minute."</p>
+<p>Okasa watched her rise and walk off. He turned his attention back to Shittari who was laughing with the oiled up Brutor, a pink cocktail in her hand. He glanced back to see where the Gallente woman had gone. He spotted her in a corner. She was stood in front of another booth. In the shadows Okasa could make out three people. Two scantily clad women and a Caldari man. The man rose and started to walk over towards their booth. The way he moved, the air of confidence he carried made it clear this was another capsuleer. He was not in uniform so probably not military. An independent. He sat across from Okasa.</p>
+<p>"So how do you like my bar?" he asked in classic Caldanese.</p>
+<p>"Well its very un-Caldari. I'd even goes as far to say its almost Gallente!" Okasa replied.</p>
+<p>"Yes, well I'd say I have spent the majority of my life as a capsuleer with the Gallente so I guess it rubs off. To be honest they know how to have a good time."</p>
+<p>Okasa narrowed his eyes.</p>
+<p>"Some might say that is treasonous."</p>
+<p>The man laughed at that.</p>
+<p>"Given I fought for the Federal militia for a number of years I'd be surprised if anyone found that to be the most offensive thing I've said or done against the State. A few hundred thousand Caldari deaths surely would be more treasonous?"</p>
+<p>Okasa sat there opened mouthed. "Are you joking?" he gasped.</p>
+<p>The other man shrugged and pulled out a datapad. He flicked his finger across the display and passed it to Okasa. The Caldari Navy pilot picked it up. It displayed a CONCORD sanctioned database of capsuleer kills. The man sat across from him had over five thousand confirmed kills. For several years it was obvious he'd been with the Gallente Federation, there were hundreds of State Protectorate kills there. About a year ago he'd swapped sides. Now the kills were against the Gallente. He pushed the pad back across the table and crossed his arms.</p>
+<p>"Seen the light of your treasonous ways then?" he sneered.</p>
+<p>"No. Just that the Caldari were getting better fights around the time I like to be in space."</p>
+<p>Okasa shook his head in disbelief.</p>
+<p>"You swapped sides in a war as the opportunity for better fights was the other side?" the Navy pilot's jaw actually dropped.</p>
+<p>The capsuleer smiled and seemed to consider Okasa's reaction.</p>
+<p>"You Navy jocks and your misplaced loyalty. I worked for the Caldari State. I was a factory worker eaking out a megre existence. Fate intervened and I became a capsuleer thanks to a hover-limo crash and the young daughter of a very rich and powerful man. I worked for the Navy for a while as an independent contractor. Then the Sisters, then the Federation. We capsuleers don't belong to one of the Empires, we are an Empire. What are you fighting for? The Caldari way of life? You need to get down planetside and experience Caldari life for yourself. Its shit! Heth was a fracking nutter but he did have a point. Not that matters to us anymore. We are immortal. Empires will rise and fall whilst we look on. This war? The Federation? The State? It matters not. Enjoy life! Enjoy death! That is why I bought this bar when I joined the Caldari Militia."</p>
+<p>Okasa just sat there unsure of how to respond. His very soul wanted to scream 'traitor' at him. 'Mercenary'. However much of what he said rang true. He simply picked up his drink and took a big hit. The other capsuleer smiled and pushed a few buttons on his datapad.</p>
+<p>"Its a big old universe out there." the capsuleer said finally. "Whether the State or Federation holds Hasmijaala is irrelevant in the big scheme of things. You are a capsuleer. Break free."</p>
+<p>From the corner of his eye Okasa saw four women approaching carrying bottles.</p>
+<p>"I have to get back. However think about what I have said. You have time. You're immortal. It's a big universe out there. Make sure you sample all the delights. I've made a special selection for you tonight. Have fun."</p>
+<p>The capsuleer stood and walked away as the four women arrived. One from each race, each dressed in skimpy underwear, high heels and holding a bottle. He immediately recognised the traditional rice wine the Caldari woman was holding. The Matari woman was holding what appeared to be a large bottle of ale or beer. The Gallente woman, a bottle of clear spirit he didn't recognise, probably the famous Gallente vodka. Finally the Amarrian woman held a bottle of what he guessed was brandy. The Matari woman stepped forward and held out her free hand. He took it and she gently pulled him to his feet.</p>
+<p>"Complements of the management." she smiled seductively. "Shall we?"</p>
+<p>As he was ushered towards the suites with the four women he glanced over to see what Shittari was doing. She was walking behind them, sandwiched arm-in-arm between two oiled, muscled Brutors.</p>
+<p>The next morning Okasa resigned his commission and started to browse through the recruitment adverts of the independent capsuleer corps.</p>
+
+
+
+
+
+
+
+  
+  
+
+
+
+  
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+          <button type="button" class="md-top md-icon" data-md-component="top" hidden>
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8z"/></svg>
+  Back to top
+</button>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+      <div class="md-consent" data-md-component="consent" id="__consent" hidden>
+        <div class="md-consent__overlay"></div>
+        <aside class="md-consent__inner">
+          <form class="md-consent__form md-grid md-typeset" name="consent">
+            
+
+  
+    
+  
+
+
+
+
+  
+
+
+<h4>Cookie consent</h4>
+<p>We use cookies to recognize your repeated visits and preferences, as well as to measure the effectiveness of our documentation and whether users find what they're searching for. With your consent, you're helping us to make our documentation better.</p>
+<input class="md-toggle" type="checkbox" id="__settings" >
+<div class="md-consent__settings">
+  <ul class="task-list">
+    
+      
+      
+        
+        
+      
+      <li class="task-list-item">
+        <label class="task-list-control">
+          <input type="checkbox" name="analytics" checked>
+          <span class="task-list-indicator"></span>
+          Google Analytics
+        </label>
+      </li>
+    
+  </ul>
+</div>
+<div class="md-consent__controls">
+  
+    
+      <button class="md-button md-button--primary">Accept</button>
+    
+    
+    
+  
+    
+    
+    
+      <label class="md-button" for="__settings">Manage settings</label>
+    
+  
+</div>
+          </form>
+        </aside>
+      </div>
+      <script>var consent=__md_get("__consent");if(consent)for(var input of document.forms.consent.elements)input.name&&(input.checked=consent[input.name]||!1);else"file:"!==location.protocol&&setTimeout((function(){document.querySelector("[data-md-component=consent]").hidden=!1}),250);var form=document.forms.consent;for(var action of["submit","reset"])form.addEventListener(action,(function(e){if(e.preventDefault(),"reset"===e.type)for(var n of document.forms.consent.elements)n.name&&(n.checked=!1);__md_set("__consent",Object.fromEntries(Array.from(new FormData(form).keys()).map((function(e){return[e,!0]})))),location.hash="",location.reload()}))</script>
+    
+    <script id="__config" type="application/json">{"base": "../../..", "features": ["search.suggest", "search.highlight", "navigation.path", "navigation.top"], "search": "../../../assets/javascripts/workers/search.6ce7567c.min.js", "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}}</script>
+    
+    
+      <script src="../../../assets/javascripts/bundle.56dfad97.min.js"></script>
+      
+    
+  </body>
+</html>

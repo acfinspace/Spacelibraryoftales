@@ -1,0 +1,535 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+      
+      
+      
+      <link rel="icon" href="../../../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.5.36">
+    
+    
+      
+        <title>Omega Challenge - Space library of tales</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../../assets/stylesheets/main.06209087.min.css">
+      
+        
+        <link rel="stylesheet" href="../../../assets/stylesheets/palette.06af60db.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+    <script>__md_scope=new URL("../../..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+  
+
+
+  
+  
+
+<script id="__analytics">function __md_analytics(){function e(){dataLayer.push(arguments)}window.dataLayer=window.dataLayer||[],e("js",new Date),e("config","G-77VR86ZY08"),document.addEventListener("DOMContentLoaded",(function(){document.forms.search&&document.forms.search.query.addEventListener("blur",(function(){this.value&&e("event","search",{search_term:this.value})}));document$.subscribe((function(){var t=document.forms.feedback;if(void 0!==t)for(var a of t.querySelectorAll("[type=submit]"))a.addEventListener("click",(function(a){a.preventDefault();var n=document.location.pathname,d=this.getAttribute("data-md-value");e("event","feedback",{page:n,data:d}),t.firstElementChild.disabled=!0;var r=t.querySelector(".md-feedback__note [data-md-value='"+d+"']");r&&(r.hidden=!1)})),t.hidden=!1})),location$.subscribe((function(t){e("config","G-77VR86ZY08",{page_path:t.pathname})}))}));var t=document.createElement("script");t.async=!0,t.src="https://www.googletagmanager.com/gtag/js?id=G-77VR86ZY08",document.getElementById("__analytics").insertAdjacentElement("afterEnd",t)}</script>
+  
+    <script>if("undefined"!=typeof __md_analytics){var consent=__md_get("__consent");consent&&consent.analytics&&__md_analytics()}</script>
+  
+
+    
+    
+    
+  </head>
+  
+  
+    
+    
+      
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="cyan" data-md-color-accent="blue">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#omega-challenge" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+  
+
+<header class="md-header md-header--shadow" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href="../../.." title="Space library of tales" class="md-header__button md-logo" aria-label="Space library of tales" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"/></svg>
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            Space library of tales
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Omega Challenge
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+        <form class="md-header__option" data-md-component="palette">
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="(prefers-color-scheme: light)" data-md-color-scheme="default" data-md-color-primary="cyan" data-md-color-accent="blue"  aria-label="Switch to dark mode"  type="radio" name="__palette" id="__palette_0">
+    
+      <label class="md-header__button md-icon" title="Switch to dark mode" for="__palette_1" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m17.75 4.09-2.53 1.94.91 3.06-2.63-1.81-2.63 1.81.91-3.06-2.53-1.94L12.44 4l1.06-3 1.06 3zm3.5 6.91-1.64 1.25.59 1.98-1.7-1.17-1.7 1.17.59-1.98L15.75 11l2.06-.05L18.5 9l.69 1.95zm-2.28 4.95c.83-.08 1.72 1.1 1.19 1.85-.32.45-.66.87-1.08 1.27C15.17 23 8.84 23 4.94 19.07c-3.91-3.9-3.91-10.24 0-14.14.4-.4.82-.76 1.27-1.08.75-.53 1.93.36 1.85 1.19-.27 2.86.69 5.83 2.89 8.02a9.96 9.96 0 0 0 8.02 2.89m-1.64 2.02a12.08 12.08 0 0 1-7.8-3.47c-2.17-2.19-3.33-5-3.49-7.82-2.81 3.14-2.7 7.96.31 10.98 3.02 3.01 7.84 3.12 10.98.31"/></svg>
+      </label>
+    
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="(prefers-color-scheme: dark)" data-md-color-scheme="slate" data-md-color-primary="cyan" data-md-color-accent="blue"  aria-label="Switch to light mode"  type="radio" name="__palette" id="__palette_1">
+    
+      <label class="md-header__button md-icon" title="Switch to light mode" for="__palette_0" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 7a5 5 0 0 1 5 5 5 5 0 0 1-5 5 5 5 0 0 1-5-5 5 5 0 0 1 5-5m0 2a3 3 0 0 0-3 3 3 3 0 0 0 3 3 3 3 0 0 0 3-3 3 3 0 0 0-3-3m0-7 2.39 3.42C13.65 5.15 12.84 5 12 5s-1.65.15-2.39.42zM3.34 7l4.16-.35A7.2 7.2 0 0 0 5.94 8.5c-.44.74-.69 1.5-.83 2.29zm.02 10 1.76-3.77a7.131 7.131 0 0 0 2.38 4.14zM20.65 7l-1.77 3.79a7.02 7.02 0 0 0-2.38-4.15zm-.01 10-4.14.36c.59-.51 1.12-1.14 1.54-1.86.42-.73.69-1.5.83-2.29zM12 22l-2.41-3.44c.74.27 1.55.44 2.41.44.82 0 1.63-.17 2.37-.44z"/></svg>
+      </label>
+    
+  
+</form>
+      
+    
+    
+      <script>var palette=__md_get("__palette");if(palette&&palette.color){if("(prefers-color-scheme)"===palette.color.media){var media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']");palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent")}for(var[key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
+    
+    
+    
+      <label class="md-header__button md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+      </label>
+      <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+        <button type="reset" class="md-search__icon md-icon" title="Clear" aria-label="Clear" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/></svg>
+        </button>
+      </nav>
+      
+        <div class="md-search__suggest" data-md-component="search-suggest"></div>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" tabindex="0" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+
+<nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../../.." title="Space library of tales" class="md-nav__button md-logo" aria-label="Space library of tales" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"/></svg>
+
+    </a>
+    Space library of tales
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../.." class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Home
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../authorsindex/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Author index
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../contestindex/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Contest index
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../tagsexplained/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    The meaning of tags
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../tags/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Tags
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              <article class="md-content__inner md-typeset">
+                
+                  
+  
+<nav class="md-tags" >
+  
+    
+    
+    
+      <a href="../../../tags/#prose" class="md-tag">Prose</a>
+    
+  
+    
+    
+    
+      <a href="../../../tags/#randommcnally" class="md-tag">RandomMcNally</a>
+    
+  
+    
+    
+    
+      <a href="../../../tags/#podandplanetyc114" class="md-tag">PodandPlanetYC114</a>
+    
+  
+</nav>
+
+
+
+<h1 id="omega-challenge">Omega Challenge</h1>
+<blockquote>
+<p>Author: Random McNally</p>
+<p>Original post: <a href="https://forums-archive.eveonline.com/message/2204703#post2204703">https://forums-archive.eveonline.com/message/2204703#post2204703</a></p>
+<p>Entry for the YC114 Pod and Planet Fiction Contest in the A Day in the Life category.</p>
+</blockquote>
+<p>Random's ship came out of warp mere moments after the others. A quick check on the scanner revealed two of the sleek Catalyst-Class Destroyers initiating combat with an Amarrian Coercer-Class. A fellow Matari kinsman in a Thrasher had begun hostilities against the lone asymmetrical Caldari Cormorant. Circling the battlegrounds like a jackal, another Amarrian Coercer moved about, looking for an easy opening. Random subconsciously smiled, this would be his first target.</p>
+<p>He engaged the thrusters to full power and thumbed the Micro Warp Drive, structural supports creaking as his own Thrasher accelerated hard. A siren emitted in the cockpit of the ship, warning the Minmatar that the lone Coercer pilot had viewed him as a challenge and was beginning to lock and train weapons. He responded by returning the aggressive move, and when his targeting computer chimed that the lock was made, his grin grew broader. He moved to thumb the trigger of the "Long 9's", his high powered Artillery cannons.</p>
+<p>The Omega Challenge recruiter had been very persuasive. His presentation was polished and flashy but, in essence, Omega was very dangerous. And, it was illegal. Participants would fight in a tournament to the death; occasionally within sight and under the nose of Concord. There were no crews on the ships and all functions were to be automated. All functions, except for the pilot. There were no pods, no systems in place for capsuleers to transfer to a new clone. Death was permanent. There was no coming back. Since the fighting took place with the pilots unconnected to the general communication network, they could fight and die with the Concord police being none the wiser. The prize for such a deadly game was equally dangerous. One hundred billion Isk can take a lifetime to spend.</p>
+<p>One hundred billion Isk. It was the honey that drew the flies.</p>
+<p>Capsuleers rarely participated for fear of the ultimate end but it was not unheard of. There had been pod pilots that after their taste of immortality, just could not find the will to continue. Perhaps they sought that last unknown experience that psychological evaluations and waking in a new body just could not define, yearning for the finality of the last Death. The vast majority of the pilots that flew in Omega were crew members serving various capsuleers or ground personnel that dreamed of elevation to the “Immortals”. All of them felt that they could never attain that status unless they could survive a few terrifying minutes of combat.</p>
+<p>One hundred billion Isk can buy you immortality. Random had already received that immortality. He wanted the wealth.</p>
+<p>He had spent a considerable amount of time collecting items and automating his ship. Some people were born into combat; he had to work for the honor and without a crew to handle the details, he suspected that the ships condition, under the strain of battle, could degenerate quickly. He had carefully calculated his ranges; hand-picked the items that would contribute to the ferocity of the Thrasher while maintaining simplicity. He had searched systems from the boundaries of his Matari kin to the Caldari free market system of Jita looking for just the right ammunition. And, he had hand-picked the "Voodoo Witchcraft" that he would employ. "Voodoo Witchcraft", the term spat out by the funny old Gallentean who had mastered the combat of trade, market warfare and capitalism, but was still learning the arts of ship combat. He truly didn't mind the fickle arts of Electronic Warfare; it gave him an edge.</p>
+<p>Random engaged the "Voodoo Witchcraft". A Gallentean designed damping device that caused opponents sensors to struggle with range. He heard an Amarrian curse spat over the pilot’s communication channel and grinned as he could only imagine that the strongly locked Thrasher simply vanished from the sensor grid, now too far away. His grin broadened into a smile as powerful lasers flew harmlessly around him. He jammed the trigger to the "Long 9's" and felt the shake and the recoil as round after round of high energy projectiles slammed into the bright finish of the Amarrian ship. He sent out a primal howl as the Coercer vaporized. He had hoped that the pilot was Amarrian. His people hated the religious zealots for their domination and enslavement. An Ammarian life destroyed was his form of payback. If his victim was not Amarrian, it only brought him closer to the final prize.</p>
+<p>He brought his ship into a wide arc around the combat arena, scanning for a new target. The Cormorant and the other Thrasher were continuing the dance in a destructive cloud of burning shrapnel and superheated particles. The other Amarrian Coercer, being double teamed by the pair of Catalysts, had joined it's brethren in a trip to the afterlife. Random chuckled quietly as the two Catalyst pilots, moments ago being allies, turned on each other in the deadly race of who can destroy whom first.</p>
+<p>"This will be easy.” he thought.</p>
+<p>He seized the opportunity by locking both ships in the hopes of catching them already weakened. Again, he accelerated hard and brought up the Micro Warp Drive. The Thrasher spun hard groaning and dragged him into his chair, inertia systems slow to respond as it rocketed towards the sleek Gallentean pair. Random quickly finished locking the pair into his combat computer when the scanner registered a new threat. The detonation of one green hued Gallentean Catalyst conveniently masked the presence of a Hobgoblin combat drone speeding towards him. Klaxons warned that the drone was locking.</p>
+<p>Random spun the ship and coaxed a bit more speed, silently cursing himself as he overheated the powerful drive units. The surviving Catalyst’s pilot must have locked while he was monitoring the fight and the notification systems did not warn him. He gave voice to his silent curses as he suspected that the continued punishment must be taking its toll on the systems; and with no crew to monitor systems or make repairs, it would be just a matter of time. His Thrasher simply would not be able to put up with the combined punishment of the Hobgoblin and the Gallentean destroyer close up. He pushed hard for distance. He reactivated the Sensor Damper and locked it to the lone Catalyst. The Thrasher’s speed would normally outdistance the slower Gallentean ship but the drone gave him concern. It was easily twice as fast as the Minmatar vessel and difficult to lock because it was very small, and very quick. He began to shut down the powerful artillery cannons; a plan formulating.</p>
+<p>He listened to the cycle of the cannons autoloaders but he knew that the drone was in firing range. A bead of sweat formed on his brow as blazing bolts creating thermal hotspots in his shields. They wouldn't hold for long. Long seconds ticked by.</p>
+<p>In what felt like the time to terraform a planet, the cannon’s automated loaders clacked to a halt. A quick check revealed that they were loaded and primed to fire but he needed to get the Hobgoblin in the correct position. He threw the destroyer into a hard banked turn, disrupting the orbit that the drone had settled into. As it trailed behind attempting to correct the attack pattern, he jammed the trigger of the big artillery weapons, sending a single volley into the drone but it was extremely agile and only suffered a fraction of the damage from the killing projectiles. Random issued a curse in his native tongue and growled as he watched the status board for the cannons reloading another deadly round. Still the Hobgoblin rained fire, still the warnings howled as the shields continued their drop.</p>
+<p>Carefully timing the next approaching cycle, Random threw the Thrasher into another hard bank, again forcing the drone to trail and correct its course. The ship jarred violently as the cannons sprung to life again. A primal cry escaped him as the Hobgoblin burst into metallic vapor.</p>
+<p>His revelry ended as a new sound echoed into the control area. Shields had failed and the rending sound of armored plates echoed along the length of the Thrasher. He had given too much attention on the drone, not nearly enough on the Catalyst. For the first time, he gave thoughts to the Capsuleer implants along his spine and the icy touch of doubt crept in. If he were in his pod, the prospect of death, final death, was distant. However, without his pod, he felt very exposed. The lone Gallentean pilot was a sizeable distance away but had most likely reloaded his powerful rail guns with longer ranged ammo. Random threw the Thrasher into a shallow arcing course, allowing the speed to ramp up to maximum, while testing the range of the Catalyst’s rail gun ammunition. The cockpit grew noticeably warmer as the overheated Micro Warp Drive bled heat on to the nearby systems and his shaven scalp began to bead with perspiration. The sounds of torture on the hull plates began to subside to dull impacts as the Thrasher began to pull range. He realigned the cannons and began opening fire. He knew he had to stay as far away as possible, working the maximum range of the ammunition he carried while staying out of the Gallentean's range.</p>
+<p>Suddenly, the sleek green metallic Catalyst detonated into a ball of flame. Crashing through the wreckage emerged the other lone Thrasher, forgotten in the last tumultuous moments. It was battered and damaged, but prepared to see the conflict to the end. Random brought the tormented drives to a shuddering halt.</p>
+<p>Time stood still in the span of the moment that Random took stock of the Thrasher staring him down, the wrecks scattered about space interspersed with the corpses of the participants, the furious metallic clatter of the auto loaders reloading the next round into the cannons and the hiss of air and vital fluids seeping into the vacuum from his own battered ship.</p>
+<p>His heart hammered into his ears, blood burning; singing a chorus of violence in his head.
+The song propelled him into action.</p>
+<p>"Yarrr!!!” he howled as he strained against the straps of the chair; the drives of the Thrasher burst into life. The other lone pilot responded in like fashion. Random's howl turned into a feral grin as he moved to thumb the trigger of the "9's”.</p>
+
+
+
+
+
+
+
+  
+  
+
+
+
+  
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+          <button type="button" class="md-top md-icon" data-md-component="top" hidden>
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8z"/></svg>
+  Back to top
+</button>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+      <div class="md-consent" data-md-component="consent" id="__consent" hidden>
+        <div class="md-consent__overlay"></div>
+        <aside class="md-consent__inner">
+          <form class="md-consent__form md-grid md-typeset" name="consent">
+            
+
+  
+    
+  
+
+
+
+
+  
+
+
+<h4>Cookie consent</h4>
+<p>We use cookies to recognize your repeated visits and preferences, as well as to measure the effectiveness of our documentation and whether users find what they're searching for. With your consent, you're helping us to make our documentation better.</p>
+<input class="md-toggle" type="checkbox" id="__settings" >
+<div class="md-consent__settings">
+  <ul class="task-list">
+    
+      
+      
+        
+        
+      
+      <li class="task-list-item">
+        <label class="task-list-control">
+          <input type="checkbox" name="analytics" checked>
+          <span class="task-list-indicator"></span>
+          Google Analytics
+        </label>
+      </li>
+    
+  </ul>
+</div>
+<div class="md-consent__controls">
+  
+    
+      <button class="md-button md-button--primary">Accept</button>
+    
+    
+    
+  
+    
+    
+    
+      <label class="md-button" for="__settings">Manage settings</label>
+    
+  
+</div>
+          </form>
+        </aside>
+      </div>
+      <script>var consent=__md_get("__consent");if(consent)for(var input of document.forms.consent.elements)input.name&&(input.checked=consent[input.name]||!1);else"file:"!==location.protocol&&setTimeout((function(){document.querySelector("[data-md-component=consent]").hidden=!1}),250);var form=document.forms.consent;for(var action of["submit","reset"])form.addEventListener(action,(function(e){if(e.preventDefault(),"reset"===e.type)for(var n of document.forms.consent.elements)n.name&&(n.checked=!1);__md_set("__consent",Object.fromEntries(Array.from(new FormData(form).keys()).map((function(e){return[e,!0]})))),location.hash="",location.reload()}))</script>
+    
+    <script id="__config" type="application/json">{"base": "../../..", "features": ["search.suggest", "search.highlight", "navigation.path", "navigation.top"], "search": "../../../assets/javascripts/workers/search.6ce7567c.min.js", "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}}</script>
+    
+    
+      <script src="../../../assets/javascripts/bundle.56dfad97.min.js"></script>
+      
+    
+  </body>
+</html>
