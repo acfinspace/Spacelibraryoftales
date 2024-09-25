@@ -65,7 +65,8 @@ To do:
     - [x] New Eden Capsuleer's Writing Contest 2020
     - [ ] New Eden Capsuleer's Writing Contest 2021
     - [x] New Eden Capsuleer's Writing Contest 2022
-    - [ ] New Eden Capsuleer's Writing Contest 2023
+    - [x] New Eden Capsuleer's Writing Contest 2023
+    - [x] New Eden Capsuleer's Writing Contest 2024
     - [x] Amore Tank Your Hearts Contest
     - [x] YC123 Union Day Celebrations - Short Written Works Contest
 

@@ -180,6 +180,7 @@
 - [Khaos Hakomairos](./authors/miscauthors/_miscauthors.md#khaos-hakomairos--rosa-hopper)
 - [Kilzin](./authors/miscauthors/_miscauthors.md#kilzin)
 - [Kira Hhallas](./authors/miscauthors/_miscauthors.md#kira-hhallas)
+- [Kirin Freir](./authors/miyoshiakachi/_miyoshiakachi.md)
 - [Kirith Kodachi](./authors/kirithkodachi/_kirithkodachi.md)
 - [Kirsa VonSchattenfels](./authors/miscauthors/_miscauthors.md#kirsa-vonschattenfels)
 - [Kithrus](./authors/miscauthors/_miscauthors.md#kithrus)

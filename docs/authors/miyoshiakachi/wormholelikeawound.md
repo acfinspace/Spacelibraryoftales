@@ -1,19 +1,22 @@
 ---
 tags:
   - Prose
-  - MiyoshiAkachi
+  - KirinFreir
   - Wormhole
   - JustAbout
+  - NewEdenCapsuleersWritingContestYC126
   - Length_Short
 ---
 
 # Wormhole like a wound
 
-> Author: Miyoshi Akachi
+> Author: Kirin Freir
 
 > Original post:
 
-> A short fiction piece for Just About.
+> Author's Comment: from time to time, I try to represent something that the mainstream rhetoric of EvE doesn’t represent. Of evictions people always cheer at the winner, but what if we look on the other side? It is written from an IC pov. Written listening to the main theme from the film “The Piano”.<br>Readers’ caution advised due to its content. CW: loss, trauma
+
+> A short fiction piece for Just About. Entry for YC126 New Eden Capsuleer’s Writing Contest in the Prose category.
 
 
 The wormhole swirled in the silence of space, emitting no signal but its own presence. Its watery look trembled at times, its teal aurora slowly flowed around it. The wormhole reflected some light from the distant star, sitting at the center of the system it had spawned in, but looking into it felt like looking in another place entirely.

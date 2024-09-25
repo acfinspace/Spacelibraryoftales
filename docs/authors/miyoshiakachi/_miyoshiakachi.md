@@ -6,6 +6,8 @@ tags:
 # Miyoshi Akachi
 Writer and poster artist. Ex wormholer, now Jita 4-4 resident.
 
+Also know as Kirin Freir.
+
 Works:
 
 - [Past and Present](./pastandpresent.md) (2016)
@@ -39,4 +41,9 @@ Works:
 - [Nobody heard the screaming](./nobodyheardthescreaming.md) (2023)
 - [Wormhole like a wound](./wormholelikeawound.md) (2024)
 - [Love: Lost and Found](./lovelostandfound.md) (2024)
-- [A Haiku collection 2](./ahaikucollection2.md) (2024)
+- [Three Haikus for the spacers](./ahaikucollection2.md) (2024)
+- [Amarr Sand](./amarrsand.md) (2024)
+- [Sightseeing on the path of Katia Sae](./sightseeingonthepathofkatiasae.md) (2024)
+- [We are Gallente](./wearegallente.md) (2024)
+- [We are Caldari](./wearecaldari.md) (2024)
+- [The Liberation of Kin](./theliberationofkin.md) (2024)

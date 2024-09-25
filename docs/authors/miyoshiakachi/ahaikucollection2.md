@@ -1,18 +1,19 @@
 ---
 tags:
   - Poetry
-  - MiyoshiAkachi
+  - KirinFreir
   - JustAbout
+  - NewEdenCapsuleersWritingContestYC126
   - Length_VeryShort
 ---
 
-# A Haiku Collection 2
+# Three Haikus for the spacers
 
-> Author: Miyoshi Akachi
+> Author: Kirin Freir
 
 > Original post:
 
-> Poetry piece for Just About.
+> Poetry piece for Just About. Entry for YC126 New Eden Capsuleer’s Writing Contest in the Poetry category.
 
 
 **On a lone voyage**

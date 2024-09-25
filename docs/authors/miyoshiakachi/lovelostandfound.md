@@ -2,6 +2,7 @@
 tags:
   - Prose
   - MiyoshiAkachi
+  - KirinFreir
   - JustAbout
   - Length_Short
 ---
@@ -12,7 +13,7 @@ tags:
 
 > Original post:
 
-> A short fiction piece for Just About.
+> A short fiction piece for Just About. Entry for YC126 New Eden Capsuleer’s Writing Contest in the Prose category.
 
 
 The metal floor was neatly polished, reflecting the stark lights from above.
